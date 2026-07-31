@@ -1,0 +1,316 @@
+{
+  "films": [
+    {
+      "id": "the-harborne",
+      "title": "The Harborne",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "the-christie-private-care",
+      "title": "The Christie Private Care",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "the-wilmslow",
+      "title": "The Wilmslow",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "the-lister",
+      "title": "The Lister",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "the-wellington",
+      "title": "The Wellington",
+      "vimeo_id": null,
+      "status": "indexed",
+      "sceneCount": 23,
+      "scenes": [
+        {
+          "scene_number": 1,
+          "start": "0:00",
+          "end": "0:12",
+          "title": "Scene 1",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 2,
+          "start": "0:15",
+          "end": "0:27",
+          "title": "Scene 2",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 3,
+          "start": "0:30",
+          "end": "0:42",
+          "title": "Scene 3",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 4,
+          "start": "0:45",
+          "end": "0:57",
+          "title": "Scene 4",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 5,
+          "start": "1:00",
+          "end": "1:12",
+          "title": "Scene 5",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 6,
+          "start": "1:15",
+          "end": "1:27",
+          "title": "Scene 6",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 7,
+          "start": "1:30",
+          "end": "1:42",
+          "title": "Scene 7",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 8,
+          "start": "1:45",
+          "end": "1:57",
+          "title": "Scene 8",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 9,
+          "start": "2:00",
+          "end": "2:12",
+          "title": "Scene 9",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 10,
+          "start": "2:15",
+          "end": "2:27",
+          "title": "Scene 10",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 11,
+          "start": "2:30",
+          "end": "2:42",
+          "title": "Scene 11",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 12,
+          "start": "2:45",
+          "end": "2:57",
+          "title": "Scene 12",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 13,
+          "start": "3:00",
+          "end": "3:12",
+          "title": "Scene 13",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 14,
+          "start": "3:15",
+          "end": "3:27",
+          "title": "Scene 14",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 15,
+          "start": "3:30",
+          "end": "3:42",
+          "title": "Scene 15",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 16,
+          "start": "3:45",
+          "end": "3:57",
+          "title": "Scene 16",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 17,
+          "start": "4:00",
+          "end": "4:12",
+          "title": "Scene 17",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 18,
+          "start": "4:15",
+          "end": "4:27",
+          "title": "Scene 18",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 19,
+          "start": "4:30",
+          "end": "4:42",
+          "title": "Scene 19",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 20,
+          "start": "4:45",
+          "end": "4:57",
+          "title": "Scene 20",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 21,
+          "start": "5:00",
+          "end": "5:12",
+          "title": "Scene 21",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 22,
+          "start": "5:15",
+          "end": "5:27",
+          "title": "Scene 22",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        },
+        {
+          "scene_number": 23,
+          "start": "5:30",
+          "end": "5:42",
+          "title": "Scene 23",
+          "description": "Placeholder — to be replaced with real AI-generated scene description.",
+          "tags": [],
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "london-bridge",
+      "title": "London Bridge",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "the-portland",
+      "title": "The Portland",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "the-princess-grace",
+      "title": "The Princess Grace",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "university-college-hospital",
+      "title": "University College Hospital",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "harley-street",
+      "title": "Harley Street",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "why-hca-1-innovation",
+      "title": "Why HCA? 1. Innovation",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "why-hca-2-personalised-care",
+      "title": "Why HCA? 2. Personalised Care",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    },
+    {
+      "id": "why-hca-3-expert-teams",
+      "title": "Why HCA? 3. Expert Teams",
+      "vimeo_id": null,
+      "status": "awaiting_tagging",
+      "sceneCount": 0,
+      "scenes": []
+    }
+  ]
+}
