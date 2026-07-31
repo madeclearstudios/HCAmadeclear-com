@@ -244,9 +244,12 @@ function render(list){
     </div>`).join("");
   if(list.length) r.scrollIntoView({behavior:"smooth",block:"start"});
 }
+const VIMEO_HASH = {"1177008237": "52bc7cfd4d", "1192610033": "9beed9b31a", "1192610046": "d6f2d8bb24", "1200139421": "c043022d9c", "1192610058": "059ae11bbe", "1192582940": "79b21286b5", "1185129068": "b11e7ccb5b", "1186984192": "8534a48ed2", "1190549600": "823cbc7141", "1188251498": "69f7ed209d", "1213218332": "784e4a18fb", "1203478345": "982f658aa6", "1203535551": "180b2ba452"};
 function play(id, t){
   const m = document.getElementById("modal");
-  document.getElementById("player").src = `https://player.vimeo.com/video/${id}#t=${t}s`;
+  const h = VIMEO_HASH[id];
+  const base = `https://player.vimeo.com/video/${id}`;
+  document.getElementById("player").src = h ? `${base}?h=${h}#t=${t}s` : `${base}#t=${t}s`;
   m.style.display = "flex";
 }
 document.querySelector("#modal .close").onclick = ()=>{ document.getElementById("modal").style.display="none"; document.getElementById("player").src=""; };
