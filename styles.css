@@ -1,0 +1,215 @@
+/* HCA Made Clear — base styles
+   Brand colors per HCA Healthcare UK guidelines.
+   Font: Mark for HCA — add the licensed .otf files to /fonts/ to activate;
+   falls back to a close system sans-serif until then. */
+
+@font-face {
+  font-family: 'Mark for HCA';
+  src: url('fonts/MarkForHCA-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mark for HCA';
+  src: url('fonts/MarkForHCA-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --hca-navy: #17253F;
+  --hca-denim: #05477F;
+  --hca-teal: #83C8C4;
+
+  --box-blue: #BFE0EE;
+  --box-sage: #9FCFC0;
+  --box-peach: #F3C6A1;
+
+  --text-color: #000000;
+  --page-bg: #EFEDE8;
+  --white: #FFFFFF;
+
+  --font-body: 'Mark for HCA', 'Century Gothic', 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--text-color);
+  background: var(--page-bg);
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--hca-navy);
+  color: var(--white);
+  padding: 16px 32px;
+  font-size: 14px;
+}
+
+.topbar-left { display: flex; align-items: center; gap: 16px; }
+.hca-logo { font-weight: 700; letter-spacing: 0.5px; }
+.divider { width: 1px; height: 20px; background: rgba(255,255,255,0.3); }
+.built-with { opacity: 0.85; }
+.topbar-right { opacity: 0.75; }
+
+.hero {
+  background: linear-gradient(180deg, var(--hca-navy) 0%, var(--hca-denim) 100%);
+  color: var(--white);
+  text-align: center;
+  padding: 64px 24px;
+}
+
+.hero .eyebrow {
+  color: var(--hca-teal);
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.hero h1 {
+  font-size: 40px;
+  margin: 0 0 16px;
+}
+
+.hero .subhead {
+  font-size: 18px;
+  opacity: 0.85;
+  margin-bottom: 32px;
+}
+
+.search-form {
+  display: flex;
+  max-width: 640px;
+  margin: 0 auto 24px;
+  background: var(--white);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.search-form input {
+  flex: 1;
+  border: none;
+  padding: 16px 24px;
+  font-size: 16px;
+  font-family: inherit;
+  outline: none;
+  color: var(--text-color);
+}
+
+.search-form button {
+  background: var(--hca-teal);
+  border: none;
+  width: 56px;
+  margin: 6px;
+  border-radius: 50%;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.pill {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.4);
+  color: var(--white);
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.pill:hover { background: rgba(255,255,255,0.2); }
+
+.library { padding: 48px 32px; max-width: 1200px; margin: 0 auto; }
+
+.library-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.library-header h2 { color: var(--hca-navy); margin: 0; }
+.film-count { color: #555; }
+
+.film-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.film-card {
+  background: var(--white);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.film-thumb {
+  height: 140px;
+  background: var(--box-blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--hca-navy);
+  font-size: 13px;
+  text-align: center;
+  padding: 12px;
+}
+
+.film-card.indexed .film-thumb { background: var(--box-sage); }
+
+.film-info { padding: 14px 16px; }
+.film-info h3 { margin: 0 0 6px; font-size: 15px; color: var(--hca-navy); }
+
+.film-status {
+  font-size: 13px;
+  color: #777;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.film-status.indexed { color: #2f7a4f; }
+.status-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #999;
+  display: inline-block;
+}
+.film-status.indexed .status-dot { background: #2f7a4f; }
+
+.results { padding: 0 32px 48px; max-width: 1200px; margin: 0 auto; }
+
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.result-card {
+  background: var(--box-peach);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.result-card h4 { margin: 0 0 6px; color: var(--hca-navy); }
+.result-card .timecode { font-size: 13px; color: var(--hca-denim); font-weight: 600; }
+.result-card p { font-size: 14px; margin: 8px 0; }
+.result-card .tags { font-size: 12px; color: #555; }
