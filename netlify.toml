@@ -1,0 +1,5 @@
+# If you already have a netlify.toml, just add the [[edge_functions]] block below to it.
+
+[[edge_functions]]
+  path = "/*"
+  function = "password-protect"
