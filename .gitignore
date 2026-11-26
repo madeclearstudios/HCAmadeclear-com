@@ -1,0 +1,37 @@
+# Video and audio never go in git. They live in Cloudflare Stream.
+# GitHub rejects any single file over 100 MB, and the average film here is
+# around 105 MB, so roughly half the library would be refused outright.
+*.mp4
+*.mov
+*.m4v
+*.mxf
+*.wav
+*.mp3
+*.m4a
+*.braw
+
+# Intermediate audio from the transcription step
+data/transcripts/.audio/
+**/.audio/
+
+# Secrets. The Cloudflare token in particular.
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Node, if anything ever needs it
+node_modules/
+
+# Re-transcription scratch (wav files)
+data/retranscribe-work/
+__pycache__/
+
+# Clip renderer test output and transcription logs
+data/clip-test/
+data/*.log

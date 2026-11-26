@@ -1,0 +1,575 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Clip review · HCA Made Clear</title>
+<link rel="stylesheet" href="assets/light.css">
+<link rel="stylesheet" href="assets/hca.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="assets/clips.js"></script>
+<style>
+  /* Medical Affairs review. A marketer sends review.html?clip=<id>. The
+     reviewer sees the rendered file, the exact words, where it comes from
+     and the slide on screen, then approves that exact file or asks for a
+     change. The database enforces all of it: only Medical Affairs can review,
+     only a rendered version awaiting review can be reviewed, a change needs a
+     note, and the approval records the file's hash. Without ?clip the page
+     lists everything waiting. Colours are light.css's: black and white, with
+     yellow to highlight. */
+  [hidden] { display: none !important; }
+  .tool-name { font-family: var(--head); font-size: 15px; color: var(--ink-2); white-space: nowrap; }
+  .gate { min-height: calc(100vh - 80px); display: flex; align-items: center; justify-content: center; padding: 24px 16px; }
+  .gate-card { width: 100%; max-width: 440px; padding: 28px; display: flex; flex-direction: column; gap: 16px; }
+  .gate-card h1 { font-size: 30px; margin: 0; }
+  .gate-card p { margin: 0; }
+  .gate-msg:empty { display: none; }
+  .gate-note { margin: 0; font-size: 13.5px; color: var(--ink-3); }
+  [data-clip-user] .switch { margin-right: 8px; }
+  .who-role { font-family: var(--head); color: var(--ink-2); font-size: 14px; margin-right: 12px; }
+  [data-clip-user] { display: flex; align-items: center; }
+  /* Status: yellow waits on someone, black is approved, an outline needs a change */
+  .lozenge { background: var(--yellow); color: var(--ink); }
+  .lozenge.good { background: var(--ink); color: #fff; }
+  .lozenge.bad { background: var(--surface); color: var(--ink); box-shadow: inset 0 0 0 1.5px var(--ink); }
+  .lozenge.grey { background: var(--sunk); color: var(--ink-2); }
+
+  main.rv { max-width: 1240px; margin: 0 auto; padding: 28px 32px 72px; }
+  .intro { display: flex; flex-direction: column; gap: 6px; margin-bottom: 24px; }
+  .intro h1 { font-size: clamp(30px, 4vw, 42px); margin: 0; line-height: 1.1; }
+  .intro p { margin: 0; color: var(--ink-2); }
+  .crumb { font-family: var(--head); font-size: 14px; color: var(--ink); }
+
+  .cols { display: grid; grid-template-columns: minmax(0, 420px) minmax(0, 1fr); gap: 40px; align-items: start; }
+  .player { background: var(--ink); border-radius: var(--r); overflow: hidden; display: flex; justify-content: center; }
+  .player video { display: block; max-width: 100%; max-height: 66vh; }
+  .player .msg { color: #fff; padding: 40px 16px; text-align: center; font-family: var(--head); }
+  .file { font-family: var(--head); font-size: 13px; color: var(--ink-3); margin-top: 8px; word-break: break-all; }
+
+  .facts { display: grid; grid-template-columns: 140px minmax(0, 1fr); gap: 8px 16px; margin: 0 0 20px; font-size: 15px; }
+  .facts dt { font-family: var(--head); color: var(--ink-3); }
+  .facts dd { margin: 0; }
+  .facts .full { color: var(--ink-3); font-size: 13.5px; }
+  h2 { font-size: 22px; margin: 24px 0 8px; }
+  .words { font-size: 17px; line-height: 1.55; background: var(--surface); border-radius: var(--r); box-shadow: var(--shadow); padding: 16px 18px; margin: 0; }
+  .words .kept, .words .removed { display: block; padding: 8px 0; }
+  .words .removed { color: var(--ink-3); padding: 8px 12px; margin: 4px -12px; border-radius: var(--r-sm); background: repeating-linear-gradient(135deg, var(--surface) 0 6px, var(--sunk) 6px 12px); }
+  .words .removed s { text-decoration-thickness: 1px; }
+  .words .lbl { display: block; font-family: var(--head); font-size: 13px; font-weight: 600; color: var(--ink); margin-bottom: 2px; }
+  .slide { border-top: 1px solid var(--line-2); padding: 10px 0; }
+  .slide b { display: block; font-family: var(--head); }
+  .slide p { margin: 4px 0 0; color: var(--ink-2); font-size: 14.5px; }
+  .hist { display: flex; flex-direction: column; gap: 8px; font-size: 14.5px; }
+  .hist .h { background: var(--surface); border-radius: var(--r-sm); box-shadow: var(--shadow); padding: 10px 12px; }
+
+  .decide { background: var(--surface); border-radius: var(--r-lg); padding: 20px; display: flex; flex-direction: column; gap: 14px; margin-top: 24px; box-shadow: inset 4px 0 0 var(--ink), var(--shadow); }
+  .decide h2 { margin: 0; }
+  .decide textarea { min-height: 96px; resize: vertical; font: inherit; }
+  .decide .btns { display: flex; gap: 8px; flex-wrap: wrap; }
+  .done { background: var(--surface); border-radius: var(--r); padding: 14px 16px; box-shadow: inset 4px 0 0 var(--ink), var(--shadow); }
+  .err-box { background: var(--surface); border-radius: var(--r-sm); padding: 10px 12px; box-shadow: inset 4px 0 0 var(--bad); }
+  .err-box:empty { display: none; }
+
+  .legal { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 18px 20px; margin-top: 24px; display: flex; flex-direction: column; gap: 10px; }
+  .legal-head { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .legal-head h2 { margin: 0; }
+  .legal-head .btn { margin-left: auto; cursor: pointer; }
+  .legal-rule { margin: 0; background: var(--bg); border-radius: var(--r-sm); padding: 10px 12px; box-shadow: inset 4px 0 0 var(--ink); font-size: 14.5px; }
+  .legal-list { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; }
+  /* The document list opens as a small window (about three documents) that scrolls; drag the grip or
+     double-click to open it fully, and again to close it. */
+  .legal-window { height: 236px; overflow-y: auto; background: var(--bg); border-radius: var(--r-sm); padding: 0 12px; box-shadow: inset 0 0 0 1px var(--line); overscroll-behavior: contain; }
+  .legal-window.open { height: auto; max-height: none; overflow: visible; }
+  .legal-window .legal-list li:first-child { border-top: 0; }
+  .legal-grip { display: flex; flex-direction: column; align-items: center; gap: 4px; width: 100%; margin-top: -10px; padding: 6px 0 2px; background: none; border: 0; cursor: ns-resize; font-family: var(--head); font-size: 13px; color: var(--ink-3); touch-action: none; user-select: none; }
+  .legal-grip .bar { width: 44px; height: 4px; border-radius: 2px; background: var(--line-2); }
+  .legal-grip:hover .bar, .legal-grip:focus-visible .bar { background: var(--ink); }
+  .legal-grip:hover, .legal-grip:focus-visible { color: var(--ink); }
+  .legal-list li { display: grid; grid-template-columns: 28px minmax(0, 1fr) auto; gap: 4px 10px; padding: 10px 0; border-top: 1px solid var(--line); font-size: 14.5px; }
+  .legal-list .ico { width: 22px; height: 28px; background: var(--surface); border-radius: 3px; box-shadow: inset 0 0 0 1px var(--ink-3); font-family: var(--head); font-size: 9px; font-weight: 700; display: grid; place-items: end center; padding-bottom: 3px; color: var(--ink-2); }
+  .legal-list a { color: var(--ink); font-family: var(--head); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+  .legal-list .meta { grid-column: 2 / 4; color: var(--ink-3); font-size: 13.5px; }
+  .legal-list .st { font-family: var(--head); font-size: 13px; color: var(--ink-3); white-space: nowrap; }
+  .legal-list .st.bad { color: var(--bad); }
+  .upload-form { background: var(--bg); border-radius: var(--r); padding: 12px; display: flex; flex-direction: column; gap: 10px; }
+  .triage { display: flex; flex-direction: column; gap: 12px; }
+  .triage-card { background: var(--bg); border-radius: var(--r); padding: 16px; display: flex; flex-direction: column; gap: 12px; }
+  .verdict { display: inline-flex; align-items: center; gap: 8px; font-family: var(--head); font-weight: 600; font-size: 22px; }
+  /* The suggestion: black for approve, yellow for revise, an outline with a cross for block */
+  .verdict .tag { font-size: 13px; font-weight: 700; padding: 4px 10px; border-radius: var(--pill); box-shadow: inset 0 0 0 1.5px var(--ink); }
+  .verdict.approve .tag { background: var(--ink); color: #fff; }
+  .verdict.revise .tag { background: var(--yellow); color: var(--ink); }
+  .verdict.block .tag { background: var(--surface); color: var(--ink); }
+  .verdict.block .tag::before { content: "✕ "; }
+  .checks { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 4px; font-size: 14.5px; }
+  .checks li::before { content: "✓ "; font-weight: 700; }
+  .checks li.no { background: var(--hl); border-radius: 4px; padding: 0 .2em; }
+  .checks li.no::before { content: "✕ "; }
+  .revs { display: flex; flex-direction: column; gap: 10px; }
+  .rev { border-top: 1px solid var(--line-2); padding-top: 10px; font-size: 14.5px; display: flex; flex-direction: column; gap: 4px; }
+  .rev .k { font-family: var(--head); font-weight: 600; font-size: 13px; }
+  .tcite { background: var(--surface); border-radius: 8px; padding: 8px 10px; font-size: 13.5px; line-height: 1.45; }
+  .tcite .unver { font-family: var(--head); font-weight: 700; background: var(--hl); border-radius: 4px; padding: 0 .2em; }
+  .small { font-family: var(--head); font-size: 13px; color: var(--ink-3); margin: 0; }
+  .spinner { display: inline-block; width: 12px; height: 12px; border: 2px solid var(--line-2); border-top-color: var(--ink); border-radius: 50%; animation: spin 0.9s linear infinite; vertical-align: -1px; margin-right: 6px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }
+  .queue { background: var(--surface); border-radius: var(--r); box-shadow: var(--shadow); overflow: hidden; }
+  .qrow { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 16px; padding: 14px 16px; border-bottom: 1px solid var(--line); color: var(--ink); text-decoration: none; }
+  .qrow:hover { background: var(--sunk); }
+  .qrow b { font-family: var(--head); font-weight: 600; font-size: 19px; }
+  .qrow span { color: var(--ink-2); font-size: 14.5px; }
+  .qrow .lozenge { grid-row: 1 / span 2; grid-column: 2; align-self: center; }
+  .empty { color: var(--ink-2); padding: 16px; margin: 0; }
+
+  @media (max-width: 900px) { .cols { grid-template-columns: 1fr; gap: 24px; } .player video { max-height: 70vh; } }
+  @media (max-width: 640px) { main.rv { padding: 20px 16px 56px; } .facts { grid-template-columns: 1fr; gap: 2px; } .facts dd { margin-bottom: 8px; } .who-role, .tool-name { display: none; } }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <a class="logo-pill" href="/review.html" title="Clips awaiting review">HCA&nbsp;<b>Made Clear</b></a>
+  <span class="tool-name">Clip review</span>
+  <div class="top-actions" data-clip-user></div>
+</header>
+
+<section class="gate" id="gate"></section>
+
+<main class="rv" id="app" hidden>
+  <div id="list" hidden>
+    <div class="intro">
+      <span class="eyebrow">Approvals</span>
+      <h1>Clips to review</h1>
+      <p>Social clips cut from the HCA Made Clear library by the marketing team.</p>
+    </div>
+    <div class="queue" id="queue"><p class="empty">Loading…</p></div>
+    <h2>Reviewed</h2>
+    <div class="queue" id="reviewed"></div>
+  </div>
+
+  <div id="one" hidden>
+    <div class="intro">
+      <a class="crumb" href="/review.html">All clips to review</a>
+      <span class="eyebrow" id="oneEyebrow"></span>
+      <h1 id="oneTitle"></h1>
+    </div>
+    <div class="cols">
+      <div>
+        <div class="player" id="player"><div class="msg">Loading the clip…</div></div>
+        <div class="file" id="fileInfo"></div>
+        <section class="legal" id="legal" hidden>
+          <div class="legal-head"><h2>Brand and usage rules</h2>
+            <label class="btn btn-light btn-sm" for="legalFile">Upload a document</label>
+            <input type="file" id="legalFile" accept="application/pdf,.pdf" hidden></div>
+          <p class="legal-rule"><b>The AI triage uses only the documents listed here.</b> It doesn't search the internet or draw on any other source. Add anything else the decision should take into account.</p>
+          <div id="legalUpload" hidden></div>
+          <div class="legal-window" id="legalWindow" tabindex="0" aria-label="Brand and usage rules documents (scroll for more)">
+            <ol class="legal-list" id="legalList"><li class="empty">Loading…</li></ol>
+          </div>
+          <button class="legal-grip" id="legalGrip" type="button" aria-expanded="false" aria-controls="legalWindow">
+            <span class="bar" aria-hidden="true"></span><span id="legalGripText">Drag or double-click to see every document</span>
+          </button>
+        </section>
+      </div>
+      <div>
+        <dl class="facts" id="facts"></dl>
+        <h2>Every word in the clip</h2>
+        <div class="words" id="words"></div>
+        <div id="slidesWrap"><h2>On screen during the clip</h2><div id="slides"></div></div>
+        <div id="decision"></div>
+        <div id="histWrap" hidden><h2>History</h2><div class="hist" id="hist"></div></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script>
+const { sb, $, el, esc, tc, when, cleanTitle, displayTitle, lozenge } = Clips;
+const shortTitle = f => displayTitle(f.title);
+const who = p => p ? (p.name || p.email) : "someone";
+let me = null;
+
+const SELECT = "*, owner:profiles!clips_created_by_fkey(name,email), clip_versions(*, maker:profiles!clip_versions_created_by_fkey(name,email), reviews(*, reviewer:profiles!reviews_reviewer_fkey(name,email)))";
+
+/* ---------------- the queue ---------------- */
+async function showList() {
+  $("list").hidden = false;
+  const { data, error } = await sb.from("clips").select(SELECT).order("created_at", { ascending: false });
+  if (error) { $("queue").innerHTML = `<p class="empty">The clips didn't load: ${esc(error.message)}</p>`; return; }
+  const waiting = [], done = [];
+  data.forEach(c => {
+    c.clip_versions.sort((a, b) => a.version - b.version);
+    const v = c.clip_versions[c.clip_versions.length - 1];
+    if (!v || ["queued", "rendering", "failed"].includes(v.status)) return;
+    (v.status === "awaiting_review" ? waiting : done).push([c, v]);
+  });
+  const row = ([c, v]) => {
+    const a = el("a", "qrow");
+    a.href = `/review.html?clip=${c.id}`;
+    const f = Clips.film(c.film_id);
+    a.innerHTML = `<b>${esc(c.title)}</b><span>${esc(f ? shortTitle(f) : displayTitle(c.film_title))}, ${tc(v.in_s)} to ${tc(v.out_s)} · ${esc(v.format)} · version ${v.version} · from ${esc(who(v.maker))}, ${esc(when(v.rendered_at || v.created_at))}</span>${lozenge(v.status)}`;
+    return a;
+  };
+  $("queue").innerHTML = waiting.length ? "" : `<p class="empty">Nothing waiting. Links sent to you open the clip directly.</p>`;
+  waiting.forEach(x => $("queue").appendChild(row(x)));
+  $("reviewed").innerHTML = done.length ? "" : `<p class="empty">Nothing reviewed yet.</p>`;
+  done.forEach(x => $("reviewed").appendChild(row(x)));
+}
+
+/* ---------------- one clip ---------------- */
+async function showClip(id) {
+  $("one").hidden = false;
+  const { data: clip, error } = await sb.from("clips").select(SELECT).eq("id", id).maybeSingle();
+  if (error || !clip) {
+    $("oneTitle").textContent = "Clip not found";
+    $("facts").innerHTML = ""; $("player").innerHTML = `<div class="msg">${esc(error ? error.message : "This link doesn't match a clip you can see.")}</div>`;
+    $("slidesWrap").hidden = true; return;
+  }
+  clip.clip_versions.sort((a, b) => a.version - b.version);
+  const rendered = clip.clip_versions.filter(v => v.storage_path);
+  const v = rendered[rendered.length - 1] || clip.clip_versions[clip.clip_versions.length - 1];
+  const newest = clip.clip_versions[clip.clip_versions.length - 1];
+  const f = Clips.film(clip.film_id);
+  document.title = `${clip.title} · Clip review`;
+  $("oneEyebrow").innerHTML = `Version ${v.version} · ${lozenge(v.status)}`;
+  $("oneTitle").textContent = clip.title;
+
+  // the file
+  if (v.storage_path && me.role === "marketer" && v.status !== "approved") {
+    $("player").innerHTML = `<div class="msg">The rendered file shows here. It can be downloaded once this version is approved.</div>`;
+  } else if (v.storage_path) {
+    try {
+      const url = await Clips.fileUrl(v.storage_path);
+      const vid = el("video");
+      vid.controls = true; vid.playsInline = true; vid.preload = "metadata"; vid.src = url + "#t=0.1";   // shows the first frame, not black
+      $("player").innerHTML = ""; $("player").appendChild(vid);
+      $("fileInfo").textContent = `${(v.bytes / 1e6).toFixed(1)} MB · ${Number(v.duration).toFixed(1)} s · SHA-256 ${v.sha256}`;
+    } catch (e) { $("player").innerHTML = `<div class="msg">The file couldn't be opened: ${esc(e.message)}</div>`; }
+  } else {
+    $("player").innerHTML = `<div class="msg">${v.status === "failed" ? "This version couldn't be rendered." : "Still rendering. Refresh in a minute."}</div>`;
+  }
+
+  // where it comes from
+  const chap = f && Clips.chapterAt(f, +v.in_s);
+  const cuts = (v.cuts && v.cuts.length) ? v.cuts : [{ in: +v.in_s, out: +v.out_s }];
+  const straps = (v.straps && v.straps.length) ? v.straps : (v.speaker ? [{ name: v.speaker, inst: v.role_line }] : []);
+  $("facts").innerHTML = [
+    ["Source film", sourceFilm(f ? f.title : clip.film_title)],
+    ["In the film", cuts.length > 1 ? `${cuts.length} stretches, joined: ${cuts.map(c => `${tc(c.in)}–${tc(c.out)}`).join(", ")}` : `${tc(v.in_s)} to ${tc(v.out_s)}`],
+    chap ? ["Chapter", esc(chap.title)] : null,
+    ["Name straps", straps.length ? straps.map(st => `${esc(st.name)}${st.inst ? `, ${esc(st.inst)}` : ""}${st.at != null ? ` <span style="color:var(--ink-3)">(from ${(+st.at).toFixed(1)} s)</span>` : ""}`).join("<br>") : "None"],
+    ["End card", `${esc(v.end_head || "Watch the full film")}${v.end_sub != null ? `<br>${esc(v.end_sub)}` : (f ? `<br>${esc(shortTitle(f))}` : "")}`],
+    ["Format", esc(v.format)],
+    ["Made by", `${esc(who(v.maker))}, ${esc(when(v.created_at))}`],
+    v.note ? ["What changed", esc(v.note)] : null,
+  ].filter(Boolean).map(([k, val]) => `<dt>${k}</dt><dd>${val}</dd>`).join("");
+  await drawWords(f, v, cuts);
+
+  const slides = f ? cuts.flatMap(c => Clips.slidesIn(f, c.in, c.out)).filter((s, i, a) => a.indexOf(s) === i) : [];
+  $("slidesWrap").hidden = !slides.length;
+  $("slides").innerHTML = slides.map(s => `<div class="slide"><b>${esc(s.title || "Slide")}</b>${s.text ? `<p>${esc(s.text)}</p>` : ""}</div>`).join("");
+
+  // decision
+  const box = $("decision"); box.innerHTML = "";
+  const canReview = ["medaffairs", "admin"].includes(me.role);
+  $("legal").hidden = !canReview;
+  if (canReview) loadLegal();
+  if (v.status === "awaiting_review" && canReview) box.appendChild(decisionForm(clip, v));
+  else if (v.status === "awaiting_review") box.appendChild(el("div", "done", "Waiting for approval."));
+  else if (v.status === "approved") {
+    const r = latest(v.reviews);
+    box.appendChild(el("div", "done", `<b>Approved</b> by ${esc(who(r && r.reviewer))}, ${esc(when(r && r.created_at))}${r && r.job_code ? ` · job code ${esc(r.job_code)}` : ""}. The marketer can now download this exact file.`));
+  } else if (v.status === "changes_requested") {
+    const r = latest(v.reviews);
+    box.appendChild(el("div", "done", `<b>Changes requested</b> by ${esc(who(r && r.reviewer))}, ${esc(when(r && r.created_at))}: “${esc(r ? r.note : "")}”${newest.version > v.version ? ` Version ${newest.version} is ${esc((Clips.STATUS[newest.status] || {}).text || newest.status).toLowerCase()}.` : " Waiting for the marketer to make a new version."}`));
+  }
+
+  // history
+  const items = [];
+  clip.clip_versions.forEach(x => {
+    items.push(`<div class="h">Version ${x.version} made by ${esc(who(x.maker))}, ${esc(when(x.created_at))}${x.note ? `: ${esc(x.note)}` : ""}</div>`);
+    (x.reviews || []).sort((a, b) => a.created_at > b.created_at ? 1 : -1).forEach(r => items.push(
+      `<div class="h">${r.decision === "approved" ? "Approved" : "Changes requested"} by ${esc(who(r.reviewer))}, ${esc(when(r.created_at))}${r.note ? `: “${esc(r.note)}”` : ""}${r.job_code ? ` · job code ${esc(r.job_code)}` : ""}</div>`));
+  });
+  $("histWrap").hidden = items.length < 2;
+  $("hist").innerHTML = items.join("");
+}
+
+/** The words in the clip, stretch by stretch, with the words removed between
+    stretches shown struck out, so an edit can't change the meaning unseen. */
+async function drawWords(f, v, cuts) {
+  const box = $("words");
+  removedNow = [];
+  if (cuts.length < 2) { box.textContent = v.words || "(The words appear once the clip has rendered.)"; return; }
+  let words = [];
+  try {
+    const d = await (await fetch(`./clipdata/${f.id}.json`)).json();
+    words = d.sentences.flatMap(s => s.w);
+  } catch (e) { box.textContent = v.words || ""; return; }
+  const mid = w => (w[1] + w[2]) / 2;
+  const between = (a, b) => words.filter(w => mid(w) > a && mid(w) < b).map(w => w[0]).join(" ");
+  removedNow = cuts.slice(0, -1).map((c, k) => ({ from: c.out, to: cuts[k + 1].in, text: between(c.out + 0.1, cuts[k + 1].in - 0.1) }));
+  box.innerHTML = cuts.map((c, k) => {
+    const kept = `<span class="kept"><span class="lbl">Stretch ${k + 1} · ${tc(c.in)}–${tc(c.out)}</span>${esc(between(c.in - 0.1, c.out + 0.1))}</span>`;
+    const next = cuts[k + 1];
+    const gap = next ? between(c.out + 0.1, next.in - 0.1) : "";
+    return kept + (next ? `<span class="removed"><span class="lbl">Cut out · ${tc(c.out)}–${tc(next.in)}</span><s>${esc(gap || "(a pause)")}</s></span>` : "");
+  }).join("");
+}
+
+/** The film's tidy name, and the full title (which names the exact cut) when that says more. */
+const sourceFilm = t => {
+  const full = cleanTitle(t), short = displayTitle(t);
+  return esc(short) + (short !== full ? `<br><span class="full">${esc(full)}</span>` : "");
+};
+
+const latest = rs => (rs || []).slice().sort((a, b) => a.created_at < b.created_at ? 1 : -1)[0];
+
+function decisionForm(clip, v) {
+  const form = el("form", "decide");
+  form.noValidate = true;
+  form.innerHTML = `
+    <h2>Your decision on version ${v.version}</h2>
+    <p style="margin:0">Approving unlocks the download of this exact file for the marketing team.</p>
+    <div class="field"><label for="jobCode">Approval or job code <span class="opt">(optional)</span></label><input class="input" id="jobCode" maxlength="60"></div>
+    <div class="field" id="fNote"><label for="note">What needs to change <span class="opt">(needed to request changes)</span></label>
+      <textarea class="input" id="note" maxlength="1000"></textarea><span class="err">Say what needs to change.</span></div>
+    <div class="err-box" id="dErr" aria-live="polite"></div>
+    <div class="btns">
+      <button class="btn btn-dark" type="button" id="approve">Approve version ${v.version}</button>
+      <button class="btn btn-light" type="button" id="changes">Request changes</button>
+      <button class="btn btn-light" type="button" id="aiTriage">AI Triage</button>
+    </div>
+    <div class="triage" id="triage"></div>`;
+  const send = async (decision) => {
+    const note = form.querySelector("#note").value.trim();
+    form.querySelector("#fNote").classList.toggle("invalid", decision === "changes_requested" && !note);
+    if (decision === "changes_requested" && !note) return;
+    if (decision === "approved" && !confirm(`Approve version ${v.version} of “${clip.title}”? The marketing team will be able to download and post it.`)) return;
+    form.querySelectorAll("button").forEach(b => b.disabled = true);
+    const { error } = await sb.from("reviews").insert({
+      version_id: v.id, decision, note: note || null, job_code: form.querySelector("#jobCode").value.trim() || null,
+    });
+    if (error) {
+      form.querySelector("#dErr").textContent = `That didn't save: ${error.message}`;
+      form.querySelectorAll("button").forEach(b => b.disabled = false);
+      return;
+    }
+    showClip(clip.id);
+  };
+  form.querySelector("#approve").onclick = () => send("approved");
+  form.querySelector("#changes").onclick = () => send("changes_requested");
+  form.querySelector("#aiTriage").onclick = () => runTriage(v, form);
+  showLatestTriage(v, form);
+  return form;
+}
+
+/* ---------------- legal context ----------------
+   The documents the AI triage may use, and nothing else. Starter documents
+   are loaded by pipeline 21; reviewers can add their own PDFs here. Each
+   document is split into passages and indexed by legal-index-background. */
+let removedNow = [], legalTimer = null, legalKicked = new Set();
+const token = async () => (await sb.auth.getSession()).data.session?.access_token || "";
+async function callFn(name, body) {
+  return fetch(`/.netlify/functions/${name}`, { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${await token()}` }, body: JSON.stringify(body) });
+}
+
+async function loadLegal() {
+  clearTimeout(legalTimer);
+  const { data, error } = await sb.from("legal_docs").select("*, adder:profiles!legal_docs_added_by_fkey(name,email)").eq("active", true).order("created_at");
+  const list = $("legalList");
+  if (error) { list.innerHTML = `<li class="empty">The documents didn't load: ${esc(error.message)}</li>`; return; }
+  if (!data.length) { list.innerHTML = `<li class="empty">No documents yet. Upload one to give the AI triage something to work from.</li>`; return; }
+  list.innerHTML = "";
+  let busy = false;
+  data.forEach(d => {
+    if (d.status === "uploaded" && !legalKicked.has(d.id)) { legalKicked.add(d.id); callFn("legal-index-background", { doc_id: d.id }); }
+    if (d.status === "uploaded" || d.status === "indexing") busy = true;
+    const st = { uploaded: "Waiting to index", indexing: "Indexing…", indexed: "Ready", failed: "Couldn't index" }[d.status];
+    const li = el("li");
+    li.innerHTML = `<span class="ico" aria-hidden="true">PDF</span>
+      <span><a href="#" data-path="${esc(d.storage_path || "")}">${esc(d.title)}</a></span>
+      <span class="st ${d.status === "failed" ? "bad" : ""}">${d.status === "indexing" || d.status === "uploaded" ? `<span class="spinner"></span>` : ""}${esc(st)}</span>
+      <span class="meta">${[d.issuer, d.doc_date, d.pages ? `${d.pages} pages` : "", d.kind === "starter" ? "Starter document" : `Added by ${who(d.adder)}, ${when(d.created_at)}`].filter(Boolean).map(esc).join(" · ")}${d.source_url ? ` · <a href="${esc(d.source_url)}" target="_blank" rel="noopener">source</a>` : ""}${d.status === "failed" && d.error ? `<br>${esc(d.error)}` : ""}</span>`;
+    li.querySelector("a[data-path]").onclick = async e => {
+      e.preventDefault();
+      const { data: u, error: err } = await sb.storage.from("legal").createSignedUrl(d.storage_path, 600);
+      if (u) window.open(u.signedUrl, "_blank", "noopener"); else alert(`It didn't open: ${err && err.message}`);
+    };
+    list.appendChild(li);
+  });
+  legalCount = data.length; gripText();
+  if (busy) legalTimer = setTimeout(loadLegal, 4000);
+}
+
+/* The collapsed document window: scroll inside it, drag the grip to any height, or double-click
+   (the window or the grip) to open every document at once and again to close it. */
+let legalCount = 0;
+const legalWin = () => $("legalWindow");
+function gripText() {
+  const open = legalWin().classList.contains("open");
+  $("legalGripText").textContent = open ? "Double-click or drag up to close"
+    : `Drag or double-click to see all ${legalCount} documents`;
+  $("legalGrip").setAttribute("aria-expanded", String(open));
+}
+function setLegalOpen(open) {
+  const w = legalWin();
+  w.style.height = "";
+  w.classList.toggle("open", open);
+  if (!open) { w.scrollTop = 0; }
+  gripText();
+}
+legalWin().addEventListener("dblclick", e => {
+  if (e.target.closest("a, button, input")) return;
+  setLegalOpen(!legalWin().classList.contains("open"));
+});
+$("legalGrip").addEventListener("dblclick", () => setLegalOpen(!legalWin().classList.contains("open")));
+$("legalGrip").addEventListener("keydown", e => {
+  if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setLegalOpen(!legalWin().classList.contains("open")); }
+});
+$("legalGrip").addEventListener("pointerdown", e => {
+  const w = legalWin(), grip = e.currentTarget;
+  const startY = e.clientY, startH = w.getBoundingClientRect().height, full = w.scrollHeight;
+  let moved = false;
+  grip.setPointerCapture(e.pointerId);
+  const move = ev => {
+    const dy = ev.clientY - startY;
+    if (!moved && Math.abs(dy) < 4) return;
+    moved = true;
+    w.classList.remove("open");
+    w.style.height = `${Math.max(120, Math.min(full, startH + dy))}px`;
+  };
+  const up = () => {
+    grip.removeEventListener("pointermove", move); grip.removeEventListener("pointerup", up); grip.removeEventListener("pointercancel", up);
+    if (!moved) return;
+    const h = w.getBoundingClientRect().height;
+    if (h >= full - 8) setLegalOpen(true);          // dragged all the way: fully open
+    else if (h <= 132) setLegalOpen(false);         // dragged back up: the small window again
+    else gripText();
+  };
+  grip.addEventListener("pointermove", move); grip.addEventListener("pointerup", up); grip.addEventListener("pointercancel", up);
+});
+
+$("legalFile").onchange = () => {
+  const file = $("legalFile").files[0];
+  $("legalFile").value = "";
+  if (!file) return;
+  const box = $("legalUpload");
+  box.hidden = false;
+  box.innerHTML = `<form class="upload-form" novalidate>
+      <div class="field"><label for="upTitle">Document title</label><input class="input" id="upTitle" maxlength="200" value="${esc(file.name.replace(/\.pdf$/i, "").replace(/[_-]+/g, " "))}"></div>
+      <div class="field"><label for="upIssuer">Issued by <span class="opt">(optional, e.g. HCA Brand team, ASA, CAP Code)</span></label><input class="input" id="upIssuer" maxlength="120"></div>
+      <div class="btns"><button class="btn btn-dark btn-sm" type="submit">Add to brand and usage rules</button><button class="btn btn-ghost btn-sm" type="button" data-x>Cancel</button></div>
+      <p class="small" id="upMsg" aria-live="polite">${esc(file.name)} · ${(file.size / 1e6).toFixed(1)} MB</p></form>`;
+  box.querySelector("[data-x]").onclick = () => { box.hidden = true; box.innerHTML = ""; };
+  box.querySelector("form").onsubmit = async e => {
+    e.preventDefault();
+    const msg = box.querySelector("#upMsg"), btn = box.querySelector("[type=submit]");
+    const title = box.querySelector("#upTitle").value.trim();
+    if (title.length < 2) { msg.textContent = "Give the document a title."; return; }
+    btn.disabled = true;
+    try {
+      msg.textContent = "Reading the PDF…";
+      const pages = await pdfPages(file);
+      if (!pages.some(t => t.trim())) throw new Error("This PDF has no readable text (it may be a scanned image).");
+      msg.textContent = "Uploading…";
+      const path = `uploads/${crypto.randomUUID()}.pdf`;
+      const up = await sb.storage.from("legal").upload(path, file, { contentType: "application/pdf" });
+      if (up.error) throw up.error;
+      const { data: doc, error } = await sb.from("legal_docs").insert({ title, issuer: box.querySelector("#upIssuer").value.trim() || null, kind: "upload", storage_path: path, pages: pages.length, status: "uploaded" }).select().single();
+      if (error) throw error;
+      const rows = pages.map((t, i) => ({ doc_id: doc.id, page: i + 1, text: t })).filter(r => r.text.trim());
+      for (let i = 0; i < rows.length; i += 50) { const r = await sb.from("legal_pages").insert(rows.slice(i, i + 50)); if (r.error) throw r.error; }
+      legalKicked.add(doc.id);
+      await callFn("legal-index-background", { doc_id: doc.id });
+      box.hidden = true; box.innerHTML = "";
+      loadLegal();
+    } catch (err) { msg.textContent = `That didn't work: ${err.message}`; btn.disabled = false; }
+  };
+};
+
+/** Text of each page of a PDF, read in the browser with pdf.js. */
+async function pdfPages(file) {
+  if (!window.pdfjsLib) {
+    await new Promise((ok, fail) => { const s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"; s.onload = ok; s.onerror = () => fail(new Error("The PDF reader didn't load.")); document.head.appendChild(s); });
+    window.pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+  }
+  const pdf = await window.pdfjsLib.getDocument({ data: await file.arrayBuffer() }).promise;
+  const out = [];
+  for (let i = 1; i <= pdf.numPages; i++) {
+    const c = await (await pdf.getPage(i)).getTextContent();
+    out.push(c.items.map(it => it.str + (it.hasEOL ? "\n" : " ")).join("").replace(/[ \t]+/g, " ").trim());
+  }
+  return out;
+}
+
+/* ---------------- AI triage ---------------- */
+async function runTriage(v, form) {
+  const btn = form.querySelector("#aiTriage"), box = form.querySelector("#triage");
+  btn.disabled = true;
+  box.innerHTML = `<div class="triage-card"><p style="margin:0"><span class="spinner"></span>Checking this clip against the brand and usage rules. This usually takes under a minute.</p></div>`;
+  const { data: row, error } = await sb.from("ai_triage").insert({ version_id: v.id, status: "running" }).select().single();
+  if (error) { box.innerHTML = `<div class="err-box">The triage didn't start: ${esc(error.message)}</div>`; btn.disabled = false; return; }
+  await callFn("triage-background", { triage_id: row.id, removed: removedNow });
+  const t0 = Date.now();
+  const poll = async () => {
+    const { data: r } = await sb.from("ai_triage").select("*").eq("id", row.id).single();
+    if (r && r.status !== "running") { btn.disabled = false; return drawTriage(r, form); }
+    if (Date.now() - t0 > 5 * 60 * 1000) { btn.disabled = false; box.innerHTML = `<div class="err-box">The triage is taking longer than expected. Refresh the page in a minute to see the result.</div>`; return; }
+    setTimeout(poll, 3000);
+  };
+  setTimeout(poll, 4000);
+}
+
+async function showLatestTriage(v, form) {
+  const { data } = await sb.from("ai_triage").select("*").eq("version_id", v.id).order("created_at", { ascending: false }).limit(1);
+  if (data && data[0] && data[0].status !== "running") drawTriage(data[0], form);
+}
+
+function drawTriage(r, form) {
+  const box = form.querySelector("#triage");
+  if (r.status === "failed") { box.innerHTML = `<div class="err-box">The AI triage didn't finish: ${esc(r.error || "unknown problem")}</div>`; return; }
+  const o = r.result || {};
+  const label = { approve: "AI Approved", revise: "Revise", block: "Block" }[r.verdict] || r.verdict;
+  const docs = r.docs_used || [];
+  const card = el("div", "triage-card");
+  card.innerHTML = `
+    <div class="verdict ${esc(r.verdict)}"><span class="tag">${esc(label)}</span><span>AI suggestion</span></div>
+    <p style="margin:0">${esc(o.summary || "")}</p>
+    ${(o.checks || []).length ? `<ul class="checks">${o.checks.map(c => `<li class="${c.ok ? "" : "no"}"><b>${esc(c.area)}:</b> ${esc(c.finding)}</li>`).join("")}</ul>` : ""}
+    ${(o.revisions || []).length ? `<div class="revs"><b>Suggested revisions:</b>${o.revisions.map((x, i) => `<div class="rev">
+        <span><span class="k">${i + 1}. What:</span> ${esc(x.problem)}</span>
+        <span><span class="k">Why:</span> ${esc(x.why)}</span>
+        <span><span class="k">Change:</span> ${esc(x.suggested_change)}</span>
+        ${(x.citations || []).map(c => `<div class="tcite">${esc(c.document || "Unknown document")}${c.pages ? `, page ${esc(c.pages)}` : ""}: “${esc(c.quote)}”${c.verified ? "" : ` <span class="unver">Quote not found in that passage. Check by hand.</span>`}</div>`).join("")}
+      </div>`).join("")}</div>` : ""}
+    ${o.limitations ? `<p class="small"><b>Limits:</b> ${esc(o.limitations)}</p>` : ""}
+    <p class="small">Based only on ${(o.passages || []).length} passages from the ${docs.length} documents in the brand and usage rules at the time (${docs.map(d => esc(d.title)).join("; ")}). No other sources were used. This is advice; the decision is yours. ${esc(when(r.finished_at))}${r.model ? ` · ${esc(r.model)}` : ""}</p>`;
+  if ((o.revisions || []).length) {
+    const use = el("button", "btn btn-light btn-sm", "Copy suggested revisions into the change note"); use.type = "button";
+    use.style.alignSelf = "flex-start";
+    use.onclick = () => {
+      const t = o.revisions.map((x, i) => `${i + 1}. ${x.problem} Suggested change: ${x.suggested_change}`).join("\n").slice(0, 1000);
+      const note = form.querySelector("#note"); note.value = t; note.focus();
+    };
+    card.appendChild(use);
+  }
+  box.innerHTML = ""; box.appendChild(card);
+}
+
+/* ---------------- start ---------------- */
+Clips.gate({
+  roles: ["medaffairs", "admin", "marketer"], title: "Approvals",
+  intro: "Review social clips made from the film library. Sign in with the email your invite went to.",
+  switchTo: { href: "/marketing.html", text: "Switch to Marketing", role: "marketer" },
+}).then(async ({ profile }) => {
+  me = profile;
+  $("app").hidden = false;
+  await Clips.loadLibrary();
+  const id = new URLSearchParams(location.search).get("clip");
+  if (id) showClip(id); else showList();
+}).catch(err => { $("gate").hidden = false; $("gate").textContent = `Something went wrong: ${err.message}`; });
+</script>
+</body>
+</html>

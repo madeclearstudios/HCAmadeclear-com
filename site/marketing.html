@@ -1,0 +1,944 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Social clips · HCA Made Clear</title>
+<link rel="stylesheet" href="assets/light.css">
+<link rel="stylesheet" href="assets/hca.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="https://embed.cloudflarestream.com/embed/sdk.latest.js" defer></script>
+<script src="assets/clips.js"></script>
+<style>
+  /* The social clipping studio, for the marketing team. Find a moment, tick
+     the sentences to keep (they needn't be next to each other), trim each kept
+     stretch by the word, set the name straps and end card, render, then send
+     the review link to Medical Affairs. Sentences and word timings come from
+     site/clipdata/<film>.json (pipeline 19). Rendering happens on the studio
+     Mac (pipeline/clip_worker.py); this page queues the job and watches it.
+     Colours are light.css's: black and white, with yellow to highlight. */
+  [hidden] { display: none !important; }
+  .tool-name { font-family: var(--head); font-size: 15px; color: var(--ink-2); white-space: nowrap; }
+  .gate { min-height: calc(100vh - 80px); display: flex; align-items: center; justify-content: center; padding: 24px 16px; }
+  .gate-card { width: 100%; max-width: 440px; padding: 28px; display: flex; flex-direction: column; gap: 16px; }
+  .gate-card h1 { font-size: 30px; margin: 0; }
+  .gate-card p { margin: 0; }
+  .gate-msg:empty { display: none; }
+  .gate-note { margin: 0; font-size: 13.5px; color: var(--ink-3); }
+  [data-clip-user] .switch { margin-right: 8px; }
+  .who-role { font-family: var(--head); color: var(--ink-2); font-size: 14px; margin-right: 12px; }
+  [data-clip-user] { display: flex; align-items: center; }
+  /* Status: yellow waits on someone, black is approved, an outline needs a change */
+  .lozenge { background: var(--yellow); color: var(--ink); }
+  .lozenge.good { background: var(--ink); color: #fff; }
+  .lozenge.bad { background: var(--surface); color: var(--ink); box-shadow: inset 0 0 0 1.5px var(--ink); }
+  .lozenge.grey { background: var(--sunk); color: var(--ink-2); }
+
+  main.studio { max-width: 1320px; margin: 0 auto; padding: 28px 32px 72px; }
+  .intro { display: flex; flex-direction: column; gap: 6px; margin-bottom: 24px; max-width: 760px; }
+  .intro h1 { font-size: clamp(32px, 4vw, 44px); margin: 0; line-height: 1.1; }
+  .intro p { margin: 0; color: var(--ink-2); font-size: 16px; }
+
+  .cols { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 32px; align-items: start; }
+  /* Sticky, but never taller than the window, so Render is always reachable */
+  .side { position: sticky; top: 80px; display: flex; flex-direction: column; gap: 16px; max-height: calc(100vh - 96px); overflow-y: auto; overscroll-behavior: contain; border-radius: var(--r-lg); }
+
+  .find { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  .find .input { flex: 1 1 260px; min-width: 0; }
+  .find .select { flex: 0 1 260px; min-width: 0; }
+  .hint { font-size: 14px; color: var(--ink-3); margin: 0 0 12px; font-family: var(--head); }
+
+  .list { background: var(--surface); border-radius: var(--r); box-shadow: var(--shadow); overflow: hidden; }
+  .list:empty { box-shadow: none; }
+  .row-btn { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 12px; width: 100%; text-align: left;
+    background: none; border: 0; border-bottom: 1px solid var(--line); padding: 12px 14px; font: inherit; color: var(--ink); cursor: pointer; }
+  .row-btn:hover { background: var(--sunk); }
+  .row-btn .tc { font-variant-numeric: tabular-nums; color: var(--ink-3); font-size: 14px; padding-top: 2px; font-family: var(--head); }
+  .row-btn .ft { display: block; font-size: 13px; color: var(--ink-3); margin-bottom: 2px; font-family: var(--head); }
+  .row-btn mark { background: var(--hl); color: var(--ink); border-radius: 4px; padding: 0 .12em; }
+  .more { margin: 12px 0; }
+
+  .tx-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin: 4px 0 10px; }
+  .tx-head h2 { font-size: 22px; margin: 0; }
+  .tx-head .back { margin-left: auto; }
+  /* A sentence is a tick box: ticked sentences are kept (highlighted), the rest are cut out */
+  .sent { display: grid; grid-template-columns: 24px 56px minmax(0, 1fr); gap: 10px; width: 100%; text-align: left; background: none;
+    border: 0; border-bottom: 1px solid var(--line); padding: 9px 14px; font: inherit; color: var(--ink); cursor: pointer; }
+  .sent:hover { background: var(--sunk); }
+  .sent .box { width: 20px; height: 20px; border-radius: 5px; box-shadow: inset 0 0 0 1.5px var(--ink-3); margin-top: 1px; display: grid; place-items: center; font-size: 13px; font-weight: 700; line-height: 1; }
+  .sent .tc { font-variant-numeric: tabular-nums; color: var(--ink-3); font-size: 14px; padding-top: 2px; font-family: var(--head); }
+  .sent[aria-pressed="true"] { background: var(--hl); }
+  .sent[aria-pressed="true"] .box { background: var(--ink); box-shadow: none; color: #fff; }
+  .sent.gap { background: repeating-linear-gradient(135deg, var(--surface) 0 6px, var(--sunk) 6px 12px); color: var(--ink-3); }
+  .sent s { color: var(--ink-3); }
+  .sent.blocked { color: var(--ink-3); cursor: not-allowed; background: none; }
+  .sent.blocked .why { display: block; font-size: 13px; color: var(--ink-2); font-family: var(--head); }
+  .chap { padding: 14px 14px 6px; font-family: var(--head); font-size: 14px; font-weight: 600; color: var(--ink); border-bottom: 1px solid var(--line); }
+
+  .panel { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 20px; display: flex; flex-direction: column; gap: 14px; }
+  .panel h3 { font-size: 15px; margin: 6px 0 0; }
+  .sel-sum { font-size: 15px; }
+  .meter { display: flex; align-items: center; gap: 10px; font-variant-numeric: tabular-nums; font-size: 15px; font-family: var(--head); }
+  .bar { position: relative; flex: 1; height: 8px; background: var(--sunk); border-radius: var(--pill); }
+  .bar i { position: absolute; left: 0; top: 0; bottom: 0; background: var(--ink); border-radius: var(--pill); }
+  .bar .target { position: absolute; top: -4px; bottom: -4px; background: var(--yellow); opacity: .6; border-left: 1px dashed var(--ink-3); border-right: 1px dashed var(--ink-3); }
+  .warn { background: var(--bg); border-radius: var(--r-sm); padding: 10px 12px; box-shadow: inset 4px 0 0 var(--ink); font-size: 14.5px; }
+  .warn:empty { display: none; }
+  .frame { position: relative; aspect-ratio: 16 / 9; background: var(--ink); color: #fff; border-radius: var(--r); overflow: hidden; display: flex; align-items: center; justify-content: center; text-align: center; padding: 16px; font-size: 14px; font-family: var(--head); }
+  .frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .btns { display: flex; gap: 8px; flex-wrap: wrap; }
+
+  .cuts { display: flex; flex-direction: column; gap: 8px; }
+  .cut { background: var(--bg); border-radius: var(--r-sm); padding: 10px 12px; display: flex; flex-direction: column; gap: 8px; font-size: 14.5px; }
+  .cut-head { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; font-size: 13.5px; font-family: var(--head); }
+  .cut-head b { font-size: 14px; }
+  .cut-head .tc { font-variant-numeric: tabular-nums; color: var(--ink-3); }
+  .cut-words s { color: var(--ink-3); }
+  .trims { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: 13px; color: var(--ink-3); font-family: var(--head); }
+  .trims .btn { padding: 6px 10px; font-size: 12.5px; }
+  .trims .sep { width: 10px; }
+
+  .formats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; border: 0; padding: 0; margin: 0; }
+  .formats legend { font-family: var(--head); font-weight: 600; margin-bottom: 6px; font-size: 13.5px; }
+  .fmt { display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 12px 6px; background: var(--bg); border-radius: var(--r); cursor: pointer; box-shadow: inset 0 0 0 1px var(--line-2); font-family: var(--head); font-size: 14px; }
+  .fmt:hover { box-shadow: inset 0 0 0 2px var(--yellow); }
+  .fmt:has(input:checked) { box-shadow: inset 0 0 0 2px var(--ink); background: var(--surface); }
+  .fmt input { position: absolute; opacity: 0; pointer-events: none; }
+  .fmt .shape { background: var(--ink-3); border-radius: 3px; }
+  .fmt:has(input:checked) .shape { background: var(--ink); }
+  .fmt .s916 { width: 22px; height: 39px; } .fmt .s11 { width: 32px; height: 32px; } .fmt .s169 { width: 44px; height: 25px; }
+  .fmt small { color: var(--ink-3); font-size: 12.5px; }
+  .fmt:has(input:focus-visible) { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+  .straps { display: flex; flex-direction: column; gap: 10px; }
+  .strap { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.3fr) 64px 64px 28px; gap: 8px; align-items: end; }
+  .strap .field label { font-size: 12.5px; }
+  .strap .input { padding: 8px 9px; font-size: 14px; }
+  .strap .x { border: 0; background: none; font-size: 18px; line-height: 1; padding: 8px 4px; cursor: pointer; color: var(--ink); }
+  .strapline { position: relative; height: 26px; background: var(--bg); border-radius: 6px; box-shadow: inset 0 0 0 1px var(--line-2); overflow: hidden; }
+  .strapline span { position: absolute; top: 4px; bottom: 4px; background: var(--yellow); color: var(--ink); font-family: var(--head); font-size: 11px; font-weight: 700; padding: 0 6px; display: flex; align-items: center; white-space: nowrap; overflow: hidden; }
+  .count { font-weight: 400; color: var(--ink-3); }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .editing { background: var(--bg); border-radius: var(--r-sm); padding: 10px 12px; font-size: 14.5px; box-shadow: inset 4px 0 0 var(--ink); }
+  .editing .asked { display: block; margin-top: 8px; padding: 8px 10px; background: var(--hl); border-radius: 8px; font-size: 15px; }
+  .editing .asked b { display: block; font-size: 13.5px; font-family: var(--head); }
+  .editing .asked-hint { display: block; margin-top: 6px; font-size: 13.5px; color: var(--ink-3); }
+
+  /* clips list */
+  .clips { display: flex; flex-direction: column; gap: 16px; }
+  .clip { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 20px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 20px; }
+  .clip h3 { font-size: 22px; margin: 0; }
+  .clip .meta { color: var(--ink-2); font-size: 14.5px; }
+  .clip .st { align-self: start; }
+  .del { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 10px; font-size: 14px; }
+  .del .link { background: none; border: 0; padding: 0; font: inherit; color: var(--ink-2); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+  .del .link:hover { color: var(--ink); }
+  .del .warn { color: var(--bad); }
+  .clip .body { grid-column: 1 / -1; display: flex; flex-direction: column; gap: 10px; }
+  .clip .body > .btn { align-self: flex-start; }
+  .watch { display: flex; gap: 16px; align-items: flex-start; background: var(--bg); border-radius: var(--r); padding: 12px; }
+  .watch video { display: block; background: var(--ink); border-radius: var(--r-sm); max-width: min(100%, 560px); max-height: 380px; }
+  .watch p { margin: 0; font-size: 14.5px; color: var(--ink-2); max-width: 34ch; }
+  .watch p b { display: block; color: var(--ink); font-family: var(--head); }
+  .clip .note { background: var(--bg); border-radius: var(--r-sm); padding: 10px 12px; box-shadow: inset 4px 0 0 var(--ink); }
+  .clip .note b { display: block; font-size: 13.5px; font-family: var(--head); }
+  .fine { display: flex; flex-direction: column; gap: 8px; }
+  .fine > .btn { align-self: flex-start; }
+  .fine-form { background: var(--bg); border-radius: var(--r); padding: 12px; display: flex; flex-direction: column; gap: 10px; }
+  .fine-form .warn:empty { display: none; }
+  .linkrow { display: flex; gap: 8px; flex-wrap: wrap; }
+  .linkrow .input { flex: 1 1 280px; min-width: 0; font-size: 14px; }
+  .versions { font-size: 14px; color: var(--ink-2); border-top: 1px solid var(--line); padding-top: 10px; display: flex; flex-direction: column; gap: 4px; }
+  .empty { padding: 32px 0; color: var(--ink-2); }
+  .steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); background: var(--bg); border-radius: var(--r); overflow: hidden; }
+  .step { padding: 10px 12px; font-size: 13.5px; display: flex; flex-direction: column; gap: 2px; border-right: 1px solid var(--line); }
+  .step:last-child { border-right: 0; }
+  .step b { font-family: var(--head); font-size: 14.5px; }
+  .step.done b::before { content: "✓ "; }
+  .step.now { background: var(--hl); }
+  .step.wait { color: var(--ink-3); }
+  .worker { display: flex; align-items: center; gap: 8px; font-family: var(--head); font-size: 14.5px; margin-bottom: 16px; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--yellow); box-shadow: inset 0 0 0 1.5px var(--ink); flex: none; }
+  .dot.off { background: transparent; box-shadow: inset 0 0 0 1.5px var(--ink-3); }
+
+  @media (max-width: 960px) {
+    .cols { grid-template-columns: 1fr; }
+    .side { position: static; max-height: none; overflow: visible; }
+  }
+  @media (max-width: 760px) {
+    /* light.css hides the top nav on phones; here there are only two tabs, so keep them */
+    .topbar { flex-wrap: wrap; row-gap: 8px; }
+    .topbar .top-actions { margin-left: auto; }
+    .topbar #tabs { display: flex; order: 3; margin: 0 auto; }
+    .tool-name { display: none; }
+  }
+  @media (max-width: 640px) {
+    main.studio { padding: 20px 16px 56px; }
+    .clip { grid-template-columns: 1fr; }
+    .watch { flex-direction: column; }
+    .grid2 { grid-template-columns: 1fr; }
+    .strap { grid-template-columns: 1fr 1fr; }
+    .steps { grid-template-columns: 1fr; }
+    .step { border-right: 0; border-bottom: 1px solid var(--line); }
+    .who-role { display: none; }
+  }
+  /* Selects shots */
+  .shot { display: grid; grid-template-columns: 128px 1fr; gap: 12px; align-items: start; }
+  .shot img { width: 128px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 0 0 10px 0; background: var(--sunk); }
+  .shot-desc { display: block; }
+  .shot-meta { display: block; font-size: 13px; color: var(--ink-3); margin-top: 2px; }
+  .shot-flag { display: inline-block; font-size: 12px; margin: 4px 6px 0 0; padding: 1px 8px; border-radius: 999px; background: #F8D1B9; color: #17253F; }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <a class="logo-pill" href="/" title="The film library">HCA&nbsp;<b>Made Clear</b></a>
+  <span class="tool-name">Social clips</span>
+  <nav class="nav-pill" aria-label="Clips" id="tabs" hidden>
+    <a href="#new" data-tab="new">Make a clip</a>
+    <a href="#mine" data-tab="mine">Clips</a>
+  </nav>
+  <div class="top-actions" data-clip-user></div>
+</header>
+
+<section class="gate" id="gate"></section>
+
+<main class="studio" id="app" hidden>
+  <!-- ======================= make a clip ======================= -->
+  <section id="view-new">
+    <div class="intro">
+      <span class="eyebrow">HCA Made Clear library</span>
+      <h1>Make a clip</h1>
+      <p>Find a moment, then tick the sentences to keep. They don't have to be next to each other: anything unticked in between is cut out. Hold Shift to tick a run of sentences. Aim for 35 to 45 seconds.</p>
+    </div>
+    <div class="cols">
+      <div>
+        <form class="find" id="find" role="search" autocomplete="off">
+          <input class="input" id="q" type="search" placeholder="Search the words, for example blood pressure" aria-label="Search the words">
+          <select class="select" id="filmSel" aria-label="Film"><option value="">All films</option></select>
+          <button class="btn btn-dark" type="submit">Search</button>
+        </form>
+        <p class="hint" id="hint">Search for a phrase, or pick a film to browse it.</p>
+        <div id="hits" class="list"></div>
+        <div id="tx" hidden>
+          <div class="tx-head"><h2 id="txTitle"></h2><button class="btn btn-light btn-sm back" type="button" id="txBack">Back to results</button></div>
+          <button class="btn btn-light btn-sm more" type="button" id="txEarlier">Show earlier</button>
+          <div id="txList" class="list" role="group" aria-label="Sentences"></div>
+          <button class="btn btn-light btn-sm more" type="button" id="txLater">Show later</button>
+        </div>
+      </div>
+
+      <aside class="side">
+        <form class="panel" id="clipForm" novalidate>
+          <span class="eyebrow">Your clip</span>
+          <div class="editing" id="editing" hidden></div>
+          <div class="sel-sum" id="selSum">Nothing ticked yet. Open a moment and tick the sentences to keep.</div>
+          <div class="meter" id="meter" hidden><span id="len">0 s</span><span class="bar"><span class="target" id="target"></span><i id="lenBar"></i></span><span>target 35–45 s</span></div>
+          <div class="warn" id="warn" aria-live="polite"></div>
+          <div class="cuts" id="cuts"></div>
+          <div class="frame" id="frame">The preview plays here.</div>
+          <div class="btns">
+            <button class="btn btn-light btn-sm" type="button" id="playSel" disabled>Play the kept parts</button>
+            <button class="btn btn-light btn-sm" type="button" id="clearSel" disabled>Untick all</button>
+          </div>
+
+          <div class="field" id="fTitle"><label for="title">Clip title <span class="opt">(for your list, not shown in the video)</span></label>
+            <input class="input" id="title" maxlength="120" required><span class="err">Give the clip a title.</span></div>
+          <fieldset class="formats">
+            <legend>Format</legend>
+            <label class="fmt"><input type="radio" name="fmt" value="9:16" checked><span class="shape s916"></span>9:16<small>Reels, Stories</small></label>
+            <label class="fmt"><input type="radio" name="fmt" value="1:1"><span class="shape s11"></span>1:1<small>Feed</small></label>
+            <label class="fmt"><input type="radio" name="fmt" value="16:9"><span class="shape s169"></span>16:9<small>LinkedIn, X</small></label>
+          </fieldset>
+
+          <h3>Name straps</h3>
+          <p class="hint" style="margin:0">One per speaker, shown from the second they start. Times are in seconds into the clip.</p>
+          <div class="straps" id="straps"></div>
+          <div class="strapline" id="strapline" aria-hidden="true"></div>
+          <button class="btn btn-light btn-sm" type="button" id="addStrap" style="align-self:flex-start">Add a strap</button>
+          <datalist id="speakerList"></datalist>
+
+          <h3>End card</h3>
+          <div class="field"><label for="endHead">Headline <span class="count" id="endHeadN"></span></label><input class="input" id="endHead" maxlength="40"></div>
+          <div class="field"><label for="endSub">Second line <span class="count" id="endSubN"></span></label><input class="input" id="endSub" maxlength="70"></div>
+
+          <div class="field" id="fNote" hidden><label for="vnote">What changed <span class="opt">(the approver sees this)</span></label>
+            <input class="input" id="vnote" maxlength="300"><span class="err">Say what you changed.</span></div>
+          <button class="btn btn-dark" type="submit" id="render" disabled>Render clip</button>
+          <p class="hint" style="margin:0">Rendering takes about a minute. You'll get a review link to send for approval.</p>
+        </form>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ======================= clips ======================= -->
+  <section id="view-mine" hidden>
+    <div class="intro">
+      <span class="eyebrow">Marketing</span>
+      <h1>Clips</h1>
+      <p>Everything the team has made. A clip can be downloaded once someone approves that exact version.</p>
+    </div>
+    <div class="worker" id="worker"><span class="dot off"></span><span>Checking the renderer…</span></div>
+    <div class="clips" id="clips"><p class="empty">Loading…</p></div>
+  </section>
+</main>
+
+<script>
+const { sb, $, el, esc, tc, when, cleanTitle, displayTitle, lozenge } = Clips;
+const MAX_LEN = 90;                 // longer than this can't be queued
+const PAD = 0.45;                   // the renderer adds 0.15 s before and 0.30 s after each kept stretch
+const END_HEAD = "Watch the full film";
+const state = { film: null, sent: [], from: 0, to: 0, kept: new Set(), trims: {}, lastClick: null,
+                editing: null, me: null, straps: [], strapsTouched: false, speakers: new Map() };
+const shortTitle = f => displayTitle(f.title);
+const clipdata = new Map();
+
+async function loadSentences(f) {
+  if (clipdata.has(f.id)) return clipdata.get(f.id);
+  const r = await fetch(`./clipdata/${f.id}.json`);
+  if (!r.ok) throw new Error(`no sentence file for this film (HTTP ${r.status})`);
+  const d = await r.json();
+  d.sentences.forEach((s, i) => { s.i = i; });
+  clipdata.set(f.id, d.sentences);
+  return d.sentences;
+}
+
+/* ---------------- tabs ---------------- */
+function showTab() {
+  const tab = location.hash === "#mine" ? "mine" : "new";
+  $("view-new").hidden = tab !== "new";
+  $("view-mine").hidden = tab !== "mine";
+  document.querySelectorAll("[data-tab]").forEach(a => a.toggleAttribute("aria-current", a.dataset.tab === tab));
+  if (tab === "mine") loadClips();
+}
+window.addEventListener("hashchange", showTab);
+
+/* ---------------- find a moment ---------------- */
+function fillFilms() {
+  const sel = $("filmSel");
+  Clips.index.films.slice().sort((a, b) => (+a.order || 99) - (+b.order || 99)).forEach(f => sel.appendChild(new Option(shortTitle(f), f.id)));
+}
+
+function search() {
+  const q = $("q").value.trim(), filmId = $("filmSel").value;
+  const out = $("hits"); out.innerHTML = ""; $("tx").hidden = true; out.hidden = false;
+  if (!q && filmId) {
+    const f = Clips.film(filmId);
+    const chaps = Clips.chapters(f).filter(c => !Clips.compliance(f.id, c.t, c.t + 1, c.title));
+    $("hint").textContent = !(f.chapters || []).length ? "This film has no chapters. Open it to see every sentence."
+      : `${chaps.length} chapter${chaps.length === 1 ? "" : "s"}. Open one to see its sentences.`;
+    chaps.forEach(c => out.appendChild(hitRow(f, c.t, `${esc(c.title)}${c.speaker ? ` · ${esc(c.speaker)}` : ""}`)));
+    return;
+  }
+  if (q.length < 3) { $("hint").textContent = "Type at least three letters, or pick a film to browse it."; return; }
+  const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+  const re = new RegExp(words.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|"), "gi");
+  const hits = [];
+  for (const f of Clips.index.films) {
+    if (filmId && f.id !== filmId) continue;
+    for (const s of Clips.sentences(f)) {
+      const low = (s.text + " " + (s.tags || []).join(" ") + " " + (f.facility || "")).toLowerCase();
+      if (!words.every(w => low.includes(w))) continue;
+      if (Clips.compliance(f.id, s.t, s.end, s.text)) continue;
+      hits.push({ f, s });
+    }
+  }
+  $("hint").textContent = hits.length ? `${hits.length > 80 ? "First 80 of " : ""}${hits.length} moment${hits.length === 1 ? "" : "s"}. Open one to see the sentences around it.` : "Nothing found. Try fewer or different words.";
+  hits.slice(0, 80).forEach(({ f, s }) => out.appendChild(hitRow(f, s.t, esc(s.text).replace(re, m => `<mark>${m}</mark>`))));
+}
+
+function hitRow(f, t, html) {
+  const b = el("button", "row-btn");
+  b.type = "button";
+  b.innerHTML = `<span class="tc">${tc(t)}</span><span><span class="ft">${esc(shortTitle(f))}</span>${html}</span>`;
+  b.onclick = () => openFilm(f, t);
+  return b;
+}
+
+/* ---------------- the transcript: sentences as tick boxes ---------------- */
+async function openFilm(f, t, keep = false) {
+  if (state.film && state.film.id !== f.id && !keep) clearSelection();
+  $("hits").hidden = true; $("tx").hidden = false;
+  $("txTitle").textContent = shortTitle(f);
+  $("txList").innerHTML = `<p class="hint" style="padding:12px 8px">Loading the sentences…</p>`;
+  try { state.sent = await loadSentences(f); }
+  catch (e) { $("txList").innerHTML = `<p class="hint" style="padding:12px 8px">The sentences didn't load: ${esc(e.message)}</p>`; return; }
+  state.film = f;
+  const at = Math.max(0, state.sent.findIndex(s => s.end > t));
+  state.from = Math.max(0, at - 6); state.to = Math.min(state.sent.length, at + 40);
+  drawTranscript();
+  const row = $("txList").querySelector(`[data-i="${at}"]`);
+  if (row) row.scrollIntoView({ block: "center" });
+}
+
+const blockedWhy = s => Clips.compliance(state.film.id, s.t, s.end, s.text);
+
+function drawTranscript() {
+  const f = state.film, list = $("txList");
+  list.innerHTML = "";
+  let chap = null;
+  const kept = [...state.kept].sort((a, b) => a - b);
+  const lo = kept[0], hi = kept[kept.length - 1];
+  for (let i = state.from; i < state.to; i++) {
+    const s = state.sent[i];
+    const c = Clips.chapterAt(f, s.t);
+    if (c && c !== chap) { chap = c; list.appendChild(el("div", "chap", `${esc(c.title)}${c.speaker ? ` · ${esc(c.speaker)}` : ""}`)); }
+    const why = blockedWhy(s);
+    const on = state.kept.has(i);
+    const b = el("button", "sent" + (why ? " blocked" : "") + (!on && kept.length && i > lo && i < hi ? " gap" : ""));
+    b.type = "button"; b.dataset.i = i;
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+    b.innerHTML = `<span class="box" aria-hidden="true">${on ? "✓" : ""}</span><span class="tc">${tc(s.t)}</span><span>${sentenceHtml(i)}${why ? `<span class="why">Can't be used</span>` : ""}</span>`;
+    if (why) b.disabled = true; else b.onclick = e => toggle(i, e.shiftKey);
+    list.appendChild(b);
+  }
+  $("txEarlier").hidden = state.from === 0;
+  $("txLater").hidden = state.to >= state.sent.length;
+}
+
+/** A kept sentence shows any words trimmed off its cut struck through. */
+function sentenceHtml(i) {
+  const s = state.sent[i];
+  if (s.kind === "shot") return shotHtml(state.film, s, i);
+  const cut = cutsNow().find(c => c.first === i || c.last === i);
+  if (!cut) return esc(s.text);
+  return s.w.map((w, k) => {
+    const out = (i === cut.first && k < cut.trimIn) || (i === cut.last && k >= s.w.length - cut.trimOut);
+    return out ? `<s>${esc(w[0])}</s>` : esc(w[0]);
+  }).join(" ");
+}
+
+/** A Selects shot: thumbnail, what's in it, its tags, and any flag to check before use. */
+function shotHtml(f, s, i) {
+  const n = String(i + 1).padStart(3, "0");
+  const flags = [s.patient ? "Patient in shot: check consent" : "", s.screenData ? "Screen or chart with patient details" : ""].filter(Boolean);
+  return `<span class="shot"><img src="./thumbs/${esc(f.id)}/${n}.jpg" alt="" loading="lazy" onerror="this.remove()">`
+    + `<span><span class="shot-desc">${esc(s.text)}</span>`
+    + `<span class="shot-meta">${(s.end - s.t).toFixed(1)}s${(s.tags || []).length ? " · " + s.tags.slice(0, 6).map(esc).join(" · ") : ""}</span>`
+    + flags.map(x => `<span class="shot-flag">${esc(x)}</span>`).join("") + `</span></span>`;
+}
+
+function toggle(i, range) {
+  if (range && state.lastClick != null) {
+    const [a, b] = [Math.min(state.lastClick, i), Math.max(state.lastClick, i)];
+    const turnOn = !state.kept.has(i);
+    for (let k = a; k <= b; k++) if (!blockedWhy(state.sent[k])) turnOn ? state.kept.add(k) : state.kept.delete(k);
+  } else {
+    state.kept.has(i) ? state.kept.delete(i) : state.kept.add(i);
+  }
+  state.lastClick = i;
+  if (!$("title").value || $("title").dataset.auto === "1") {
+    const first = Math.min(...state.kept);
+    $("title").value = state.kept.size ? state.sent[first].text.split(/\s+/).slice(0, 8).join(" ").replace(/[.,;:]$/, "") : "";
+    $("title").dataset.auto = "1";
+  }
+  refresh();
+}
+
+/** Kept sentences grouped into stretches; each stretch can lose words off either end. */
+function cutsNow() {
+  const kept = [...state.kept].sort((a, b) => a - b);
+  const runs = [];
+  kept.forEach(i => { const r = runs[runs.length - 1]; if (r && r.last === i - 1) r.last = i; else runs.push({ first: i, last: i }); });
+  return runs.map(r => {
+    const key = `${r.first}-${r.last}`, t = state.trims[key] || { trimIn: 0, trimOut: 0 };
+    const words = state.sent.slice(r.first, r.last + 1).flatMap(s => s.w);
+    const trimIn = Math.min(t.trimIn, words.length - 1), trimOut = Math.min(t.trimOut, words.length - 1 - trimIn);
+    const kw = words.slice(trimIn, words.length - trimOut);
+    return { ...r, key, trimIn, trimOut, in: kw[0][1], out: kw[kw.length - 1][2], words: kw, all: words };
+  });
+}
+
+function trim(key, which, d) {
+  const c = cutsNow().find(x => x.key === key); if (!c) return;
+  const t = state.trims[key] || { trimIn: 0, trimOut: 0 };
+  t[which] = Math.max(0, Math.min(c.all.length - 1 - (which === "trimIn" ? c.trimOut : c.trimIn), t[which] + d));
+  state.trims[key] = t;
+  refresh();
+}
+
+function refresh() { drawTranscript(); summarise(); if (!state.strapsTouched) autoStraps(); drawStraps(); }
+
+function summarise() {
+  const cuts = cutsNow();
+  const has = cuts.length > 0;
+  $("meter").hidden = !has; $("playSel").disabled = !has; $("clearSel").disabled = !has;
+  const box = $("cuts"); box.innerHTML = "";
+  if (!has) { $("selSum").textContent = "Nothing ticked yet. Open a moment and tick the sentences to keep."; $("warn").textContent = ""; $("render").disabled = true; return; }
+  const len = cuts.reduce((a, c) => a + c.out - c.in + PAD, 0);
+  $("selSum").innerHTML = `<b>${esc(shortTitle(state.film))} · ${cuts.length} ${cuts.length === 1 ? "stretch" : "stretches"} kept${cuts.length > 1 ? `, joined at ${cuts.length - 1} ${cuts.length === 2 ? "cut" : "cuts"}` : ""}</b>`;
+  $("len").textContent = `${Math.round(len)} s`;
+  $("lenBar").style.width = `${Math.min(100, len / 60 * 100)}%`;
+  $("target").style.left = `${35 / 60 * 100}%`; $("target").style.width = `${10 / 60 * 100}%`;
+  cuts.forEach((c, n) => {
+    const d = el("div", "cut");
+    d.innerHTML = `<div class="cut-head"><b>Stretch ${n + 1}</b><span class="tc">${tc(c.in)}–${tc(c.out)} · ${(c.out - c.in + PAD).toFixed(1)} s</span></div>
+      <div class="cut-words">${c.all.map((w, k) => k < c.trimIn || k >= c.all.length - c.trimOut ? `<s>${esc(w[0])}</s>` : esc(w[0])).join(" ")}</div>
+      <div class="trims"><span>Start</span>
+        <button class="btn btn-light" type="button" data-t="trimIn" data-d="-1" ${c.trimIn ? "" : "disabled"}>One word earlier</button>
+        <button class="btn btn-light" type="button" data-t="trimIn" data-d="1">One word later</button><span class="sep"></span><span>End</span>
+        <button class="btn btn-light" type="button" data-t="trimOut" data-d="1">One word earlier</button>
+        <button class="btn btn-light" type="button" data-t="trimOut" data-d="-1" ${c.trimOut ? "" : "disabled"}>One word later</button></div>`;
+    d.querySelectorAll("[data-t]").forEach(b => b.onclick = () => trim(c.key, b.dataset.t, +b.dataset.d));
+    box.appendChild(d);
+  });
+  const text = cuts.map(c => c.words.map(w => w[0]).join(" ")).join(" ");
+  const why = cuts.map(c => Clips.compliance(state.film.id, c.in, c.out, c.words.map(w => w[0]).join(" "))).find(Boolean);
+  let warn = why || "";
+  if (!why && len > MAX_LEN) warn = `That's ${Math.round(len)} seconds. Clips can be up to ${MAX_LEN} seconds; most social posts work best under 60.`;
+  else if (!why && len > 60) warn = "Over a minute. That's long for social; consider dropping a sentence.";
+  $("warn").textContent = warn;
+  $("render").disabled = !!why || len > MAX_LEN || !text;
+}
+
+function clearSelection() { state.kept.clear(); state.trims = {}; state.lastClick = null; if (state.film) refresh(); else summarise(); }
+
+/* ---------------- name straps ---------------- */
+/** One strap per speaker, from the chapter each kept sentence sits in, shown from their first kept sentence. */
+function autoStraps() {
+  if (!state.film) return;
+  const cuts = cutsNow(); let clipT = 0; const seen = new Map();
+  cuts.forEach(c => {
+    state.sent.slice(c.first, c.last + 1).forEach(s => {
+      const ch = Clips.chapterAt(state.film, s.t);
+      const who = ch && ch.speaker;
+      if (who && !seen.has(who)) seen.set(who, Math.max(0, clipT + Math.max(0, s.t - c.in)) + 0.3);
+    });
+    clipT += c.out - c.in + PAD;
+  });
+  state.straps = [...seen].map(([name, at]) => ({ name, inst: state.speakers.get(name) || "", at: +at.toFixed(1), dur: 4.5 }));
+}
+
+function drawStraps() {
+  const box = $("straps"); box.innerHTML = "";
+  state.straps.forEach((s, i) => {
+    const row = el("div", "strap");
+    row.innerHTML = `<div class="field"><label for="sn${i}">Name</label><input class="input" id="sn${i}" list="speakerList" maxlength="40" value="${esc(s.name)}"></div>
+      <div class="field"><label for="si${i}">Institution</label><input class="input" id="si${i}" maxlength="60" value="${esc(s.inst)}" placeholder="Add once, reused next time"></div>
+      <div class="field"><label for="sa${i}">From</label><input class="input" id="sa${i}" type="number" min="0" step="0.5" value="${s.at}"></div>
+      <div class="field"><label for="sd${i}">For</label><input class="input" id="sd${i}" type="number" min="1" max="15" step="0.5" value="${s.dur}"></div>
+      <button class="x" type="button" aria-label="Remove this strap">×</button>`;
+    const touch = () => { state.strapsTouched = true; };
+    row.querySelector(`#sn${i}`).oninput = e => { touch(); s.name = e.target.value; if (state.speakers.has(s.name) && !s.inst) { s.inst = state.speakers.get(s.name); row.querySelector(`#si${i}`).value = s.inst; } drawStrapline(); };
+    row.querySelector(`#si${i}`).oninput = e => { touch(); s.inst = e.target.value; };
+    row.querySelector(`#sa${i}`).oninput = e => { touch(); s.at = Math.max(0, +e.target.value || 0); drawStrapline(); };
+    row.querySelector(`#sd${i}`).oninput = e => { touch(); s.dur = Math.max(1, Math.min(15, +e.target.value || 1)); drawStrapline(); };
+    row.querySelector(".x").onclick = () => { touch(); state.straps.splice(i, 1); drawStraps(); };
+    box.appendChild(row);
+  });
+  drawStrapline();
+}
+function drawStrapline() {
+  const len = Math.max(1, cutsNow().reduce((a, c) => a + c.out - c.in + PAD, 0));
+  $("strapline").innerHTML = state.straps.filter(s => s.name).map(s =>
+    `<span style="left:${Math.min(100, s.at / len * 100)}%;width:${Math.max(0, Math.min(s.dur, len - s.at)) / len * 100}%">${esc(s.name)}</span>`).join("");
+}
+$("addStrap").onclick = () => { state.strapsTouched = true; state.straps.push({ name: "", inst: "", at: 0.3, dur: 4.5 }); drawStraps(); $(`sn${state.straps.length - 1}`).focus(); };
+
+async function loadSpeakers() {
+  const { data } = await sb.from("speakers").select("name, institution");
+  (data || []).forEach(r => state.speakers.set(r.name, r.institution || ""));
+  const names = new Set([...state.speakers.keys()]);
+  Clips.index.films.forEach(f => (f.chapters || []).forEach(c => c.speaker && names.add(c.speaker)));
+  $("speakerList").innerHTML = [...names].sort().map(n => `<option value="${esc(n)}"></option>`).join("");
+}
+
+/* ---------------- end card ---------------- */
+function endCount() {
+  $("endHeadN").textContent = `${$("endHead").value.length}/40`;
+  $("endSubN").textContent = `${$("endSub").value.length}/70`;
+}
+function endDefaults(f) {
+  if (!$("endHead").dataset.touched) $("endHead").value = END_HEAD;
+  if (!$("endSub").dataset.touched) $("endSub").value = f ? shortTitle(f).slice(0, 70) : "";
+  endCount();
+}
+$("endHead").oninput = () => { $("endHead").dataset.touched = "1"; endCount(); };
+$("endSub").oninput = () => { $("endSub").dataset.touched = "1"; endCount(); };
+
+/* ---------------- preview: the kept parts back to back ---------------- */
+let stream = null, plan = null;
+async function preview() {
+  const cuts = cutsNow(); if (!cuts.length) return;
+  const fr = $("frame");
+  plan = { cuts, k: 0 };
+  const go = () => { try { stream.currentTime = cuts[0].in - 0.15; stream.play(); } catch (e) {} };
+  if (stream && fr.dataset.film === state.film.id) return go();
+  fr.textContent = "Opening the film…";
+  try {
+    const url = await Clips.streamUrl(state.film, cuts[0].in);
+    fr.innerHTML = "";
+    const ifr = el("iframe");
+    ifr.src = url + "&autoplay=true";
+    ifr.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen"; ifr.title = "Preview";
+    fr.appendChild(ifr); fr.dataset.film = state.film.id;
+    stream = window.Stream ? window.Stream(ifr) : null;
+    if (stream) stream.addEventListener("timeupdate", () => {
+      if (!plan) return;
+      const c = plan.cuts[plan.k];
+      if (stream.currentTime >= c.out + 0.3) {
+        plan.k++;
+        if (plan.k < plan.cuts.length) stream.currentTime = plan.cuts[plan.k].in - 0.15;
+        else { stream.pause(); plan = null; }
+      }
+    });
+  } catch (e) {
+    fr.textContent = `The preview couldn't open: ${e.message}. You can still render the clip.`;
+  }
+}
+
+/* ---------------- render ---------------- */
+async function submit(e) {
+  e.preventDefault();
+  const cuts = cutsNow(); if (!cuts.length) return;
+  const title = $("title").value.trim();
+  $("fTitle").classList.toggle("invalid", !title);
+  const note = $("vnote").value.trim();
+  $("fNote").classList.toggle("invalid", !!state.editing && !note);
+  if (!title || (state.editing && !note)) return;
+  const straps = state.straps.filter(s => s.name.trim()).map(s => ({ name: s.name.trim(), inst: s.inst.trim(), at: +s.at, dur: +s.dur }));
+  $("render").disabled = true; $("render").textContent = "Sending to the renderer…";
+  try {
+    let clipId, version = 1;
+    if (state.editing) {
+      clipId = state.editing.clipId; version = state.editing.version;
+      if (title !== state.editing.title) {   // Medical Affairs may ask for a new title
+        const { error } = await sb.from("clips").update({ title }).eq("id", clipId);
+        if (error) throw error;
+      }
+    }
+    else {
+      const { data, error } = await sb.from("clips").insert({ film_id: state.film.id, film_title: cleanTitle(state.film.title), title }).select().single();
+      if (error) throw error;
+      clipId = data.id;
+    }
+    const { error } = await sb.from("clip_versions").insert({
+      clip_id: clipId, version, in_s: +cuts[0].in.toFixed(2), out_s: +cuts[cuts.length - 1].out.toFixed(2),
+      cuts: cuts.map(c => ({ in: +c.in.toFixed(3), out: +c.out.toFixed(3), first: c.first, last: c.last, trimIn: c.trimIn, trimOut: c.trimOut })),
+      format: document.querySelector("input[name=fmt]:checked").value,
+      straps, speaker: straps[0] ? straps[0].name : null, role_line: straps[0] ? straps[0].inst || null : null,
+      end_head: $("endHead").value.trim() || END_HEAD, end_sub: $("endSub").value.trim(),
+      note: state.editing ? note : null,
+    });
+    if (error) throw error;
+    // remember institutions for next time (best effort)
+    const known = straps.filter(s => s.inst && state.speakers.get(s.name) !== s.inst);
+    if (known.length) sb.from("speakers").upsert(known.map(s => ({ name: s.name, institution: s.inst }))).then(() => known.forEach(s => state.speakers.set(s.name, s.inst)));
+    resetForm();
+    location.hash = "#mine";
+  } catch (err) {
+    $("warn").textContent = `That didn't go through: ${err.message}`;
+  } finally {
+    $("render").textContent = "Render clip"; summarise();
+  }
+}
+
+function resetForm() {
+  state.editing = null; $("editing").hidden = true; $("fNote").hidden = true; $("vnote").value = "";
+  $("title").value = ""; $("title").dataset.auto = "1"; $("title").disabled = false;
+  state.strapsTouched = false; state.straps = [];
+  delete $("endHead").dataset.touched; delete $("endSub").dataset.touched; endDefaults(state.film);
+  clearSelection(); drawStraps();
+}
+
+/** Start a new version of an existing clip, loaded with the last version's choices. */
+async function newVersion(clip, last) {
+  const f = Clips.film(clip.film_id);
+  if (!f) return;
+  location.hash = "#new";
+  state.editing = { clipId: clip.id, title: clip.title, version: Math.max(...clip.clip_versions.map(v => v.version)) + 1 };
+  // Put Medical Affairs' request in front of the marketer while they make the change.
+  const asked = (last.reviews || []).filter(r => r.decision === "changes_requested").sort((a, b) => a.created_at < b.created_at ? 1 : -1)[0];
+  $("editing").hidden = false;
+  $("editing").innerHTML = `Making <b>version ${state.editing.version}</b> of “${esc(clip.title)}”.`
+    + (asked ? `<span class="asked"><b>${esc(who(asked.reviewer))} asked, ${esc(when(asked.created_at))}:</b> “${esc(asked.note)}”</span>` : "")
+    + `<span class="asked-hint">Change anything here: the sentences, trims, format, name straps, end card or title.</span>`
+    + ` <button class="btn btn-ghost btn-sm" type="button" id="cancelEdit">Cancel</button>`;
+  $("cancelEdit").onclick = resetForm;
+  $("fNote").hidden = false;
+  $("title").value = clip.title; $("title").disabled = false; $("title").dataset.auto = "0";
+  document.querySelector(`input[name=fmt][value="${last.format}"]`).checked = true;
+  await openFilm(f, +last.in_s, true);
+  state.kept.clear(); state.trims = {};
+  if (last.cuts && last.cuts.length) {
+    last.cuts.forEach(c => {
+      for (let i = c.first; i <= c.last; i++) state.kept.add(i);
+      if (c.trimIn || c.trimOut) state.trims[`${c.first}-${c.last}`] = { trimIn: c.trimIn || 0, trimOut: c.trimOut || 0 };
+    });
+  } else {   // a version made before stretches existed: tick the sentences inside its start and end
+    state.sent.forEach((s, i) => { if (s.t >= +last.in_s - 0.5 && s.end <= +last.out_s + 0.8) state.kept.add(i); });
+  }
+  state.straps = (last.straps && last.straps.length) ? last.straps.map(s => ({ ...s }))
+    : last.speaker ? [{ name: last.speaker, inst: last.role_line || "", at: 0.3, dur: 4.7 }] : [];
+  state.strapsTouched = true;
+  $("endHead").value = last.end_head || END_HEAD; $("endHead").dataset.touched = "1";
+  $("endSub").value = last.end_sub != null ? last.end_sub : shortTitle(f).slice(0, 70); $("endSub").dataset.touched = "1";
+  endCount(); refresh();
+  window.scrollTo({ top: 0 });
+}
+
+/* ---------------- clips list ---------------- */
+let pollTimer = null;
+const STEPS = { queued: 0, rendering: 1, awaiting_review: 2 };
+
+async function workerOnline() {
+  const { data: rows } = await sb.from("worker_status").select("*");
+  const cloud = (rows || []).find(r => r.id === "cloud");
+  if (cloud) {   // the cloud renderer sleeps between clips and wakes when one is queued
+    const age = (Date.now() - new Date(cloud.last_seen).getTime()) / 1000;
+    if (cloud.state === "rendering" && age > 600) return { on: false, text: "The cloud renderer hasn't reported for a while. Clips wait safely in the queue; tell Made Clear if this lasts." };
+    if (cloud.state === "waiting") return { on: false, text: `The cloud renderer can't reach the film files: ${cloud.detail || "unknown problem"}. Clips wait in the queue.` };
+    return { on: true, text: cloud.state === "rendering" ? "The cloud renderer is making a video." : "The cloud renderer is ready. It starts by itself when a clip is queued." };
+  }
+  const data = (rows || []).find(r => r.id === "studio-mac");
+  if (!data) return { on: false, text: "The renderer hasn't connected yet. Clips wait safely in the queue until it does." };
+  const age = (Date.now() - new Date(data.last_seen).getTime()) / 1000;
+  const on = data.state !== "stopped" && (age < 30 || (data.state === "rendering" && age < 240));
+  if (!on) return { on, text: `The renderer is offline (last seen ${when(data.last_seen)}). Clips wait safely in the queue and start as soon as it's back.` };
+  if (data.state === "waiting") return { on: false, text: `The renderer is on but can't reach the film files: ${data.detail || "the footage drive isn't connected"}. Clips wait in the queue.` };
+  return { on, text: data.state === "rendering" ? "The renderer is online and making a video." : "The renderer is online and ready." };
+}
+
+let fineEdits = new Map();   // version id -> latest fine-edit request
+async function loadClips() {
+  clearTimeout(pollTimer);
+  const [{ data, error }, worker] = await Promise.all([
+    sb.from("clips").select("*, owner:profiles!clips_created_by_fkey(name,email), clip_versions(*, reviews(*, reviewer:profiles!reviews_reviewer_fkey(name,email)))")
+      .order("created_at", { ascending: false }),
+    workerOnline(),
+  ]);
+  const { data: fe } = await sb.from("fine_edits").select("id, version_id, note, status, done_note, done_at, created_at").order("created_at", { ascending: false });
+  fineEdits = new Map();
+  (fe || []).forEach(r => { if (!fineEdits.has(r.version_id)) fineEdits.set(r.version_id, r); });
+  $("worker").innerHTML = `<span class="dot ${worker.on ? "" : "off"}"></span><span>${esc(worker.text)}</span>`;
+  const box = $("clips");
+  if (error) { box.innerHTML = `<p class="empty">The clips didn't load: ${esc(error.message)}</p>`; return; }
+  if (!data.length) { box.innerHTML = `<p class="empty">No clips yet. <a href="#new">Make the first one.</a></p>`; return; }
+  box.innerHTML = "";
+  let busy = false;
+  data.forEach(clip => {
+    clip.clip_versions.sort((a, b) => a.version - b.version);
+    const last = clip.clip_versions[clip.clip_versions.length - 1];
+    if (!last) return;
+    if (["queued", "rendering"].includes(last.status)) busy = true;
+    box.appendChild(clipCard(clip, last, worker));
+  });
+  schedulePoll(busy ? 4000 : 20000);
+}
+// Refreshing rebuilds the cards, so hold off while someone is watching a clip.
+function schedulePoll(ms) {
+  pollTimer = setTimeout(() => {
+    if (location.hash !== "#mine") return;
+    const watching = [...$("clips").querySelectorAll("video")].some(v => !v.paused && !v.ended);
+    watching ? schedulePoll(4000) : loadClips();
+  }, ms);
+}
+
+const who = p => p ? (p.name || p.email) : "someone";
+const spanText = v => {
+  const n = (v.cuts || []).length;
+  return n > 1 ? `${n} stretches from ${tc(v.in_s)} to ${tc(v.out_s)}` : `${tc(v.in_s)} to ${tc(v.out_s)}`;
+};
+
+function steps(v, worker) {
+  const at = STEPS[v.status];
+  const est = v.claimed_at ? Math.max(5, 45 - Math.round((Date.now() - new Date(v.claimed_at).getTime()) / 1000)) : 45;
+  const rows = [
+    ["Queued", v.status === "queued" ? (worker.on ? "Starting in a moment" : "Waiting for the renderer") : when(v.created_at)],
+    ["Making the video", v.status === "rendering" ? `About ${est} seconds left` : (at > 1 ? "Done" : "")],
+    ["Ready to send", at === 2 ? "Send the review link below" : "You'll get a review link"],
+  ];
+  return `<div class="steps">${rows.map(([b, s], i) => `<div class="step ${i < at ? "done" : i === at ? "now" : "wait"}"><b>${b}</b><span>${esc(s)}</span></div>`).join("")}</div>`;
+}
+
+/** Route a rendered version to Made Clear with a Premiere XML of its cuts, or show where that request stands. */
+function fineEditBlock(clip, v) {
+  const box = el("div", "fine");
+  const fe = fineEdits.get(v.id);
+  if (fe && fe.status === "open") {
+    box.innerHTML = `<div class="note"><b>With Made Clear for a fine edit, since ${esc(when(fe.created_at))}</b>${esc(fe.note)}</div>`;
+    return box;
+  }
+  if (fe && fe.status === "done") {
+    box.innerHTML = `<div class="note"><b>Made Clear finished the fine edit, ${esc(when(fe.done_at))}</b>${esc(fe.done_note || "Done.")}</div>`;
+  }
+  const open = el("button", "btn btn-light btn-sm", "Route to Made Clear for fine edit"); open.type = "button";
+  const form = el("form", "fine-form"); form.hidden = true; form.noValidate = true;
+  form.innerHTML = `<div class="field"><label for="fe-${v.id}">What needs fine editing <span class="opt">(Made Clear sees this with a Premiere Pro XML of version ${v.version})</span></label>
+      <textarea class="input" id="fe-${v.id}" maxlength="1000" rows="3"></textarea><span class="err">Say what Made Clear should do.</span></div>
+    <div class="btns"><button class="btn btn-dark btn-sm" type="submit">Send to Made Clear</button><button class="btn btn-ghost btn-sm" type="button" data-x>Cancel</button></div>
+    <p class="warn" aria-live="polite"></p>`;
+  open.onclick = () => { form.hidden = false; open.hidden = true; form.querySelector("textarea").focus(); };
+  form.querySelector("[data-x]").onclick = () => { form.hidden = true; open.hidden = false; };
+  form.onsubmit = async e => {
+    e.preventDefault();
+    const note = form.querySelector("textarea").value.trim();
+    form.querySelector(".field").classList.toggle("invalid", !note);
+    if (!note) return;
+    const f = Clips.film(clip.film_id);
+    const btn = form.querySelector("[type=submit]"); btn.disabled = true; btn.textContent = "Sending…";
+    const { error } = await sb.from("fine_edits").insert({ clip_id: clip.id, version_id: v.id, note,
+      xml: Clips.premiereXML({ clip, version: v, film: f, note }) });
+    if (error) { btn.disabled = false; btn.textContent = "Send to Made Clear"; form.querySelector(".warn").textContent = `That didn't go through: ${error.message}`; return; }
+    loadClips();
+  };
+  box.append(open, form);
+  return box;
+}
+
+const urlCache = new Map();   // path -> { url, at }: signed links last an hour, so reuse them across refreshes
+async function previewUrl(path) {
+  const hit = urlCache.get(path);
+  if (hit && Date.now() - hit.at < 45 * 60 * 1000) return hit.url;
+  const url = await Clips.fileUrl(path);
+  urlCache.set(path, { url, at: Date.now() });
+  return url;
+}
+
+/** Watch what was made: the watermarked preview until approval, then the approved file itself. */
+function watchBlock(v) {
+  const approved = v.status === "approved" && v.storage_path;
+  const path = approved ? v.storage_path : v.preview_path;
+  const box = el("div", "watch");
+  if (!path) {
+    box.innerHTML = `<p><b>Preview on its way</b>The renderer makes a watermarked preview of each clip. It'll appear here shortly.</p>`;
+    return box;
+  }
+  const video = document.createElement("video");
+  video.controls = true; video.preload = "metadata"; video.playsInline = true;
+  video.setAttribute("controlslist", "nodownload"); video.oncontextmenu = e => e.preventDefault();
+  video.setAttribute("aria-label", approved ? `Approved version ${v.version}` : `Preview of version ${v.version}`);
+  box.appendChild(video);
+  box.appendChild(el("p", "", approved
+    ? `<b>Approved file</b>This is the exact file that was approved.`
+    : `<b>Watermarked preview</b>A smaller copy stamped “For review – not approved”, so you can check what you made. The clean file unlocks when someone approves this version.`));
+  previewUrl(path).then(url => { video.src = url; },
+    e => { box.innerHTML = `<p><b>The preview didn't load</b>${esc(e.message)}</p>`; });
+  return box;
+}
+
+function clipCard(clip, v, worker) {
+  const f = Clips.film(clip.film_id);
+  const card = el("article", "clip");
+  const lastReview = (v.reviews || []).slice().sort((a, b) => a.created_at < b.created_at ? 1 : -1)[0];
+  card.innerHTML = `
+    <div><h3>${esc(clip.title)}</h3>
+      <div class="meta">${esc(f ? shortTitle(f) : displayTitle(clip.film_title))}, ${spanText(v)} · ${esc(v.format)} · version ${v.version} · by ${esc(who(clip.owner))}, ${esc(when(v.created_at))}</div></div>
+    <div class="st">${lozenge(v.status)}</div>
+    <div class="body"></div>`;
+  const body = card.querySelector(".body");
+  const reviewUrl = `${location.origin}/review.html?clip=${clip.id}`;
+
+  if (v.status in STEPS) body.insertAdjacentHTML("beforeend", steps(v, worker));
+  if (v.storage_path) body.appendChild(watchBlock(v));
+  if (v.status === "failed") {
+    body.appendChild(el("div", "note", `<b>Couldn't make the video</b>${esc(v.error || "Unknown problem.")}`));
+    const b = el("button", "btn btn-light btn-sm", "Change it and try again"); b.type = "button"; b.onclick = () => newVersion(clip, v);
+    body.appendChild(b);
+  } else if (v.status === "awaiting_review") {
+    body.appendChild(el("p", "", "Send this link to whoever is approving it. They'll approve it or ask for a change."));
+    const row = el("div", "linkrow");
+    row.innerHTML = `<input class="input" readonly value="${esc(reviewUrl)}" aria-label="Review link">`;
+    const copy = el("button", "btn btn-dark btn-sm", "Copy link"); copy.type = "button";
+    copy.onclick = () => navigator.clipboard.writeText(reviewUrl).then(() => { copy.textContent = "Copied"; setTimeout(() => copy.textContent = "Copy link", 1600); }, () => row.querySelector("input").select());
+    const mail = el("a", "btn btn-light btn-sm", "Email it");
+    mail.href = `mailto:?subject=${encodeURIComponent(`For review: ${clip.title} (v${v.version})`)}&body=${encodeURIComponent(`Please review this social clip:\n\n${reviewUrl}\n\n${f ? shortTitle(f) : displayTitle(clip.film_title)}, ${spanText(v)}, ${v.format}.`)}`;
+    row.append(copy, mail); body.appendChild(row);
+  } else if (v.status === "changes_requested") {
+    body.appendChild(el("div", "note", `<b>${esc(who(lastReview && lastReview.reviewer))} asked for a change, ${esc(when(lastReview && lastReview.created_at))}</b>${esc(lastReview ? lastReview.note : "")}`));
+    const b = el("button", "btn btn-dark btn-sm", `Make version ${v.version + 1}`); b.type = "button"; b.onclick = () => newVersion(clip, v);
+    body.appendChild(b);
+  } else if (v.status === "approved") {
+    body.appendChild(el("p", "", `Approved by ${esc(who(lastReview && lastReview.reviewer))}, ${esc(when(lastReview && lastReview.created_at))}${lastReview && lastReview.job_code ? ` · job code <b>${esc(lastReview.job_code)}</b>` : ""}.`));
+    const b = el("button", "btn btn-dark btn-sm", "Download the MP4"); b.type = "button";
+    b.onclick = async () => {
+      b.disabled = true;
+      try {
+        const name = `${clip.title.replace(/[^\w\- ]+/g, "").trim().replace(/\s+/g, "-").slice(0, 60) || "clip"}-v${v.version}-${v.format.replace(":", "x")}.mp4`;
+        location.href = await Clips.fileUrl(v.storage_path, { download: name });
+      } catch (e) { b.textContent = `The download didn't start: ${e.message}`; }
+      b.disabled = false;
+    };
+    body.appendChild(b);
+  }
+
+  if (v.storage_path) body.appendChild(fineEditBlock(clip, v));
+
+  if (clip.clip_versions.length > 1 || (v.reviews || []).length) {
+    const hist = el("div", "versions");
+    clip.clip_versions.slice().reverse().forEach(x => {
+      const r = (x.reviews || [])[0];
+      hist.appendChild(el("div", "", `Version ${x.version}: ${esc(Clips.STATUS[x.status]?.text || x.status)}${x.note ? `. Changed: ${esc(x.note)}` : ""}${r && r.note ? `. Note: “${esc(r.note)}”` : ""}`));
+    });
+    body.appendChild(hist);
+  }
+  if (!clip.clip_versions.some(x => x.status === "approved")) body.appendChild(deleteBlock(clip, v));
+  return card;
+}
+
+/** Delete a clip and everything made for it. Approved clips stay as the record of sign-off. */
+function deleteBlock(clip, v) {
+  const box = el("div", "del");
+  const ask = el("button", "link", "Delete this clip"); ask.type = "button";
+  box.appendChild(ask);
+  ask.onclick = () => {
+    if (v.status === "rendering") { box.innerHTML = `<span>This clip is rendering. You can delete it once it's done.</span>`; return; }
+    const n = clip.clip_versions.length;
+    box.innerHTML = `<span>Delete “${esc(clip.title)}”${n > 1 ? ` and its ${n} versions` : ""}? This can't be undone.</span>`;
+    const yes = el("button", "btn btn-dark btn-sm", "Delete"); yes.type = "button";
+    const no = el("button", "btn btn-ghost btn-sm", "Keep it"); no.type = "button";
+    const msg = el("span", "warn"); msg.setAttribute("aria-live", "polite");
+    box.append(yes, no, msg);
+    no.onclick = () => box.replaceWith(deleteBlock(clip, v));
+    yes.onclick = async () => {
+      yes.disabled = no.disabled = true; yes.textContent = "Deleting…";
+      try {
+        const token = (await sb.auth.getSession()).data.session?.access_token || "";
+        const r = await fetch("/api/delete-clip", { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` }, body: JSON.stringify({ clip_id: clip.id }) });
+        const j = await r.json().catch(() => ({}));
+        if (!r.ok) throw new Error(j.error || `HTTP ${r.status}`);
+        box.closest("article").remove();
+        loadClips();
+      } catch (e) {
+        yes.disabled = no.disabled = false; yes.textContent = "Delete"; msg.textContent = e.message;
+      }
+    };
+  };
+  return box;
+}
+
+/* ---------------- start ---------------- */
+$("find").onsubmit = e => { e.preventDefault(); search(); };
+$("filmSel").onchange = () => { if (!$("q").value.trim()) search(); };
+$("txBack").onclick = () => { $("tx").hidden = true; $("hits").hidden = false; };
+$("txEarlier").onclick = () => { state.from = Math.max(0, state.from - 40); drawTranscript(); };
+$("txLater").onclick = () => { state.to = Math.min(state.sent.length, state.to + 40); drawTranscript(); };
+$("playSel").onclick = preview;
+$("clearSel").onclick = clearSelection;
+$("clipForm").onsubmit = submit;
+$("title").oninput = () => { $("title").dataset.auto = "0"; };
+
+Clips.gate({
+  roles: ["marketer", "admin"], title: "Marketing",
+  intro: "Make social clips from HCA's footage library and send them for approval.",
+  otherPage: { href: "/review.html", text: "Go to clips awaiting review" },
+  switchTo: { href: "/review.html", text: "Switch to Approvals", role: "medaffairs" },
+}).then(async ({ profile }) => {
+  state.me = profile;
+  $("app").hidden = false; $("tabs").hidden = false;
+  if (profile.role === "admin") $("tabs").insertAdjacentHTML("beforeend", `<a href="/fine-edits">Fine edits</a>`);
+  await Clips.loadLibrary();
+  fillFilms(); endDefaults(null); loadSpeakers();
+  const p = new URLSearchParams(location.search);
+  const f = p.get("film") && Clips.film(p.get("film"));
+  if (f) openFilm(f, Number(p.get("t")) || 0);
+  showTab();
+}).catch(err => { $("gate").hidden = false; $("gate").textContent = `Something went wrong: ${err.message}`; });
+
+/* the end-card second line follows the film once one is opened */
+const _open = openFilm;
+openFilm = async (f, t, keep) => { await _open(f, t, keep); endDefaults(state.film); };
+</script>
+</body>
+</html>

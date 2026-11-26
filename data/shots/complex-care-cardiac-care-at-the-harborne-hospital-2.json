@@ -1,0 +1,69 @@
+{
+ "id": "complex-care-cardiac-care-at-the-harborne-hospital-2",
+ "title": "Complex Care - Cardiac care at The Harborne Hospital 2",
+ "file": "Complex Care - Cardiac care at The Harborne Hospital 2.mp4",
+ "facility": "The Harborne Hospital",
+ "duration": 170.9,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 11.39
+  },
+  {
+   "t": 11.39,
+   "end": 22.79
+  },
+  {
+   "t": 22.79,
+   "end": 34.18
+  },
+  {
+   "t": 34.18,
+   "end": 45.57
+  },
+  {
+   "t": 45.57,
+   "end": 56.97
+  },
+  {
+   "t": 56.97,
+   "end": 68.36
+  },
+  {
+   "t": 68.36,
+   "end": 79.75
+  },
+  {
+   "t": 79.75,
+   "end": 91.15
+  },
+  {
+   "t": 91.15,
+   "end": 102.54
+  },
+  {
+   "t": 102.54,
+   "end": 113.93
+  },
+  {
+   "t": 113.93,
+   "end": 125.33
+  },
+  {
+   "t": 125.33,
+   "end": 136.72
+  },
+  {
+   "t": 136.72,
+   "end": 148.11
+  },
+  {
+   "t": 148.11,
+   "end": 159.51
+  },
+  {
+   "t": 159.51,
+   "end": 170.9
+  }
+ ]
+}

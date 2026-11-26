@@ -1,0 +1,9 @@
+{
+  "name": "rdn-made-clear",
+  "private": true,
+  "type": "module",
+  "description": "Dependencies for the Netlify functions (the site itself has no build step).",
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.131.0"
+  }
+}

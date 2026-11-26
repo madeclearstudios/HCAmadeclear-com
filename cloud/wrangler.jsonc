@@ -1,0 +1,30 @@
+{
+  // The clip renderer: a Worker plus one container, on the hello@ Cloudflare
+  // account. Deployed by .github/workflows/deploy-renderer.yml (Docker is
+  // needed to build the image, and GitHub's runners have it).
+  "name": "hca-clip-renderer",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "containers": [
+    {
+      "class_name": "Renderer",
+      "image": "./Dockerfile",
+      "image_build_context": "..",
+      // 1 vCPU, 6 GiB: enough for 1080p x264 at a minute or two per clip
+      "instance_type": "standard-2",
+      "max_instances": 1
+    }
+  ],
+  "durable_objects": {
+    "bindings": [{ "name": "RENDERER", "class_name": "Renderer" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Renderer"] }],
+  "triggers": { "crons": ["* * * * *"] },
+  "vars": {
+    "SUPABASE_URL": "https://rlpidxfxazhqhvryiolh.supabase.co",
+    "R2_BUCKET": "hca-masters"
+  },
+  // Secrets, set by the deploy workflow: SUPABASE_SECRET_KEY, R2_ACCOUNT_ID,
+  // R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, TRIGGER_SECRET
+  "observability": { "enabled": true }
+}

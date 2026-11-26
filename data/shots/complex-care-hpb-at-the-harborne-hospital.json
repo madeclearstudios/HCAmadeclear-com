@@ -1,0 +1,85 @@
+{
+ "id": "complex-care-hpb-at-the-harborne-hospital",
+ "title": "Complex Care - HPB at The Harborne Hospital",
+ "file": "Complex Care - HPB at The Harborne Hospital.mp4",
+ "facility": "The Harborne Hospital",
+ "duration": 215.06,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 11.23
+  },
+  {
+   "t": 11.23,
+   "end": 22.46
+  },
+  {
+   "t": 22.46,
+   "end": 33.7
+  },
+  {
+   "t": 33.7,
+   "end": 44.93
+  },
+  {
+   "t": 44.93,
+   "end": 56.16
+  },
+  {
+   "t": 56.16,
+   "end": 67.39
+  },
+  {
+   "t": 67.39,
+   "end": 78.62
+  },
+  {
+   "t": 78.62,
+   "end": 89.86
+  },
+  {
+   "t": 89.86,
+   "end": 101.09
+  },
+  {
+   "t": 101.09,
+   "end": 112.32
+  },
+  {
+   "t": 112.32,
+   "end": 123.74
+  },
+  {
+   "t": 123.74,
+   "end": 135.15
+  },
+  {
+   "t": 135.15,
+   "end": 146.57
+  },
+  {
+   "t": 146.57,
+   "end": 157.98
+  },
+  {
+   "t": 157.98,
+   "end": 169.4
+  },
+  {
+   "t": 169.4,
+   "end": 180.81
+  },
+  {
+   "t": 180.81,
+   "end": 192.23
+  },
+  {
+   "t": 192.23,
+   "end": 203.65
+  },
+  {
+   "t": 203.65,
+   "end": 215.06
+  }
+ ]
+}

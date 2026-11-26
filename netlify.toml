@@ -1,5 +1,49 @@
-# If you already have a netlify.toml, just add the [[edge_functions]] block below to it.
+# hcamadeclear.com
+# Static site, no build step. Only site/ is published, so the pipeline and
+# raw data stay in the repo but never go public.
 
+[build]
+  publish = "site"
+
+# The whole site sits behind the password page (netlify/edge-functions/password-protect.ts,
+# SITE_PASSWORD in Netlify's environment variables).
 [[edge_functions]]
   path = "/*"
   function = "password-protect"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Robots-Tag = "noindex, nofollow, noarchive"
+
+[[headers]]
+  for = "/index.json"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/clipdata/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[redirects]]
+  from = "/marketing"
+  to = "/marketing.html"
+  status = 200
+
+[[redirects]]
+  from = "/clips"
+  to = "/marketing.html"
+  status = 200

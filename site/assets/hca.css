@@ -1,0 +1,26 @@
+/* ------------------------------------------------------------------
+   HCA Made Clear: HCA Healthcare UK brand layer over light.css.
+   HCA UK Brand Guidelines 2024: Navy and Denim lead on white, Teal is the
+   one highlight. Mark for HCA and Georgia Pro are licensed fonts we don't
+   have yet, so the system stacks below stand in (ask HCA's Studio,
+   creativestudio@hcahealthcare.co.uk, for web font files).
+-------------------------------------------------------------------*/
+:root {
+  --bg: #F5F5F1;              /* near Chrome Ultra Light */
+  --sunk: #E9E9E3;            /* Chrome Ultra Light */
+  --ink: #17253F;             /* Navy */
+  --ink-2: #575756;           /* Slate */
+  --ink-3: #898C90;           /* Chrome Dark */
+  --line: #E9E9E3;
+  --line-2: #C2C4C1;          /* Chrome Light */
+  --yellow: #83C8C4;          /* Teal takes Made Clear yellow's job: hover and highlight */
+  --hl: #BDDDEE;              /* 25% Cerulean behind a highlighted word */
+  --accent: #05477F;          /* Denim */
+  --accent-bg: #BDDDEE;
+  --head: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --body: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.btn-dark { background: #17253F; border-color: #17253F; color: #fff; }
+.btn-dark:hover { background: #05477F; border-color: #05477F; color: #fff; }
+.logo-pill { background: #17253F !important; color: #fff !important; }
+.logo-pill b { color: #83C8C4; font-weight: 600; }

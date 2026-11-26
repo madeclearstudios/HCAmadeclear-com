@@ -1,0 +1,184 @@
+/* ------------------------------------------------------------------
+   RDN Made Clear, light theme. Shared by the homepage trial (light.html),
+   sign-in (login.html), the test (test.html) and the client dashboard
+   (admin.html).
+
+   Off-white ground, white cards with soft shadows and rounded corners,
+   pill controls. Borna for headings, labels and buttons; Clearface for
+   reading. Yellow is kept for the one thing to press (Take the test) and
+   as a highlighter behind a word.
+-------------------------------------------------------------------*/
+@font-face { font-family: "Borna"; src: url("fonts/borna-regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Borna"; src: url("fonts/borna-medium.woff2") format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "Borna"; src: url("fonts/borna-semibold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Borna"; src: url("fonts/borna-bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Clearface"; src: url("fonts/clearface-regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Clearface"; src: url("fonts/clearface-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Clearface"; src: url("fonts/clearface-bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+
+:root {
+  --bg: #F6F6F4;
+  --surface: #FFFFFF;
+  --sunk: #EFEFEC;
+  --ink: #111111;
+  --ink-2: #555555;
+  --ink-3: #8A8A86;
+  --line: #E6E6E2;
+  --line-2: #D9D9D4;
+  --yellow: #FFFF00;          /* Made Clear yellow: every button turns this on hover */
+  --hl: #FFF27A;
+  --good: #1F7A4D;
+  --good-bg: #E6F4EC;
+  --bad: #B3261E;
+  --bad-bg: #FBEAE8;
+  --accent: #2F6FEB;
+  --accent-bg: #EAF1FE;
+
+  --r-sm: 10px;
+  --r: 16px;
+  --r-lg: 22px;
+  --pill: 999px;
+  --shadow: 0 1px 2px rgba(17, 17, 17, .04), 0 4px 16px rgba(17, 17, 17, .05);
+  --shadow-lg: 0 2px 4px rgba(17, 17, 17, .04), 0 18px 48px rgba(17, 17, 17, .10);
+
+  --head: Borna, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --body: Clearface, Georgia, "Times New Roman", serif;
+  --data: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font-family: var(--body); font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4 { font-family: var(--head); font-weight: 600; margin: 0; letter-spacing: -.01em; text-wrap: balance; }
+button, input, select, textarea { font: inherit; color: inherit; }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+[hidden] { display: none !important; }
+
+/* Hover: any button or pill goes Made Clear yellow, with black text. Card-sized
+   buttons (a film, a test section) get a yellow ring instead of a fill. */
+.btn:hover, .btn-dark:hover, .btn-light:hover, .btn-ghost:hover, .btn-yellow:hover,
+.nav-pill a:hover, .nav-pill button:hover, .tabs button:hover, .seg button:hover,
+.user-menu .so:hover, .logo-pill:hover {
+  background: var(--yellow) !important; color: var(--ink) !important; filter: none;
+}
+.btn:disabled:hover { background: inherit !important; }
+.card-btn:hover, button.card:hover { box-shadow: 0 0 0 3px var(--yellow), var(--shadow-lg) !important; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.hl { background: var(--hl); padding: 0 .12em; border-radius: 4px; }
+.muted { color: var(--ink-2); }
+.eyebrow { font-family: var(--head); font-weight: 600; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+
+/* ---------- top bar: logo pill, nav pill, actions ---------- */
+.topbar {
+  position: sticky; top: 0; z-index: 20; display: flex; align-items: center; gap: 12px;
+  padding: calc(14px + env(safe-area-inset-top, 0px)) 24px 14px; background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: saturate(1.4) blur(10px); -webkit-backdrop-filter: saturate(1.4) blur(10px);
+}
+.logo-pill {
+  display: inline-flex; align-items: baseline; gap: 0; padding: 9px 16px; border-radius: var(--pill);
+  background: var(--surface); box-shadow: var(--shadow); text-decoration: none; color: var(--ink);
+  font-family: var(--head); font-size: 17px; letter-spacing: .01em; white-space: nowrap;
+}
+.logo-pill b { font-weight: 700; }
+.logo-pill:hover { box-shadow: var(--shadow-lg); }
+.nav-pill { display: flex; gap: 2px; padding: 4px; border-radius: var(--pill); background: var(--surface); box-shadow: var(--shadow); margin: 0 auto; }
+.nav-pill a, .nav-pill button {
+  font-family: var(--head); font-size: 14px; color: var(--ink-2); text-decoration: none; background: none; border: 0;
+  padding: 7px 14px; border-radius: var(--pill); cursor: pointer; white-space: nowrap;
+}
+.nav-pill a:hover, .nav-pill button:hover { color: var(--ink); background: var(--sunk); }
+.nav-pill [aria-current="page"], .nav-pill [aria-pressed="true"] { color: var(--ink); background: var(--sunk); }
+.top-actions { display: flex; gap: 8px; align-items: center; margin-left: auto; }
+.topbar .nav-pill + .top-actions { margin-left: 0; }
+
+/* ---------- buttons ---------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  font-family: var(--head); font-weight: 600; font-size: 15px; line-height: 1;
+  padding: 12px 20px; border-radius: var(--pill); border: 0; cursor: pointer; text-decoration: none; white-space: nowrap;
+}
+.btn-dark { background: var(--ink); color: #fff; }
+.btn-dark:hover { background: #333; }
+.btn-light { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+.btn-light:hover { box-shadow: var(--shadow-lg); }
+.btn-ghost { background: transparent; color: var(--ink-2); padding: 10px 12px; }
+.btn-ghost:hover { color: var(--ink); background: var(--sunk); }
+.btn-yellow { background: var(--yellow); color: var(--ink); }
+.btn-yellow:hover { filter: brightness(.96); }
+.btn:disabled { opacity: .45; cursor: default; }
+.btn-sm { font-size: 13px; padding: 8px 14px; }
+
+/* ---------- cards ---------- */
+.card { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); }
+.lozenge {
+  display: inline-flex; align-items: center; gap: 6px; font-family: var(--head); font-size: 12.5px; line-height: 1;
+  padding: 6px 10px; border-radius: var(--pill); background: var(--accent-bg); color: var(--accent); white-space: nowrap;
+}
+.lozenge.dashed { background: transparent; border: 1.5px dashed #9DBBF5; }
+.lozenge.grey { background: var(--sunk); color: var(--ink-2); }
+.lozenge.good { background: var(--good-bg); color: var(--good); }
+.lozenge.bad { background: var(--bad-bg); color: var(--bad); }
+
+/* ---------- forms ---------- */
+.field { display: flex; flex-direction: column; gap: 6px; }
+.field label { font-family: var(--head); font-size: 13.5px; font-weight: 500; color: var(--ink); }
+.field label .opt { color: var(--ink-3); font-weight: 400; }
+.input, .select {
+  width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line-2); background: var(--surface);
+  font-family: var(--head); font-size: 15px; color: var(--ink);
+}
+.select { appearance: none; -webkit-appearance: none; padding-right: 36px; cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23555' stroke-width='1.6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 14px center; }
+.input:focus, .select:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-bg); }
+.input::placeholder { color: var(--ink-3); }
+.field .err { font-family: var(--head); font-size: 12.5px; color: var(--bad); display: none; }
+.field.invalid .input, .field.invalid .select { border-color: var(--bad); }
+.field.invalid .err { display: block; }
+.check { display: flex; gap: 10px; align-items: flex-start; font-family: var(--head); font-size: 13.5px; color: var(--ink-2); line-height: 1.45; cursor: pointer; }
+.check input { margin-top: 2px; width: 17px; height: 17px; accent-color: var(--ink); flex: none; }
+
+/* ---------- the persistent Take the test button ---------- */
+.test-fab {
+  position: fixed; right: max(20px, env(safe-area-inset-right, 0px)); bottom: max(20px, env(safe-area-inset-bottom, 0px)); z-index: 30;
+  box-shadow: 0 6px 24px rgba(17, 17, 17, .18);
+  padding: 15px 22px; font-size: 15px;
+}
+.test-fab svg { width: 17px; height: 17px; }
+
+/* ---------- footer ---------- */
+.foot {
+  display: flex; gap: 16px; align-items: center; flex-wrap: wrap; padding: 28px 24px calc(28px + env(safe-area-inset-bottom, 0px));
+  font-family: var(--head); font-size: 12.5px; color: var(--ink-3); max-width: 1280px; margin: 0 auto;
+}
+.foot a { color: var(--ink-2); text-decoration: none; }
+.foot a:hover { color: var(--ink); text-decoration: underline; }
+.foot .sp { margin-left: auto; }
+
+@media (max-width: 760px) {
+  .topbar { padding-left: 14px; padding-right: 14px; gap: 8px; }
+  .topbar .nav-pill { display: none; }
+  .logo-pill { font-size: 15.5px; padding: 8px 13px; }
+  .btn { font-size: 14px; }
+  .test-fab { padding: 13px 18px; font-size: 14px; right: 14px; bottom: 14px; }
+}
+
+/* ---------- signed-in pill ---------- */
+[data-user-pill] { position: relative; }
+.user-btn { padding: 5px 14px 5px 5px; gap: 8px; }
+.avatar { width: 28px; height: 28px; border-radius: 50%; background: var(--hl); color: var(--ink); display: inline-flex; align-items: center; justify-content: center; font-family: var(--head); font-weight: 700; font-size: 11.5px; }
+.user-menu { position: absolute; right: 0; top: calc(100% + 8px); min-width: 230px; background: var(--surface); border-radius: var(--r); box-shadow: var(--shadow-lg); padding: 8px; z-index: 40; }
+.user-menu .who { display: flex; flex-direction: column; padding: 8px 10px 10px; border-bottom: 1px solid var(--line); margin-bottom: 6px; font-family: var(--head); font-size: 14px; }
+.user-menu .who span { color: var(--ink-3); font-size: 12.5px; }
+.user-menu .so { width: 100%; text-align: left; background: none; border: 0; padding: 9px 10px; border-radius: 10px; font-family: var(--head); font-size: 14px; cursor: pointer; }
+.user-menu .so:hover { background: var(--sunk); }
+@media (max-width: 760px) { .user-btn .nm { display: none; } .user-btn { padding: 5px; } }
+
+/* Test switched off for this deployment (see build.sh): hide every way in. */
+html.no-test [data-test-feature] { display: none !important; }

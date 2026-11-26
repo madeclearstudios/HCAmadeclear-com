@@ -1,0 +1,5 @@
+{
+  "_note": "HCA Made Clear: nothing blocked yet. Add topics (regex patterns) or film time ranges here; the studio and the renderer both refuse them.",
+  "blockedTopics": [],
+  "excludedRanges": []
+}

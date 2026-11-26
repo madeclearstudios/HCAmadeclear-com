@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Fine edits · HCA Made Clear</title>
+<link rel="stylesheet" href="assets/light.css">
+<link rel="stylesheet" href="assets/hca.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="assets/clips.js"></script>
+<style>
+  /* Made Clear's list of clips the marketing team has routed for a fine edit.
+     Each request has the marketer's note and a Premiere Pro XML of that
+     version, cut from the masters on the WONDR drive. Download it, edit in
+     Premiere, then mark the request done with a short note back. */
+  [hidden] { display: none !important; }
+  .tool-name { font-family: var(--head); font-size: 15px; color: var(--ink-2); white-space: nowrap; }
+  .gate { min-height: calc(100vh - 80px); display: flex; align-items: center; justify-content: center; padding: 24px 16px; }
+  .gate-card { width: 100%; max-width: 440px; padding: 28px; display: flex; flex-direction: column; gap: 16px; }
+  .gate-card h1 { font-size: 30px; margin: 0; }
+  .gate-card p { margin: 0; }
+  .gate-msg:empty { display: none; }
+  .gate-note { margin: 0; font-size: 13.5px; color: var(--ink-3); }
+  .who-role { font-family: var(--head); color: var(--ink-2); font-size: 14px; margin-right: 12px; }
+  [data-clip-user] { display: flex; align-items: center; }
+  /* Status: yellow is open, black is done */
+  .lozenge { background: var(--yellow); color: var(--ink); }
+  .lozenge.good { background: var(--ink); color: #fff; }
+
+  main.fe { max-width: 1100px; margin: 0 auto; padding: 28px 32px 72px; }
+  .intro { display: flex; flex-direction: column; gap: 6px; margin-bottom: 24px; }
+  .intro h1 { font-size: clamp(30px, 4vw, 42px); margin: 0; line-height: 1.1; }
+  .intro p { margin: 0; color: var(--ink-2); max-width: 70ch; }
+  h2 { font-size: 22px; margin: 28px 0 10px; }
+  .list { display: flex; flex-direction: column; gap: 12px; }
+  .req { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 18px 20px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 20px; }
+  .req h3 { font-size: 21px; margin: 0; }
+  .req .meta { font-size: 14.5px; color: var(--ink-2); }
+  .req .ask { grid-column: 1 / -1; background: var(--bg); border-radius: var(--r-sm); padding: 10px 12px; box-shadow: inset 4px 0 0 var(--ink); }
+  .req .ask b { display: block; font-family: var(--head); font-size: 13.5px; }
+  .req .acts { grid-column: 1 / -1; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .req form { grid-column: 1 / -1; display: flex; gap: 8px; flex-wrap: wrap; }
+  .req form .input { flex: 1 1 280px; min-width: 0; }
+  .empty { color: var(--ink-2); }
+  @media (max-width: 640px) { main.fe { padding: 20px 16px 56px; } .req { grid-template-columns: 1fr; } .who-role, .tool-name { display: none; } }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <a class="logo-pill" href="/marketing" title="Social clips">HCA&nbsp;<b>Made Clear</b></a>
+  <span class="tool-name">Fine edits</span>
+  <div class="top-actions" data-clip-user></div>
+</header>
+
+<section class="gate" id="gate"></section>
+
+<main class="fe" id="app" hidden>
+  <div class="intro">
+    <span class="eyebrow">Made Clear Studios</span>
+    <h1>Fine edits</h1>
+    <p>Clips the marketing team has routed to Made Clear. Download the Premiere Pro XML, open it in Premiere with the WONDR drive connected, make the edit, then mark the request done.</p>
+  </div>
+  <h2>Open</h2>
+  <div class="list" id="open"><p class="empty">Loading…</p></div>
+  <h2>Done</h2>
+  <div class="list" id="done"></div>
+</main>
+
+<script>
+const { sb, $, el, esc, tc, when, displayTitle, lozenge } = Clips;
+const who = p => p ? (p.name || p.email) : "someone";
+
+async function load() {
+  const { data, error } = await sb.from("fine_edits")
+    .select("*, requester:profiles!fine_edits_requested_by_fkey(name,email), clips(title, film_id, film_title), clip_versions(version, format, in_s, out_s, cuts, status)")
+    .order("created_at", { ascending: false });
+  if (error) { $("open").innerHTML = `<p class="empty">The list didn't load: ${esc(error.message)}</p>`; return; }
+  const open = data.filter(r => r.status === "open"), done = data.filter(r => r.status === "done");
+  $("open").innerHTML = open.length ? "" : `<p class="empty">Nothing waiting.</p>`;
+  $("done").innerHTML = done.length ? "" : `<p class="empty">None yet.</p>`;
+  open.forEach(r => $("open").appendChild(card(r)));
+  done.forEach(r => $("done").appendChild(card(r)));
+}
+
+function card(r) {
+  const v = r.clip_versions || {}, c = r.clips || {};
+  const f = Clips.film(c.film_id);
+  const n = (v.cuts || []).length;
+  const d = el("article", "req");
+  d.innerHTML = `<div><h3>${esc(c.title || "Clip")}</h3>
+      <div class="meta">${esc(displayTitle(f ? f.title : c.film_title))}, ${n > 1 ? `${n} stretches from ` : ""}${tc(v.in_s)} to ${tc(v.out_s)} · ${esc(v.format || "")} · version ${v.version ?? ""} · from ${esc(who(r.requester))}, ${esc(when(r.created_at))}</div></div>
+    <div>${r.status === "open" ? `<span class="lozenge">Open</span>` : `<span class="lozenge good">Done</span>`}</div>
+    <div class="ask"><b>What they asked for</b>${esc(r.note)}</div>
+    ${r.status === "done" ? `<div class="ask"><b>Made Clear's note, ${esc(when(r.done_at))}</b>${esc(r.done_note || "Done.")}</div>` : ""}
+    <div class="acts"></div>`;
+  const acts = d.querySelector(".acts");
+  const dl = el("button", "btn btn-dark btn-sm", "Download Premiere XML"); dl.type = "button";
+  dl.onclick = () => {
+    const name = `${(c.title || "clip").replace(/[^\w\- ]+/g, "").trim().replace(/\s+/g, "-").slice(0, 60)}-v${v.version}.xml`;
+    const a = el("a"); a.href = URL.createObjectURL(new Blob([r.xml], { type: "application/xml" })); a.download = name;
+    document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  };
+  acts.appendChild(dl);
+  const review = el("a", "btn btn-light btn-sm", "See the clip"); review.href = `/review.html?clip=${r.clip_id}`; acts.appendChild(review);
+  if (r.status === "open") {
+    const form = el("form"); form.noValidate = true;
+    form.innerHTML = `<input class="input" maxlength="1000" placeholder="Note back to marketing, e.g. New cut uploaded as version 3" aria-label="Note back to marketing">
+      <button class="btn btn-light btn-sm" type="submit">Mark done</button>`;
+    form.onsubmit = async e => {
+      e.preventDefault();
+      const b = form.querySelector("button"); b.disabled = true;
+      const { error } = await sb.from("fine_edits").update({ status: "done", done_note: form.querySelector("input").value.trim() || null, done_at: new Date().toISOString() }).eq("id", r.id);
+      if (error) { b.disabled = false; b.textContent = `Didn't save: ${error.message}`; return; }
+      load();
+    };
+    d.appendChild(form);
+  }
+  return d;
+}
+
+Clips.gate({
+  roles: ["admin"], title: "Made Clear Studios",
+  intro: "The list of clips routed to Made Clear for a fine edit. Sign in with your Made Clear email.",
+  otherPage: { href: "/marketing", text: "Go to social clips" },
+}).then(async () => {
+  $("app").hidden = false;
+  await Clips.loadLibrary();
+  load();
+}).catch(err => { $("gate").hidden = false; $("gate").textContent = `Something went wrong: ${err.message}`; });
+</script>
+</body>
+</html>
