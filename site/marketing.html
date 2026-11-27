@@ -184,6 +184,7 @@
     .who-role { display: none; }
   }
   /* Selects shots */
+  .hit-thumb { float: left; width: 112px; aspect-ratio: 16 / 9; object-fit: cover; margin: 2px 12px 4px 0; border-radius: 0 0 8px 0; }
   .shot { display: grid; grid-template-columns: 128px 1fr; gap: 12px; align-items: start; }
   .shot img { width: 128px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 0 0 10px 0; background: var(--sunk); }
   .shot-desc { display: block; }
@@ -210,12 +211,12 @@
     <div class="intro">
       <span class="eyebrow">HCA Made Clear library</span>
       <h1>Make a clip</h1>
-      <p>Find a moment, then tick the sentences to keep. They don't have to be next to each other: anything unticked in between is cut out. Hold Shift to tick a run of sentences. Aim for 35 to 45 seconds.</p>
+      <p>Search the footage, open a film, then tick the shots to keep. They don't have to be next to each other: anything unticked in between is cut out. Hold Shift to tick a run of shots. Most social cutaways work at 6 to 15 seconds.</p>
     </div>
     <div class="cols">
       <div>
         <form class="find" id="find" role="search" autocomplete="off">
-          <input class="input" id="q" type="search" placeholder="Search the words, for example blood pressure" aria-label="Search the words">
+          <input class="input" id="q" type="search" placeholder="Search the footage, for example MRI, physio or reception" aria-label="Search the footage">
           <select class="select" id="filmSel" aria-label="Film"><option value="">All films</option></select>
           <button class="btn btn-dark" type="submit">Search</button>
         </form>
@@ -233,7 +234,7 @@
         <form class="panel" id="clipForm" novalidate>
           <span class="eyebrow">Your clip</span>
           <div class="editing" id="editing" hidden></div>
-          <div class="sel-sum" id="selSum">Nothing ticked yet. Open a moment and tick the sentences to keep.</div>
+          <div class="sel-sum" id="selSum">Nothing ticked yet. Open a film and tick the shots to keep.</div>
           <div class="meter" id="meter" hidden><span id="len">0 s</span><span class="bar"><span class="target" id="target"></span><i id="lenBar"></i></span><span>target 35–45 s</span></div>
           <div class="warn" id="warn" aria-live="polite"></div>
           <div class="cuts" id="cuts"></div>
@@ -344,8 +345,10 @@ function search() {
       hits.push({ f, s });
     }
   }
-  $("hint").textContent = hits.length ? `${hits.length > 80 ? "First 80 of " : ""}${hits.length} moment${hits.length === 1 ? "" : "s"}. Open one to see the sentences around it.` : "Nothing found. Try fewer or different words.";
-  hits.slice(0, 80).forEach(({ f, s }) => out.appendChild(hitRow(f, s.t, esc(s.text).replace(re, m => `<mark>${m}</mark>`))));
+  $("hint").textContent = hits.length ? `${hits.length > 80 ? "First 80 of " : ""}${hits.length} moment${hits.length === 1 ? "" : "s"}. Open one to see the shots around it.` : "Nothing found. Try fewer or different words.";
+  hits.slice(0, 80).forEach(({ f, s }) => out.appendChild(hitRow(f, s.t,
+    (s.kind === "shot" ? `<img class="hit-thumb" src="./thumbs/${esc(f.id)}/${String(s.i + 1).padStart(3, "0")}.jpg" alt="" loading="lazy" onerror="this.remove()">` : "")
+    + esc(s.text).replace(re, m => `<mark>${m}</mark>`))));
 }
 
 function hitRow(f, t, html) {
@@ -361,7 +364,7 @@ async function openFilm(f, t, keep = false) {
   if (state.film && state.film.id !== f.id && !keep) clearSelection();
   $("hits").hidden = true; $("tx").hidden = false;
   $("txTitle").textContent = shortTitle(f);
-  $("txList").innerHTML = `<p class="hint" style="padding:12px 8px">Loading the sentences…</p>`;
+  $("txList").innerHTML = `<p class="hint" style="padding:12px 8px">Loading the shots…</p>`;
   try { state.sent = await loadSentences(f); }
   catch (e) { $("txList").innerHTML = `<p class="hint" style="padding:12px 8px">The sentences didn't load: ${esc(e.message)}</p>`; return; }
   state.film = f;
@@ -465,7 +468,7 @@ function summarise() {
   const has = cuts.length > 0;
   $("meter").hidden = !has; $("playSel").disabled = !has; $("clearSel").disabled = !has;
   const box = $("cuts"); box.innerHTML = "";
-  if (!has) { $("selSum").textContent = "Nothing ticked yet. Open a moment and tick the sentences to keep."; $("warn").textContent = ""; $("render").disabled = true; return; }
+  if (!has) { $("selSum").textContent = "Nothing ticked yet. Open a film and tick the shots to keep."; $("warn").textContent = ""; $("render").disabled = true; return; }
   const len = cuts.reduce((a, c) => a + c.out - c.in + PAD, 0);
   $("selSum").innerHTML = `<b>${esc(shortTitle(state.film))} · ${cuts.length} ${cuts.length === 1 ? "stretch" : "stretches"} kept${cuts.length > 1 ? `, joined at ${cuts.length - 1} ${cuts.length === 2 ? "cut" : "cuts"}` : ""}</b>`;
   $("len").textContent = `${Math.round(len)} s`;

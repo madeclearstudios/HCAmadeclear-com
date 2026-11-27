@@ -77,6 +77,10 @@
   /** Sentences of a film, each with an end time (the next sentence's start). */
   function sentences(f) {
     if (f._sent) return f._sent;
+    if (!f.segments && f.shots) {   // HCA Selects: search the shot descriptions and tags
+      f._sent = f.shots.map((s, i) => ({ i, t: s.t, end: s.end, text: s.desc || `Shot ${s.n}`, tags: s.tags || [], kind: "shot" }));
+      return f._sent;
+    }
     const segs = f.segments || [];
     f._sent = segs.map((s, i) => ({ i, t: s.t, end: i + 1 < segs.length ? segs[i + 1].t : Number(f.duration) || s.t + 6, text: s.text }));
     return f._sent;
