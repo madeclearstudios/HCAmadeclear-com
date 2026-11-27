@@ -1,0 +1,5059 @@
+{
+ "id": "the-neurological-rehabilitation-centre-at-the-wellington-hospital",
+ "title": "The Neurological Rehabilitation Centre at The Wellington Hospital",
+ "file": "The Neurological Rehabilitation Centre at The Wellington Hospital.mp4",
+ "facility": "The Wellington Hospital",
+ "duration": 2359.24,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 9.98,
+   "description": "An empty physiotherapy gym at the Neurological Rehabilitation Centre, with treatment couches, an exercise bike, balance trainers, gym balls and a dumbbell rack beside floor-to-ceiling windows. The camera glides past a blurred foreground object to reveal the room.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "treatment couch",
+    "exercise bike",
+    "balance trainer",
+    "exercise ball",
+    "dumbbell rack",
+    "chairs",
+    "therapy stool",
+    "electrotherapy unit"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 9.98,
+   "end": 19.97,
+   "description": "Camera moves past an out-of-focus monitor on a stand to reveal an empty neurological rehabilitation gym with treatment plinths, exercise bikes, chairs and a dumbbell rack beside floor-to-ceiling windows.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "treatment plinths",
+    "exercise bikes",
+    "dumbbell rack",
+    "balance trainer",
+    "monitor on stand",
+    "height-adjustable table"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 19.97,
+   "end": 29.95,
+   "description": "Empty rehabilitation gym in the Neurological Rehabilitation Centre at The Wellington Hospital, with a ceiling hoist track, dumbbell rack, exercise balls, treatment plinths and an exercise bike beside floor-to-ceiling windows looking onto trees. The camera moves through the room with much of the frame taken up by the ceiling.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "ceiling hoist track",
+    "exercise bike",
+    "dumbbell rack",
+    "exercise balls",
+    "treatment plinth"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 29.95,
+   "end": 39.94,
+   "description": "An empty neurological rehabilitation gym at The Wellington Hospital with treatment plinths, exercise bikes, a dumbbell rack and chairs beside floor-to-ceiling windows looking onto trees. The camera moves slowly forward through the room.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "treatment plinths",
+    "arm ergometer",
+    "dumbbell rack",
+    "height-adjustable table",
+    "chairs"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 39.94,
+   "end": 49.92,
+   "description": "An empty rehabilitation gym at the Neurological Rehabilitation Centre, with treatment plinths, an exercise bike, dumbbell racks, exercise balls and chairs beside floor-to-ceiling windows overlooking trees. The camera moves slowly across the room.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "treatment plinth",
+    "exercise bike",
+    "dumbbell rack",
+    "balance trainer",
+    "exercise balls",
+    "ceiling hoist"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 49.92,
+   "end": 61.61,
+   "description": "Lateral tracking shot through an empty rehabilitation gym in the Neurological Rehabilitation Centre at The Wellington Hospital, moving past exercise bikes, an arm-crank ergometer and stools, with treatment plinths and exercise balls in the background.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "exercise bike",
+    "arm-crank ergometer",
+    "treatment plinth",
+    "exercise ball"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 61.61,
+   "end": 73.3,
+   "description": "Camera tracks sideways past an out-of-focus pillar in the empty rehabilitation gym at The Wellington Hospital's Neurological Rehabilitation Centre, showing a recumbent exercise bike, chairs, a stool and treatment couches in the background. No people are in shot.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "recumbent exercise bike",
+    "treatment couch",
+    "exercise balls",
+    "therapy stool",
+    "chairs"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 73.3,
+   "end": 84.98,
+   "description": "A camera move through the rehabilitation gym at The Wellington Hospital's Neurological Rehabilitation Centre, travelling past exercise bikes to a rack of dumbbells with gym balls behind. A treatment couch with pillows is visible in the background and no people are in shot.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "exercise bike",
+    "dumbbell rack",
+    "gym balls",
+    "weight plate",
+    "treatment couch"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 84.98,
+   "end": 96.67,
+   "description": "Red and blue exercise balls and dumbbells sit beside two patient monitors on wheeled stands in an empty rehabilitation gym at The Neurological Rehabilitation Centre. The camera moves slowly across the equipment.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "patient monitor",
+    "exercise balls",
+    "dumbbells"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 96.67,
+   "end": 108.36,
+   "description": "Racks of dumbbells, exercise balls and weight plates in the neurological rehabilitation gym, filmed with a slow sideways camera move past the equipment. No people are in the room.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "dumbbell rack",
+    "exercise balls",
+    "weight plates"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 108.36,
+   "end": 120.05,
+   "description": "Racks of chrome dumbbells, small coloured hand weights and blue and red exercise balls in the rehabilitation gym at The Neurological Rehabilitation Centre, The Wellington Hospital. The camera tracks slowly along the weight racks with no people in shot.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "dumbbell rack",
+    "exercise balls",
+    "barbell with weight plates"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 120.05,
+   "end": 131.74,
+   "description": "Gimbal move across an empty accessible therapy kitchen in the Neurological Rehabilitation Centre at The Wellington Hospital, showing a height-adjustable worktop with sink, kettle, induction hob, built-in oven and extractor hood used for daily living skills practice.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "height-adjustable kitchen worktop",
+    "induction hob",
+    "built-in oven",
+    "extractor hood",
+    "kettle",
+    "sink",
+    "toaster",
+    "waste bins"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 131.74,
+   "end": 143.42,
+   "description": "An empty accessible therapy kitchen in the Neurological Rehabilitation Centre at The Wellington Hospital, with a height-adjustable worktop, sink, hob, kettle and wall oven. The camera glides right and forward past a chair in the foreground.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "height-adjustable kitchen worktop",
+    "induction hob",
+    "wall oven",
+    "sink",
+    "kettle",
+    "toaster",
+    "extractor hood"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 143.42,
+   "end": 155.11,
+   "description": "Camera moves through a doorway into an MRI suite, where a clinician in a white coat and a colleague in a maroon top walk and talk beside the MRI scanner. An anaesthetic machine and monitoring equipment sit against the wall on the left.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "anaesthetic machine",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 155.11,
+   "end": 166.8,
+   "description": "A staff member in a maroon tunic guides a patient in a white gown into an MRI scanning room and helps her sit on the scanner table. They chat and smile as she gets ready for her scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "anaesthetic machine"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 166.8,
+   "end": 178.49,
+   "description": "A radiographer in a maroon tunic helps a patient in a white gown lie back onto the table of a Siemens MRI scanner, guiding her with his hands as she settles into position.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 178.49,
+   "end": 190.18,
+   "description": "A radiographer in a maroon tunic stands beside a Siemens MRI scanner and prepares a patient lying on the scanner table, covered with a blanket, for a scan in the imaging suite at The Wellington Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 190.18,
+   "end": 201.86,
+   "description": "A radiographer in a maroon tunic walks up to a Siemens MRI scanner and places a foam positioning pad under the legs of a patient lying on the scanner table. The patient's feet face the camera and their head is inside the scanner bore.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "foam positioning pad",
+    "MRI-compatible patient monitor"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 201.86,
+   "end": 213.55,
+   "description": "A radiographer in maroon scrubs walks past a patient lying on an MRI scanner table and prepares equipment beside the scanner. The patient's legs and feet face the camera; their face is not visible.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 213.55,
+   "end": 225.24,
+   "description": "A radiographer in a maroon tunic positions a head coil over a patient lying on the table of a Siemens MRI scanner, preparing them for a scan.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 225.24,
+   "end": 236.93,
+   "description": "A radiographer positions a head coil over a patient lying on the table of a Siemens MRI scanner, then steps back and gestures as the patient is prepared for the scan.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 236.93,
+   "end": 248.62,
+   "description": "A radiographer in a maroon tunic stands beside an MRI scanner as a patient in a hospital gown, with a head coil in place, lies on the scanner table and is moved into the bore at The Wellington Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 248.62,
+   "end": 260.3,
+   "description": "A radiographer in a maroon tunic stands beside a Siemens MRI scanner while a patient in a gown lies on the scanner table with a head coil in place, ready for a scan.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 260.3,
+   "end": 271.99,
+   "description": "A radiographer stands beside an MRI scanner as a patient lies on the scanner table with their head inside the bore, in an imaging suite at The Wellington Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 271.99,
+   "end": 283.68,
+   "description": "A radiographer in a maroon top positions a patient lying on the MRI scanner table and prepares them for a scan in an imaging suite.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI contrast injector"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 283.68,
+   "end": 295.67,
+   "description": "MRI planning software on a control room monitor displays sagittal, coronal and axial brain scans with slice positioning overlays, as a staff member sits out of focus in the foreground.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI console monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 295.67,
+   "end": 307.66,
+   "description": "In an MRI control room, a console monitor shows sagittal, coronal and axial brain scans being planned while a second Siemens monitor shows a camera view of a patient lying in the MRI scanner. The camera moves across the desk toward a staff member seated at the console.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurology"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI control console",
+    "patient camera monitor",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "SIEMENS; CLOSE; OPEN",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 307.66,
+   "end": 319.65,
+   "description": "A staff member in a maroon uniform types on a keyboard at a computer workstation with several monitors, shown in profile and in close views of his hands. Filmed at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [],
+   "kit": [
+    "computer monitors",
+    "keyboard",
+    "computer mouse"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 319.65,
+   "end": 331.64,
+   "description": "A staff member in maroon scrubs works at a computer workstation with monitoring screens, then the camera moves across to a seated person holding an acoustic guitar while a staff member in navy scrubs stands nearby in the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "patient monitor",
+    "computer workstation",
+    "acoustic guitar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 331.64,
+   "end": 343.63,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 343.63,
+   "end": 355.62,
+   "description": "A man holding a guitar sits on a chair beside patients in wheelchairs during a group session, likely music therapy, at the Neurological Rehabilitation Centre. The camera moves right past the guitarist's legs and a wheelchair user's footplates to reveal a patient in a yellow and black top seated in a powered wheelchair, with a staff member standing nearby.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "powered wheelchair",
+    "ankle-foot orthoses",
+    "acoustic guitar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 355.62,
+   "end": 367.61,
+   "description": "A woman sits in a wheelchair in a rehabilitation therapy room. The camera tilts up from her feet to her face, past an out-of-focus person in the foreground holding a wooden object.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "whiteboard",
+    "wooden instrument or therapy object",
+    "arm splint"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 367.61,
+   "end": 379.6,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 379.6,
+   "end": 391.59,
+   "description": "A music therapy session in the Neurological Rehabilitation Centre: a therapist plays acoustic guitar for two patients in wheelchairs while a staff member stands beside them. The shot moves in close on the guitar being strummed and fretted.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "wheelchair",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 391.59,
+   "end": 403.58,
+   "description": "Close-up of a person's hand playing a classical acoustic guitar, with other people seated in a blurred group behind them, possibly during a music session.",
+   "service_lines": [],
+   "kit": [
+    "acoustic guitar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 403.58,
+   "end": 415.57,
+   "description": "Close-up of a hand strumming a classical guitar during a music session in the Neurological Rehabilitation Centre at The Wellington Hospital. Other people sit blurred in the background, and one may be in a wheelchair.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "classical guitar",
+    "wheelchair (background, out of focus)"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 415.57,
+   "end": 427.56,
+   "description": "A man, likely a patient, plays a classical acoustic guitar during a music activity in the Neurological Rehabilitation Centre at The Wellington Hospital. The camera moves from his face down to his hands on the strings and fretboard, with a wheelchair visible in the background.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "wheelchair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 427.56,
+   "end": 439.55,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 439.55,
+   "end": 451.54,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 451.54,
+   "end": 463.53,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 463.53,
+   "end": 475.52,
+   "description": "A staff member plays an acoustic guitar for a small group in the rehabilitation gym at The Neurological Rehabilitation Centre, The Wellington Hospital, as a patient in a powered wheelchair and others listen during a music therapy session. Parallel bars and treatment plinths are visible behind him.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "parallel bars",
+    "treatment plinths",
+    "powered wheelchair",
+    "acoustic guitar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 475.52,
+   "end": 487.51,
+   "description": "A music therapist plays an acoustic guitar to a group of patients in wheelchairs, joined by a staff member, during a group session in a rehabilitation room at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "wheelchair",
+    "walking frame",
+    "computer monitor",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 3
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 487.51,
+   "end": 499.5,
+   "description": "A man playing an acoustic guitar leads a group music session for four patients in wheelchairs in a rehabilitation room at the Neurological Rehabilitation Centre, while a staff member kneels beside one patient to assist.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "wheelchairs",
+    "computer monitors",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 4
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 499.5,
+   "end": 511.49,
+   "description": "Two older patients sit in wheelchairs in a therapy room at the Neurological Rehabilitation Centre, listening as a musician plays a cello in the out-of-focus foreground, likely during a music therapy session. The room has a clinical hand-wash sink and wall-mounted dispensers.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "cello",
+    "clinical hand-wash sink"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 511.49,
+   "end": 523.48,
+   "description": "A staff member carrying an acoustic guitar walks towards an older man in a wheelchair in a clinical room with sinks, ahead of a music therapy session. A second wheelchair user is partly visible behind them.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "acoustic guitar",
+    "clinical hand-wash sinks"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 523.48,
+   "end": 535.47,
+   "description": "A staff member plays acoustic guitar for a group music therapy session at The Neurological Rehabilitation Centre at The Wellington Hospital. Patients in wheelchairs sit in a circle with a smiling staff member in a navy uniform, and the camera tracks slowly past them.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "acoustic guitar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 4
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 535.47,
+   "end": 547.46,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 547.46,
+   "end": 559.45,
+   "description": "A staff member in a navy polo plays an acoustic guitar during a music therapy session as the camera moves across to a patient in a wheelchair with arm supports and leg braces, seated beside a staff member. Faces are not shown.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "wheelchair",
+    "wheelchair arm supports",
+    "ankle-foot orthoses",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 559.45,
+   "end": 571.44,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 571.44,
+   "end": 583.44,
+   "description": "A staff member holding an acoustic guitar talks and gestures to a group during a music session in the rehabilitation gym at The Wellington Hospital's Neurological Rehabilitation Centre. A blonde-haired attendee is seen from behind, out of focus, in the foreground.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "treatment plinth",
+    "acoustic guitar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 583.44,
+   "end": 595.43,
+   "description": "A staff member in a navy polo shirt plays an acoustic guitar and sings to a small group seated in the foreground, in a rehabilitation gym at The Neurological Rehabilitation Centre. Treatment plinths and folding screens are visible behind him, suggesting a music therapy session.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "treatment plinth",
+    "folding privacy screens",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 595.43,
+   "end": 607.42,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 607.42,
+   "end": 619.41,
+   "description": "Low-angle tracking shot along a row of people seated in wheelchairs, showing their feet resting on the footplates and the chair wheels on a light-coloured floor in the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 619.41,
+   "end": 631.4,
+   "description": "Low-angle view of a patient's lower legs and feet resting on wheelchair footplates, one ankle in a brace, in a rehabilitation room at the Neurological Rehabilitation Centre. A second wheelchair user's feet and chair frame are out of focus in the foreground.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "ankle brace"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 631.4,
+   "end": 643.39,
+   "description": "A patient in a wheelchair sits with his hand on his chest and smiles during a music therapy session at The Neurological Rehabilitation Centre, as a guitar is played in the foreground. The camera moves across to a smiling HCA staff member in the rehab room.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "guitar",
+    "wheelchair",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "Hilton, alteryx, Pirelli (logos on patient's shirt); HCA Healthcare (logo on staff polo)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 643.39,
+   "end": 655.38,
+   "description": "An older man in a wheelchair listens and talks during a group session in a therapy room at The Neurological Rehabilitation Centre, The Wellington Hospital. The camera moves across to a smiling woman in a striped shirt, also seated in a wheelchair, beside a staff member in a navy HCA polo shirt.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "wash basin",
+    "whiteboard",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 655.38,
+   "end": 667.37,
+   "description": "A woman with blonde hair in a striped shirt sits in a wheelchair and talks with someone off camera, gesturing with her hand, in a room with wooden cupboards at the Neurological Rehabilitation Centre at The Wellington Hospital. Another person in a dark top is partly visible at the edge of frame.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 667.37,
+   "end": 679.36,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 679.36,
+   "end": 691.35,
+   "description": "A patient wearing an orange and black shirt and an arm support harness sits holding a hand grip during a therapy session in the neurological rehabilitation gym at The Wellington Hospital. A staff member is partly visible beside him, with robotic rehabilitation equipment and windows behind.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "robotic upper-limb rehabilitation device",
+    "arm support harness",
+    "monitor screen"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "OKX; Hocoma",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 691.35,
+   "end": 703.34,
+   "description": "A male patient in a wheelchair with arm supports listens as someone plays an acoustic guitar in the foreground during a music therapy session in a rehabilitation room with large windows.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair with arm supports",
+    "acoustic guitar",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "DXC (sponsor logo on patient's shirt)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 703.34,
+   "end": 715.33,
+   "description": "A music therapy group session in the Neurological Rehabilitation Centre at The Wellington Hospital, where patients in wheelchairs sit in a circle and listen as a therapist plays an acoustic guitar in the foreground. A staff member in an HCA uniform sits with the group.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "acoustic guitar",
+    "wheelchair",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 3
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA (staff uniform badge)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 715.33,
+   "end": 727.32,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 727.32,
+   "end": 739.31,
+   "description": "An older man in a wheelchair talks with a blurred person in the foreground while a woman in a striped shirt sits beside him in the Neurological Rehabilitation Centre at The Wellington Hospital. Hand sanitiser dispensers and a sink are on the wall behind them, and a staff member stands in the corridor beyond.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wheelchair",
+    "hand sanitiser dispensers",
+    "clinical hand wash sink"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 739.31,
+   "end": 751.3,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 751.3,
+   "end": 763.29,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 763.29,
+   "end": 775.28,
+   "description": "Exterior shot through out-of-focus foreground leaves of The Wellington Hospital's glass entrance, showing the HCA Healthcare UK and The Wellington Hospital signage. The camera moves sideways along the frontage, with street reflections, including a passing blue vehicle, visible in the glass.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 775.28,
+   "end": 787.27,
+   "description": "Exterior view through out-of-focus green foliage, with the camera moving sideways to reveal the HCA Healthcare UK and The Wellington Hospital signage on the building's glass frontage. A small tree and the building entrance are visible behind the glass.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 787.27,
+   "end": 799.26,
+   "description": "Empty hydrotherapy pool in the Neurological Rehabilitation Centre at The Wellington Hospital, with stainless steel entry steps and handrails in the foreground. The camera moves forward across the water towards the poolside and shower area.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool entry steps with handrails",
+    "poolside shower"
+   ],
+   "people": [],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 799.26,
+   "end": 811.25,
+   "description": "An empty hydrotherapy pool in the Neurological Rehabilitation Centre at The Wellington Hospital, with the camera moving slowly across the water towards the metal access steps and handrails. The pool sits under recessed ceiling lights with tiled artwork on the back wall.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool access steps with handrails"
+   ],
+   "people": [],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 811.25,
+   "end": 823.24,
+   "description": "Wide view of the hydrotherapy pool at The Neurological Rehabilitation Centre, with stainless steel handrails on the entry steps in the foreground and water moving on the surface. A person is partly visible at the far right edge in the background.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool handrails"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "DEEP END",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 823.24,
+   "end": 835.23,
+   "description": "Empty hydrotherapy pool at the Neurological Rehabilitation Centre, with metal access steps and handrails in the foreground and a wave-pattern mural on the wall. The camera moves slowly across the still water.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool access steps with handrails"
+   ],
+   "people": [],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 835.23,
+   "end": 847.22,
+   "description": "An empty indoor hydrotherapy pool at the Neurological Rehabilitation Centre at The Wellington Hospital, with steel handrails leading down steps into the water as the camera moves slowly across the pool.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool access steps with handrails"
+   ],
+   "people": [],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "DEEP END",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 847.22,
+   "end": 859.21,
+   "description": "A camera moves from a wide view of the hydrotherapy pool, with its stainless steel entry steps and handrails, down to water level beside the handrail as the surface ripples, at the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool entry steps with handrails"
+   ],
+   "people": [],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 859.21,
+   "end": 871.2,
+   "description": "Low-angle close view of the stainless steel handrails leading down into the hydrotherapy pool, with light ripples on the water surface and the pool edge soft in the foreground.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool handrails"
+   ],
+   "people": [],
+   "setting": "pool",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 871.2,
+   "end": 882.93,
+   "description": "An empty, sunlit private patient room at The Wellington Hospital, with a made-up hospital bed, overbed table, armchair and a vase of sunflowers by a large window overlooking the city. The camera glides slowly to the right across the room.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "patient armchair",
+    "wall-mounted TV",
+    "bedside cabinet",
+    "wall suction unit",
+    "medical gas outlets"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 882.93,
+   "end": 894.65,
+   "description": "A hand lifts a silver cloche from a meal on a patient tray, revealing salmon with broccoli and mashed potato, with a chocolate dessert, a glass water bottle and a tumbler beside it. The camera moves in towards the plate.",
+   "service_lines": [],
+   "kit": [
+    "meal tray",
+    "silver cloche",
+    "over-bed table"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 894.65,
+   "end": 906.38,
+   "description": "A hand lifts a silver cloche from a meal tray on an over-bed table to reveal a plate of salmon with vegetables, served with a brownie dessert, a water carafe and a glass in a patient room.",
+   "service_lines": [],
+   "kit": [
+    "meal tray",
+    "silver cloche",
+    "over-bed table",
+    "water carafe"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 906.38,
+   "end": 918.11,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 918.11,
+   "end": 929.83,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 929.83,
+   "end": 941.56,
+   "description": "A clinician in a light blue tunic and purple gloves places her hand on the side of a male patient's face during a hands-on assessment, then talks and laughs with him. Shot over the patient's shoulder in a clinic room at the Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "disposable gloves",
+    "wall-mounted dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 941.56,
+   "end": 953.29,
+   "description": "A clinician in a light blue tunic and blue gloves holds a young male patient's jaw and face during an assessment as he sits by a table in a clinic room. The camera moves from the hand-wash sink across to the pair, with an examination couch behind them.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "examination couch",
+    "hand-wash sink",
+    "hand sanitiser dispenser",
+    "paper towel dispenser",
+    "examination lamp",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 953.29,
+   "end": 965.01,
+   "description": "A therapist in a light blue tunic and purple gloves talks with a young male patient at a table in a treatment room with an examination couch behind them, using hand gestures as she explains. A paper cup sits on the table, which may suggest a swallowing or therapy assessment in the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "examination couch",
+    "paper cup",
+    "wall-mounted examination lamp"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 965.01,
+   "end": 976.74,
+   "description": "A clinician in a blue tunic and gloves touches the face of a seated male patient whose eyes are closed, testing facial sensation as part of a neurological examination in a consulting room at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "examination couch",
+    "examination lamp",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 976.74,
+   "end": 988.47,
+   "description": "A clinician in blue scrubs and gloves prepares to examine a seated male patient in a treatment room, and the two then share a laugh. The clip then cuts to a drone shot over St John's Wood, with Lord's Cricket Ground in view near The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "examination couch",
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 988.47,
+   "end": 1000.19,
+   "description": "Drone shot moving over tree-lined residential streets in St John's Wood, London, with Lord's Cricket Ground in the background and a large building beside the main road at left. Establishing aerial of the area; no hospital signage is legible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1000.19,
+   "end": 1011.92,
+   "description": "Drone shot over the residential streets of St John's Wood, London, moving towards Lord's Cricket Ground and its Nursery Ground, the area where The Wellington Hospital is located. Tree-lined roads, houses, parked cars and the city skyline are visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1011.92,
+   "end": 1023.65,
+   "description": "Aerial drone shot moving slowly over a city neighbourhood of red-brick mansion blocks, modern white apartment buildings and tree-lined streets, with the skyline in the distance. No hospital building or signage is clearly identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1023.65,
+   "end": 1035.37,
+   "description": "Aerial drone view over a residential area of modern white apartment blocks and red-brick mansion blocks with tree-lined streets, with the city skyline in the distance. No hospital building or signage is identifiable in the shot.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1035.37,
+   "end": 1047.1,
+   "description": "Aerial drone shot over a residential north London neighbourhood, moving past white modern apartment blocks and red-brick mansion flats, with tree-lined streets and a red double-decker bus below. No hospital building or signage is identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1047.1,
+   "end": 1058.83,
+   "description": "Aerial drone shot moving slowly over a residential area of London toward two white multi-storey buildings surrounded by red-brick terraces and trees, with a red double-decker bus and cars on the road alongside. No signage is legible, so the buildings cannot be confirmed as The Wellington Hospital from this shot.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1058.83,
+   "end": 1070.55,
+   "description": "Aerial drone shot moving over a residential area of north-west London, centred on a white multi-storey building with tiered balconies, with tree-lined streets, a cricket ground to the right and the city skyline in the distance. No signage confirms the building's identity, so check before using it as The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1070.55,
+   "end": 1082.28,
+   "description": "Aerial drone view over the residential streets and apartment blocks of St John's Wood, with a white building with stepped balconies in the foreground and a cricket ground and the central London skyline in the distance. Establishing shot of the area around The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1082.28,
+   "end": 1094.01,
+   "description": "Aerial drone shot over residential streets and apartment blocks in north-west London, with a large white building with stepped terraces in the foreground, a cricket ground behind it and the central London skyline on the horizon. The camera drifts slowly across the scene on an overcast day.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1094.01,
+   "end": 1105.73,
+   "description": "Aerial drone shot moving slowly over a residential area of north-west London, with white and red-brick apartment blocks and tree-lined streets in the foreground and the central London skyline on the horizon. Cars are parked and moving on the streets below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1105.73,
+   "end": 1117.46,
+   "description": "Drone shot over a north-west London residential area of red-brick mansion blocks, terraced streets and trees, with a white multi-storey building with balconies in the foreground and the central London skyline on the horizon. Traffic moves along the tree-lined street below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1117.46,
+   "end": 1129.19,
+   "description": "Drone shot over a residential area of north-west London, moving slowly over a white multi-storey building with stepped balconies and surrounding red-brick mansion blocks and terraced streets, with the central London skyline on the horizon.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1129.19,
+   "end": 1140.91,
+   "description": "Drone shot moving over St John's Wood towards The Wellington Hospital and the white buildings beside Lord's Cricket Ground, with residential streets below and the central London skyline on the horizon.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1140.91,
+   "end": 1152.64,
+   "description": "Aerial drone shot moving slowly over the tree-lined residential streets of St John's Wood towards Lord's Cricket Ground, with a large white terraced building in the foreground and the central London skyline on the horizon.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1152.64,
+   "end": 1164.37,
+   "description": "Drone shot moving slowly over the residential streets of St John's Wood, London, with a large white terraced building in the foreground and Lord's Cricket Ground behind it. The central London skyline is visible on the horizon under a cloudy sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1164.37,
+   "end": 1176.09,
+   "description": "Aerial drone shot moving slowly over the residential streets and apartment blocks of St John's Wood, looking towards Lord's Cricket Ground with the central London skyline on the horizon. It works as an establishing view of the area around The Wellington Hospital, though the hospital itself is not clearly identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1176.09,
+   "end": 1187.82,
+   "description": "Aerial drone shot over the residential streets and apartment blocks of St John's Wood, with a cricket ground and the central London skyline in the distance. The camera moves slowly forward over the rooftops on an overcast day.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1187.82,
+   "end": 1199.55,
+   "description": "Aerial drone shot moving slowly over a residential area of red-brick and white apartment blocks and terraced streets, with the central London skyline on the horizon. No hospital building or signage is clearly identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1199.55,
+   "end": 1211.27,
+   "description": "Aerial drone shot moving slowly over a residential area of north-west London, with red-brick mansion blocks, terraced streets, a white apartment building in the foreground, parkland and the central London skyline on the horizon under an overcast sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1211.27,
+   "end": 1223.0,
+   "description": "Aerial drone shot moving slowly over a residential area of north-west London, with red-brick mansion blocks, terraced streets and a tree-lined road below, parkland in the middle distance and the central London skyline on the horizon. No hospital building or signage is identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1223.0,
+   "end": 1234.73,
+   "description": "Aerial drone view over a residential area of north-west London, with red-brick mansion blocks, terraced streets and a tree-lined road leading towards parkland and the central London skyline on the horizon. The camera drifts slowly forward over the rooftops; no hospital building or signage is identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1234.73,
+   "end": 1246.45,
+   "description": "Aerial drone shot over a residential area of London with brick apartment blocks, terraced houses and a tree-lined street with traffic, looking toward green parkland and the central London skyline. No hospital building or signage is identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1246.45,
+   "end": 1258.18,
+   "description": "Drone shot over a residential area of north-west London, moving past the top of a white building to show a tree-lined street, brick apartment blocks and terraced houses, with the central London skyline in the distance. Cars and vans travel along the street below on an overcast day.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1258.18,
+   "end": 1269.91,
+   "description": "Drone shot moving past the white exterior of The Wellington Hospital in St John's Wood, London, revealing the tree-lined street, cars, pedestrians and surrounding residential blocks.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1269.91,
+   "end": 1281.63,
+   "description": "Drone shot descending past trees beside a London street, showing a white building with The Wellington Hospital sign, parked cars and a few pedestrians, and ending on a walled garden with a palm tree.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "The Wellington Hospital (building sign, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1281.63,
+   "end": 1293.36,
+   "description": "Exterior courtyard car park with shrubs, palm trees and a brick wall, with apartment blocks behind. A bald man in sunglasses and a navy branded jacket walks past a black car and holds a car key fob.",
+   "service_lines": [],
+   "kit": [
+    "car",
+    "car key fob",
+    "outdoor storage units"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1293.36,
+   "end": 1304.52,
+   "description": "A patient in a body-weight support harness uses a Hocoma robotic gait trainer in the Neurological Rehabilitation Centre at The Wellington Hospital, with a Hocoma screen in front of her. The camera moves around her to show a smiling physiotherapist and a colleague beside the machine.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Hocoma robotic gait trainer",
+    "body-weight support harness",
+    "display screen"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Hocoma",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1304.52,
+   "end": 1315.68,
+   "description": "A physiotherapist in a grey polo shirt with a name badge talks with an older patient in a blue top and headgear, who is out of focus in the foreground, in the rehabilitation gym. Another staff member in a white tunic is partly visible in the background.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1315.68,
+   "end": 1326.84,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1326.84,
+   "end": 1338.0,
+   "description": "A smiling patient wearing a knitted hat stands in an overhead body-weight support harness in the rehabilitation gym, as the camera moves across from two therapists preparing nearby. Filmed in the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "body-weight support harness"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1338.0,
+   "end": 1349.16,
+   "description": "A smiling patient in a knitted hat stands in a body-weight support harness attached to an overhead track, holding a handheld controller, while a physiotherapist stands beside her holding a remote in the rehabilitation gym. A treadmill and other rehab equipment are visible in the background.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "overhead body-weight support harness system",
+    "handheld controller",
+    "treadmill"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1349.16,
+   "end": 1360.32,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1360.32,
+   "end": 1371.48,
+   "description": "An accessible en-suite bathroom in a patient room, with grab rails, a wall-mounted toilet, a low basin with mirror and a walk-in shower, seen as the camera moves back past the door.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "grab rails",
+    "wall-mounted toilet",
+    "accessible basin",
+    "walk-in shower",
+    "towel dispensers"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1371.48,
+   "end": 1382.64,
+   "description": "Accessible wet-room en suite in a patient room at The Neurological Rehabilitation Centre, The Wellington Hospital, with a walk-in shower, grab rails, fold-down support rails and a wall-mounted toilet. A hospital bed by the window is visible through the doorway as the camera moves in and back out.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hospital bed",
+    "accessible shower with grab rails",
+    "fold-down toilet grab rails",
+    "wall-mounted toilet"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1382.64,
+   "end": 1394.66,
+   "description": "A therapist stands beside a seated patient who uses an upper-limb robotic rehabilitation device, moving the handle while following an exercise on its touchscreen. The shot shows an arm therapy session in the neurological rehabilitation gym.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "upper-limb robotic rehabilitation device",
+    "touchscreen display"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1394.66,
+   "end": 1406.68,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1406.68,
+   "end": 1418.71,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1418.71,
+   "end": 1430.73,
+   "description": "A staff member with a blonde ponytail, wearing a white shirt and dark tabard with a badge, sits and looks off to the right in a clinical area with wall-mounted medical gas outlets behind her. The footage is ungraded log.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1430.73,
+   "end": 1442.75,
+   "description": "A male staff member in a white shirt with an ID lanyard opens a wall cabinet and takes out or files paperwork from a folder in a clinical room with an oxygen caution sign on the wall.",
+   "service_lines": [],
+   "kit": [
+    "wall cabinets",
+    "document folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Caution Oxygen Cylinder",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1442.75,
+   "end": 1454.77,
+   "description": "A staff member in a white shirt reads through paperwork as he walks across a clinical workroom with white cabinets, a wall poster and an oxygen caution sign, then exits frame right.",
+   "service_lines": [],
+   "kit": [
+    "paperwork / documents",
+    "storage cabinets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Caution Oxygen (warning sign); Hope Fund (poster, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1454.77,
+   "end": 1466.79,
+   "description": "Camera pans across a hospital corridor past a wall clock, a door with a vision panel and an oxygen cylinder caution sign, ending on an out-of-focus man in a white shirt looking down.",
+   "service_lines": [],
+   "kit": [
+    "wall clock",
+    "access card reader",
+    "door with vision panel",
+    "notice board"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "Caution Oxygen Cylinder",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1466.79,
+   "end": 1478.81,
+   "description": "A camera pans across a white hospital corridor wall past an 'Are You Prepared?' poster to a '4 North \u2013 Caring From Around The World' display board with national flags, including Uganda, India, the Philippines, the UK and Jamaica.",
+   "service_lines": [],
+   "kit": [
+    "poster",
+    "display board with national flags"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "4 NORTH CARING FROM AROUND THE WORLD; ARE YOU PREPARED?",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1478.81,
+   "end": 1490.84,
+   "description": "The camera pans along a white-walled corridor at The Wellington Hospital, past wall posters and two women talking, ending on a staff member in a navy polo shirt holding a tablet.",
+   "service_lines": [],
+   "kit": [
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1490.84,
+   "end": 1502.86,
+   "description": "A man in a white shirt stands at a ward nurses' station holding a folder while nurses work behind the desk. He then walks past the camera, which pans across to a wall clock and a door with an oxygen caution sign.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "computer monitor",
+    "nurses' station desk",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "Caution",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1502.86,
+   "end": 1514.88,
+   "description": "A man walks toward the camera along a hospital corridor, his face out of focus in the foreground. A wall clock and a framed grey panel hang on the wall behind him, with open doors leading to a ward area with blue curtains.",
+   "service_lines": [],
+   "kit": [
+    "wall clock",
+    "wall-mounted panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1514.88,
+   "end": 1526.9,
+   "description": "A man in a white shirt walks past the camera in a hospital corridor at The Wellington Hospital, then the camera pans right along a wall with a clock, a plaque, and a door with a window and caution sign. Another person's head enters the bottom of the frame at the end.",
+   "service_lines": [],
+   "kit": [
+    "wall clock",
+    "wall plaque",
+    "fire exit sign"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "Caution",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1526.9,
+   "end": 1538.92,
+   "description": "A corridor at The Wellington Hospital with a wall clock, a wall-mounted TV and a notice board, as a man's head rises into the bottom of the frame and moves towards the camera.",
+   "service_lines": [],
+   "kit": [
+    "wall clock",
+    "wall-mounted TV",
+    "notice board"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1538.92,
+   "end": 1550.94,
+   "description": "A man in a white open-collar shirt stands talking to a small group of colleagues, whose blurred heads fill the foreground, in a clinical area at The Wellington Hospital's Neurological Rehabilitation Centre. Behind him are a wall clock, a door with a vision panel and a yellow caution sign.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wall-mounted screen",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Caution",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1550.94,
+   "end": 1562.97,
+   "description": "A man in a white open-collar shirt stands in a corridor at The Wellington Hospital and listens during a conversation, with the back of another person's head blurred in the foreground. The camera pulls focus onto him, and a doorway behind him has a window looking into a clinical room.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted screen",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1562.97,
+   "end": 1574.99,
+   "description": "A staff member in a white open-collared shirt looks down at something out of frame, then looks up and speaks to a person partly visible and out of focus in the foreground. The background shows doors with vision panels and a yellow warning sign.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1574.99,
+   "end": 1587.01,
+   "description": "A man in a white open-collared shirt speaks to someone off camera, interview style, in a clinical area at The Wellington Hospital. Behind him are doors with glass vision panels and yellow warning signs.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1587.01,
+   "end": 1599.03,
+   "description": "A nurse in a navy uniform with white trim stands in a ward area at The Wellington Hospital, listening to a colleague in the out-of-focus foreground and holding a laptop. White cupboards, wall-mounted access panels and posters are behind her.",
+   "service_lines": [],
+   "kit": [
+    "laptop",
+    "access card reader"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Caution",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1599.03,
+   "end": 1611.05,
+   "description": "A nurse in a navy uniform with white piping stands in a hospital corridor at The Wellington Hospital's Neurological Rehabilitation Centre, looking towards someone out of shot while a blurred person passes in the foreground. The camera then swings away down the corridor towards a wall-mounted fire extinguisher.",
+   "service_lines": [],
+   "kit": [
+    "storage cabinets",
+    "fire extinguisher"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1611.05,
+   "end": 1623.07,
+   "description": "Close-up profile of a female staff member with glasses and a dark navy top, listening and speaking during a team discussion at The Wellington Hospital's Neurological Rehabilitation Centre. Colleagues in white tunics stand out of focus behind her.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1623.07,
+   "end": 1635.1,
+   "description": "A staff member with glasses and a dark ponytail listens to two colleagues, one in a white tunic and one in a navy polo holding a blue folder, as the camera moves from her profile to behind her shoulder. It reads as a team discussion or handover.",
+   "service_lines": [],
+   "kit": [
+    "blue folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1635.1,
+   "end": 1647.12,
+   "description": "An occupational therapist in a navy polo and a colleague in a white HCA uniform listen and talk with someone in the foreground, part of a team discussion in the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Occupational therapist",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1647.12,
+   "end": 1659.14,
+   "description": "An occupational therapist in a navy HCA polo talks while standing beside a colleague in a white tunic and glasses in a hospital corridor at the Neurological Rehabilitation Centre. A person walks past behind them.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Occupational therapist; HCA Healthcare",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1659.14,
+   "end": 1671.16,
+   "description": "An occupational therapist in a navy polo holding a blue folder and a colleague in a white tunic with glasses stand together listening to someone off camera in a corridor at the Neurological Rehabilitation Centre, The Wellington Hospital. The camera drifts right to settle on the occupational therapist.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "Occupational Therapist (embroidered on polo, partially visible); HCA Healthcare UK logo on uniforms (partially visible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1671.16,
+   "end": 1683.18,
+   "description": "Close-up of a female staff member in a navy uniform top listening attentively during a team discussion, with colleagues in white and light blue blurred in the foreground and background. Filmed at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1683.18,
+   "end": 1695.2,
+   "description": "Close-up of a woman with her hair tied back, wearing a dark navy polo shirt, listening and looking off to the left with a serious expression; she closes her eyes in the final frame. The out-of-focus shoulder of another person is in the foreground and the background is a blurred white clinical room.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1695.2,
+   "end": 1707.23,
+   "description": "A staff member in a white tunic and glasses listens and smiles during a conversation with a person in the out-of-focus foreground, at The Wellington Hospital's Neurological Rehabilitation Centre. A desk area with a printer is visible behind her.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "printer"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1707.23,
+   "end": 1719.25,
+   "description": "A staff member in a white uniform and glasses smiles and listens during a conversation with a person seen from behind, out of focus in the foreground, at The Wellington Hospital's Neurological Rehabilitation Centre. A desk area is blurred in the background.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1719.25,
+   "end": 1731.27,
+   "description": "Close-up of a male staff member in a white open-collar shirt, seen in profile and three-quarter view, talking while looking at something out of frame. A colleague in a navy uniform passes blurred in the background in front of white cabinets with posters.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1731.27,
+   "end": 1743.29,
+   "description": "Close-up profile of a man in a white open-collar shirt talking and then smiling, with a staff member in a navy uniform and another person blurred in the background, at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1743.29,
+   "end": 1755.31,
+   "description": "Close-up shot moving across members of the clinical team as they talk in a clinical area at The Neurological Rehabilitation Centre, The Wellington Hospital. It starts on a smiling man in an open-collar white shirt, passes a soft-focus face in the middle and ends on a woman in glasses listening.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1755.31,
+   "end": 1767.33,
+   "description": "Close-up profile of a woman with glasses and a dark top listening intently, before the camera pans right to a blurred woman smiling in the background of an indoor room.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1767.33,
+   "end": 1779.36,
+   "description": "A staff member in a dark polo shirt talks and listens to a person seen out of focus in the foreground, at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1779.36,
+   "end": 1791.38,
+   "description": "A staff member in a dark polo shirt stands listening during a conversation with colleagues, with blurred people in the foreground and a door behind her at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1791.38,
+   "end": 1803.4,
+   "description": "A staff member in a dark polo shirt, with her hair tied back, listens attentively while looking off camera. A colleague wearing glasses sits out of focus in the foreground, and a wooden door and wall notices are behind them.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1803.4,
+   "end": 1815.42,
+   "description": "A staff member in a dark polo shirt stands in a corridor at The Neurological Rehabilitation Centre at The Wellington Hospital, looking off to one side beside a colleague, before the camera moves quickly away down the corridor past a fire extinguisher and a pedal bin.",
+   "service_lines": [],
+   "kit": [
+    "fire extinguisher",
+    "pedal bin",
+    "wall handrail"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1815.42,
+   "end": 1827.44,
+   "description": "A man in a white shirt with an ID badge talks and gestures to two female staff members, one in a navy uniform and one in a white tunic, in a hospital corridor beside a desk and lifts at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "nurses' station desk"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1827.44,
+   "end": 1839.46,
+   "description": "A man in a white shirt with a staff lanyard talks with three female staff members in a hospital corridor beside the lifts and a nurses' station, at The Neurological Rehabilitation Centre at The Wellington Hospital. Two of the women, one in a navy polo and one in a white tunic, stand with their backs to camera, listening.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "nurses' station desk",
+    "wall clock",
+    "lifts"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1839.46,
+   "end": 1851.49,
+   "description": "Three staff members, a man in a white shirt with a lanyard and two women in navy and white uniforms, talk beside the lifts in a hospital corridor. The camera then moves past them and down the corridor towards the ward area.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "fire extinguisher",
+    "lifts"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1851.49,
+   "end": 1863.51,
+   "description": "A staff member in a dark uniform polo with an embroidered logo and name badge stands by a wooden door and smiles while talking with a person in glasses, who is out of focus in the foreground.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1863.51,
+   "end": 1875.53,
+   "description": "A staff member in a dark polo shirt smiles and listens during a group conversation at the Neurological Rehabilitation Centre, her expression settling from a broad smile to attentive. Other people are partly visible and out of focus at the edges of the frame.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1875.53,
+   "end": 1887.55,
+   "description": "Three staff members in matching navy polo shirts talk and smile together in a hospital corridor at The Wellington Hospital's Neurological Rehabilitation Centre. The camera moves from a smiling woman with her hair tied back to a colleague in glasses, with a third colleague behind her holding a blue folder.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1887.55,
+   "end": 1899.57,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1899.57,
+   "end": 1911.59,
+   "description": "A female clinician with glasses and a white tunic with blue trim smiles towards someone off camera, interview-style, at the Neurological Rehabilitation Centre at The Wellington Hospital. She wears a name badge, and the background is out of focus.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1911.59,
+   "end": 1923.62,
+   "description": "A man in a white shirt listens and smiles during a staff meeting as the camera arcs around him, with colleagues seated in the background in front of a wall of flag posters.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1923.62,
+   "end": 1935.64,
+   "description": "Close-up of a smiling man in an open-collared white shirt looking towards the camera, then touching his head, in an office with posters on the wall and colleagues out of focus behind him. Filmed for The Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1935.64,
+   "end": 1947.66,
+   "description": "Close-up of a man in a white open-collared shirt smiling and talking during what looks like a group session at the Neurological Rehabilitation Centre, with several people seated and out of focus behind him in front of wall posters.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1947.66,
+   "end": 1959.68,
+   "description": "A smiling man in a white open-collared shirt is seen in profile in an office or meeting room at The Wellington Hospital, then turns away from camera. Out-of-focus colleagues sit in the background in front of wall posters.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1959.68,
+   "end": 1971.43,
+   "description": "Close-up of the Hocoma logo, marked 'a DIH brand', on a panel of a robotic rehabilitation device in the Neurological Rehabilitation Centre at The Wellington Hospital. A window with trees outside is soft in the background, and the camera drifts slightly.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Hocoma robotic rehabilitation device"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Hocoma a DIH brand",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1971.43,
+   "end": 1983.18,
+   "description": "A soft-focus view past the edge of a large glass panel or board towards a window with a wooden sill and green trees outside. The camera drifts slightly across the frame in a quiet, empty room.",
+   "service_lines": [],
+   "kit": [
+    "glass board / panel"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1983.18,
+   "end": 1994.94,
+   "description": "An interactive rehabilitation touchscreen shows a countdown timer at 2, then changes to an animated sunflower in a pot, next to a window at the Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "interactive touchscreen display"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "2",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1994.94,
+   "end": 2006.69,
+   "description": "A large interactive touchscreen in a rehabilitation room at The Wellington Hospital shows a therapy game where a water droplet falls towards a sunflower in a pot, with a window and trees in the background. No people are in shot.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "interactive touchscreen rehab display"
+   ],
+   "people": [],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2006.69,
+   "end": 2018.44,
+   "description": "A computer monitor by a window shows a simple on-screen activity with a cartoon flower growing in a pot, likely a computer-based therapy exercise. The camera moves down and around the screen to reveal the keyboard and mouse on the desk.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "computer mouse"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2018.44,
+   "end": 2030.19,
+   "description": "A patient wearing a support harness sits with his forearm strapped into a robotic upper-limb rehabilitation device and grips its handle while concentrating on the exercise. A staff member in a navy polo shirt stands behind him with a hand on the device's arm.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "robotic upper-limb rehabilitation device"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2030.19,
+   "end": 2041.94,
+   "description": "A patient wearing a harness sits beside a robotic rehabilitation device while a staff member in a navy polo shirt adjusts the machine behind him at the Neurological Rehabilitation Centre, The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "robotic rehabilitation device",
+    "support harness"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2041.94,
+   "end": 2053.69,
+   "description": "A patient wearing a body-weight support harness sits beside a robotic rehabilitation device while a staff member in a navy polo shirt adjusts the device above his head. The patient looks ahead and speaks during a neurological rehabilitation session at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "robotic rehabilitation device",
+    "body-weight support harness"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2053.69,
+   "end": 2065.45,
+   "description": "Fast, blurred pan across a rehabilitation therapy room. It moves from a seated person in a black T-shirt beside a drum on a stand, past a wall-mounted screen, to a person's arm resting on a table near a window.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "drum on stand",
+    "wall-mounted screen",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2065.45,
+   "end": 2077.2,
+   "description": "A patient's hand, held in a wrist strap, moves the joystick of a robotic upper-limb rehabilitation device while a screen shows a game where watering a flowerpot makes a sunflower grow. Neurological rehabilitation therapy at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "robotic upper-limb rehabilitation device",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2077.2,
+   "end": 2088.95,
+   "description": "A Dell computer monitor by a window shows a simple on-screen game in which a water droplet falls from a pipe onto a potted sunflower. The screen may be part of a computer-based rehabilitation therapy exercise.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "computer monitor with therapy game"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2088.95,
+   "end": 2100.7,
+   "description": "A Dell computer monitor shows an interactive game in which water drips from a pipe onto a potted sunflower, likely a computer-based rehabilitation exercise. A hand enters the frame on the right at the end of the shot.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "computer monitor showing interactive therapy game",
+    "small white sensor/controller box"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2100.7,
+   "end": 2112.45,
+   "description": "A physiotherapist supports a male patient floating on his back in a hydrotherapy pool, his head held by a yellow inflatable neck float, with a foam pool noodle under his arm during a neurological rehabilitation session.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "inflatable neck float",
+    "foam pool noodle"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Swim",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2112.45,
+   "end": 2124.2,
+   "description": "A therapist supports a male patient floating on his back in a hydrotherapy pool, wearing a yellow inflatable swim collar with pool noodles under his arms, during a neurological rehabilitation session at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "inflatable swim collar",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Swim Collar",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2124.2,
+   "end": 2135.96,
+   "description": "A physiotherapist supports a male patient floating on his back in a yellow swim collar during a hydrotherapy session, with pool noodles under his arms, at the Neurological Rehabilitation Centre at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "swim collar",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Swim Collar",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2135.96,
+   "end": 2147.71,
+   "description": "A physiotherapist supports a male patient floating on his back in a hydrotherapy pool. He wears a yellow inflatable swim collar, with pool noodles under his arms, during a neurological rehabilitation session.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "inflatable swim collar",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Swim Collar (partially legible, on flotation collar)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2147.71,
+   "end": 2159.46,
+   "description": "A physiotherapist supports a smiling male patient wearing a yellow swim collar and foam noodles during a hydrotherapy session in the pool at The Wellington Hospital's Neurological Rehabilitation Centre. The camera then moves down to the water surface, where his legs and a noodle appear blurred.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "swim collar float",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Swim Collar",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2159.46,
+   "end": 2171.21,
+   "description": "Close-up at water level in a hydrotherapy pool of a person's legs, one with tattoos, kicking and splashing in the water during a session, with a yellow float partly visible.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool float"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2171.21,
+   "end": 2182.96,
+   "description": "A physiotherapist supports a male patient floating on his back in the hydrotherapy pool with a yellow neck float and pool noodles. The shot starts on his legs in the water and moves up to show the therapist guiding him during an aquatic rehabilitation session.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool noodles",
+    "neck float"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2182.96,
+   "end": 2194.72,
+   "description": "A physiotherapist supports a male patient floating on his back in the hydrotherapy pool during a rehabilitation session. He wears a yellow neck float and pool noodles support his arms and legs.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "neck float",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2194.72,
+   "end": 2206.47,
+   "description": "A physiotherapist supports a male patient floating on his back in a hydrotherapy pool, his head resting on a yellow neck float and his arms held by pool noodles, during a neurological rehabilitation session at The Wellington Hospital.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "neck float",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2206.47,
+   "end": 2218.22,
+   "description": "A physiotherapist in a hydrotherapy pool supports a male patient floating on his back with a yellow neck float and pool noodles under his arms during a neurological rehabilitation session.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "neck float",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2218.22,
+   "end": 2229.97,
+   "description": "The camera moves from the metal access steps and handrail of a hydrotherapy pool across the water to a therapist supporting a man floating on his back with a yellow neck float and foam noodles during an aquatic rehabilitation session at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool access steps with handrails",
+    "neck float",
+    "pool noodles"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2229.97,
+   "end": 2241.72,
+   "description": "A therapist in a hydrotherapy pool supports a man floating on his back with a yellow flotation collar, smiling and talking to him as he moves through the water during a rehabilitation session.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "flotation collar"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2241.72,
+   "end": 2253.47,
+   "description": "A physiotherapist supports a man floating on his back with a yellow flotation collar during a hydrotherapy session in the pool at The Neurological Rehabilitation Centre, The Wellington Hospital. She watches him closely and talks to him as he looks upward.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "flotation collar"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2253.47,
+   "end": 2265.23,
+   "description": "A smiling male patient floats on his back in a hydrotherapy pool wearing a yellow neck float while a female physiotherapist supports him from behind during a rehabilitation session. The shot ends with a close-up of the float and splashing water as the patient moves.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "neck float"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2265.23,
+   "end": 2276.98,
+   "description": "Looking down through rippling water at a person's legs and feet moving underwater in a hydrotherapy pool during a rehabilitation session.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2276.98,
+   "end": 2288.73,
+   "description": "Close-up looking down into the hydrotherapy pool as a person in dark swimwear moves through the water beside a foam float, with an arm and hand sweeping under the surface during an aquatic rehabilitation session.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "foam pool float"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2288.73,
+   "end": 2300.48,
+   "description": "A physiotherapist in the hydrotherapy pool supports a patient from behind as he walks through the water, with a foam pool noodle used as a support aid. The shot opens out of focus on a wall and shelving before panning onto the pool.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "foam pool noodle"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2300.48,
+   "end": 2312.23,
+   "description": "A physiotherapist in a dark rash vest walks alongside a patient in a black swimsuit, who uses a foam pool noodle for support during a walking exercise in the hydrotherapy pool at The Wellington Hospital's Neurological Rehabilitation Centre. The camera pulls back from behind the pair to show the full pool, with their reflection in a wall mirror.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool noodle",
+    "wall mirror",
+    "pool steps with handrails"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2312.23,
+   "end": 2323.98,
+   "description": "A young patient wearing a foam pool noodle walks through a hydrotherapy pool while a therapist supports him from behind. The session is also reflected in a large wall mirror above the pool at The Wellington Hospital's Neurological Rehabilitation Centre.",
+   "service_lines": [
+    "neurology",
+    "physiotherapy and rehabilitation",
+    "paediatrics"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "pool noodle",
+    "wall mirror",
+    "pool steps with handrails"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2323.98,
+   "end": 2335.74,
+   "description": "A physiotherapist walks behind a male patient in a hydrotherapy pool, supporting him with a foam float around his chest as he walks through the water during a rehabilitation session at The Wellington Hospital's Neurological Rehabilitation Centre. A wall mirror at the far end of the pool reflects the session.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool",
+    "foam pool float",
+    "wall mirror",
+    "pool steps with handrails"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2335.74,
+   "end": 2347.49,
+   "description": "Underwater view of a hydrotherapy pool floor as a person with tattooed legs crouches and reaches down toward the bottom of the pool, with light patterns moving across the floor.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2347.49,
+   "end": 2359.24,
+   "description": "Underwater view of a person in dark shorts and a t-shirt squatting and lowering into a crouch on the floor of a hydrotherapy pool, with tattoos on both legs. The person reaches a hand toward their feet as they balance in the water.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "neurology"
+   ],
+   "kit": [
+    "hydrotherapy pool"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "pool",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  }
+ ]
+}

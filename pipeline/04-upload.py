@@ -5,7 +5,7 @@
     export CF_ACCOUNT_ID=...          # dashboard, right-hand side
     export CF_API_TOKEN=...           # custom token, Stream:Edit only
     export ALLOWED_ORIGIN=hcamadeclear.com
-    python3 upload-v4.py "/Volumes/.../MEDTRONIC RDN" ~/rdn-stream-ids.csv
+    python3 pipeline/04-upload.py "$SRC" data/stream-ids.csv
 
 Two paths, because Cloudflare treats them differently:
   - under 190 MB: the simple upload, one request
@@ -49,7 +49,7 @@ SIMPLE_MAX = 190 * 1024 * 1024
 CHUNK = 100 * 1024 * 1024
 EXTS = {".mp4", ".mov", ".m4v"}
 
-WORK = pathlib.Path(tempfile.mkdtemp(prefix="rdnup-"))
+WORK = pathlib.Path(tempfile.mkdtemp(prefix="hcaup-"))
 
 
 def b64(s):
@@ -191,6 +191,10 @@ def main():
         p for p in SRC.rglob("*")
         if p.is_file() and p.suffix.lower() in EXTS and not p.name.startswith("._")
     )
+    # Dropbox duplicates ("Film (1).mp4" beside "Film.mp4") are skipped, as in pipeline 30.
+    import re
+    stems = {p.stem for p in films}
+    films = [p for p in films if not (re.search(r" \(\d+\)$", p.stem) and re.sub(r" \(\d+\)$", "", p.stem) in stems)]
     if not films:
         sys.exit(f"No films found under {SRC}")
 

@@ -7,219 +7,1435 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 6.64
+   "end": 6.64,
+   "description": "Animated title card with the HCA Healthcare UK logo and the text \"Expert Teams at HCA Healthcare UK\" wipes to a low-angle exterior view of the entrance of The Harley Street Clinic at number 35, with wooden double doors and a balcony above.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA Healthcare UK; Expert Teams at HCA Healthcare UK; The Harley Street Clinic; 35",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 6.64,
-   "end": 8.44
+   "end": 8.44,
+   "description": "A smiling staff member in a dark suit and tie opens a pair of large wooden doors toward the camera, welcoming viewers into a hospital entrance with glass sliding doors behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wooden entrance doors",
+    "glass sliding doors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 8.44,
-   "end": 11.04
+   "end": 11.04,
+   "description": "Two receptionists sit at the front desk of The Wellington Hospital under HCA Healthcare UK signage; one works at his computer while the other looks up, laughs and smiles at the camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "desk phone",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 11.04,
-   "end": 14.88
+   "end": 14.88,
+   "description": "Two nurses in blue HCA scrubs talk while reviewing a computer at the nurses' station in the Acute Admissions Unit, as a receptionist takes a phone call at the desk behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "telephone"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Acute Admissions Unit; ...ton Hospital (partial); HCA (scrubs logo); Dell",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 14.88,
-   "end": 18.12
+   "end": 18.12,
+   "description": "A nurse in a blue HCA Healthcare UK uniform and glasses unpacks and prepares medical supplies on a surface beside a wall-mounted patient monitor in a patient room. Filmed from a low angle as she works.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "sterile packs",
+    "blood collection tubes"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniform; \"OFF\" on monitor screen",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 18.12,
-   "end": 20.24
+   "end": 20.24,
+   "description": "A clinician in dark grey scrubs listens with a stethoscope while a male patient wearing an oxygen mask sits in the foreground, with monitoring equipment in the background.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "patient monitor",
+    "oxygen mask",
+    "stethoscope",
+    "infusion pump"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 20.24,
-   "end": 23.16
+   "end": 23.16,
+   "description": "A nurse in green scrubs sits on a hospital bed with a young girl in patterned pyjamas, using a doll to show her something in a children's patient room.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted suction and medical gas units",
+    "teaching doll"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 23.16,
-   "end": 25.44
+   "end": 25.44,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 25.44,
-   "end": 27.84
+   "end": 27.84,
+   "description": "A nurse in a blue uniform reads from a clipboard as she leads a staff huddle in a hospital corridor, while colleagues in green and grey uniforms stand in a circle and listen.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 7
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 27.84,
-   "end": 30.24
+   "end": 30.24,
+   "description": "A radiographer reads from a folder to brief colleagues in an MRI control room, with the scanner visible through the observation window and scan images on the monitors. A seated colleague listens while another stands in the foreground with his back to camera.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "imaging workstation monitors"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 3
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 30.24,
-   "end": 32.64
+   "end": 32.64,
+   "description": "Two radiographers in maroon scrubs in a radiotherapy treatment room with a linear accelerator. One stands beside the empty treatment couch while the other walks out of frame on the left as the camera moves sideways along the machine.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "linear accelerator",
+    "treatment couch",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 32.64,
-   "end": 34.44
+   "end": 34.44,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 34.44,
-   "end": 36.12
+   "end": 36.12,
+   "description": "A radiographer in a maroon uniform smiles as she positions a male patient lying on the treatment couch of a linear accelerator for radiotherapy. The patient lies still under blue room lighting with the machine's gantry and imaging panel beside him.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "linear accelerator",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 36.12,
-   "end": 37.68
+   "end": 37.68,
+   "description": "Two nursing staff in blue uniforms and disposable plastic aprons lean over and attend to something just out of frame in a patient room, with a mobile computer workstation behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer workstation on wheels",
+    "disposable aprons"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 37.68,
-   "end": 39.8
+   "end": 39.8,
+   "description": "Gloved staff lift the insulated lid from a cryogenic dry shipper dewar as liquid nitrogen vapour rises from the opening in a lab storage area.",
+   "service_lines": [],
+   "kit": [
+    "cryogenic dewar / dry shipper",
+    "cryogenic gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "SHIPPER",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 39.8,
-   "end": 41.8
+   "end": 41.8,
+   "description": "Two nurses in aprons and gloves stand at a patient's bedside in a hospital room. One holds a blue tray and the patient's hand while the other reads from a blue folder, and the patient listens from the bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted suction unit",
+    "medical tray",
+    "clipboard folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 41.8,
-   "end": 44.96
+   "end": 44.96,
+   "description": "A sonographer in a burgundy tunic sits in a dimmed scan room and points to an ultrasound image projected on the wall, smiling as she explains it to someone off camera. A computer monitor and desk are in the background.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "maternity"
+   ],
+   "kit": [
+    "ultrasound",
+    "wall projection of scan image",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 44.96,
-   "end": 46.76
+   "end": 46.76,
+   "description": "A clinician watches an endoscopy screen while guiding an endoscope as a nurse in blue scrubs and gloves supports a patient lying on their side during the procedure.",
+   "service_lines": [
+    "gastroenterology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy monitor",
+    "endoscopy stack",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 46.76,
-   "end": 48.84
+   "end": 48.84,
+   "description": "A sonographer in scrubs and gloves performs an ultrasound scan on a patient lying in a gown, while a consultant in a suit stands beside the ultrasound screen and talks through the scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 48.84,
-   "end": 50.8
+   "end": 50.8,
+   "description": "A consultant in a suit points with his glasses at an echocardiogram on an ultrasound monitor while a female colleague in grey scrubs looks on, as they review heart images together.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 50.8,
-   "end": 52.76
+   "end": 52.76,
+   "description": "Two clinical staff in burgundy uniforms prepare a treatment room, with one woman setting out a sterile pack on a draped trolley beside a treatment chair.",
+   "service_lines": [],
+   "kit": [
+    "sterile procedure pack",
+    "instrument trolley",
+    "treatment chair",
+    "sterile instrument containers",
+    "sharps bin",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 52.76,
-   "end": 54.4
+   "end": 54.4,
+   "description": "Two radiographers in burgundy uniforms position a patient in a white robe at a Hologic mammography machine, guiding her arm and shoulder into place for a breast screening image. Low-angle shot from behind the patient.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "breast care"
+   ],
+   "kit": [
+    "mammography"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HOLOGIC",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 54.4,
-   "end": 56.32
+   "end": 56.32,
+   "description": "Three staff members gather around a computer monitor, with one person in the foreground pointing at the screen while two female colleagues look on and discuss the data. The room behind them has equipment lining the walls.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 56.32,
-   "end": 58.24
+   "end": 58.24,
+   "description": "A male clinician in a navy quarter-zip jumper points at a computer monitor showing a colour medical image while explaining it to a female colleague in glasses, who is seen from behind in the foreground. They are at a desk in a reporting room or office.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 58.24,
-   "end": 60.2
+   "end": 60.2,
+   "description": "A staff member's hand points to a radiotherapy treatment plan on a computer monitor, showing a CT scan with a colour dose map and dose-volume graph curves, as part of a planning discussion. A second monitor and a desk phone are visible beside it.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "treatment planning workstation",
+    "computer monitor",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 60.2,
-   "end": 63.44
+   "end": 63.44,
+   "description": "A nurse in gloves and an apron attends to the arm of a woman seated in an infusion chair on a day treatment unit, while a second nurse in a navy uniform sits in the foreground with a laptop. The patient smiles and chats with the staff.",
+   "service_lines": [
+    "oncology",
+    "haematology"
+   ],
+   "kit": [
+    "infusion chair",
+    "IV drip stand",
+    "patient monitor",
+    "laptop",
+    "medical trolley"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 63.44,
-   "end": 65.08
+   "end": 65.08,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 65.08,
-   "end": 66.8
+   "end": 66.8,
+   "description": "A clinician in maroon scrubs leans over a desk and points to a cross-sectional foot and ankle scan on a computer monitor while discussing it with a colleague seated in the foreground. A second screen shows a side-view scan of the foot.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "imaging review workstation",
+    "computer monitors",
+    "laptop"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 66.8,
-   "end": 70.0
+   "end": 70.0,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 70.0,
-   "end": 72.8
+   "end": 72.8,
+   "description": "A male surgeon in blue scrubs and a theatre cap holds a sheet of paper and talks two female colleagues through a briefing in an operating theatre. He gestures as he speaks and they listen.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "anaesthetic machine"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 72.8,
-   "end": 74.36
+   "end": 74.36,
+   "description": "A theatre team member in blue scrubs and a surgical cap unfolds a blue sterile drape in an operating theatre, preparing for a procedure. The drape sweeps towards the camera as she opens it out.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "wall-mounted monitors",
+    "medical equipment trolleys",
+    "sterile surgical drape"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 74.36,
-   "end": 76.52
+   "end": 76.52,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 76.52,
-   "end": 78.72
+   "end": 78.72,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 78.72,
-   "end": 81.08
+   "end": 81.08,
+   "description": "Close-up profile of a surgeon in a scrub cap, face mask and surgical loupes looking down during an operation, with a second surgeon wearing loupes out of focus in the background.",
+   "service_lines": [],
+   "kit": [
+    "surgical loupes"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 81.08,
-   "end": 83.12
+   "end": 83.12,
+   "description": "A smiling nurse in a blue HCA uniform leans around a doorway holding a glass of water, then steps into the room, with a hospital corridor visible behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand sanitiser dispenser",
+    "glass of water",
+    "wall thermostat",
+    "wet floor sign"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 83.12,
-   "end": 86.04
+   "end": 86.04,
+   "description": "A staff member in dark scrubs walks from the doorway into a single patient room, where a male patient in a hospital gown sits in a chair by the window with a laptop on an overbed table. The shot follows the staff member from behind past the sink and bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "infusion pump",
+    "wall-mounted TV",
+    "overbed table",
+    "laptop",
+    "hand wash sink",
+    "soap dispenser",
+    "patient chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 86.04,
-   "end": 88.36
+   "end": 88.36,
+   "description": "A patient in a hospital gown sits in a chair and uses an incentive spirometer breathing exerciser while a staff member in navy scrubs sits beside him and coaches him through it.",
+   "service_lines": [
+    "respiratory",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "incentive spirometer"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 88.36,
-   "end": 90.88
+   "end": 90.88,
+   "description": "A nurse in a purple HCA uniform sits at a table and talks through paperwork from an envelope with a male patient in a hospital gown, filmed over his shoulder. A glass of water and a nutritional supplement drink sit on the table.",
+   "service_lines": [],
+   "kit": [
+    "nutritional supplement drink",
+    "glass of water with straw",
+    "medical gas outlet panel"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 90.88,
-   "end": 93.2
+   "end": 93.2,
+   "description": "A clinician in a magenta top stands beside a patient lying on an examination couch and talks her through results, with ultrasound images displayed on the monitor behind them.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 93.2,
-   "end": 95.48
+   "end": 95.48,
+   "description": "A nurse in a navy uniform stands beside a patient seated in a recliner chair in a private patient room, talking with her and then handing her a folder. The two smile and chat, with a made hospital bed in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "recliner chair",
+    "folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 95.48,
-   "end": 97.76
+   "end": 97.76,
+   "description": "Close-up of a hand running a finger down an \u00e0 la carte menu card in a ring binder, choosing from the main courses and sides sections, as a patient ordering a hospital meal.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "menu binder"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "\u00e0 la carte menu card; Main Courses continued; Sides",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 97.76,
-   "end": 99.88
+   "end": 99.88,
+   "description": "A hospitality staff member in a waistcoat carries a meal tray with a silver cloche into a private patient room, smiling as she walks toward the bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "meal tray with cloche",
+    "bathrobe",
+    "hand basin",
+    "paper towel dispenser",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 99.88,
-   "end": 101.64
+   "end": 101.64,
+   "description": "A staff member in a white catering jacket places a meal tray with a fish fillet dish, a glass bottle of water and a glass onto an overbed table in a patient room. A staff member in a navy uniform stands nearby, and a patient's hands are visible at the edge of the frame.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "meal tray",
+    "overbed table",
+    "hospital bed",
+    "water bottle and glass"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 101.64,
-   "end": 103.28
+   "end": 103.28,
+   "description": "Two clinicians in scrubs, one in grey with a beard and one in blue with glasses, stand side by side looking toward something out of frame to the left, as if reviewing a screen and discussing it. Ceiling-mounted medical pendants are visible behind them in a clinical room.",
+   "service_lines": [],
+   "kit": [
+    "ceiling-mounted medical pendant"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 103.28,
-   "end": 105.52
+   "end": 105.52,
+   "description": "A clinician in blue scrubs points at a monitor of test results while a colleague looks on, as a man wearing a blue face mask pedals an exercise bike during a cardiopulmonary exercise test.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine"
+   ],
+   "kit": [
+    "cardiopulmonary exercise testing mask",
+    "exercise bike",
+    "computer monitor showing test data",
+    "metabolic cart"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 105.52,
-   "end": 108.2
+   "end": 108.2,
+   "description": "A consultant in a suit sits at his desk talking with a woman seen from behind, turning to point at a scan on his computer monitor as he explains it.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing scan images",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 108.2,
-   "end": 110.48
+   "end": 110.48,
+   "description": "Two HCA staff members, a nurse in a blue uniform holding a clipboard and a colleague in a green uniform, smile and talk with a man seen from behind in a clinical room. The green-uniformed staff member looks down at paperwork as the conversation continues.",
+   "service_lines": [],
+   "kit": [
+    "clipboard",
+    "paper towel dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare (logo on uniforms)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 110.48,
-   "end": 112.4
+   "end": 112.4,
+   "description": "A staff member in a green HCA uniform shows medication boxes to a man and explains them, while a colleague in a blue uniform holding a clipboard stands behind. The shot moves from her face down to the boxes in her hands.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "medication boxes",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniform (partially visible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 112.4,
-   "end": 115.52
+   "end": 115.52,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 115.52,
-   "end": 116.92
+   "end": 116.92,
+   "description": "A staff member in a maroon uniform walks a woman in a checked jacket down a hospital corridor, turning to chat with her as they pass a rack of leaflets toward a Way Out sign. Both are filmed from behind.",
+   "service_lines": [],
+   "kit": [
+    "leaflet rack"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Way Out",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 116.92,
-   "end": 119.08
+   "end": 119.08,
+   "description": "A staff member in a burgundy tunic greets a woman in a checked jacket at a doorway and guides her into a hospital corridor with a hand on her back.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 119.08,
-   "end": 121.16
+   "end": 121.16,
+   "description": "A porter in a waistcoat, tie and name badge pushes a seated patient in a wheelchair along a hospital corridor, past a wooden door towards the lifts.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wheelchair",
+    "lift"
+   ],
+   "people": [
+    {
+     "role": "porter",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Urgent Ca... (partially visible wall sign)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 121.16,
-   "end": 123.88
+   "end": 123.88,
+   "description": "A bearded man in a dark suit stands beside a blue HCA Healthcare UK branded van parked outside a building, filmed from inside through a glass automatic door with frosted stripes. The camera moves in towards him and the van.",
+   "service_lines": [],
+   "kit": [
+    "patient transport van"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK; Automatic door",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 123.88,
-   "end": 136.55
+   "end": 136.55,
+   "description": "Static end card showing the white HCA Healthcare UK logo centred on a plain navy background, with no change across the shot. Use as a branded title or end slate.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

@@ -1,0 +1,4824 @@
+{
+ "id": "the-harborne-why-hca-2026-selects-gaps-closed",
+ "title": "The Harborne, Why HCA 2026 - Selects (Gaps Closed)",
+ "file": "The Harborne, Why HCA 2026 - Selects (Gaps Closed).mp4",
+ "facility": "The Harborne Hospital",
+ "duration": 1477.0,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 11.47,
+   "description": "Aerial drone shot of The Harborne Hospital, a white and blue-glass building, moving slowly towards it, with neighbouring hospital buildings, roads, car parks and the Birmingham skyline around it.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 11.47,
+   "end": 22.95,
+   "description": "Aerial drone shot of The Harborne Hospital exterior, a white and blue-glass building beside a curved access road, with neighbouring hospital buildings, a solar-panelled car park and the Birmingham suburbs behind. The camera moves around the building as cars pass on the road below.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 22.95,
+   "end": 34.42,
+   "description": "Aerial drone shot of The Harborne Hospital, a white and blue-glass building, moving around it with the curved neighbouring hospital building, roads, car parks and Birmingham suburbs in view.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 34.42,
+   "end": 45.89,
+   "description": "Aerial drone shot drifting past a multi-storey hospital building with blue and white cladding on a city hospital campus, with a curved tower in the foreground, an elevated walkway, a car park and a residential area beyond.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 45.89,
+   "end": 57.37,
+   "description": "Aerial drone shot of The Harborne Hospital, a white and blue glass building beside a curved access road, with a solar-panel-covered car park in the foreground and surrounding hospital campus buildings and green space behind. The drone moves slowly toward the building on a clear, sunny day.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 57.37,
+   "end": 68.84,
+   "description": "Aerial drone shot of The Harborne Hospital building and its surroundings, with the camera moving slowly toward the white and blue-clad building and its curved front driveway. Solar-panel covered car parking sits in the foreground, with parkland and neighbouring buildings and towers around the site.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 68.84,
+   "end": 79.51,
+   "description": "Aerial drone shot moving slowly over a hospital campus, showing curved multi-storey ward towers, a white and glass-fronted building, an elevated covered walkway, car parks and surrounding green space. No signage is legible, so the frame does not confirm which building is The Harborne Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 79.51,
+   "end": 90.18,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 90.18,
+   "end": 100.85,
+   "description": "Aerial drone shot slowly moving across a large hospital campus with curved multi-storey ward blocks, a glass-fronted building linked by an elevated walkway, and surrounding car parks and green space. No signage confirms which hospital is shown, so check that this is The Harborne Hospital and not a neighbouring site before use.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 100.85,
+   "end": 111.52,
+   "description": "Aerial drone shot moving slowly over a hospital campus, showing a curved multi-storey hospital building linked by an elevated walkway to a glass-fronted block, with car parks, paths and green fields around it. No signage is legible, so the specific buildings cannot be confirmed from the footage.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 111.52,
+   "end": 121.3,
+   "description": "Aerial drone shot slowly moving over a hospital campus, showing multi-storey hospital buildings linked by a long elevated covered footbridge, with car parks, a construction site and rooftop solar panels below.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "elevated footbridge",
+    "rooftop solar panels",
+    "construction site"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 121.3,
+   "end": 131.08,
+   "description": "Aerial drone shot moving slowly over a hospital campus. It shows a white building with blue glass upper floors, a long elevated covered walkway, surface car parks, a construction site and surrounding medical buildings.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 131.08,
+   "end": 138.46,
+   "description": "Overhead drone shot of The Harborne Hospital site, moving slowly over a car park, an elevated covered walkway between buildings, rooftop solar panels and a crane on an active construction area.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "rooftop solar panels",
+    "construction crane",
+    "elevated covered walkway"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 138.46,
+   "end": 145.84,
+   "description": "Overhead drone shot looking down on The Harborne Hospital campus, showing a building with rooftop solar panels, a car park, a long covered walkway and an active construction site with a crane next to the hospital buildings.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "construction crane",
+    "rooftop solar panels"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 145.84,
+   "end": 151.64,
+   "description": "A nurse in a burgundy tunic reads from notes during a shift handover at a ward nurses' station, briefing two colleagues seen from behind in the foreground. Computer screens and monitors sit on the desk behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "computer monitors",
+    "nurses' station desk",
+    "clipboard / notes folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 151.64,
+   "end": 160.76,
+   "description": "A staff member holding paperwork briefs colleagues in maroon scrubs in an MRI control room. As the camera moves, a colleague seated at the console is revealed with scan images on screen and the MRI scanner visible through the window.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer monitors",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 160.76,
+   "end": 166.48,
+   "description": "Two staff members in burgundy uniforms in an imaging control room. A woman stands reading aloud from a notebook while a seated male colleague listens, with scan images displayed on workstation monitors behind them.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "imaging workstation monitors",
+    "desktop computers",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 166.48,
+   "end": 171.84,
+   "description": "In an MRI control room, a staff member in a maroon uniform holds paperwork and talks to two colleagues, one seated at the scanner workstation and one in the foreground. The MRI scanner is partly visible through the control room window.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer workstation",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 171.84,
+   "end": 176.16,
+   "description": "A staff member in a maroon tunic holds papers and briefs colleagues in a CT control room, with the scanner visible through the window behind her. The shot is over the shoulders of team members in maroon uniforms, with one seated at the workstation.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "computer monitors",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 176.16,
+   "end": 184.16,
+   "description": "A radiographer in a maroon tunic studies a cardiac CT scan on a workstation monitor and points to the heart and aorta on the image, while a female colleague in matching uniform looks on in the imaging control room, with lead aprons hanging on the wall behind.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "cardiology"
+   ],
+   "kit": [
+    "CT scanner workstation",
+    "computer monitors",
+    "lead aprons"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 184.16,
+   "end": 189.2,
+   "description": "In an imaging control room, a staff member in a maroon uniform looks at CT scan images on a monitor while the camera moves past him to reveal a colleague in glasses reading through paperwork in a folder, pen in hand.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "imaging workstation monitor",
+    "folder / paperwork"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 189.2,
+   "end": 198.24,
+   "description": "A nurse in a maroon tunic and glasses goes through paperwork with a pen while explaining it to two colleagues in matching uniforms, at a ward base with notices on the wall behind them. The camera moves past a colleague in the foreground to show the team discussion.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "paperwork / clipboard",
+    "pen",
+    "storage drawers"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 198.24,
+   "end": 201.84,
+   "description": "Two nurses in burgundy uniforms talk through notes at a ward nurses' station, with a third colleague joining from the right edge of frame. The woman holds a notebook while the man speaks to the group in front of a staff noticeboard and wall clock.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "notebook",
+    "noticeboard",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 201.84,
+   "end": 203.6,
+   "description": "Three nurses in maroon uniforms talk together at The Harborne Hospital, with a nurse in glasses speaking while a male colleague listens. It looks like a team discussion or handover.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 203.6,
+   "end": 212.62,
+   "description": "A nurse in a burgundy uniform talks with a male colleague, then writes on a paper chart on a clipboard while standing by a window with blinds. The colleague is in the blurred foreground with his back to camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clipboard",
+    "pen",
+    "paper chart"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 212.62,
+   "end": 221.64,
+   "description": "Two nurses in burgundy uniforms talk at a nurses' station at The Harborne Hospital. The female nurse, wearing glasses, holds a paper chart and pen and listens to her male colleague, who is seen from behind in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "paper chart",
+    "printer"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 221.64,
+   "end": 226.48,
+   "description": "A radiographer in a maroon tunic and blue gloves uses the touchscreen control panel on a Siemens SOMATOM Force CT scanner, preparing the scanner in a CT room at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "gantry touchscreen control panel",
+    "hand sanitiser dispensers"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS Healthineers; SOMATOM Force",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 226.48,
+   "end": 232.92,
+   "description": "A radiographer in a maroon tunic stands beside a Siemens CT scanner and talks while a patient lies on the scanner table with her head near the gantry. The camera moves in from a wide view of the imaging room to a closer shot of the radiographer and the lit gantry ring.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "SIEMENS Healthineers; SOMATOM",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 232.92,
+   "end": 245.96,
+   "description": "A staff member in a maroon tunic stands beside a Siemens SOMATOM Force CT scanner and speaks to camera while a patient lies on the scanner table. The camera pushes in from a wide view of the CT suite to a medium shot of the speaker.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "SIEMENS Healthineers; SOMATOM Force; Lateral",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 245.96,
+   "end": 248.32,
+   "description": "Close-up of a hand pressing the control dial on an MRI scanner's touchscreen panel, which shows a patient positioning diagram, at The Harborne Hospital. Staff set up the scan from the panel on the scanner.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 248.32,
+   "end": 261.24,
+   "description": "A patient lies on the table of a Siemens SOMATOM CT scanner and moves into the bore while a radiographer presses the controls on the gantry. A leg support cushion is visible on the table as the scan begins.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SOMATOM; Healthineers",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 261.24,
+   "end": 269.32,
+   "description": "A female patient lies inside a scanner bore lit with purple light, with her arm resting above her head. A staff member's hand comes into the foreground and holds the patient's hand for reassurance.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 269.32,
+   "end": 272.32,
+   "description": "Close-up of the touchscreen control panel on the front of a scanner, where the glowing start button dims as the scan is set up. A patient lies on the table inside the bore, out of focus in the background.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "scanner touchscreen control panel"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 272.32,
+   "end": 281.13,
+   "description": "A woman in a navy gown lies back on a padded table with her arms raised behind her head and looks upward, appearing to be positioned for a scan. The camera moves slowly towards her.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "scanner table"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 281.13,
+   "end": 289.95,
+   "description": "A female patient in a navy gown lies on her back with her arms raised behind her head, eyes open and calm, as she is positioned for a scan in an imaging room. A contrast injector unit with lit controls stands out of focus in the background.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "contrast injector"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 289.95,
+   "end": 298.76,
+   "description": "A female patient in a navy top lies on a scanner table with her arms raised above her head as she slides into the purple-lit scanner bore for a scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "scanner (CT or MRI, type unclear)"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 298.76,
+   "end": 305.12,
+   "description": "Overhead view of a female patient lying on her back with her eyes closed and arms raised above her head inside a scanner bore, likely an MRI. The bore's ambient lighting shifts from red to orange during the shot.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 305.12,
+   "end": 310.48,
+   "description": "Detail of the Siemens Healthineers logo on the curved white housing of a scanner in the imaging department, with focus softening and returning across the shot.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "Siemens Healthineers scanner (MRI or CT, unconfirmed)"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS Healthineers",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 310.48,
+   "end": 319.4,
+   "description": "View from inside the bore of a CT scanner as a patient lying on the table with hands behind their head slides slowly through the ring under purple lighting. The patient's legs are in the foreground and their face is visible.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 319.4,
+   "end": 328.32,
+   "description": "A patient lies on their back on a scanner table with hands behind their head, filmed from the foot end through the lit scanner ring as the camera moves slowly toward them.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 328.32,
+   "end": 337.24,
+   "description": "A patient lies on the table of a CT scanner with their hands behind their head as the camera moves from the end of the green-lit bore around to the side of the gantry, where a touchscreen panel is visible. Diagnostic scan at The Harborne Hospital imaging department.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 337.24,
+   "end": 344.2,
+   "description": "A radiographer in a maroon tunic stands at the door to the MRI room, next to safety signage, and speaks to camera. The camera then moves right through the viewing window to reveal a Siemens MRI scanner in the scan room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "equipment trolley"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "MRI; No access for unauthorised persons; SIEMENS Healthineers",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 344.2,
+   "end": 356.8,
+   "description": "A bearded man in a three-piece suit stands in the reception and waiting area at The Harborne Hospital, then walks toward the camera and gestures to the seating area as he speaks. The camera then moves past him through the lounge, showing sofas, armchairs and the reception desk.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "sofas and armchairs",
+    "wall-mounted TV screens",
+    "coffee tables"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 356.8,
+   "end": 363.96,
+   "description": "A staff member in a three-piece suit stands by the reception desk at The Harborne Hospital and gestures toward the patient waiting area as the camera moves right to reveal the lounge seating, artwork and a wall-mounted information screen.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "wall-mounted information screen",
+    "waiting area seating"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Harborne Hospital, part of HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 363.96,
+   "end": 371.12,
+   "description": "A slow move across the ground-floor lobby of The Harborne Hospital, past cream leather sofas, armchairs, artwork and steel lift doors, ending on two people seated and reading in the waiting area.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "sofas and armchairs",
+    "lifts",
+    "chandelier",
+    "wall artwork"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 371.12,
+   "end": 379.69,
+   "description": "A man in a three-piece suit stands in the reception and waiting area of The Harborne Hospital, then gestures toward the lounge seating as the camera moves past him to show sofas, armchairs, artwork and a wall screen with consultant photos.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted display screen",
+    "reception desk",
+    "waiting area sofas and armchairs",
+    "coffee tables"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 379.69,
+   "end": 388.27,
+   "description": "Two people sit reading in armchairs in the ground-floor lobby waiting area at The Harborne Hospital, with cream sofas in the foreground and lifts behind. The camera moves through the lounge and tilts up to a cluster of coloured glass pendant lights hanging from the ceiling.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "lifts",
+    "lounge sofas and armchairs",
+    "glass pendant light"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 388.27,
+   "end": 396.84,
+   "description": "A cluster of coloured glass globe pendant lights hangs from a white ceiling at The Harborne Hospital. The camera tilts up from an angled view to look directly underneath the lights.",
+   "service_lines": [],
+   "kit": [
+    "pendant light fixture"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 396.84,
+   "end": 400.16,
+   "description": "An empty hospital corridor with framed abstract artwork along the wall, wood doors and an emergency exit sign at the far end. The camera moves left to reveal a wall-mounted wayfinding sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Wayfinding sign, partially legible: appears to list Imaging and Outpatients, with toilet symbols",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 400.16,
+   "end": 404.44,
+   "description": "Decorative white and gold ceramic jars sit on a wooden windowsill in front of a frosted window, with the back of a grey sofa in the foreground. The camera slides right and passes behind a white and grey glass vase.",
+   "service_lines": [],
+   "kit": [
+    "decorative ceramic jars",
+    "glass vase",
+    "sofa"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 404.44,
+   "end": 416.08,
+   "description": "A receptionist in a dark blazer sits at the front desk of The Harborne Hospital, smiles and gestures towards the waiting area. The camera follows her gesture to show empty waiting chairs and a plant by a tall window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "multifunction printer",
+    "waiting room chairs"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 416.08,
+   "end": 428.12,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 428.12,
+   "end": 431.4,
+   "description": "A clinician in a maroon jumper adjusts settings on a Philips ultrasound machine and picks up the probe, as the camera moves right to show a female patient lying on an examination couch ready for her scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 431.4,
+   "end": 442.9,
+   "description": "A consultant holds an ultrasound probe and explains the procedure beside an ultrasound machine, then scans the neck of a woman lying on an examination couch while adjusting the machine's controls.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 442.9,
+   "end": 454.4,
+   "description": "A clinician performs a neck ultrasound, likely of the thyroid, on a female patient lying on a couch. He watches the scan image on the monitor while adjusting the ultrasound console controls at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "endocrinology"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 454.4,
+   "end": 461.22,
+   "description": "A clinician scans the side of a female patient's neck with an ultrasound probe as she lies on her back wearing glasses, with ultrasound machines in the background. The scan appears to be of the neck, such as the thyroid or carotid area.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 461.22,
+   "end": 468.04,
+   "description": "Close-up of a clinician's hand moving an ultrasound probe over the neck of a woman lying on an examination couch during a neck ultrasound scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 468.04,
+   "end": 476.18,
+   "description": "A clinician with glasses, wearing a burgundy quarter-zip with sleeves pushed up, reaches toward the camera while leaning over a sink area in a clinical room at The Harborne Hospital. A curtain track, paper towel dispenser and wall-mounted screen are visible behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clinical hand wash sink",
+    "paper towel dispenser",
+    "wall-mounted TV screen",
+    "privacy curtain"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 476.18,
+   "end": 484.32,
+   "description": "A consultant in a burgundy quarter-zip jumper and glasses adjusts an ultrasound machine, speaks to camera, then scans a patient lying on a bed with an ultrasound probe in an examination room at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "hospital bed",
+    "paper towel dispenser",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 484.32,
+   "end": 487.12,
+   "description": "Over-the-shoulder view of a clinician watching a Philips ultrasound monitor that shows a transverse neck scan, likely of the thyroid, during an examination at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "endocrinology"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 487.12,
+   "end": 494.56,
+   "description": "A nurse in a navy uniform smiles at the camera, then pushes open a door into an office where a colleague in grey scrubs stands up from a computer desk and greets her. The shot ends on the colleague standing in the office, smiling at the camera. The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "desktop computer",
+    "printer",
+    "office desk"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 494.56,
+   "end": 497.6,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 497.6,
+   "end": 509.2,
+   "description": "A nurse in grey HCA scrubs talks with a male patient wearing a nebuliser mask in a patient room at The Harborne Hospital. The camera moves past the patient to the nurse, who looks down with a stethoscope around her neck.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "hospital bed",
+    "nebuliser mask",
+    "stethoscope",
+    "hand sanitiser dispenser",
+    "wall-mounted screen"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (logo on scrubs)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 509.2,
+   "end": 520.8,
+   "description": "A nurse in dark scrubs listens to a male patient's chest with a stethoscope while he breathes through a nebuliser mask in a clinical room at The Harborne Hospital.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "nebuliser mask",
+    "stethoscope",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 520.8,
+   "end": 523.76,
+   "description": "A male patient in a hospital gown sits in a patient room wearing a nebuliser mask while a staff member with a stethoscope rests a reassuring hand on his shoulder. The camera moves from the patient's face to a close-up of the hand on his shoulder.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "nebuliser mask",
+    "stethoscope",
+    "patient monitor",
+    "wall-mounted medical gas outlets",
+    "examination light"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 523.76,
+   "end": 527.4,
+   "description": "A male patient in a hospital gown wears a nebuliser mask while sitting up in bed, as a staff member's hand rests on his shoulder in reassurance. He looks ahead calmly in a patient room with medical equipment behind him.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "nebuliser mask",
+    "hospital bed",
+    "patient monitor",
+    "medical gas wall rail"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 527.4,
+   "end": 538.32,
+   "description": "A nurse in an HCA Healthcare UK uniform fits a nebuliser mask on a young male patient and chats with him as he breathes the treatment in a patient room at The Harborne Hospital. She then rests a hand on his shoulder for reassurance.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "nebuliser mask",
+    "oxygen tubing",
+    "medical gas wall outlets",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 538.32,
+   "end": 542.96,
+   "description": "A nurse in navy HCA Healthcare UK scrubs smiles and rests a reassuring hand on the shoulder of a young male patient in a hospital gown who is wearing an oxygen mask in a patient room at The Harborne Hospital.",
+   "service_lines": [
+    "respiratory",
+    "general hospital"
+   ],
+   "kit": [
+    "oxygen mask",
+    "wall-mounted medical gas outlets",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 542.96,
+   "end": 551.08,
+   "description": "A nurse fits a nebuliser mask over the face of a young male patient in a hospital gown and adjusts the strap, then turns on a portable nebuliser unit beside him in a patient room.",
+   "service_lines": [
+    "respiratory"
+   ],
+   "kit": [
+    "nebuliser mask",
+    "nebuliser compressor",
+    "patient monitor",
+    "wall-mounted examination light"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 551.08,
+   "end": 561.52,
+   "description": "A nurse fits a nebuliser mask on a male patient in a hospital gown, rests a hand on his shoulder, then the camera moves to the blue portable nebuliser compressor running on the bed. The shot shows a nurse giving respiratory care in a patient room at The Harborne Hospital.",
+   "service_lines": [
+    "respiratory",
+    "general hospital"
+   ],
+   "kit": [
+    "nebuliser compressor",
+    "nebuliser mask",
+    "hospital bed",
+    "oxygen tubing"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 561.52,
+   "end": 569.56,
+   "description": "Close-up of a bedside patient monitor with a lung graphic on a docked handheld module and live vital sign readings on the screen, mounted on a stand in a hospital clinical area.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "patient monitor",
+    "wall-mounted equipment arm"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": true,
+   "social_ready": true
+  },
+  {
+   "t": 569.56,
+   "end": 579.2,
+   "description": "Low-angle view of the 'Oncology Daycare Reception' sign above a doorway as the door swings open, showing the lit ceiling of the room beyond.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Oncology Daycare Reception",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 579.2,
+   "end": 589.42,
+   "description": "A nurse in a navy uniform walks along a curtained hospital corridor and turns into a treatment bay, where a patient in a green patterned top is seated in a reclining chair. The camera follows behind the nurse as she enters to see the patient.",
+   "service_lines": [],
+   "kit": [
+    "reclining patient chair",
+    "wall-mounted screen on articulated arm",
+    "privacy curtains"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 589.42,
+   "end": 599.64,
+   "description": "A patient sits in a treatment chair, visibly emotional and wiping tears from her eyes, while a staff member in a navy uniform leans in close to talk with and comfort her.",
+   "service_lines": [],
+   "kit": [
+    "infusion chair",
+    "patient monitor",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 599.64,
+   "end": 605.88,
+   "description": "A woman in a green zebra-print top sits in a cream reclining chair, wiping tears with a tissue, while a dark-haired person in the foreground, seen from behind, rests a hand on her shoulder to comfort her. Shot over the shoulder in a room with wood-panelled walls.",
+   "service_lines": [],
+   "kit": [
+    "infusion chair",
+    "medical gas tubing"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 605.88,
+   "end": 616.91,
+   "description": "A nurse in an HCA Healthcare UK uniform hands a glass of water to a seated patient in a patient room, then leans in to check on her as she drinks.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted screen on arm",
+    "patient chair",
+    "glass of water"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK (uniform logo)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 616.91,
+   "end": 627.95,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 627.95,
+   "end": 638.98,
+   "description": "A nurse in a navy HCA Healthcare UK uniform sits close to a patient, holding her hands and talking with her in a wood-panelled room. The patient, in a green patterned top, is seen side-on and out of focus in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "cannula"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 638.98,
+   "end": 650.01,
+   "description": "A nurse in an HCA Healthcare UK uniform holds the hand of a patient with an IV cannula in their arm, talking with them to offer reassurance during treatment. The patient, in a green patterned top, is seen from behind.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "IV cannula",
+    "wall-mounted screen",
+    "patient chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 650.01,
+   "end": 661.05,
+   "description": "A nurse in a navy uniform kneels beside a patient seated in a reclining treatment chair and holds her hand to comfort her during treatment. The patient, in a green patterned top, sits with her eyes closed while the nurse talks to her.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "patient monitor",
+    "wall-mounted screen on arm",
+    "infusion pump"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PREMIUM",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 661.05,
+   "end": 672.08,
+   "description": "Following a woman in a grey uniform along a corridor and through the door of Consultation Room 12, where a consultant in a shirt and tie walks across the room to greet her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "examination couch",
+    "desk computer",
+    "clinical hand-wash sink",
+    "hand gel dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Consultation Room 12",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 672.08,
+   "end": 679.0,
+   "description": "A consultant in a shirt and tie sits at his desk talking with a patient in a consulting room at The Harborne Hospital. The patient is seen from behind, out of focus in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "desk",
+    "computer monitor",
+    "keyboard",
+    "desk phone",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 679.0,
+   "end": 681.2,
+   "description": "A consultant in a shirt and tie sits facing a patient in a consulting room at The Harborne Hospital, and the two talk and smile during an appointment. A desk with a computer monitor and phone sits between them, with a window behind.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "desk phone",
+    "office chair"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 681.2,
+   "end": 684.04,
+   "description": "A man in a shirt and tie sits at a desk in a consulting room at The Harborne Hospital, looking towards a computer monitor showing a 'Heartfelt Thank You' staff graphic. A glove dispenser is on the wall and his jacket hangs on the chair behind him.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "glove dispenser",
+    "desk drawer unit"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Heartfelt Thank You",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 684.04,
+   "end": 686.24,
+   "description": "Over-the-shoulder view of a consultant listening as a woman, seated across the desk in a consulting room, talks with him during an appointment. The room has a desk phone, a computer monitor and a wall-mounted diagnostic set.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted diagnostic set",
+    "desk phone",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 686.24,
+   "end": 690.56,
+   "description": "Over-the-shoulder shot of a woman seated at a desk in a consulting room, listening and smiling as a man in a white shirt, out of focus in the foreground, talks with her. A tissue box and desk phone sit on the desk, with framed artwork on the wall behind.",
+   "service_lines": [],
+   "kit": [
+    "desk phone",
+    "tissue box"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 690.56,
+   "end": 694.08,
+   "description": "Side-profile close-up of a male staff member in a striped shirt and tie speaking in an office at The Harborne Hospital, with a window and a poster of a nurse behind him.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 694.08,
+   "end": 698.52,
+   "description": "A healthcare professional performs a cardiac ultrasound (echocardiogram) on a patient lying on her side with ECG leads attached, adjusting the ultrasound controls. The camera moves across to the Philips monitor showing a live heart scan image.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "ECG leads",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 698.52,
+   "end": 704.92,
+   "description": "A sonographer performs an echocardiogram, operating the ultrasound console with one hand while scanning a patient lying on her side on an examination couch with ECG leads attached. A heart image is shown on the ultrasound monitor.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "ECG leads",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 704.92,
+   "end": 715.08,
+   "description": "A sonographer in a grey uniform performs an ultrasound scan, likely a cardiac echo, on a patient lying on an examination couch with ECG leads attached, while operating the ultrasound console and looking at the screen at The Harborne Hospital.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "ECG leads",
+    "examination couch",
+    "ultrasound gel bottle"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 715.08,
+   "end": 717.56,
+   "description": "Close-up of a clinician's hand on the control panel of an ultrasound machine during a scan, with a patient lying on a couch out of focus in the background.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 717.56,
+   "end": 725.4,
+   "description": "A clinician performs an echocardiogram on a female patient lying on her side, with a cardiac ultrasound image on the Philips monitor. The camera moves from the screen to the patient as the gloved hand holds the probe to her chest.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 725.4,
+   "end": 736.56,
+   "description": "A smiling receptionist works at a computer behind the outpatients reception desk at The Harborne Hospital, with the ceiling-mounted Outpatients sign shown at the start and end of the shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk",
+    "leaflet display",
+    "office chair"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Outpatients",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 736.56,
+   "end": 747.5,
+   "description": "An empty cardiac cath lab at The Harborne Hospital in blue light, with a C-arm X-ray system over the procedure table, surgical lights overhead and a large monitor showing cardiac mapping images. The camera moves slowly through the room past the overhead lights.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "patient monitor",
+    "procedure table",
+    "cardiac mapping display"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 747.5,
+   "end": 758.44,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital in blue light, with a C-arm X-ray system, procedure table and a large screen showing 3D cardiac mapping. The overhead theatre lights brighten and flare as the camera moves slowly through the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "cardiac mapping display",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 758.44,
+   "end": 769.38,
+   "description": "An empty cath lab at The Harborne Hospital under blue lighting, with a C-arm X-ray system over the procedure table, overhead theatre lights and a wall monitor showing coloured 3D cardiac mapping images. The camera moves slowly in towards the C-arm.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "procedure table",
+    "cardiac mapping display monitor"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 769.38,
+   "end": 780.32,
+   "description": "A staff member in a red lead apron works at the controls beside the patient table in a cath lab lit in blue, as the camera moves past the C-arm and theatre lights towards a monitor showing cardiac mapping images.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient table",
+    "cardiac mapping display",
+    "ceiling-mounted monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 780.32,
+   "end": 791.26,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 791.26,
+   "end": 802.2,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 802.2,
+   "end": 813.14,
+   "description": "A camera move through an empty cardiac cath lab in blue light, past a Siemens Healthineers C-arm and procedure table. It ends on an overhead surgical light and a large monitor showing 3D heart mapping images.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "procedure table",
+    "cardiac mapping display"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS Healthineers",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 813.14,
+   "end": 824.08,
+   "description": "A staff member in a red lead apron works at the table-side controls in a blue-lit cardiac catheterisation lab, as the camera moves past the C-arm X-ray system, theatre lights and a monitor showing colour 3D heart mapping images.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "patient monitor",
+    "3D cardiac mapping display",
+    "lead apron"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 824.08,
+   "end": 833.4,
+   "description": "A staff member in a red lead apron with a thyroid collar marked 'Harborne Theatres' stands in a dimly lit operating theatre, then operates the control panel and joystick on the side of an imaging table.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "X-ray",
+    "lead apron and thyroid collar",
+    "radiation dosimeter badge",
+    "imaging table control panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "HARBORNE THEATRES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 833.4,
+   "end": 842.72,
+   "description": "A bearded staff member in glasses wears a red lead apron printed 'Harborne Theatres' and a thyroid collar in a blue-lit operating theatre. The camera tilts down from his face to his hand adjusting controls on an equipment panel.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "general surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "lead apron",
+    "thyroid shield",
+    "equipment control panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "HARBORNE THEATRES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 842.72,
+   "end": 854.8,
+   "description": "A bearded theatre staff member in glasses wears a red lead apron and thyroid collar marked Harborne Theatres, looking around an operating theatre at The Harborne Hospital. The theatre is lit in blue with the operating lights behind him.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "lead apron with thyroid collar",
+    "patient monitor",
+    "staff ID badge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HARBORNE THEATRES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 854.8,
+   "end": 860.52,
+   "description": "Close-up of a staff member's red tabard embroidered with 'Harborne Theatres' at The Harborne Hospital, with a small handheld device clipped to the chest pocket on a badge reel. The arm of the person wearing it is visible against a dark theatre background with blue and green lights.",
+   "service_lines": [],
+   "kit": [
+    "red theatre tabard",
+    "clip-on staff communication device"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "detail",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HARBORNE THEATRES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 860.52,
+   "end": 866.68,
+   "description": "A bearded staff member in a red lead apron and thyroid collar printed with 'Harborne Theatres', with a radiation dosimeter badge clipped to the pocket, operates a joystick control panel in a dimly lit operating theatre. The camera moves down from his collar to his hands on the controls.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "lead apron",
+    "thyroid collar",
+    "radiation dosimeter badge",
+    "equipment control panel with joystick"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "HARBORNE THEATRES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 866.68,
+   "end": 868.52,
+   "description": "Close-up of a staff member in a red protective apron with an ID badge working a joystick on a white equipment control panel under blue lighting, likely in an interventional or imaging room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "control panel with joystick",
+    "lead apron"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 868.52,
+   "end": 876.88,
+   "description": "A bearded clinician with glasses, wearing a red lead apron marked 'Harborne Theatres' with a thyroid collar and dosimeter badge, stands under operating theatre lights in a blue-lit theatre. The camera tilts up from the apron to his face as he looks up and to the side.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "lead apron",
+    "thyroid shield",
+    "dosimeter badge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "HARBORNE THEATRES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 876.88,
+   "end": 887.96,
+   "description": "An ultrasound machine in a dimly lit, blue-toned scanning room, with the camera moving past its touchscreen control panel and trackball. A wall monitor in the background shows a colour Doppler heart scan.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "cardiology"
+   ],
+   "kit": [
+    "ultrasound",
+    "wall-mounted display monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 887.96,
+   "end": 899.04,
+   "description": "A staff member operates a Philips ultrasound machine in a blue-lit room, with the monitor showing 3D echocardiography images of the heart and an ECG trace. The shot moves from the control panel and probe holders to the screen, then to a hand on the touchscreen and trackball.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 899.04,
+   "end": 910.12,
+   "description": "A Philips ultrasound machine screen shows 3D echocardiography images of the heart with an ECG trace, then the shot moves to a clinician's hands working the control panel and touchpad in a dimly lit, blue-toned room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 910.12,
+   "end": 921.2,
+   "description": "Close-up of a person's hands using the trackball and control panel of an ultrasound machine in a dimly lit, blue-toned scanning room. The camera moves around the console as the operator adjusts controls during a scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 921.2,
+   "end": 932.28,
+   "description": "A staff member wearing a lead protective apron stands in profile in a darkened operating theatre lit with blue light, with theatre lights and a monitor behind her.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "lead apron",
+    "C-arm"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 932.28,
+   "end": 943.36,
+   "description": "A clinician wearing a green lead apron and thyroid collar stands in a blue-lit interventional suite, watching a monitor before the camera moves down to her hands working a control panel.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "cardiology"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "lead apron",
+    "control panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 943.36,
+   "end": 948.04,
+   "description": "Low-angle exterior shot moving along the dark grey wall sign reading 'The Harborne Hospital', with a paved path, planting and a curved multi-storey building in the background. The camera slides along the wall towards the sign's end.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Harborne Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 948.04,
+   "end": 950.84,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 950.84,
+   "end": 963.32,
+   "description": "Low-angle exterior of The Harborne Hospital: the camera tilts down the white panelled facade and glass curtain wall to reveal the building's name sign above the entrance canopy.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 963.32,
+   "end": 975.68,
+   "description": "Low-angle exterior of The Harborne Hospital as the camera tilts down the glass and white-panelled facade to reveal the building's name signage against a blue sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 975.68,
+   "end": 981.64,
+   "description": "Low-angle exterior of The Harborne Hospital, with the camera moving down and across the white-finned, blue-glass facade to reveal the building's name sign above the entrance canopy against a blue sky with light cloud.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 981.64,
+   "end": 987.24,
+   "description": "Low-angle exterior of The Harborne Hospital showing the white-panelled and blue glass facade against a blue sky with clouds. The camera moves right to reveal the full 'The Harborne Hospital' sign above the entrance.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 987.24,
+   "end": 991.52,
+   "description": "Exterior of The Harborne Hospital, starting on the ground-floor entrance with HCA Healthcare UK signage and tilting up the white and blue glass facade to the 'The Harborne Hospital' lettering on the building.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL; HCA Healthcare UK The Harborne Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 991.52,
+   "end": 999.08,
+   "description": "Exterior of The Harborne Hospital, starting on the entrance and HCA Healthcare UK banner, then tilting up past the building's name signage to the upper floors and glass facade against a blue sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL; HCA Healthcare UK The Harborne Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 999.08,
+   "end": 1006.64,
+   "description": "Low-angle exterior of The Harborne Hospital, with the camera tilting down from the glass and white facade and the building-name lettering to the main entrance and the HCA Healthcare UK sign. A person is walking near the entrance doors.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL; HCA Healthcare UK The Harborne Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1006.64,
+   "end": 1016.96,
+   "description": "Exterior of The Harborne Hospital, with the camera moving up from the HCA Healthcare UK entrance signage to the building name on the white and blue-glass facade against the sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL; HCA Healthcare UK The Harborne Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1016.96,
+   "end": 1021.36,
+   "description": "Low-angle exterior of The Harborne Hospital, moving along the white facade and curved overhang beneath blue and green glass panels to reveal the hospital's entrance signage against a blue sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Harborne Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1021.36,
+   "end": 1028.96,
+   "description": "Low-angle exterior shot of The Harborne Hospital entrance, with the camera moving right along the glass frontage to show the Private Urgent Care Centre sign for minor injuries and illnesses, adults over 18, no appointment needed. The hospital name and a partial list of services come into view at the right of frame.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "building signage",
+    "CCTV camera",
+    "revolving door"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Private Urgent Care Centre; Minor Injuries and Illnesses; Available for anyone over 18; No Appointment Needed; The Har[borne] Hospit[al] (partial); Cancer, Digesti..., Heart, Spina..., Urolo..., Wo... (partial service list)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1028.96,
+   "end": 1037.72,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1037.72,
+   "end": 1045.58,
+   "description": "The camera moves past an HCA Healthcare UK wall sign and a frosted glass reception sign, then down a corridor at The Harborne Hospital to a reception desk with a receptionist seated behind it.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1045.58,
+   "end": 1053.44,
+   "description": "A woman sits reading a leaflet in a waiting area at The Harborne Hospital while the camera moves past her toward a seating area by a tall window with a potted plant. The area has grey and cream armchairs, small side tables, framed artwork and a reception desk edge.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "waiting room armchairs",
+    "side tables",
+    "potted plant",
+    "framed artwork",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1053.44,
+   "end": 1062.44,
+   "description": "A staff member in navy scrubs walks past the Bay 6 sign and into a patient bay, where a smiling woman sits by the window as he looks through paperwork.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "hand sanitiser dispenser",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "BAY 6",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1062.44,
+   "end": 1066.12,
+   "description": "A staff member in blue scrubs shows a smiling patient in a white robe an HCA information folder as she sits on her bed in a patient room at The Harborne Hospital. They talk through the folder together.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient information folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (logo on folder)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1066.12,
+   "end": 1070.36,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1070.36,
+   "end": 1079.6,
+   "description": "A clinician in navy scrubs holding a folder walks and talks with a woman in a cream cardigan along a hospital corridor with artwork on the walls, past a nurses' station. They chat and smile as the camera moves back ahead of them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "folder / clipboard",
+    "nurses' station"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "6 (room/bay door sign)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1079.6,
+   "end": 1087.68,
+   "description": "A staff member in navy scrubs and a colleague in a white top walk away from camera down a hospital corridor at The Harborne Hospital and go through a door into a clinical room with equipment.",
+   "service_lines": [],
+   "kit": [
+    "door access card reader",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1087.68,
+   "end": 1095.96,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1095.96,
+   "end": 1104.24,
+   "description": "A clinician in navy scrubs prepares and checks an endoscope in a dimly lit endoscopy room, with the endoscopy monitor showing a camera view behind him. A second person is out of focus in the foreground.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy monitor",
+    "endoscopy stack"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1104.24,
+   "end": 1107.04,
+   "description": "Side profile of a female patient in a hospital gown sitting in a patient room at The Harborne Hospital, looking ahead and speaking as if sharing her experience. A hospital bed and a wall-mounted patient monitor are out of focus behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1107.04,
+   "end": 1113.32,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1113.32,
+   "end": 1120.86,
+   "description": "A female patient in a hospital gown and wristband sits upright in a hospital bed, listening and talking with a staff member in navy scrubs, who is seen from behind and out of focus in the foreground. Patient room conversation at The Harborne Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted TV screen",
+    "storage cabinets"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1120.86,
+   "end": 1128.4,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1128.4,
+   "end": 1138.28,
+   "description": "A consultant in navy scrubs holds an endoscope and talks in a dimly lit endoscopy room, with the endoscopy monitor on the wall behind him. The camera moves from his face down to his hands handling the scope.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1138.28,
+   "end": 1146.4,
+   "description": "A female patient in a white gown sits in a reclining treatment chair in a dimly lit room, looking ahead thoughtfully while a screen on a mounted arm behind her plays a video. A staff member's shoulder passes out of focus in the left foreground at the start of the shot.",
+   "service_lines": [],
+   "kit": [
+    "infusion chair",
+    "bedside entertainment screen on mounted arm",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1146.4,
+   "end": 1152.96,
+   "description": "A nurse in a navy uniform opens a door and steps aside as the camera moves through the doorway into an empty private patient room at The Harborne Hospital, with a made bed, bedside monitor, armchair and large window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "wall-mounted TV",
+    "armchair",
+    "overbed table",
+    "clinical sink"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1152.96,
+   "end": 1162.8,
+   "description": "A patient in a hospital gown sits in a chair by the window and breathes through an incentive spirometer while a clinician in a navy top with a stethoscope watches and guides him. Breathing exercise after surgery in a patient room at The Harborne Hospital.",
+   "service_lines": [
+    "respiratory",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "incentive spirometer",
+    "stethoscope",
+    "patient chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1162.8,
+   "end": 1171.88,
+   "description": "A patient in a grey recliner chair uses an incentive spirometer while a staff member with a stethoscope sits beside him, smiling and encouraging his breathing exercise. Focus shifts from the staff member to the patient as the camera moves around them in a patient room.",
+   "service_lines": [
+    "respiratory",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "incentive spirometer",
+    "stethoscope",
+    "patient recliner chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1171.88,
+   "end": 1180.96,
+   "description": "A clinician in dark scrubs listens to the chest of a male patient in a hospital gown with a stethoscope. The patient sits in an armchair in a dimly lit patient room with a lamp and framed artwork behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "stethoscope",
+    "armchair",
+    "bedside lamp"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1180.96,
+   "end": 1191.64,
+   "description": "A staff member in dark navy scrubs walks into a private patient room at The Harborne Hospital and approaches a male patient seated in an armchair by the window. The room has a hospital bed, an overbed table, a wall-mounted monitor, and a window looking out over trees.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "overbed table",
+    "patient armchair",
+    "wall-mounted screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1191.64,
+   "end": 1202.32,
+   "description": "A staff member in a navy polo, likely a physiotherapist, shows a patient in a hospital gown how to use an incentive spirometer, and the patient breathes through it while seated in a chair in a patient room. Suitable for post-operative breathing exercises and recovery support.",
+   "service_lines": [
+    "respiratory",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "incentive spirometer",
+    "patient recliner chair"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1202.32,
+   "end": 1204.24,
+   "description": "A physiotherapist kneels beside a patient in a hospital gown seated in a recliner chair, guiding him through breathing exercises with an incentive spirometer while resting a hand on his abdomen. The scene takes place in a patient room at The Harborne Hospital, with a lamp, artwork and a window in view.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "respiratory"
+   ],
+   "kit": [
+    "incentive spirometer",
+    "patient monitor",
+    "recliner chair"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1204.24,
+   "end": 1209.84,
+   "description": "A staff member in a navy HCA polo sits beside a patient in a hospital gown and coaches him as he breathes through an incentive spirometer in a patient room at The Harborne Hospital. The staff member smiles and talks him through the breathing exercise.",
+   "service_lines": [
+    "respiratory",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "incentive spirometer",
+    "patient chair"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare logo on polo shirt",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1209.84,
+   "end": 1215.4,
+   "description": "A patient in a hospital gown sits in a chair in a patient room while a clinician, seen only by their arm, listens to his chest with a stethoscope.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "stethoscope",
+    "patient chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1215.4,
+   "end": 1223.28,
+   "description": "A staff member in a navy HCA polo shirt holds a patient's arm and walks with him along a hospital corridor. The patient wears a gown and yellow grip socks, and the camera moves down to follow their feet as they walk.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "yellow grip socks",
+    "hospital gown"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on staff polo shirt",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1223.28,
+   "end": 1225.48,
+   "description": "A staff member in an HCA Healthcare UK polo shirt supports a patient in a hospital gown as he walks along a hospital corridor, holding his arm and hand to steady him during assisted mobilisation.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1225.48,
+   "end": 1233.6,
+   "description": "A physiotherapist in an HCA Healthcare UK polo walks alongside a male patient in a hospital gown down a corridor, supporting his hand and arm as he mobilises. The shot moves from a close view of their joined hands to the patient's face as he looks down, while the physiotherapist smiles and encourages him.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "corridor handrail"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1233.6,
+   "end": 1238.0,
+   "description": "Low-angle view of a wall-mounted 'Ward Reception' direction sign with a green arrow icon, above a doorway in a corridor at The Harborne Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wayfinding sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "Ward Reception",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1238.0,
+   "end": 1241.2,
+   "description": "Camera moves past a blurred wooden door frame to reveal a hospital corridor wall with a Ward Reception arrow sign, a Staff Only door and a wayfinding sign pointing to bedrooms and ITU.",
+   "service_lines": [
+    "critical care",
+    "general hospital"
+   ],
+   "kit": [
+    "magnetic door holders",
+    "ceiling air vent",
+    "wayfinding signage"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Ward Reception; Bedrooms 201 - 212 \u2192; Bedrooms 214 - 219 \u2190; ITU \u2190; Staff Only",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1241.2,
+   "end": 1250.08,
+   "description": "A camera move starts on a wall sign reading 'Ward Reception' with a directional arrow, moves in closer on the sign, then turns to show an empty, brightly lit ward corridor lined with doors at The Harborne Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wayfinding signage"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Ward Reception; Bedrooms 201 - 212",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1250.08,
+   "end": 1257.78,
+   "description": "A chef in whites and blue gloves cooks meat in a frying pan on an induction hob in The Harborne Hospital's kitchen, preparing patient food.",
+   "service_lines": [],
+   "kit": [
+    "induction hob",
+    "frying pan",
+    "stainless steel kitchen shelving",
+    "utensil containers"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1257.78,
+   "end": 1265.48,
+   "description": "A chef in whites and blue gloves turns pieces of meat in a frying pan with tongs on an induction hob in The Harborne Hospital kitchen. The camera moves up to show the chef's face as he concentrates on cooking.",
+   "service_lines": [],
+   "kit": [
+    "frying pan",
+    "tongs",
+    "induction hob",
+    "stainless steel food containers"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1265.48,
+   "end": 1271.0,
+   "description": "A hospital chef in a white chef's jacket and blue gloves cooks with a frying pan in a stainless steel kitchen at The Harborne Hospital. The camera moves up from his hands to his face as he works and speaks.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "frying pan",
+    "stainless steel kitchen counters",
+    "food containers",
+    "extractor hood"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1271.0,
+   "end": 1273.72,
+   "description": "A chef in white chef's jacket and blue gloves wipes down a stainless steel counter in the hospital kitchen, with shelves of metal bowls and kitchen equipment behind him.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel counter",
+    "combination oven",
+    "kitchen shelving with metal bowls"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1273.72,
+   "end": 1280.24,
+   "description": "A hospital chef in white chef's whites and blue gloves works at a stainless steel counter in The Harborne Hospital's kitchen, preparing food as the camera moves in past the countertop.",
+   "service_lines": [],
+   "kit": [
+    "combi oven",
+    "extraction hood",
+    "stainless steel worktop",
+    "kitchen shelving"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1280.24,
+   "end": 1283.8,
+   "description": "A chef in blue gloves and a striped apron uses tongs to turn cuts of meat in a frying pan with rosemary on a stainless steel kitchen counter, with white plates ready beside the pan. Hospital catering staff preparing patient meals in the kitchen at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "frying pan",
+    "kitchen tongs",
+    "white plates",
+    "stainless steel kitchen counter"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1283.8,
+   "end": 1285.84,
+   "description": "In a hospital kitchen, a chef in a striped apron and blue gloves plates a portion of cooked meat on a white plate next to a frying pan with more meat cooking on the stainless steel counter. The chef holds a container and spoon, preparing to add sauce or garnish.",
+   "service_lines": [],
+   "kit": [
+    "frying pan",
+    "tongs",
+    "stainless steel kitchen counter",
+    "white plate",
+    "food container"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1285.84,
+   "end": 1291.56,
+   "description": "A chef in blue gloves spoons a pur\u00e9e from a plastic tub onto a white plate beside a glazed piece of meat at a stainless steel kitchen pass, plating a meal in the hospital kitchen.",
+   "service_lines": [],
+   "kit": [
+    "frying pan",
+    "tongs",
+    "plastic food container",
+    "serving spoon",
+    "dinner plate",
+    "stainless steel kitchen pass"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1291.56,
+   "end": 1294.52,
+   "description": "A chef in a white jacket and blue gloves uses tongs to plate a seared meat dish with seafood and a yellow sauce on a white plate in a kitchen, with a frying pan on the steel counter beside it. Patient catering and food preparation at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "frying pan",
+    "serving tongs",
+    "stainless steel kitchen counter",
+    "dinner plate"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1294.52,
+   "end": 1301.36,
+   "description": "A chef in blue gloves garnishes a plated dish of pork belly, chicken and a pur\u00e9e with microgreens at a stainless steel kitchen pass at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel kitchen pass",
+    "food containers",
+    "dinner plate"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1301.36,
+   "end": 1314.12,
+   "description": "A chef in blue disposable gloves garnishes a plated dish of roast pork belly and chicken with sauce and microgreens at a stainless steel kitchen pass, then slides the plate forward for service. Hospital catering and patient food preparation.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel kitchen pass",
+    "plated meal",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1314.12,
+   "end": 1320.24,
+   "description": "A plated hot meal of roast chicken leg, pork belly, a vegetable pur\u00e9e and microgreens sits on a stainless steel kitchen pass while a chef in a striped apron stands out of focus behind it. Hospital catering and patient food at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel kitchen pass",
+    "dinner plate"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1320.24,
+   "end": 1327.88,
+   "description": "A plated hospital meal of layered potato terrine, roasted chicken with a smooth orange pur\u00e9e and pea shoot garnish sits on a white plate on a stainless steel kitchen pass at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel kitchen pass",
+    "white dinner plate"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1327.88,
+   "end": 1331.24,
+   "description": "Overhead close-up of a plated hot meal on a white plate at a stainless steel kitchen pass, showing a block of roasted pork belly, a piece of pink-roasted meat and an orange vegetable pur\u00e9e garnished with pea shoots. Hospital catering food presentation.",
+   "service_lines": [],
+   "kit": [
+    "plated meal",
+    "stainless steel kitchen counter"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1331.24,
+   "end": 1333.8,
+   "description": "Close-up of a plated meal on a stainless steel kitchen pass at The Harborne Hospital, with tomatoes, salad leaves, a bowl of grated cheese and a small pot of sauce. A chef in blue gloves and a striped apron finishes the plate in the background.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel kitchen pass",
+    "dinner plate",
+    "ramekins",
+    "food storage container",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1333.8,
+   "end": 1341.36,
+   "description": "A hospital chef in kitchen whites reaches up with a blue-gloved hand to take order tickets from a ticket rail, filmed from a low angle in the catering kitchen.",
+   "service_lines": [],
+   "kit": [
+    "order ticket rail",
+    "kitchen extraction hood",
+    "commercial oven"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1341.36,
+   "end": 1343.88,
+   "description": "A staff member's hand taps orders on a touchscreen catering order system showing colour-coded patient meal orders for wards, including breakfast, lunch and supper deliveries. This is part of the hospital's food and hotel service.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "touchscreen order display"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "21 Ready, 9 Preparing, 12 In Queue, Breakfast, Lunch, Supper, Chemo Day Unit Bay 5 Chair, Hotel Service, 3rd Floor Ward PR 314 Patient Room 314 Supper, 3rd Floor Ward PR 302 Patient Room 302 Supper, A La Carte 2026, Delivery Time, Allergy: Lactose Intolerant, Print, Ready, Prepare",
+   "patient_visible": false,
+   "screen_data_visible": true,
+   "social_ready": false
+  },
+  {
+   "t": 1343.88,
+   "end": 1356.28,
+   "description": "A chef in kitchen whites plates a portion of food onto a white plate at a prep counter in the hospital kitchen, then the camera moves up to his face as he works. Patient catering at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "white plate",
+    "food storage containers",
+    "disposable gloves box",
+    "squeeze bottle",
+    "stainless steel gastronorm trays",
+    "food prep counter"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "feelers XL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1356.28,
+   "end": 1360.32,
+   "description": "A member of catering staff places raspberries around a bowl of creamy dessert on a prep counter in The Harborne Hospital kitchen. Close-up of hospital food being plated, with only the hand visible.",
+   "service_lines": [],
+   "kit": [
+    "dessert bowl",
+    "kitchen knife",
+    "chopping boards",
+    "food storage containers"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1360.32,
+   "end": 1364.84,
+   "description": "Close-up of a chef in white whites leaning forward and looking down in concentration as he works at a counter in a hospital kitchen.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel kitchen equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1364.84,
+   "end": 1366.44,
+   "description": "Close-up of a chef in white chef's whites leaning over a work surface in a kitchen, concentrating on preparing food. Kitchen shelving and an overhead extraction hood are visible out of focus behind him.",
+   "service_lines": [],
+   "kit": [
+    "kitchen extraction hood",
+    "kitchen shelving"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1366.44,
+   "end": 1371.08,
+   "description": "A smiling pharmacy staff member in a green uniform hands a white HCA-branded paper bag across a counter, ending on a close-up of the bag being passed to a person whose hand is in frame. A colleague works at the shelves and drawers in the pharmacy behind her.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "pharmacy shelving and storage bins",
+    "medication drawers",
+    "HCA-branded paper bag"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA (partial, on paper bag)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1371.08,
+   "end": 1376.24,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1376.24,
+   "end": 1385.64,
+   "description": "A staff member in a green uniform holds out an HCA Healthcare UK paper bag branded for The Harborne Hospital across a counter with a glass screen, as if handing over medication at a pharmacy collection point.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "HCA branded paper bag",
+    "counter with glass screen",
+    "service bell"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK, The Harborne Hosp... (on paper bag)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1385.64,
+   "end": 1391.08,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1391.08,
+   "end": 1401.64,
+   "description": "View through a window at dusk, looking out at multi-storey buildings with lit windows, as the camera moves right past window frames and a blurred HCA sign in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "window signage"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1401.64,
+   "end": 1413.92,
+   "description": "View through a window at dusk of a multi-storey building with blue cladding and lit office windows, with a covered car park and parked cars below. The camera moves sideways past the window frames, with reflections on the glass and the frame passing across the foreground.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1413.92,
+   "end": 1425.68,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1425.68,
+   "end": 1437.44,
+   "description": "A radiographer in a white tunic stands at an Elekta linear accelerator in a radiotherapy treatment room, adjusting the machine while a cube-shaped QA phantom sits on the treatment couch. The gantry's blue-lit ring and the treatment couch are in the foreground.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "linear accelerator",
+    "treatment couch",
+    "QA phantom",
+    "wall monitor"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Elekta (partially visible on gantry)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1437.44,
+   "end": 1449.2,
+   "description": "A radiographer uses a handheld control to move an Elekta linear accelerator around an empty treatment couch in a blue-lit radiotherapy room at The Harborne Hospital. A white test block sits on the couch with alignment lasers visible.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "linear accelerator",
+    "treatment couch",
+    "handheld pendant control",
+    "wall-mounted monitor",
+    "QA phantom block"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Elekta",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1449.2,
+   "end": 1460.96,
+   "description": "A radiographer uses a handheld controller to rotate the gantry of a linear accelerator around a test cube on the treatment couch in a radiotherapy treatment room at The Harborne Hospital.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "linear accelerator",
+    "radiotherapy QA phantom",
+    "handheld control pendant",
+    "wall monitor"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1460.96,
+   "end": 1472.72,
+   "description": "A radiographer in a white tunic uses a handheld controller to operate an Elekta Versa HD linear accelerator in a dimly lit radiotherapy treatment room, with a white cube phantom on the treatment couch for a quality check. Green alignment lasers and the blue-lit bore of the machine are visible.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology"
+   ],
+   "kit": [
+    "linear accelerator",
+    "QA phantom cube",
+    "treatment couch",
+    "handheld pendant controller",
+    "alignment lasers"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Elekta; Versa HD",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1472.72,
+   "end": 1477.0,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  }
+ ]
+}

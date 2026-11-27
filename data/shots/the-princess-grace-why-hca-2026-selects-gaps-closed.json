@@ -1,0 +1,7141 @@
+{
+ "id": "the-princess-grace-why-hca-2026-selects-gaps-closed",
+ "title": "The Princess Grace, Why HCA 2026 - Selects (Gaps Closed)",
+ "file": "The Princess Grace, Why HCA 2026 - Selects (Gaps Closed).mp4",
+ "facility": "The Princess Grace Hospital",
+ "duration": 1968.92,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 2.44,
+   "description": "All three frames are black, with no visible image, people, location or text. This is likely a black slug, a gap or a failed export and should be checked against the source before use.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": null,
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2.44,
+   "end": 14.08,
+   "description": "Aerial drone shot over a central London street corner showing a brick office building, a church with a clock tower and columned portico, and a building wrapped in white scaffolding sheeting, with cars and vans moving along the tree-lined road below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 14.08,
+   "end": 25.72,
+   "description": "Aerial drone shot over a central London street in winter, with traffic moving along a tree-lined road past a brick office building, a church with a clock tower behind it, and a neighbouring building wrapped in scaffolding and sheeting. The camera drifts slowly across the rooftops, giving a neighbourhood establishing view.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 25.72,
+   "end": 37.36,
+   "description": "Aerial drone shot moving over a central London street with a brick office block, a church with a clock tower and portico behind it, and a neighbouring building wrapped in white scaffolding sheeting. Traffic runs along a tree-lined road on the left and cars are parked on the street below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 37.36,
+   "end": 49.0,
+   "description": "Aerial drone shot over a central London street with a church with a clock tower and columned portico, a brick office block, and a building wrapped in scaffolding sheeting, as traffic moves along the road below bare winter trees.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 49.0,
+   "end": 60.64,
+   "description": "Aerial drone view over a central London street on a hazy day, with traffic moving between a brick office block, a white-roofed building with a clock tower and a building wrapped in white scaffolding sheeting, bare trees in the foreground. The camera drifts slowly sideways across the street; no hospital signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 60.64,
+   "end": 72.28,
+   "description": "Aerial drone shot moving over a London street corner, showing a church with a clock tower and columned portico, a brick office block, a building wrapped in white scaffolding sheeting, and traffic on the street below, framed by bare winter trees.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 72.28,
+   "end": 83.92,
+   "description": "Aerial drone shot over a London street junction lined with bare trees, showing a brick office block, a church with a clock tower and columned portico, and a building wrapped in white scaffolding sheeting. Traffic moves along the street as the camera drifts across the rooftops.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 83.92,
+   "end": 95.8,
+   "description": "Drone shot moving slowly over central London rooftops on a hazy day, passing a church with a columned portico and tower, a scaffold-wrapped building and traffic on the road below. The area appears to be Marylebone, but the Princess Grace Hospital building is not clearly identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 95.8,
+   "end": 107.68,
+   "description": "Aerial drone shot over Marylebone, London, pulling back from a church with a clock tower and columned portico, likely St Marylebone Parish Church, to show the surrounding streets, traffic and rooftops in hazy winter light. A building wrapped in white scaffolding sheeting sits beside the church, and no hospital is identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 107.68,
+   "end": 119.56,
+   "description": "Aerial drone shot over Marylebone rooftops, past a church with a columned portico and clock tower, then tilting down onto a brick office building and a street junction with cars, vans and a lorry in traffic.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 119.56,
+   "end": 131.44,
+   "description": "Aerial drone shot looking down on a brick corner building at a London street junction, with cars driving past, bare winter trees and a scaffold-wrapped building alongside. The camera moves slowly over the junction toward the building.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 131.44,
+   "end": 143.32,
+   "description": "Aerial drone shot moving over a city street corner, looking down on a multi-storey brick building, traffic passing on the roads and a neighbouring building wrapped in scaffolding sheeting. No hospital signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 143.32,
+   "end": 155.2,
+   "description": "Aerial drone shot looking down on a central London street corner with traffic passing an office building and a scaffold-wrapped building, then tilting up to show a church clock tower and the surrounding rooftops and tree-lined road.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 155.2,
+   "end": 167.08,
+   "description": "Aerial drone shot over a London street, moving past a church with a clock and columned portico, an office block and bare trees, with traffic and cyclists on the road below. Area establishing shot for the Princess Grace Hospital neighbourhood; the hospital itself is not identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 167.08,
+   "end": 178.96,
+   "description": "Drone shot moving over a city street corner, passing a church with a columned portico and clock tower next to a brick office block, with traffic and cycle lane markings on the road below. Trees line the pavements in this aerial establishing view of the surrounding neighbourhood.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 178.96,
+   "end": 190.84,
+   "description": "Drone shot orbiting a church clock tower with gold figures in Marylebone, London (appears to be St Marylebone Parish Church), with traffic on the tree-lined road and office buildings below. Neighbourhood establishing shot for The Princess Grace Hospital area; the hospital itself is not shown.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 190.84,
+   "end": 202.72,
+   "description": "Drone shot moving past the domed clock tower of a church with gilded statues, likely St Marylebone Parish Church, looking down on a busy London road with cars, a red double-decker bus and a cycle lane. Local area establishing shot near The Princess Grace Hospital in Marylebone.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 202.72,
+   "end": 214.6,
+   "description": "Aerial drone shot moving over a central London street with traffic and painted cycle lane markings, passing a columned church portico with a clock tower next to a brick office building. Vans and cars drive along the tree-lined road below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 214.6,
+   "end": 225.48,
+   "description": "Aerial drone shot moving past a church clock tower with gilded figures, which appears to be St Marylebone Parish Church, looking down onto a tree-lined London street with traffic and the surrounding Marylebone buildings near The Princess Grace Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 225.48,
+   "end": 236.36,
+   "description": "Aerial drone shot moving over a city street junction in central London, showing a columned church with a clock tower beside a brick office block, with bare trees, parked cars and traffic on the road below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 236.36,
+   "end": 247.8,
+   "description": "Aerial drone shot moving slowly over white stucco terraces at the edge of Regent's Park, looking south across Marylebone towards the central London skyline on a hazy day. Traffic moves along the road between the terraces, and no hospital building or signage is identifiable.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 247.8,
+   "end": 259.24,
+   "description": "Aerial drone shot over Marylebone, London, moving towards a church with a columned portico and tower, likely St Marylebone Parish Church, beside a main road with red buses and traffic. Surrounding brick and white office and residential blocks set the neighbourhood context; no hospital signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 259.24,
+   "end": 266.56,
+   "description": "Rooftop view across Marylebone in London, panning from a street lined with parked cars over red-brick rooftops and bare trees to the BT Tower on the skyline on a clear day.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 266.56,
+   "end": 275.12,
+   "description": "Drone flight over central London rooftops around Marylebone, with the BT Tower and city skyline in the distance, ending above white stucco terraces, a busy road and trees at the edge of a park. Use as a location establishing shot for The Princess Grace Hospital's neighbourhood; the hospital itself is not identifiable in frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 275.12,
+   "end": 283.64,
+   "description": "Rooftop-level drone view over the red-brick buildings, mansard roofs and bare winter trees of Marylebone, London, moving from a narrow street lined with parked cars across a stone balustrade to a slate roof and the wider skyline.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 283.64,
+   "end": 291.12,
+   "description": "Drone shot flying over central London rooftops with the BT Tower on the skyline, passing a church clock tower and tilting down onto a tree-lined street with parked cars and traffic at a junction.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 291.12,
+   "end": 301.37,
+   "description": "Aerial drone shot rising over central London rooftops of red-brick and stone mansion blocks, turning to reveal a busy tree-lined road with traffic and parkland beyond. An establishing shot of the neighbourhood around the hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 301.37,
+   "end": 311.62,
+   "description": "Aerial drone shot moving over a rooftop with a domed clock tower beside a tree-lined city street, with red-brick and office buildings and passing traffic below in central London.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 311.62,
+   "end": 321.86,
+   "description": "Aerial drone shot moving around a domed stone clock tower on a church roof in central London, with brick buildings, rooftops and a tree-lined street with parked cars and a red bus below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 321.86,
+   "end": 332.11,
+   "description": "Aerial drone shot moving over a church roof with a clock cupola, looking out across surrounding brick and stone buildings, a building under scaffolding, and a street with parked cars in central London. No hospital signage is visible in the shot.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 332.11,
+   "end": 342.36,
+   "description": "Aerial drone shot circling a rooftop clock tower with a domed cupola, looking over brick buildings and a tree-lined street with traffic in central London. The building shown is not identified as The Princess Grace Hospital in the footage.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 342.36,
+   "end": 351.94,
+   "description": "Aerial drone shot circling over a church roof and its domed clock tower, with surrounding brick and stone buildings, scaffolding, and a tree-lined street of parked cars in central London.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 351.94,
+   "end": 361.52,
+   "description": "Aerial drone shot orbiting a church clock tower and dome, which appears to be St Marylebone Parish Church, with Marylebone Road traffic and surrounding mansion blocks and office buildings in central London. Useful as a neighbourhood establishing shot; no hospital building or signage is identifiable.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 361.52,
+   "end": 371.1,
+   "description": "Aerial drone shot orbiting a brick multi-storey building with rooftop plant next to a white stone church with a clock tower, with traffic moving on the surrounding London streets. No hospital signage is visible, so this shot does not confirm the building is The Princess Grace Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 371.1,
+   "end": 380.68,
+   "description": "Aerial drone shot moving over central London rooftops towards a white stone church with a clock tower, passing a brick building with rooftop air-handling units and nearby scaffolding. Traffic moves along the tree-lined streets below.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 380.68,
+   "end": 387.64,
+   "description": "Low-angle exterior of The Princess Grace Hospital's brick facade, with the camera tilting down from the upper windows to reveal the glass entrance canopy bearing the hospital's name and a street lamp in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 387.64,
+   "end": 392.28,
+   "description": "Low-angle exterior of The Princess Grace Hospital's brick facade, with the camera moving right to reveal the glass entrance canopy carrying the hospital's name.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 392.28,
+   "end": 403.52,
+   "description": "Low-angle exterior view of The Princess Grace Hospital's brick and glass facade with the 'Princess Grace Hospital' lettering above the entrance glazing. The camera drifts along the sign against a bright sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 403.52,
+   "end": 414.76,
+   "description": "Low-angle shot panning left to right along The Princess Grace Hospital name sign, mounted on the glass entrance canopy below a brick facade with windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "The Princess Grace Hos... (sign reads across frames, end cut off)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 414.76,
+   "end": 422.52,
+   "description": "Exterior of The Princess Grace Hospital showing the HCA Healthcare UK sign on a white stone facade, beside windows with branded panels reading 'The Princess Grace Hospital'. The camera moves along the building past the sign, revealing the street, a bare tree and a parked car.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 422.52,
+   "end": 429.68,
+   "description": "Gimbal shot moving along the exterior of The Princess Grace Hospital past HCA Healthcare UK window signage to the glass-canopied entrance ramp with handrails, with red-brick mansion blocks and parked cars on the street opposite.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital; 19",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 429.68,
+   "end": 438.36,
+   "description": "Camera moves along the covered entrance ramp of The Princess Grace Hospital, past windows with HCA Healthcare UK signage, and turns toward the glass entrance doors. A glass canopy, handrails and hedge planters line the walkway, with red-brick terraced buildings and parked cars on the street beyond.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 438.36,
+   "end": 448.48,
+   "description": "Gimbal shot moving along the entrance ramp of The Princess Grace Hospital, past HCA Healthcare UK window signage and planters, toward the glass entrance doors and a view into the reception lobby. Red-brick terraced buildings and parked cars line the street behind.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "glass entrance doors",
+    "entrance ramp with handrail",
+    "planters"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 448.48,
+   "end": 458.6,
+   "description": "A smiling receptionist sits behind the front desk at The Princess Grace Hospital as the camera pushes in from a wide view of the reception area, with the HCA Healthcare UK logo on the wall behind her. A person walks through the lobby in the background at the start of the shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk",
+    "hearing loop sign"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital; loop facility",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 458.6,
+   "end": 468.72,
+   "description": "A receptionist in a hijab sits smiling at the front desk beneath the HCA Healthcare UK logo at The Princess Grace Hospital. The camera swings past the desk and settles on a corridor leading to a waiting area with a TV screen and plants.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk",
+    "fire extinguishers",
+    "wall-mounted TV"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The ... Hosp... (partial wall signage)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 468.72,
+   "end": 479.75,
+   "description": "Gimbal shot moving along the railed entrance ramp of The Princess Grace Hospital, past HCA Healthcare UK window signage and hedge planters, towards the glass entrance doors with a view into reception. Red-brick mansion blocks on the street opposite are reflected in the glass.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "entrance ramp with handrails",
+    "glass canopy",
+    "hedge planters"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 479.75,
+   "end": 490.77,
+   "description": "A receptionist in a dark blazer and headscarf works at the front desk of The Princess Grace Hospital, typing at a keyboard beneath the HCA Healthcare UK logo. The camera moves in towards the desk and then moves right past it, ending in motion blur.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "hearing loop sign",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital; loop facility",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 490.77,
+   "end": 501.8,
+   "description": "A gimbal move through a hospital waiting lounge at The Princess Grace Hospital, showing upholstered armchairs, table lamps, plants and wall-mounted screens. A staff member in a green polo shirt walks away down the lounge while a few people sit or stand near the far end.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "table lamps",
+    "wall-mounted TV screens",
+    "potted plants",
+    "coffee table"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 501.8,
+   "end": 507.8,
+   "description": "Low-angle view of the illuminated HCA Healthcare UK logo sign on a curved blue wall panel, with LED edge lighting and a wooden slatted wall beside it. The camera drifts slowly towards the sign.",
+   "service_lines": [],
+   "kit": [
+    "wall signage"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 507.8,
+   "end": 516.64,
+   "description": "Low-angle close-up of brushed metal lettering reading 'The Princess Grace Hospital' mounted on a wooden slatted wall. The camera glides across the sign toward the word 'Grace'.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital signage"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 516.64,
+   "end": 525.48,
+   "description": "Close-up of the brushed metal 'The Princess Grace Hospital' lettering mounted on a wooden slatted wall, filmed at a low angle with the camera moving slowly across the sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 525.48,
+   "end": 533.44,
+   "description": "A receptionist in a dark blazer and hijab works at the front desk beneath an HCA Healthcare UK wall sign at The Princess Grace Hospital, as the camera moves past a computer monitor in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 533.44,
+   "end": 541.4,
+   "description": "A receptionist in a black hijab and dark blazer sits at the front desk behind a computer monitor at The Princess Grace Hospital, with the HCA Healthcare UK logo on the wall behind her. The camera moves past the foreground monitor toward her as she looks across the desk.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 541.4,
+   "end": 546.04,
+   "description": "A receptionist in a dark blazer and hijab types at the front reception desk, and the camera rises to reveal the HCA Healthcare UK logo on the wall behind her.",
+   "service_lines": [],
+   "kit": [
+    "computer keyboard",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 546.04,
+   "end": 551.08,
+   "description": "Camera glides along a wall with brushed metal lettering, moving from the HCA Healthcare UK logo to The Princess Grace Hospital sign. Branding shot of the hospital's signage in warm interior lighting.",
+   "service_lines": [],
+   "kit": [
+    "wall signage"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 551.08,
+   "end": 553.52,
+   "description": "Empty patient waiting lounge at The Princess Grace Hospital with grey and pale green armchairs, table lamps, a wooden side table and a wall-mounted TV. The camera slides sideways past a leafy plant in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "table lamps",
+    "wall-mounted TV",
+    "side table",
+    "pot plants"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 553.52,
+   "end": 563.24,
+   "description": "Empty patient waiting lounge at The Princess Grace Hospital with upholstered armchairs, a wooden table, table lamps, potted plants and a wall-mounted TV. The camera glides slowly through the seating area toward the windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "wall-mounted TV",
+    "table lamps",
+    "magazine rack",
+    "potted plants"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 563.24,
+   "end": 568.6,
+   "description": "A man in a suit sits in an armchair in a hospital waiting lounge reading a newspaper, then looks up and smiles as the camera moves in closer. Lounge seating, table lamps and plants surround him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "table lamp",
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 568.6,
+   "end": 581.2,
+   "description": "A man in a dark suit sits in an armchair in a hospital waiting lounge reading a newspaper, with table lamps, a potted plant and window blinds behind him. The camera moves from a side-on close view around to a front-facing wider view of the lounge.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "table lamp",
+    "side table",
+    "tissue box",
+    "wall-mounted TV",
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 581.2,
+   "end": 592.68,
+   "description": "Camera moves slowly past a potted plant on a glass-topped table in a hospital waiting lounge, with armchairs, table lamps, plants and windows in the background. No people are in the space.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "table lamps",
+    "potted plants",
+    "glass-top table"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 592.68,
+   "end": 595.2,
+   "description": "A pharmacy team member in a green uniform and headscarf walks up to the pharmacy hatch, smiles and holds out a green and white prescription bag to the camera. Pharmacy shelving and computer workstations are visible behind her.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "prescription bag",
+    "service bell",
+    "hand sanitiser dispenser",
+    "pharmacy shelving",
+    "computer workstations"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 595.2,
+   "end": 602.54,
+   "description": "A pharmacy staff member in green scrubs smiles and hands a white and green prescription bag across the doorway to someone whose hand reaches into frame, with the hospital pharmacy dispensary and colleagues at workstations behind her. The camera then moves off to the right onto the door frame.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "prescription bag",
+    "medicine fridges",
+    "dispensary shelving",
+    "computer workstations"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 602.54,
+   "end": 609.88,
+   "description": "Camera moves slowly from the entrance lobby, past an armchair and a side table with an orchid, toward the automatic glass entrance doors. Outside, a pedestrian walks past a parked white car and scaffolding.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "automatic sliding doors",
+    "armchair",
+    "side table",
+    "orchid plant",
+    "fire alarm call point",
+    "entrance mat"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "Automatic Door; RON SMITH RECYCLING",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 609.88,
+   "end": 615.96,
+   "description": "Close-up of a wall-mounted acrylic sign reading 'Urgent Care Centre' at The Princess Grace Hospital, with the camera moving slowly across it. A wall-mounted hand sanitiser dispenser briefly appears at the edge of frame.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "acrylic wall sign",
+    "hand sanitiser dispenser"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 615.96,
+   "end": 622.12,
+   "description": "Close-up of a textured wavy wood-effect wall panel, with the camera moving along the wall to reveal purple and white orchids in front of a window at The Princess Grace Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 622.12,
+   "end": 632.76,
+   "description": "A nurse in a grey-blue uniform stands in a hospital corridor, then the camera turns into a clinical room with a patient trolley, waste bins, a sink and wall-mounted glove, apron and wipes dispensers. The nurse reappears at the edge of frame.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient trolley",
+    "sharps bin trolley",
+    "clinical waste bins",
+    "glove and apron dispenser",
+    "wipes dispenser",
+    "hand gel dispenser",
+    "sink",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 632.76,
+   "end": 643.2,
+   "description": "A nurse in a blue uniform stands at a doorway off a hospital corridor, then leads the camera into a treatment room with a patient trolley, mobile equipment and a glove dispenser, talking to camera as she shows the space.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient trolley",
+    "yellow mobile equipment unit",
+    "mobile cabinet with yellow and black striped trim",
+    "glove dispenser",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 643.2,
+   "end": 655.23,
+   "description": "A staff member in glasses and a light blue shirt with a name badge sits at a desk behind two computer monitors in an office, speaking toward the camera and then working at her screen as the camera moves around to face her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "office chair",
+    "fire extinguisher",
+    "air conditioning unit"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 655.23,
+   "end": 667.25,
+   "description": "A staff member with long curly hair, glasses and a light blue uniform shirt walks away from camera down a hospital corridor carrying a black folder, passing wall-mounted cabinets and notice boards.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted storage cabinets",
+    "notice board",
+    "clipboard folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 667.25,
+   "end": 679.28,
+   "description": "A staff member in a light blue shirt carrying a folder walks down a hospital corridor and through a doorway, then stops beside a sink and hand sanitiser dispensers to open the door into a patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand sanitiser dispensers",
+    "clinical hand-wash sink",
+    "glove dispenser",
+    "patient monitor",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 679.28,
+   "end": 683.72,
+   "description": "A nurse in blue scrubs holding a tablet talks with a male patient sitting up in bed in a hospital gown, with a blood pressure cuff on his arm. The camera moves from the nurse to the patient as they speak, with a wall-mounted patient monitor behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "tablet",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 683.72,
+   "end": 690.44,
+   "description": "A nurse in blue scrubs holding a tablet talks with a male patient sitting up in a hospital bed, and the camera moves from the nurse to the patient as he listens and replies. A patient monitor stands beside the bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": true,
+   "social_ready": true
+  },
+  {
+   "t": 690.44,
+   "end": 694.4,
+   "description": "A nurse in navy scrubs holds a tablet and talks with a male patient sitting up in a hospital bed, with a patient monitor on the wall behind them. The camera moves from the nurse to the patient as he listens.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": true,
+   "social_ready": true
+  },
+  {
+   "t": 694.4,
+   "end": 697.32,
+   "description": "A nurse in blue scrubs stands in the foreground holding a handheld device while a smiling male patient in a hospital gown sits up in bed with a blood pressure cuff on his arm, looking up and chatting with her in a patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "handheld device",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 697.32,
+   "end": 702.64,
+   "description": "A male patient in a hospital gown sits up in a hospital bed wearing a blood pressure cuff on his upper arm, talking and then looking off to the side. The camera moves from his torso and cuffed arm up to a close-up of his face in a patient room at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 702.64,
+   "end": 707.68,
+   "description": "A nurse in blue scrubs fits a blood pressure cuff to the arm of a male patient in a hospital gown sitting up in bed at The Princess Grace Hospital. The patient rests with his eyes closed while the cuff is secured.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 707.68,
+   "end": 710.76,
+   "description": "A nurse in blue scrubs fits a blood pressure cuff to the upper arm of a male patient lying in a hospital bed. The camera moves along the arm to reveal the patient's face as the nurse adjusts the cuff tubing.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "blood pressure cuff",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "Welch Allyn branding on blood pressure cuff (partially legible)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 710.76,
+   "end": 714.12,
+   "description": "Close-up of a nurse in navy scrubs clipping a pulse oximeter onto the finger of a patient lying in a hospital bed, with a blood pressure cuff on the patient's arm in the background. The patient's face is not shown.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "pulse oximeter",
+    "blood pressure cuff",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 714.12,
+   "end": 720.72,
+   "description": "Close-up of a clinician in navy scrubs clipping a pulse oximeter onto the finger of a patient lying in a hospital bed, then resting a hand on the patient's hand.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "pulse oximeter",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 720.72,
+   "end": 725.28,
+   "description": "A nurse in navy scrubs takes the blood pressure of a male patient in a hospital gown sitting up in bed, with a cuff on his arm and a patient monitor on the wall behind. The shot starts out of focus, then sharpens as the patient looks up and smiles at the nurse.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "blood pressure cuff",
+    "patient monitor",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 725.28,
+   "end": 736.16,
+   "description": "A staff member in blue scrubs wheels a patient lying in a hospital bed along a ward corridor towards the camera, while a colleague in scrubs watches in the foreground. Another staff member walks past a nurses' station in the background.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "computer workstation",
+    "medical supply trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 736.16,
+   "end": 747.04,
+   "description": "Two staff in navy scrubs wheel a patient on a hospital bed through a doorway into a clinical unit with bedside monitors. The camera follows behind the staff member at the foot of the bed.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "ventilator",
+    "wipes dispenser",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "clinell",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 747.04,
+   "end": 757.92,
+   "description": "Two staff members in blue scrubs wheel a patient on a hospital bed into an endoscopy procedure room, where an endoscopy stack and a large monitor showing an endoscopic image are ready. A male staff member guides the bed into position next to the equipment.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "hospital bed",
+    "patient monitor",
+    "endoscopy stack",
+    "procedure room display screen",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 757.92,
+   "end": 764.88,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 764.88,
+   "end": 766.16,
+   "description": "Two clinical staff in navy scrubs prepare a patient lying under a white blanket in a procedure room. One reaches across to position the patient's arm, which has a blood pressure cuff on it, while an X-ray image shows on a monitor behind them.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "blood pressure cuff",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 766.16,
+   "end": 769.28,
+   "description": "A patient lies on a trolley with an oxygen mask over their face while two staff members in navy scrubs adjust the mask strap behind their head, likely in an anaesthetic or recovery area. A blood pressure cuff is fitted on the patient's arm.",
+   "service_lines": [],
+   "kit": [
+    "oxygen mask",
+    "blood pressure cuff",
+    "hospital bed",
+    "anaesthetic machine"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 769.28,
+   "end": 775.0,
+   "description": "A patient lies on a hospital trolley with a blood pressure cuff on his arm while a staff member adjusts his nasal cannula oxygen tubing, then rests a reassuring hand on his arm. Another staff member in blue scrubs and a wall-mounted patient monitor are in the background.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "blood pressure cuff",
+    "nasal cannula"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 775.0,
+   "end": 778.16,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 778.16,
+   "end": 780.44,
+   "description": "Two staff in navy scrubs reassure a patient lying on a trolley in an endoscopy procedure room, one resting a hand on the patient's head and the other on their shoulder. An endoscopy monitor is mounted above them.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "hospital bed",
+    "endoscopy monitor",
+    "endoscopy tower"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 780.44,
+   "end": 782.52,
+   "description": "Two clinical staff in navy scrubs stand side by side in an endoscopy procedure room at The Princess Grace Hospital, looking down at something below frame, with an endoscopy monitor showing an internal camera view behind them.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy monitor",
+    "endoscopy stack",
+    "procedure trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 782.52,
+   "end": 784.28,
+   "description": "Close-up of a staff member in a plastic apron and blue gloves unwrapping a green mouthguard (bite block) from its packaging in an endoscopy room. A colleague in blue scrubs prepares equipment beside the endoscopy stack in the background.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy stack",
+    "bite block",
+    "disposable apron",
+    "gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 784.28,
+   "end": 787.12,
+   "description": "A staff member in blue scrubs, plastic apron and gloves adjusts his gloves beside an Olympus endoscopy stack in an endoscopy room, while a colleague in the foreground prepares equipment.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy stack",
+    "monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 787.12,
+   "end": 789.84,
+   "description": "Two clinical staff in blue scrubs, plastic aprons and gloves work together at a patient's bedside during a procedure in an endoscopy room, with the woman handling an endoscope. A monitor on a boom arm, endoscopy stack units and a wall clock are in the background.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy stack",
+    "monitor on boom arm",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 789.84,
+   "end": 793.48,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 793.48,
+   "end": 797.04,
+   "description": "Two staff in navy scrubs, aprons and gloves stand beside a patient lying on a trolley in a procedure room before what appears to be an endoscopy. A large display screen and a patient monitor are mounted behind them.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "endoscope",
+    "procedure display screen",
+    "bite block"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 797.04,
+   "end": 801.84,
+   "description": "Two clinical staff in blue scrubs, plastic aprons and gloves open sterile equipment packs and prepare a trolley in a cath lab, with ceiling-mounted monitors and imaging equipment behind them.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "sterile equipment packs",
+    "procedure trolley",
+    "display monitors",
+    "pump dispenser bottle"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 801.84,
+   "end": 803.96,
+   "description": "A clinician in blue scrubs unfolds and puts on a disposable apron in an endoscopy procedure room, with an endoscopy tower and monitor behind him. A colleague in scrubs stands out of focus in the left foreground.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy stack monitor",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 803.96,
+   "end": 810.0,
+   "description": "Two staff in blue scrubs and plastic aprons prepare an endoscopy procedure room. A woman in gloves and glasses smiles as a man unfolds and puts on his apron beside the endoscopy stacks and monitor.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscopy stack",
+    "patient monitor",
+    "hospital bed",
+    "equipment trolley",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 810.0,
+   "end": 812.44,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 812.44,
+   "end": 815.52,
+   "description": "A consultant in navy scrubs and a plastic apron carries out an endoscopy on a patient lying on their side, while a nurse assists at the bedside. The procedure image shows on a monitor behind them in the endoscopy room.",
+   "service_lines": [
+    "gastroenterology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "endoscope",
+    "patient monitor",
+    "hospital bed",
+    "endoscopy stack"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 815.52,
+   "end": 819.92,
+   "description": "A clinician performs an endoscopy, watching the live camera image on a wall monitor, while a nurse in gloves rests a hand on the head of a patient lying on their side. The scene is filmed from behind the nurse in an endoscopy procedure room.",
+   "service_lines": [
+    "gastroenterology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy monitor",
+    "hospital bed",
+    "endoscopy stack"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 819.92,
+   "end": 823.48,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 823.48,
+   "end": 835.0,
+   "description": "A consultant in blue scrubs and a plastic apron guides an endoscope during an endoscopy procedure while a nurse assists beside the patient, with the camera view shown on a monitor above. A second staff member prepares equipment at the endoscopy stack in the background.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [
+    "endoscope",
+    "endoscopy stack",
+    "monitor",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 835.0,
+   "end": 837.28,
+   "description": "A staff member in a navy uniform walks down a hospital ward corridor at The Princess Grace Hospital and stops to use a mobile computer workstation parked against the wall beside a stool.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer workstation on wheels",
+    "stool",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 837.28,
+   "end": 848.7,
+   "description": "Camera turns from floral wall art above a hand-wash sink to look down an empty hospital corridor, then moves forward through open double doors towards a cart parked at the far end. The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand-wash sink",
+    "hand sanitiser dispenser",
+    "cart"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 848.7,
+   "end": 860.12,
+   "description": "The camera moves forward along an empty hospital corridor at The Princess Grace Hospital, passing a cleaning trolley, a handwash sink, fire extinguishers and wall artwork. It ends at a door marked with a fire exit sign and a room number sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "cleaning trolley",
+    "handwash sink",
+    "fire extinguishers",
+    "hand sanitiser dispenser",
+    "door access keypad",
+    "supply trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire Exit; Way out; Rooms 526-532",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 860.12,
+   "end": 871.54,
+   "description": "Camera moves along a hospital ward corridor past a mobile trolley to a nurses' station where a staff member in a blue uniform stands at the desk, then continues past a wall-mounted screen and drip stand and ends on a plain wall.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "mobile equipment trolley",
+    "drip stand",
+    "wall-mounted display screen",
+    "computer monitor",
+    "red bag",
+    "handrail"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 871.54,
+   "end": 882.96,
+   "description": "An empty hospital corridor at The Princess Grace Hospital, filmed moving forward through an open doorway past a handwashing sink and glove dispensers toward a closed door at the far end.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "handwashing sink",
+    "glove and apron dispensers",
+    "hand sanitiser dispenser",
+    "fire extinguisher",
+    "trolley"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 882.96,
+   "end": 894.53,
+   "description": "Gimbal shot moving from a clinical area with floral wall art and a mobile computer workstation into a long, empty hospital corridor with fire doors and hand sanitiser dispensers at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "mobile computer workstation",
+    "hand sanitiser dispenser",
+    "stool"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 894.53,
+   "end": 906.11,
+   "description": "A camera moves from a clinical bay with patient monitors, a mobile workstation and a medical cart, past a hand washing station and down an empty hospital corridor at The Princess Grace Hospital. Ceiling lights line the corridor, which leads through open double doors.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "mobile computer workstation",
+    "medical cart",
+    "hand wash sink",
+    "paper towel dispenser"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Hand Washing Zone",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 906.11,
+   "end": 917.68,
+   "description": "Camera moves along an empty hospital corridor with handrails, wooden doors and wall artwork, passing a housekeeping trolley at a junction and turning towards another corridor. There are no people in the shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "housekeeping trolley",
+    "fire extinguisher",
+    "hand sanitiser dispenser",
+    "door access card reader",
+    "wall handrails"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire exit sign",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 917.68,
+   "end": 929.25,
+   "description": "Camera moves through an empty ward corridor at The Princess Grace Hospital, passing a wood-panelled door and mobile vital signs monitors before turning to look down a long corridor alongside the nurses' station.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "equipment trolley",
+    "wall-mounted screen",
+    "computer workstation on arm",
+    "nurses' station"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 929.25,
+   "end": 940.83,
+   "description": "Camera moves forward through an empty hospital corridor at The Princess Grace Hospital, passing through open double doors toward a closed door at the far end. A clinical handwash sink and dispensers line the wall, with a monitor trolley in the foreground at the start.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "clinical handwash sink",
+    "soap and paper towel dispensers",
+    "fire extinguisher",
+    "stainless steel trolley"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 940.83,
+   "end": 952.4,
+   "description": "Camera moves through an open door into an empty private patient room at The Princess Grace Hospital, showing a made-up hospital bed, an armchair by curtained windows, a wall-mounted patient monitor and a bedside cabinet.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "overbed table",
+    "armchair",
+    "bedside cabinet",
+    "wall-mounted TV",
+    "wall medical gas outlets"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "Hill-Rom",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 952.4,
+   "end": 959.2,
+   "description": "An empty private patient room at The Princess Grace Hospital with a made Hill-Rom hospital bed, a bedside cabinet, an armchair by the window and a wall-mounted patient monitor. The camera moves forward from the doorway towards the foot of the bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "bedside cabinet",
+    "armchair",
+    "overbed table",
+    "wardrobe",
+    "suction unit"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "Hill-Rom",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 959.2,
+   "end": 971.04,
+   "description": "A nurse in a blue uniform walks from the corridor into a private patient room and greets a patient sitting up in a hospital bed, and the two talk and laugh together.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "suction unit",
+    "overbed table",
+    "bedside cabinet",
+    "telephone",
+    "patient armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on nurse's uniform",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 971.04,
+   "end": 982.88,
+   "description": "A nurse in a blue uniform hands a small medicine cup to a patient in a hospital gown sitting up in bed in a private patient room. The patient takes the medication and drinks from a glass of water while talking.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted suction / oxygen outlet",
+    "medicine cup",
+    "glass of water",
+    "bedside table",
+    "visitor armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 982.88,
+   "end": 994.72,
+   "description": "A patient in a hospital gown sits in bed in a private room at The Princess Grace Hospital, holding a small cup and chatting with a nurse in a blue uniform. The camera moves from the patient to the nurse, who stands by the window talking to her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "armchair",
+    "wall-mounted medical gas panel"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 994.72,
+   "end": 1005.25,
+   "description": "A nurse in a blue uniform walks from the corridor into a patient room and places a glass of water on the overbed table for a patient sitting up in bed, and the two talk. Follow shot from behind the nurse into a private inpatient room at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "overbed table",
+    "bedside cabinet",
+    "bedside telephone",
+    "visitor chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1005.25,
+   "end": 1015.78,
+   "description": "A nurse in a blue uniform talks with a female patient in a hospital gown sitting up in bed in a private patient room. The patient holds a small medicine cup and then drinks from a glass of water while the nurse reaches toward the wall-mounted monitor.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "over-bed table",
+    "medicine cup",
+    "glass of water",
+    "armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1015.78,
+   "end": 1026.31,
+   "description": "A nurse in a blue uniform talks with a smiling patient in a hospital gown sitting up in bed, then picks up a paper sheet and leans over the bed in a patient room at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "visitor armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1026.31,
+   "end": 1036.84,
+   "description": "A nurse in a blue uniform adjusts a patient monitor beside the bed, then leans down to the bedside, while a female patient in a hospital gown sits up in bed and talks with her in a private patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1036.84,
+   "end": 1046.04,
+   "description": "A nurse in a blue uniform talks with a female patient in a hospital gown sitting up in bed in a private patient room, then moves to the over-bed table beside her. A glass of water and a folder sit on the table, with a wall-mounted monitor and a window behind.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "over-bed table"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1046.04,
+   "end": 1050.24,
+   "description": "A nurse in a blue uniform stands beside a patient sitting up in a hospital bed in a private patient room, talking with her as the patient rests her arm on an overbed table with a glass of water and a folder.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "overbed table",
+    "armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1050.24,
+   "end": 1056.48,
+   "description": "A nurse in a blue uniform chats and laughs with a patient in a hospital gown sitting up in bed while opening a pack of medical tubing in a sunlit patient room at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "medical tubing pack",
+    "drinking glass"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1056.48,
+   "end": 1065.76,
+   "description": "A nurse in a blue uniform holds blood pressure cuff tubing and talks with a smiling patient in a hospital gown, seated by the window in a patient room. The nurse appears to be explaining a blood pressure check before taking the reading.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted blood pressure monitor",
+    "blood pressure cuff",
+    "overbed table",
+    "water glass"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1065.76,
+   "end": 1071.0,
+   "description": "A nurse in a blue uniform hands a glass of water to a patient sitting up in a hospital bed in a private patient room. The patient takes the glass and smiles while the nurse stands beside the bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "overbed table",
+    "drinking glass"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1071.0,
+   "end": 1074.52,
+   "description": "A patient in a hospital gown sits up in bed and smiles while a nurse in a blue uniform adjusts an IV drip and the patient monitor behind her in a patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "IV drip stand"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1074.52,
+   "end": 1080.4,
+   "description": "A nurse in a blue uniform attends to a smiling female patient in a hospital gown sitting up in bed in a patient room, then opens a packaged blood pressure cuff labelled 'Small Adult' beside her arm.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff",
+    "wall-mounted medical gas and equipment panel"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "SMALL ADULT",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1080.4,
+   "end": 1084.24,
+   "description": "Close-up of a nurse in blue scrubs clipping a pulse oximeter onto the finger of a patient in a hospital gown and bed, with a blood pressure cuff on the patient's arm. The nurse checks the sensor is in place and rests a hand on the patient's shoulder.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "pulse oximeter",
+    "blood pressure cuff",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1084.24,
+   "end": 1087.36,
+   "description": "A nurse in a blue uniform stands at the bedside chatting and smiling with a female patient sitting up in a hospital bed in a private patient room at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1087.36,
+   "end": 1090.28,
+   "description": "A nurse in a blue uniform stands beside a patient sitting up in a hospital bed, resting a hand on her shoulder as they talk and laugh together in a sunlit patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1090.28,
+   "end": 1092.76,
+   "description": "A nurse in a blue uniform stands beside the bed talking with a smiling patient in a hospital gown who is sitting up in bed, in a patient room with a window behind them. The patient laughs and chats as the nurse listens with her hands clasped.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "air conditioning unit"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1092.76,
+   "end": 1103.5,
+   "description": "A nurse in a blue uniform places a folder on the overbed table and hands it to a patient sitting up in a hospital bed in a private room. The patient takes the folder and looks through it, with a glass of water on the table beside her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "wall-mounted medical equipment",
+    "folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1103.5,
+   "end": 1114.24,
+   "description": "A nurse in a blue uniform hands a folder of paperwork to a patient in a hospital gown sitting up in bed in a private patient room, and they talk as she looks through it. A glass of water sits on the overbed table in front of a curtained window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "document folder",
+    "patient wristband"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1114.24,
+   "end": 1116.48,
+   "description": "A female patient in a hospital gown sits on her bed in a private patient room, looking through paperwork. Wall-mounted equipment and a visitor chair are in the background.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "wall-mounted medical equipment panel",
+    "visitor chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1116.48,
+   "end": 1121.12,
+   "description": "A female patient in a hospital gown sits up in bed in a private patient room and reads through printed paperwork and information leaflets.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "wall-mounted suction unit",
+    "visitor chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1121.12,
+   "end": 1131.96,
+   "description": "A nurse in a blue uniform stands at the bedside of a patient in a hospital gown sitting up in bed, setting a laptop and then an open folder on the overbed table and going through the paperwork with her. The patient room has a window, curtains, wall-mounted medical gas equipment and a bedside phone.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "laptop",
+    "patient information folder",
+    "wall-mounted oxygen / suction equipment",
+    "bedside telephone",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1131.96,
+   "end": 1142.8,
+   "description": "A nurse in a blue uniform stands beside a patient sitting up in a hospital bed and talks her through documents in a black folder on the overbed table. The patient, in a hospital gown, reads along and smiles in a window-lit private patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "wall-mounted oxygen/suction unit",
+    "document folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1142.8,
+   "end": 1149.96,
+   "description": "A patient in a hospital gown sits up in bed in a private patient room, smiling as she reads and turns the pages of an information folder. A glass of water sits on the overbed table and daylight comes through the window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "information folder",
+    "patient wristband",
+    "visitor chair",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1149.96,
+   "end": 1156.72,
+   "description": "A woman in a hospital gown sits up in a hospital bed in a patient room, reading and turning pages in a folder of paperwork. Wall-mounted oxygen and suction equipment is visible behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted oxygen and suction outlets",
+    "blood pressure cuff",
+    "document folder"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1156.72,
+   "end": 1166.48,
+   "description": "Over-the-shoulder view of a person turning the pages of an HCA binder holding a bilingual Arabic and English \u00e0 la carte menu, including the breakfast menu, on a wooden table.",
+   "service_lines": [
+    "international patients",
+    "general hospital"
+   ],
+   "kit": [
+    "menu binder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "A la carte menu; A la carte breakfast menu; \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0637\u0639\u0627\u0645 \u062d\u0633\u0628 \u0627\u0644\u0637\u0644\u0628; \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0625\u0641\u0637\u0627\u0631 \u062d\u0633\u0628 \u0627\u0644\u0637\u0644\u0628; HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1166.48,
+   "end": 1176.24,
+   "description": "Close-up of a ring-bound bilingual Arabic and English day case patient menu with HCA Healthcare UK branding, showing sandwiches, panini, cereals and fruit sections. At the end of the shot, a hand begins turning the page.",
+   "service_lines": [
+    "international patients",
+    "general hospital"
+   ],
+   "kit": [
+    "patient menu binder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "\u0642\u0627\u0626\u0645\u0629 \u0637\u0639\u0627\u0645 \u0627\u0644\u0645\u0631\u0636\u0649 / Day case menu cont.; Sandwiches & Panini; Cereals and Fruits; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1176.24,
+   "end": 1180.48,
+   "description": "Detail shot of a person in white turning the pages of a ring binder of printed documents, with one hand holding the binder's edge. The text on the pages is not legible.",
+   "service_lines": [],
+   "kit": [
+    "ring binder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1180.48,
+   "end": 1190.04,
+   "description": "A female patient in a hospital gown sits up in bed in a patient room, calmly looking down at a tablet or paperwork held in the out-of-focus foreground. Medical equipment is mounted on the wall behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted medical equipment",
+    "tablet / paperwork"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1190.04,
+   "end": 1193.4,
+   "description": "Close-up of a woman in a hospital gown sitting up in a hospital bed in a patient room, looking down toward a dark out-of-focus object in the foreground. She has a calm, slight smile.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "wall-mounted medical equipment",
+    "privacy curtain"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1193.4,
+   "end": 1198.6,
+   "description": "Close-up of a patient sitting in a hospital bed, turning the pages of an HCA-branded inpatient menu in a ring binder. Only the patient's hands and arm are seen as they read the meal options.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "menu binder"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA; menu",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1198.6,
+   "end": 1202.32,
+   "description": "Close-up of a person's hands turning the pages of a ring binder of printed documents. The pages move past the camera with soft focus and motion blur.",
+   "service_lines": [],
+   "kit": [
+    "ring binder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1202.32,
+   "end": 1209.92,
+   "description": "Close-up of a patient's hands turning the pages of an HCA \u00e0 la carte breakfast menu in a ring binder, resting on an overbed table beside the bed in a patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "menu binder",
+    "overbed table",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "\u00c0 la carte breakfast menu; HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1209.92,
+   "end": 1212.84,
+   "description": "Close-up of a person's hand running a finger along the text of an HCA-branded information document in a ring binder, resting on white bedding.",
+   "service_lines": [],
+   "kit": [
+    "ring binder",
+    "information document"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "detail",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1212.84,
+   "end": 1215.88,
+   "description": "A nurse in an HCA Healthcare uniform talks and smiles with a female patient in a hospital gown sitting up in bed in a patient room at The Princess Grace Hospital. The camera moves from the nurse to the patient as they chat.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1215.88,
+   "end": 1218.04,
+   "description": "A nurse in an HCA Healthcare uniform smiles and talks with a patient at the bedside in a patient room at The Princess Grace Hospital. The patient is partly visible at the left edge of the frame at the start of the shot.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted medical gas outlets",
+    "oxygen tubing"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK (uniform logo)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1218.04,
+   "end": 1221.48,
+   "description": "Low-angle view of the entrance canopy at The Princess Grace Hospital. The camera moves right along the 'HCA Healthcare UK' and 'The Princess Grace Hospital' signage against the brick facade and windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK, The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1221.48,
+   "end": 1228.08,
+   "description": "Low-angle exterior of The Princess Grace Hospital entrance on a London brick terrace, with the camera moving along the white canopy showing the hospital name and HCA Healthcare UK signage against a blue sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Princess Grace Hospital; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1228.08,
+   "end": 1233.12,
+   "description": "Low-angle exterior shot of the entrance canopy at The Princess Grace Hospital, moving along the sign from 'The Princess Grace' lettering to the HCA Healthcare UK logo against the brick facade.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "The Princess Grace H[ospital]; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1233.12,
+   "end": 1240.44,
+   "description": "Low-angle exterior shot of the entrance canopy at The Princess Grace Hospital, with the camera moving in along the 'HCA Healthcare UK' and 'The Princess Grace Hospital' signage against the brick facade.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1240.44,
+   "end": 1242.6,
+   "description": "Low-angle view of the Orthopaedic Centre sign at The Princess Grace Hospital, with lettering on a glass panel that reflects the brick buildings across the street.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ORTHOPAEDIC CENTRE THE PRINCESS GRACE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1242.6,
+   "end": 1250.6,
+   "description": "Frosted glass signage reading 'Orthopaedic Centre, The Princess Grace Hospital' above an entrance, with nearby red brick buildings reflected in the glass as the camera moves slowly across it.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ORTHOPAEDIC CENTRE THE PRINCESS GRACE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1250.6,
+   "end": 1256.44,
+   "description": "Exterior of The Princess Grace Hospital on Devonshire Street. The camera moves in from the brick facade and branded entrance canopy to the glass front doors.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK The Princess Grace Hospital; DEVONSHIRE STREET",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1256.44,
+   "end": 1263.84,
+   "description": "A physiotherapist in a navy HCA polo leads a woman in a black top and lanyard through a doorway into a physiotherapy room with a Pilates reformer, treatment couch, exercise ball and suspension trainer. The woman then walks further into the room alone.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Pilates reformer",
+    "treatment couch",
+    "exercise ball",
+    "suspension trainer",
+    "resistance bands"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire Exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1263.84,
+   "end": 1271.24,
+   "description": "A woman in a black T-shirt sits in a chair in a consulting room, smiling and talking to someone off camera, while a staff member in a navy uniform walks out of frame. The camera moves in from a medium shot to a closer shot of her, with a desk, computer monitor and window behind her.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "desk",
+    "conference speakerphone",
+    "wooden chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1271.24,
+   "end": 1275.52,
+   "description": "Two women sit facing each other in a consulting room or office at The Princess Grace Hospital, talking. The woman in a black top listens while a staff member in a navy uniform polo, revealed on the right as the camera moves, speaks to her, with a desk, computer monitor and phone behind them.",
+   "service_lines": [],
+   "kit": [
+    "desktop computer",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1275.52,
+   "end": 1285.02,
+   "description": "A physiotherapist in a navy uniform leads a woman in a black t-shirt through a doorway into a physiotherapy rehab room with treatment couches, a Pilates reformer, an exercise ball and suspension straps on the wall. The camera follows behind them as they walk in.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Pilates reformer",
+    "treatment couch",
+    "exercise ball",
+    "suspension trainer straps",
+    "hand wash sink"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1285.02,
+   "end": 1294.52,
+   "description": "A physiotherapist in a navy uniform sits talking with a patient in a consultation and treatment room, with a desk, computer and rehab equipment in view. The camera moves in over the physiotherapist's shoulder towards the patient, who smiles and responds during the conversation.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "computer monitor",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1294.52,
+   "end": 1300.28,
+   "description": "A woman in a black t-shirt sits by a window in a consulting room and talks with a colleague seen from behind, as the camera moves from an over-the-shoulder view to a closer shot of her. A desk with a switched-off computer monitor, keyboard and conference speakerphone is beside them.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "conference speakerphone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1300.28,
+   "end": 1304.52,
+   "description": "Over-the-shoulder shot of a woman with blonde hair in a black top, seated beside a desk in a consulting room, talking and listening to a clinician whose back is to camera. The clinician sits at the desk with a keyboard and phone.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1304.52,
+   "end": 1308.36,
+   "description": "A physiotherapist in an HCA polo shirt bends and moves the leg of a patient lying on a treatment couch, assessing knee and hip movement in a physiotherapy room with suspension straps on the wall.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "treatment couch",
+    "suspension training straps",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1308.36,
+   "end": 1311.28,
+   "description": "A physiotherapist in an HCA-branded polo bends and supports the leg of a patient lying on a treatment couch, moving the knee towards the chest while smiling and talking with her in a rehab treatment room.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "treatment couch",
+    "suspension trainer straps",
+    "gym / rehab equipment",
+    "computer monitor",
+    "pillow"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA logo on staff polo shirt",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1311.28,
+   "end": 1312.56,
+   "description": "A physiotherapist in a navy HCA polo shirt leans over a treatment couch and talks to a patient lying on it, placing a hand on the patient's arm, in a treatment room with a window and a computer at The Princess Grace Hospital.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "treatment couch",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1312.56,
+   "end": 1316.84,
+   "description": "A physiotherapist supports a patient's raised leg while she lies on her side on a treatment couch, guiding a hip abduction exercise and talking her through it.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "treatment couch",
+    "wall-mounted suspension straps",
+    "pillow"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1316.84,
+   "end": 1320.52,
+   "description": "A physiotherapist in a navy polo guides a patient lying on a treatment couch through a glute bridge, then a single-leg bridge with one leg raised, in a treatment room with suspension straps on the wall. The physiotherapist smiles and watches the movement as the patient holds the position.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "treatment couch",
+    "suspension trainer straps",
+    "pillows",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1320.52,
+   "end": 1323.28,
+   "description": "A physiotherapist in an HCA polo shirt bends and moves the knee of a patient lying on a treatment couch, talking with her during a leg assessment. Suspension training straps hang on the wall behind them.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "treatment couch",
+    "suspension training straps"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1323.28,
+   "end": 1326.48,
+   "description": "A physiotherapist in an HCA polo shirt guides a patient lying on a treatment couch through a bent-knee leg exercise, placing her hand on the patient's knee while explaining the movement. Suspension training straps hang on the wall behind them in a rehab room.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "treatment couch",
+    "suspension training straps"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA (logo on polo shirt)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1326.48,
+   "end": 1329.0,
+   "description": "A physiotherapist places a hand on the hip of a patient lying on her side on a treatment couch during a hands-on assessment or rehab session. Shot from low at couch level, with the patient's face out of frame.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "treatment couch",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1329.0,
+   "end": 1332.88,
+   "description": "Low-angle view from a patient lying on a treatment couch as a physiotherapist in an HCA polo shirt guides their bent leg through a knee or hip exercise while talking to them. Suspension training straps hang on the wall of the rehab room behind.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "suspension training straps",
+    "treatment couch"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (logo on polo shirt)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1332.88,
+   "end": 1338.56,
+   "description": "A physiotherapist in an HCA Healthcare polo guides a patient lying on a Pilates reformer through a bridge exercise, with a small blue ball held between her knees. The physiotherapist rests a hand on the patient's knee and talks her through the movement in a rehab studio.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Pilates reformer",
+    "Pilates ball"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK logo on polo shirt",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1338.56,
+   "end": 1345.32,
+   "description": "A physiotherapist in an HCA polo shirt places a hand on a woman's lower back and talks her through a movement as she leans forward onto a treatment table. The shot is set in a treatment room at The Princess Grace Hospital.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "spine"
+   ],
+   "kit": [
+    "treatment couch"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (logo on staff polo shirt)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1345.32,
+   "end": 1352.08,
+   "description": "A physiotherapist guides a woman through a standing leg exercise on a Pilates reformer, with one hand on her hip to correct her position. The woman holds the reformer bar and smiles as she works through the movement in a rehab studio at The Princess Grace Hospital.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Pilates reformer"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on staff polo shirt",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1352.08,
+   "end": 1354.16,
+   "description": "A physiotherapist in a navy HCA Healthcare UK polo shirt assesses a patient's shoulder with her hands while talking them through it, shot over the patient's shoulder. Suspension training straps hang on the wall behind her.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "suspension training straps"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK (logo on polo shirt)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1354.16,
+   "end": 1357.64,
+   "description": "A physiotherapist in a navy HCA polo shirt places her hand on a patient's lower back and assesses them, talking as she works, with the focus shifting from her hand to her face. Suspension training straps hang on the wall behind her.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on polo shirt",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1357.64,
+   "end": 1360.28,
+   "description": "Low-angle close-up of a patient's leg in black leggings and white socks, with the foot pressing on a Pilates reformer during a rehabilitation exercise. A second person is partly visible at the left edge of the frame.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "Pilates reformer",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1360.28,
+   "end": 1364.12,
+   "description": "Detail of a person's legs in black leggings and white socks pressing against the footbar of a Pilates reformer during a rehabilitation exercise, with a staff member standing behind in navy trousers.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Pilates reformer"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1364.12,
+   "end": 1365.88,
+   "description": "Close-up of a person's legs in black leggings and white socks, feet pressed on the footbar of a Pilates reformer, pushing the carriage out in a leg press exercise. A second person in dark trousers stands in the background, likely supervising the session.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "Pilates reformer"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1365.88,
+   "end": 1368.88,
+   "description": "The camera moves through an open front door with stained glass panels, from the brick exterior into a hospital entrance hallway with a hand sanitiser station, glass partitions and wooden doors, revealing a seating lounge at the far end.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand sanitiser station"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1368.88,
+   "end": 1375.84,
+   "description": "Three receptionists sit behind a wooden reception desk at The Princess Grace Hospital, smiling and working at computers, as the camera moves in towards the desk. An HCA Healthcare UK logo is on the wall behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "reception desk",
+    "wall-mounted TV"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 3
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1375.84,
+   "end": 1382.8,
+   "description": "A receptionist in a suit sits at a wooden reception desk at The Princess Grace Hospital as the camera moves past him into an empty waiting lounge with grey sofas, armchairs, artwork and a wall-mounted TV.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor",
+    "sofas and armchairs",
+    "wall-mounted TV"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1382.8,
+   "end": 1385.48,
+   "description": "A woman in a headscarf sits in an armchair in a hospital waiting area, reading a newspaper while she waits. A window with curtains, a wall-mounted TV and a potted plant are behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchair",
+    "newspaper",
+    "wall-mounted TV",
+    "side table",
+    "potted plant"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1385.48,
+   "end": 1387.88,
+   "description": "A woman in a headscarf sits by a window reading the Arabic newspaper Asharq Al-Awsat, smiling as she turns her attention to the page. Likely an international patient relaxing in her room.",
+   "service_lines": [
+    "international patients"
+   ],
+   "kit": [
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "\u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637 (Asharq Al-Awsat newspaper masthead)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1387.88,
+   "end": 1392.44,
+   "description": "A woman in a hijab sits in an armchair reading the Arabic newspaper Asharq Al-Awsat in a room with a wall-mounted TV, a window and a plant. Focus shifts from her face to the newspaper during the shot.",
+   "service_lines": [
+    "international patients"
+   ],
+   "kit": [
+    "wall-mounted TV",
+    "armchair",
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "\u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637 (Asharq Al-Awsat newspaper masthead)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1392.44,
+   "end": 1397.68,
+   "description": "A woman in a dark hijab sits by a curtained window reading a newspaper, filmed from a low angle with the paper in the foreground. The room looks like a private patient room or lounge at the hospital.",
+   "service_lines": [],
+   "kit": [
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Partial newspaper headlines, not fully legible (e.g. 'plan to')",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1397.68,
+   "end": 1402.2,
+   "description": "A woman in a grey hijab sits in a room with curtains and a lamp, reading a newspaper and smiling as the camera moves from the paper up to her face.",
+   "service_lines": [],
+   "kit": [
+    "newspaper",
+    "armchair",
+    "lamp"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "Do your grocery shopping with a friend - and get free internet at the local library",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1402.2,
+   "end": 1407.0,
+   "description": "A woman in a headscarf and grey cardigan sits reading a newspaper in a room with curtains and a side lamp. The camera moves from the newspaper pages up to her face as she reads and smiles.",
+   "service_lines": [],
+   "kit": [
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Newspaper headline partially legible: \"Do your grocery shopping with a friend...\"",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1407.0,
+   "end": 1412.12,
+   "description": "Low-angle view of the London Digestive Centre sign in metal lettering on a vertical wooden slat wall, as the camera moves slowly across the signage.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "London Digestive Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1412.12,
+   "end": 1419.28,
+   "description": "HCA Healthcare UK logo sign on a textured white wall at The Princess Grace Hospital, with a pink orchid and green plant in the foreground. The camera moves right toward the plant as focus shifts from the logo to the flowers.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted logo sign",
+    "orchid plant"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1419.28,
+   "end": 1425.76,
+   "description": "Metal lettering reading 'London Digestive Centre' mounted on a wooden slatted wall, filmed at an angle as the camera moves slowly across the sign.",
+   "service_lines": [
+    "gastroenterology"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "London Digestive Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1425.76,
+   "end": 1432.0,
+   "description": "An empty MRI room at The Princess Grace Hospital, filmed from the doorway, with a Siemens MRI scanner, its patient table made up with linen, and blue accent lighting around the bore. The camera moves sideways past the door frame, revealing shelves of positioning pads and supplies and a pole-mounted infusion pump.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI patient table",
+    "infusion pump on stand",
+    "storage shelving with positioning pads",
+    "storage cabinets",
+    "chair"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1432.0,
+   "end": 1435.64,
+   "description": "An empty MRI scanning room at The Princess Grace Hospital, with the patient table made up in front of the scanner bore, storage shelves holding imaging coils, and a chair in the foreground. The camera moves slowly right across the room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI patient table",
+    "MRI coils",
+    "IV pole with mounted device",
+    "storage shelving",
+    "chair"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1435.64,
+   "end": 1438.92,
+   "description": "Two staff in an MRI control room review a coronal abdominal MRI scan on a monitor, with the MRI scanner visible through the observation window behind them. The camera moves slowly in toward the screen as one operates the mouse.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer workstation",
+    "monitor displaying MRI images"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1438.92,
+   "end": 1442.56,
+   "description": "In an MRI control room, two staff members review a coronal abdominal MRI scan on a monitor while one works the keyboard, with the MRI scanner visible through the control room window behind them.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer monitor",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PREMIUM (tissue box)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1442.56,
+   "end": 1447.24,
+   "description": "Two clinicians in an MRI control room review abdominal MRI images on a monitor while one works the keyboard, with the MRI scanner visible through the window behind.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer monitor",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1447.24,
+   "end": 1449.16,
+   "description": "A consultant in glasses talks a colleague through a coronal abdominal MRI image on a monitor in the MRI control room, with the MRI scanner visible through the window behind.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1449.16,
+   "end": 1454.2,
+   "description": "A doctor in glasses and a dark jumper leans over a desk and points at images on a computer monitor while talking them through with a female colleague, who is seen in soft-focus profile in the foreground.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1454.2,
+   "end": 1458.92,
+   "description": "A clinician in glasses and a dark jumper leans in and points at a computer screen, talking a colleague through what it shows in a clinical workroom. The colleague is seen in soft-focus profile in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1458.92,
+   "end": 1468.92,
+   "description": "Two staff in an MRI control room review coronal abdominal MRI images on a monitor, with the MRI scanner visible through the observation window behind. One staff member operates the keyboard while a colleague leans in to look at the scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer workstation with MRI images",
+    "intercom"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1468.92,
+   "end": 1474.4,
+   "description": "Two staff members review coronal abdominal MRI images on a workstation monitor in an MRI control room. A man points at the scan while a woman uses the mouse, with the MRI scanner visible through the window behind.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "imaging workstation monitor",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1474.4,
+   "end": 1478.28,
+   "description": "A nurse in a burgundy uniform sits at a desk in an office talking with a male colleague in glasses and a dark jumper who leans over beside her. Focus shifts from the nurse to the man as the camera moves around him, with shelves of lever arch files, a computer and a printer behind them.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "printer",
+    "desk phone",
+    "lever arch files"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1478.28,
+   "end": 1485.88,
+   "description": "A man in a white shirt sits on an examination couch in a consulting room, talking with a red-haired woman in a navy top who is seen from behind in the foreground. The scene looks like a patient consultation or check-in conversation.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "examination couch",
+    "examination lamp",
+    "wall-mounted diagnostic set",
+    "medical gas outlets",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1485.88,
+   "end": 1488.28,
+   "description": "A man with a short beard in a white open-collar shirt sits in a consulting room looking off camera and smiling slightly, in an interview-style shot. A wall-mounted diagnostic set and an examination lamp are visible behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted diagnostic set",
+    "examination lamp"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1488.28,
+   "end": 1498.56,
+   "description": "A nurse in navy HCA scrubs sits and talks with a man, seen over his shoulder, in a dim clinical room with an ultrasound machine and blinds behind her. She gestures with her hands as she explains something during the conversation.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (logo on uniform)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1498.56,
+   "end": 1501.48,
+   "description": "Over-the-shoulder shot of a staff member in navy HCA scrubs talking with a man in an ultrasound room, with the ultrasound machine and gel bottle beside her. She speaks and gestures with her hands during the conversation.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA logo on uniform",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1501.48,
+   "end": 1504.24,
+   "description": "A nurse in a navy uniform taps a wall-mounted patient monitor beside a bed in a patient room, while a patient lies in the out-of-focus foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "hand sanitiser dispenser",
+    "clinical sink"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1504.24,
+   "end": 1505.92,
+   "description": "A nurse in a navy uniform washes her hands at a clinical sink in a patient room, while a patient lies in bed in the out-of-focus foreground beside toiletries on a bedside table.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clinical hand wash sink",
+    "paper towel dispenser",
+    "hand sanitiser bottles",
+    "privacy curtain",
+    "overbed table"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1505.92,
+   "end": 1507.24,
+   "description": "A sonographer in a navy HCA uniform takes an ultrasound probe from the machine and applies gel to it before a scan, with a patient lying on the couch in the foreground.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "hospital bed",
+    "ultrasound gel",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1507.24,
+   "end": 1509.76,
+   "description": "A sonographer in navy HCA Healthcare scrubs performs an abdominal ultrasound scan on a patient lying on an examination couch, with the ultrasound machine behind her. The patient's face is not shown.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare (logo on scrubs)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1509.76,
+   "end": 1515.0,
+   "description": "A staff member in navy HCA Healthcare scrubs sits beside an ultrasound machine and looks at its screen in a scanning room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1515.0,
+   "end": 1526.92,
+   "description": "A sonographer in a navy HCA uniform performs an abdominal ultrasound scan on a male patient lying on an examination couch, then turns to look at the ultrasound screen while holding the probe.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch",
+    "ultrasound gel",
+    "hand sanitiser dispenser",
+    "storage drawers"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA (logo on uniform)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1526.92,
+   "end": 1529.48,
+   "description": "A patient lies on an examination couch with their gown folded back to expose the abdomen, while a staff member in navy scrubs sits on a stool beside an ultrasound machine, likely preparing for an abdominal scan. Faces are not shown.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch",
+    "stool"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1529.48,
+   "end": 1531.92,
+   "description": "A clinician in navy scrubs squeezes ultrasound gel from a bottle onto a patient's bare abdomen before an ultrasound scan in a dimly lit room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound gel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1531.92,
+   "end": 1533.32,
+   "description": "Close-up of a clinician holding a handheld ultrasound probe over a patient's bare torso, with a paper sheet draped at the side, during a scan in a dimly lit room. The patient's face is not shown.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1533.32,
+   "end": 1539.2,
+   "description": "Close-up of a clinician's hands moving an ultrasound probe across a patient's bare abdomen during an abdominal scan at The Princess Grace Hospital. The patient lies on the couch with their shirt raised and belt visible, and their face is out of frame.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1539.2,
+   "end": 1545.24,
+   "description": "A male patient lies on an examination couch with his shirt raised and paper towel tucked in while a clinician's hands move an ultrasound probe across the side of his abdomen. The camera moves from the patient's face down to a close view of the probe on his skin.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1545.24,
+   "end": 1552.52,
+   "description": "A smiling male patient lies on an examination couch with his shirt lifted and paper tucked at his collar while a clinician moves an ultrasound probe over his abdomen. The camera starts low on the patient's face and moves to a close view of the probe on his side.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1552.52,
+   "end": 1555.36,
+   "description": "A smiling male patient lies on an examination couch with his shirt lifted and paper towel tucked at the collar while a clinician's hand holds an ultrasound probe near his abdomen during an abdominal ultrasound scan, filmed from a low angle.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1555.36,
+   "end": 1558.76,
+   "description": "A woman with red hair sits in profile in a dimly lit room, looking ahead with a thoughtful expression, while a person lies asleep in bed behind her, out of focus beside a lit bedside lamp. The shot suggests a night-time bedside watch, either a nurse or a visitor sitting with a patient.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "bedside lamp"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1558.76,
+   "end": 1561.84,
+   "description": "Close-up profile of a red-haired woman in a dark navy top smiling softly at a bedside, while a man lies resting in a hospital bed, out of focus in the background under warm lamp light. A quiet moment of care in a patient room at The Princess Grace Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1561.84,
+   "end": 1566.8,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1566.8,
+   "end": 1577.5,
+   "description": "A clinician in a dark uniform sits beside a FibroScan machine showing liver scan results while a male patient lies on a bed. She turns and smiles as the scan finishes.",
+   "service_lines": [
+    "liver",
+    "gastroenterology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "FibroScan liver elastography machine",
+    "hospital bed",
+    "examination light",
+    "wall-mounted diagnostic set"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "FibroScan",
+   "patient_visible": true,
+   "screen_data_visible": true,
+   "social_ready": true
+  },
+  {
+   "t": 1577.5,
+   "end": 1588.2,
+   "description": "A female staff member sits beside an ultrasound machine and chats with a male patient lying on an examination couch in a hospital gown, with his abdomen partly uncovered, before a scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch",
+    "examination lamp",
+    "wall-mounted blood pressure monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1588.2,
+   "end": 1597.88,
+   "description": "A man in a dark blazer walks out of a consulting room as the camera pans across a desk with two monitors showing spine scans, a spine model and a desk phone beside the window.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitors with scan images",
+    "spine model",
+    "desk phone",
+    "webcam",
+    "consulting chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1597.88,
+   "end": 1607.56,
+   "description": "A consultant in a suit sits at his office desk and talks to camera, pointing to his neck and gesturing as he explains. A spine model sits in a glass cabinet behind him, and later the view shows desk monitors displaying a scan image.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "spine model",
+    "computer monitors showing scan image",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1607.56,
+   "end": 1617.24,
+   "description": "A consultant in a suit sits at his desk and explains, then turns to point at spine scans on his computer monitors, showing sagittal images of the cervical spine.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "imaging review monitors",
+    "desk phone",
+    "webcam"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1617.24,
+   "end": 1627.24,
+   "description": "A consultant in a suit sits at his desk and points to a spine scan on a computer monitor while explaining it to a woman seen from behind in the foreground. The consultation takes place in a consulting room with a window behind.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitors showing spine scan",
+    "spine model",
+    "desk telephone"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1627.24,
+   "end": 1629.48,
+   "description": "A consultant in a suit sits at a desk talking and gesturing with his hand, then turns to look at a computer monitor showing CT scan images. Filmed in an office beside a window at The Princess Grace Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing CT scan images",
+    "webcam"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1629.48,
+   "end": 1632.04,
+   "description": "Over-the-shoulder shot of a consultant in a suit sitting at his desk in a consulting room, talking to a person in the out-of-focus foreground. A monitor behind him shows scan images and a spine model sits on the desk.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing scan images",
+    "spine model",
+    "webcam"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1632.04,
+   "end": 1636.2,
+   "description": "A consultant in a suit talks and gestures while explaining something to a patient, seen from behind and out of focus in the foreground, in a consulting room. Two monitors on the desk show spinal scan images, with a spine model beside them.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitors showing scan images",
+    "spine model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1636.2,
+   "end": 1643.38,
+   "description": "Over-the-shoulder shot of a consultant in a dark suit talking with a female patient in a blue shirt seated in an armchair in a consulting room. He gestures as he explains, and she listens and responds. A desk with a computer monitor and a window are behind her.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "desk",
+    "armchair",
+    "document holder"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1643.38,
+   "end": 1650.56,
+   "description": "A woman in a blue blouse sits in an armchair with her hands clasped, listening and appearing emotional as a man in a suit, seen from behind, talks and gestures during a consultation. The room has a wooden desk, a tissue box and a window.",
+   "service_lines": [],
+   "kit": [
+    "armchair",
+    "desk",
+    "tissue box"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1650.56,
+   "end": 1660.72,
+   "description": "Wall sign for The Spinal Unit at The Princess Grace Hospital, with HCA Healthcare UK branding. The camera moves smoothly in towards the sign.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Princess Grace Hospital; The Spinal Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1660.72,
+   "end": 1671.47,
+   "description": "A wall-mounted 'The Spinal Unit' sign beside a door at The Princess Grace Hospital, with the camera moving along to the brushed-metal HCA Healthcare UK logo on the wall.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Spinal Unit; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1671.47,
+   "end": 1682.23,
+   "description": "Brushed metal HCA Healthcare UK logo mounted on a textured wall, filmed with a slow sideways camera move across the lettering and cross symbol.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted logo signage"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1682.23,
+   "end": 1692.98,
+   "description": "Slow lateral move along raised lettering on a textured wall that reveals the sign 'The Spinal Unit' at The Princess Grace Hospital. Shallow focus, with the lettering sharpening as the camera reaches 'The'.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "wall signage"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Spinal Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1692.98,
+   "end": 1703.73,
+   "description": "A brushed metal HCA Healthcare UK logo and wordmark mounted on a light grey textured wall, filmed as the camera drifts slowly across it. A branding cutaway with no people in frame.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted logo sign"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1703.73,
+   "end": 1714.49,
+   "description": "Slow move along a hospital corridor wall lined with framed HCA spinal health posters, including 'Spinal injury prevention', 'Support services for spinal health' and 'Stay active for a healthy spine'. No people are in the corridor.",
+   "service_lines": [
+    "spine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "framed wall posters"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Spinal injury prevention; Support services for spinal health; Stay active for a healthy spine; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1714.49,
+   "end": 1725.24,
+   "description": "Camera moves along a hospital corridor wall past framed patient information posters on spinal health, covering spinal injury prevention, support services, post-surgery care and staying active for a healthy spine.",
+   "service_lines": [
+    "spine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "framed information posters"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Spinal injury prevention; Lift with your legs, not your back; Maintain good posture when sitting, standing, or sleeping; Stay active with regular stretching and exercises. Support services for spinal health; Tailored physiotherapy exercises to strengthen muscles and improve mobility; Medication and alternative therapies to manage pain. Post-surgery care for spinal health. Stay active for a healthy spine; Stretch daily to keep your spine flexible and reduce stiffness; Strengthen your core to support and protect your back; Stand and move every 30 minutes.",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1725.24,
+   "end": 1729.68,
+   "description": "Camera moves down an internal staircase at The Princess Grace Hospital, following the wooden handrail and white balustrade towards a landing with a window and artwork on the wall.",
+   "service_lines": [],
+   "kit": [
+    "stair handrail"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1729.68,
+   "end": 1741.24,
+   "description": "Camera moves from the hospital entrance lobby, past the security gates, through the automatic sliding glass doors and out onto the exterior access ramp with railings beside a busy London street.",
+   "service_lines": [],
+   "kit": [
+    "automatic sliding doors",
+    "security turnstile gates",
+    "access ramp railing"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Automatic Door",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1741.24,
+   "end": 1749.48,
+   "description": "A surgical team in scrubs and theatre caps stands in an operating theatre while a surgeon in glasses reads from a sheet of paper during a pre-operative team briefing. A Storz endoscopy monitor and overhead theatre lights are visible behind them.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "endoscopy tower / surgical display monitor",
+    "endoscope"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "4K, STORZ",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1749.48,
+   "end": 1751.76,
+   "description": "A surgical team in blue scrubs and theatre caps gathers in an operating theatre for a pre-operative briefing as a member of staff wearing glasses speaks to colleagues. Theatre lights, a large wall-mounted monitor and equipment stacks are visible behind them.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "4K surgical display monitor",
+    "surgical equipment stack",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "4K",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1751.76,
+   "end": 1758.44,
+   "description": "Two female theatre staff in blue scrubs and surgical caps stand side by side looking off camera, waiting in a clinical prep area as the camera moves around them. An IV stand, trolleys and supplies are visible behind them.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "IV stand",
+    "medical trolley",
+    "medical supplies"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1758.44,
+   "end": 1761.36,
+   "description": "A clinician in navy scrubs and a scrub cap holds paperwork and briefs two colleagues in surgical caps, filmed over their shoulders in an operating theatre with a surgical count board behind her. This reads as a pre-operative team briefing or theatre huddle.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "electrosurgical generator on trolley",
+    "surgical count whiteboard",
+    "clipboard / paperwork"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Surgical Count Board",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1761.36,
+   "end": 1773.2,
+   "description": "Gimbal move through an empty operating theatre towards an anaesthetic machine with breathing circuits attached, a patient monitor mounted above and a Storz endoscopy screen in the foreground. A green chair sits beside the anaesthetic workstation.",
+   "service_lines": [],
+   "kit": [
+    "anaesthetic machine",
+    "patient monitor",
+    "operating theatre lights",
+    "Storz endoscopy display monitor",
+    "breathing circuit tubing",
+    "IV pole",
+    "wall-mounted display screen"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "STORZ",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1773.2,
+   "end": 1781.04,
+   "description": "Camera moves in on an anaesthetic machine and patient monitors in an operating theatre at The Princess Grace Hospital, with the machine screen showing standby. A member of theatre staff in scrubs appears briefly in the background as the shot ends.",
+   "service_lines": [],
+   "kit": [
+    "anaesthetic machine",
+    "patient monitor",
+    "operating theatre lights",
+    "wall-mounted display screen",
+    "ventilator breathing circuit tubing",
+    "medical gas hoses"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "17:31; Standby; 00:00:00",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1781.04,
+   "end": 1786.68,
+   "description": "Camera moves along a quiet hospital ward corridor past privacy curtains and a red emergency bag hung on the wall, toward a supply trolley at the far end under exit signs.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "supply trolley",
+    "privacy curtains",
+    "emergency equipment bag",
+    "wall-mounted gas outlet panel"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1786.68,
+   "end": 1792.44,
+   "description": "A member of theatre staff in navy scrubs and a surgical cap walks away from camera down a hospital corridor lined with privacy curtains, with the camera following behind.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted equipment bag",
+    "wall control panel",
+    "privacy curtains"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1792.44,
+   "end": 1794.36,
+   "description": "Low-angle push-in on a corridor wayfinding sign reading 'Theatres 5 and 6' with a left arrow, mounted above a green fire exit sign at The Princess Grace Hospital.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "Theatres 5 and 6; Fire exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1794.36,
+   "end": 1802.84,
+   "description": "Slow push in on an HCA Healthcare UK 'Our Mission' wall sign in a hospital corridor, reading 'Above all else, we are committed to the care and improvement of human life.' A fire exit sign is above it and a laser controlled area warning sign is beside it.",
+   "service_lines": [],
+   "kit": [
+    "mission statement wall sign",
+    "fire exit sign",
+    "laser warning sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Our Mission; HCA Healthcare UK; Above all else, we are committed to the care and improvement of human life.; Fire exit; Controlled Area; Laser",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1802.84,
+   "end": 1805.28,
+   "description": "Illuminated warning sign on a corridor wall beside a theatre door at The Princess Grace Hospital, reading 'Controlled Area X-Rays No Entry' and 'Controlled Area Laser No Entry'. The camera moves slowly toward the sign.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "illuminated X-ray and laser warning sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "CONTROLLED AREA X-RAYS NO ENTRY / CONTROLLED AREA LASER NO ENTRY; Theatre (partial, on door)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1805.28,
+   "end": 1807.8,
+   "description": "An illuminated warning sign on a corridor wall reads 'Controlled Area X-Rays No Entry' and 'Controlled Area Laser No Entry', with a door marked 'Theatre' visible in the background. The camera moves slowly across the sign.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "general surgery"
+   ],
+   "kit": [
+    "illuminated radiation and laser warning sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "CONTROLLED AREA X-RAYS NO ENTRY; CONTROLLED AREA LASER NO ENTRY; Theatre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1807.8,
+   "end": 1811.28,
+   "description": "Close-up of a door sign at The Princess Grace Hospital reading 'Theatre 7' with a red 'Do not enter' label, outside an operating theatre. Focus softens and then sharpens as the camera moves slightly toward the sign.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre door sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "Theatre 7; Do not enter; 17 THEATRE 7",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1811.28,
+   "end": 1816.0,
+   "description": "An empty operating theatre with a Medtronic O-arm intraoperative imaging system behind the operating table, as a staff member in blue scrubs walks out of frame. The camera moves across the room past theatre lights, wall monitors and an IV pole toward the O-arm gantry.",
+   "service_lines": [
+    "spine",
+    "neurosurgery",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "O-arm intraoperative imaging system",
+    "operating table",
+    "wall-mounted monitors",
+    "IV pole",
+    "surgical navigation cart",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Medtronic; O-arm; 18:00",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1816.0,
+   "end": 1818.4,
+   "description": "A staff member in blue scrubs and a surgical cap reaches up and adjusts an overhead operating theatre light in a theatre at The Princess Grace Hospital. A Medtronic O-arm intraoperative imaging system and a wall-mounted screen are in the background.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "Medtronic O-arm intraoperative imaging system",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "Medtronic; O-arm; 18:02",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1818.4,
+   "end": 1825.74,
+   "description": "A theatre team member in navy scrubs and a surgical cap positions the overhead operating lights in an empty operating theatre. The camera moves past the operating table to a Medtronic O-arm intraoperative imaging system.",
+   "service_lines": [
+    "spine",
+    "orthopaedics",
+    "neurosurgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "Medtronic O-arm intraoperative imaging system",
+    "operating table",
+    "anaesthetic machine",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Medtronic, O-arm",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1825.74,
+   "end": 1833.08,
+   "description": "An empty operating theatre at The Princess Grace Hospital with a Medtronic O-arm intraoperative imaging system behind a surgical table, under ceiling-mounted theatre lights. The camera moves slowly in towards the table and O-arm.",
+   "service_lines": [
+    "spine",
+    "neurosurgery",
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "Medtronic O-arm intraoperative imaging system",
+    "operating table",
+    "wall-mounted display screens",
+    "surgical navigation / imaging carts",
+    "ceiling-mounted equipment pendants"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Medtronic; O-arm; 18:03",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1833.08,
+   "end": 1838.72,
+   "description": "A theatre team member in navy scrubs and a blue surgical cap smiles as she guides the arms of a da Vinci surgical robot into position in an operating theatre with green ambient lighting.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1838.72,
+   "end": 1843.2,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1843.2,
+   "end": 1846.28,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1846.28,
+   "end": 1849.52,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1849.52,
+   "end": 1853.0,
+   "description": "A theatre team member in blue scrubs and a surgical cap positions the arm of a robotic surgical system in an operating theatre, glancing towards the camera mid-shot. Theatre lights and a wall monitor are visible behind her.",
+   "service_lines": [
+    "robotic surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1853.0,
+   "end": 1862.14,
+   "description": "A theatre staff member in blue scrubs and a surgical cap positions the arm of a robotic surgical system with a tracking array over a patient's draped knee in an operating theatre, ahead of robotic-assisted orthopaedic surgery.",
+   "service_lines": [
+    "orthopaedics",
+    "robotic surgery"
+   ],
+   "kit": [
+    "Mako robot",
+    "operating theatre lights",
+    "robotic tracking array",
+    "surgical drapes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1862.14,
+   "end": 1871.28
+  },
+  {
+   "t": 1871.28,
+   "end": 1876.68
+  },
+  {
+   "t": 1876.68,
+   "end": 1883.0
+  },
+  {
+   "t": 1883.0,
+   "end": 1889.16
+  },
+  {
+   "t": 1889.16,
+   "end": 1898.16
+  },
+  {
+   "t": 1898.16,
+   "end": 1906.36
+  },
+  {
+   "t": 1906.36,
+   "end": 1914.56
+  },
+  {
+   "t": 1914.56,
+   "end": 1925.16
+  },
+  {
+   "t": 1925.16,
+   "end": 1927.96
+  },
+  {
+   "t": 1927.96,
+   "end": 1937.4
+  },
+  {
+   "t": 1937.4,
+   "end": 1946.84
+  },
+  {
+   "t": 1946.84,
+   "end": 1953.54
+  },
+  {
+   "t": 1953.54,
+   "end": 1960.24
+  },
+  {
+   "t": 1960.24,
+   "end": 1968.92
+  }
+ ]
+}

@@ -7,231 +7,1685 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 3.2
+   "end": 3.2,
+   "description": "A man with a backpack and a woman walk along the street outside The Portland Hospital, past the HCA Healthcare UK sign, then stop to talk while the woman gestures as she speaks. Shot through out-of-focus foreground greenery with a London street and buildings behind.",
+   "service_lines": [],
+   "kit": [
+    "hospital exterior signage"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 3.2,
-   "end": 7.76
+   "end": 7.76,
+   "description": "A woman with long blonde hair walks along the pavement past The Portland Hospital and HCA Healthcare UK sign, then turns and walks into the hospital entrance. The camera follows her from the street into the covered entrance area with potted shrubs.",
+   "service_lines": [],
+   "kit": [
+    "exterior hospital signage",
+    "potted plants"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 7.76,
-   "end": 16.34
+   "end": 16.34,
+   "description": "A blonde woman with a red handbag walks along the pavement past The Portland Hospital sign, enters the building and walks through the lobby towards the reception desk. The camera follows her from the street outside to the reception area.",
+   "service_lines": [],
+   "kit": [
+    "reception desk",
+    "hospital signage totem"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 16.34,
-   "end": 24.92
+   "end": 24.92,
+   "description": "A woman with blonde hair, in a light blue shirt and white shorts, walks out of the main entrance of The Portland Hospital and along the covered forecourt. She passes the HCA Healthcare UK signage for the hospital.",
+   "service_lines": [],
+   "kit": [
+    "planters",
+    "hospital signage totem"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 24.92,
-   "end": 34.28
+   "end": 34.28,
+   "description": "A woman who appears to be pregnant, in a light blue shirt and white shorts, walks out of the entrance of The Portland Hospital and along the covered forecourt. The camera follows her past the planters and ends on the HCA Healthcare UK sign with the street behind.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "The Portland Hospital; HCA; HCA Healthcare UK; Hospital",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 34.28,
-   "end": 44.88
+   "end": 44.88,
+   "description": "A woman in a light blue shirt and white shorts walks out of the main entrance of The Portland Hospital onto the pavement. The camera follows her past the building and ends on the 'The Portland Hospital' HCA Healthcare UK sign at the entrance.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 44.88,
-   "end": 53.28
+   "end": 53.28,
+   "description": "A woman with long blonde hair, a light blue shirt and a red tote bag is followed from behind as she walks under the entrance canopy of The Portland Hospital and up to the automatic glass doors marked HCA Healthcare UK.",
+   "service_lines": [],
+   "kit": [
+    "automatic sliding doors",
+    "planters"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 53.28,
-   "end": 57.4
+   "end": 57.4,
+   "description": "A midwife in a navy uniform walks a pregnant woman into a delivery room at The Portland Hospital and gestures towards a freestanding birthing bath as she explains the room.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birthing pool"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 57.4,
-   "end": 66.68
+   "end": 66.68,
+   "description": "A midwife shows a pregnant woman around a birthing room at The Portland Hospital and talks her through the birthing pool, touching the edge of the bath as they talk.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birthing pool",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 66.68,
-   "end": 71.16
+   "end": 71.16,
+   "description": "Two HCA Healthcare UK staff members in uniform, one in a navy tunic and one in a light blue shirt, talk and gesture together in a hospital room with a wall clock and a painting behind them.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare (logo on tunic)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 71.16,
-   "end": 79.1
+   "end": 79.1,
+   "description": "A pregnant woman is shown around a birthing room with a birth pool by a midwife in an HCA uniform at The Portland Hospital. They talk and smile as they look at the pool together.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birth pool"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 79.1,
-   "end": 87.04
+   "end": 87.04,
+   "description": "A staff member in a navy HCA Healthcare UK tunic talks and gestures while explaining something to a colleague in a light blue shirt, standing at a counter in a room with a wall clock and a sunset painting at The Portland Hospital.",
+   "service_lines": [],
+   "kit": [
+    "wall clock",
+    "counter / desk"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK (logo on uniform)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 87.04,
-   "end": 96.8
+   "end": 96.8,
+   "description": "A midwife in a navy uniform shows a pregnant woman around a birthing room at The Portland Hospital, talking her through the birth pool in the foreground. Filmed from a low angle behind the pool.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birth pool",
+    "wall clock",
+    "wall-mounted taps"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 96.8,
-   "end": 105.66
+   "end": 105.66,
+   "description": "A midwife opens the door and welcomes a pregnant woman carrying a red bag into a birthing room with a birthing pool, then gestures around the room as she shows her in.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birthing pool"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 105.66,
-   "end": 114.52
+   "end": 114.52,
+   "description": "A midwife in a navy uniform shows a pregnant woman carrying a red bag around a birthing pool in a labour room at The Portland Hospital, pointing to the pool as she explains it. A sea-and-sky painting and a wall clock hang behind them.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birthing pool",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 114.52,
-   "end": 116.6
+   "end": 116.6,
+   "description": "A midwife in a navy uniform shows a pregnant woman around a birthing room at The Portland Hospital, gesturing towards the birthing pool as she explains it.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birthing pool",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 116.6,
-   "end": 118.12
+   "end": 118.12,
+   "description": "A new mother sits up in a hospital bed holding her swaddled newborn while a midwife in a navy HCA uniform leans in to check on them in a softly lit patient room at The Portland Hospital.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "bedside cabinet",
+    "overbed light"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA logo on uniform",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 118.12,
-   "end": 131.0
+   "end": 131.0,
+   "description": "A new mother in a hospital gown sits up in bed and smiles down at her newborn baby, who is wrapped in a patterned blanket in her arms. Shot in a dimly lit patient room with an overhead bed light and a pink orchid on the bedside cabinet.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "overhead bed light",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 131.0,
-   "end": 136.36
+   "end": 136.36,
+   "description": "A midwife in a navy uniform takes a new mother's blood pressure while the mother sits up in a hospital bed holding her swaddled newborn in a patient room at The Portland Hospital.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 136.36,
-   "end": 141.36
+   "end": 141.36,
+   "description": "A new mother sits up in a hospital bed holding her swaddled newborn while a midwife in navy uniform fits a blood pressure cuff to her arm and puts in her stethoscope for a postnatal check. Shot over the midwife's shoulder in a warmly lit private patient room with orchids on the bedside cabinet.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff",
+    "stethoscope"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 141.36,
-   "end": 146.92
+   "end": 146.92,
+   "description": "A midwife in a navy uniform takes the blood pressure of a new mother who is sitting up in a hospital bed and cradling her newborn baby, wrapped in a blanket. The mother smiles as they talk in a private patient room with an orchid on the bedside table.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff",
+    "stethoscope"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 146.92,
-   "end": 151.72
+   "end": 151.72,
+   "description": "A midwife or nurse in a navy uniform with pink trim checks the blood pressure of a new mother who sits up in a hospital bed holding her newborn baby, wrapped in a patterned blanket, in a patient room at The Portland Hospital.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff",
+    "sphygmomanometer"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 151.72,
-   "end": 159.06
+   "end": 159.06,
+   "description": "A new mother sits up in a hospital bed holding her newborn wrapped in a blanket, smiling and talking with a nurse who stands in the foreground with her back to camera. The mother has a blood pressure cuff on her arm in a private patient room with orchids and a wall light behind her.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 159.06,
-   "end": 166.4
+   "end": 166.4,
+   "description": "A new mother sits up in a hospital bed holding her newborn wrapped in a blanket, smiling and talking with a midwife in a navy uniform who is checking on her. A blood pressure cuff is on the mother's arm, and an orchid sits on the bedside table.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 166.4,
-   "end": 167.84
+   "end": 167.84,
+   "description": "A new mother sits up in a hospital bed holding her newborn wrapped in a blanket and smiles as a nurse or midwife takes her blood pressure with an arm cuff in a private patient room.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 167.84,
-   "end": 170.32
+   "end": 170.32,
+   "description": "A nurse in navy scrubs sits beside a female patient in a patient room and reads through a printed document with her, while the patient listens and smiles.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "wall-mounted medical equipment",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 170.32,
-   "end": 171.6
+   "end": 171.6,
+   "description": "A nurse in a navy uniform sits beside a female patient in a cream dress in a hospital patient room, talking her through paperwork she holds. The shot is framed past a blurred sink in the foreground, with a patient monitor and drip stand on the wall behind them.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "drip stand",
+    "wall-mounted oxygen and suction outlets",
+    "patient recliner chair",
+    "sink"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 171.6,
-   "end": 181.92
+   "end": 181.92,
+   "description": "A nurse sits beside a woman in a reclining chair in a patient room at The Portland Hospital, going through a leaflet with her as they talk. A sink is out of focus in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "infusion chair",
+    "patient monitor",
+    "wall-mounted medical gas outlets",
+    "sink"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 181.92,
-   "end": 190.8
+   "end": 190.8,
+   "description": "A nurse in a navy uniform sits beside a female patient in a clinical room, talking her through paperwork the patient holds. The patient listens and smiles during the conversation.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "wall-mounted diagnostic set",
+    "clinical chair",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 190.8,
-   "end": 197.56
+   "end": 197.56,
+   "description": "A woman patient sits in a hospital room talking and smiling with a nurse in a navy uniform, seen over the nurse's shoulder. A vital signs monitor on a stand is visible in the background.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "wall-mounted examination light"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 197.56,
-   "end": 205.98
+   "end": 205.98,
+   "description": "A woman in a cream camisole sits in a treatment chair, talking and smiling with a nurse in navy scrubs and glasses, who is seen from behind in a clinic room at The Portland Hospital.",
+   "service_lines": [],
+   "kit": [
+    "treatment chair",
+    "wall-mounted glove dispensers",
+    "privacy curtain"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 205.98,
-   "end": 214.4
+   "end": 214.4,
+   "description": "A smiling woman in a cream top sits on an examination couch in a consulting room while a staff member's hand rests on hers. The camera tilts up from their hands to her face, with wall-mounted monitoring equipment behind her.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "examination couch",
+    "wall-mounted diagnostic equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 214.4,
-   "end": 225.2
+   "end": 225.2,
+   "description": "A woman in a cream dress is greeted by a staff member in a navy uniform with red trim in a reception area with a wooden slatted wall and vertical light strips. The two talk and laugh, and the woman holds a card or leaflet.",
+   "service_lines": [],
+   "kit": [
+    "reception seating"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 225.2,
-   "end": 232.84
+   "end": 232.84,
+   "description": "A woman waiting in a reception area with wood-panelled walls is greeted by a nurse in a navy uniform. She stands up, shakes the nurse's hand and the two chat and smile.",
+   "service_lines": [],
+   "kit": [
+    "waiting room armchairs"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 232.84,
-   "end": 242.54
+   "end": 242.54,
+   "description": "Close-up of a newborn baby's feet on a hospital cot, with a pulse oximetry sensor taped to one foot glowing red and a blood pressure cuff wrapped around the leg. The baby moves its feet slightly as the monitoring leads run across the sheet.",
+   "service_lines": [
+    "paediatrics",
+    "maternity",
+    "critical care"
+   ],
+   "kit": [
+    "pulse oximeter sensor",
+    "blood pressure cuff",
+    "monitoring cables"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "detail",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 242.54,
-   "end": 252.24
+   "end": 252.24,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 252.24,
-   "end": 258.44
+   "end": 258.44,
+   "description": "A baby with a dummy lies in a hospital cot beside a toy panda while an adult's hand gently holds the baby's hand. The baby has monitoring leads on the chest and a line taped to the hand.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "ECG monitoring leads",
+    "IV line",
+    "soft toy"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 258.44,
-   "end": 270.48
+   "end": 270.48,
+   "description": "A baby in a floral hospital gown lies in a hospital cot with a dummy, while an adult's hand holding a panda soft toy reaches in to comfort them. The baby looks up at the camera and lifts a hand wearing an ID wristband.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "monitoring leads",
+    "patient ID wristband",
+    "dummy with clip",
+    "panda soft toy"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 270.48,
-   "end": 277.9
+   "end": 277.9,
+   "description": "A baby in a printed hospital gown lies in a hospital cot with a dummy and wristband, looking around and moving their arms. An IV line and a wall-mounted oxygen flowmeter are visible.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "IV line",
+    "oxygen flowmeter",
+    "patient wristband",
+    "dummy with clip"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 277.9,
-   "end": 285.32
+   "end": 285.32,
+   "description": "A baby in a patterned hospital gown lies in a cot with a pulse oximeter sensor on one foot and a pink stethoscope nearby. The camera moves up from the baby's feet to their face as they suck on a dummy.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "pulse oximeter sensor",
+    "stethoscope",
+    "hospital cot",
+    "dummy with clip"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 285.32,
-   "end": 292.24
+   "end": 292.24,
+   "description": "A baby with a dummy lies in a hospital cot beside a toy panda, with monitoring leads attached to the foot, while a staff member's hand gently touches the baby's head. A pink stethoscope rests on the mattress, and medical monitoring equipment is visible in the background of what appears to be a paediatric high-dependency or intensive care room.",
+   "service_lines": [
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "hospital cot",
+    "patient monitor",
+    "stethoscope",
+    "monitoring leads",
+    "toy panda"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Dr\u00e4ger",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 292.24,
-   "end": 299.16
+   "end": 299.16,
+   "description": "A baby in a patterned hospital gown lies in a hospital cot with a dummy, a toy panda beside them and monitoring leads and an IV line attached. The camera moves slowly around the baby as they look up and move their arms.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "monitoring leads",
+    "IV line",
+    "toy panda",
+    "dummy"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 299.16,
-   "end": 306.98
+   "end": 306.98,
+   "description": "A nurse in a navy uniform listens to a baby's chest with a stethoscope while the baby lies in a hospital cot in a paediatric room at The Portland Hospital. A stack of infusion pumps and a cartoon bear and balloon decal are visible in the background.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "stethoscope",
+    "hospital cot",
+    "infusion pumps"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Baby (partial, on whiteboard)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 306.98,
-   "end": 314.8
+   "end": 314.8,
+   "description": "A nurse in a navy uniform listens to a baby's chest with a stethoscope as the baby lies in a hospital cot and holds her finger. Infusion pumps are stacked beside the cot in a paediatric ward.",
+   "service_lines": [
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "stethoscope",
+    "hospital cot",
+    "infusion pumps"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 314.8,
-   "end": 320.16
+   "end": 320.16,
+   "description": "A nurse in a navy uniform uses a stethoscope to listen to a baby's chest as the baby lies in a hospital cot, smiling down at the infant in a paediatric room with a teddy bear and balloon wall mural.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "stethoscope",
+    "infusion pumps",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Dr\u00e4ger",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 320.16,
-   "end": 324.64
+   "end": 324.64,
+   "description": "A nurse in a navy HCA Healthcare UK uniform laughs as she puts in her stethoscope earpieces and checks the chest piece in a clinical room at The Portland Hospital. A colleague in light blue scrubs laughs in the background.",
+   "service_lines": [],
+   "kit": [
+    "stethoscope",
+    "glove dispensers",
+    "hand sanitiser dispenser",
+    "paper towel dispenser",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 324.64,
-   "end": 331.76
+   "end": 331.76,
+   "description": "A nurse in an HCA Healthcare UK uniform talks with a mother beside a hospital cot with a baby in it, putting a reassuring hand on her shoulder as the mother smiles. Infusion pumps are stacked beside the cot on a paediatric ward.",
+   "service_lines": [
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "hospital cot",
+    "infusion pumps",
+    "IV drip bags"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "CHAPERONE; HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 331.76,
-   "end": 341.64
+   "end": 341.64,
+   "description": "A nurse in HCA Healthcare UK uniform rests a hand on a mother's shoulder as they talk beside a cot on a children's ward, and the nurse holds the baby's hand as the baby lies in the cot.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "infusion pumps",
+    "IV stand",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 341.64,
-   "end": 345.4
+   "end": 345.4,
+   "description": "A nurse in HCA Healthcare UK uniform rests her hand on a mother's shoulder as they stand at a cot and look down at a baby lying in it, in a children's patient room at The Portland Hospital. The nurse reaches into the cot toward the baby while the mother watches and smiles.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "IV line"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 345.4,
-   "end": 353.52
+   "end": 353.52,
+   "description": "Close-up of a staff member's hand, holding a stethoscope, gently clasping a baby's hand in a cot at The Portland Hospital. The camera moves across to show the baby lying in patterned clothing.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "stethoscope",
+    "cot"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 353.52,
-   "end": 361.88
+   "end": 361.88,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 361.88,
-   "end": 365.8
+   "end": 365.8,
+   "description": "Two nurses stand at a stack of infusion pumps on a drip stand in a neonatal room. One nurse points at the pump display while explaining the settings to her colleague, who leans in to look.",
+   "service_lines": [
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "infusion pumps / syringe drivers",
+    "IV drip stand",
+    "IV fluid bag"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Whiteboard in background partially legible: \"Baby A...\"",
+   "patient_visible": false,
+   "screen_data_visible": true,
+   "social_ready": true
   },
   {
    "t": 365.8,
-   "end": 370.92
+   "end": 370.92,
+   "description": "A mother leans over a hospital cot and gently touches her sleeping baby while two nurses check and adjust the infusion pumps beside the cot in a paediatric patient room at The Portland Hospital.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "infusion pumps",
+    "hospital cot",
+    "IV drip stand",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Baby (handwritten on whiteboard); CHAPERONING (wall sign)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 370.92,
-   "end": 379.68
+   "end": 379.68,
+   "description": "Two paediatric nurses check an infant's lines and tubing at a hospital cot, smiling and talking as they work. The middle frame shows the baby lying in the cot with a feeding tube and IV line in place.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot",
+    "IV lines",
+    "stethoscope",
+    "feeding tube"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 379.68,
-   "end": 390.72
+   "end": 390.72,
+   "description": "Three nurses in HCA uniforms work at a stack of infusion pumps beside a child's cot on a paediatric ward, adjusting lines while one nurse explains the setup to colleagues.",
+   "service_lines": [
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "infusion pumps",
+    "IV lines",
+    "cot"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 390.72,
-   "end": 394.16
+   "end": 394.16,
+   "description": "Close-up of a staff member's hand pressing the touchscreen on a stack of infusion pumps beside a bed, with green status lights on and a blurred ward in the background.",
+   "service_lines": [],
+   "kit": [
+    "infusion pumps"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 394.16,
-   "end": 406.59
+   "end": 406.59,
+   "description": "Nurses care for a baby in a cot in a paediatric critical care room at The Portland Hospital, with one nurse checking the bedside monitor while two others attend to the infant. The shot moves from the cot past the monitoring equipment to the nurses tending the baby.",
+   "service_lines": [
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital cot",
+    "infusion pumps",
+    "ceiling-mounted equipment pendant"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

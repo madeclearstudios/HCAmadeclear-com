@@ -7,283 +7,1917 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 7.52
+   "end": 7.52,
+   "description": "A laboratory scientist in a white lab coat, safety glasses and blue gloves streaks a red agar plate with an inoculating loop at a microbiology bench. Stacks of culture plates sit on the bench behind her.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "agar plates / petri dishes",
+    "inoculating loop",
+    "lab bench"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 7.52,
-   "end": 10.0
+   "end": 10.0,
+   "description": "A lab worker in a white coat and blue gloves places a red agar petri dish into a white wire rack on a lab bench. Stacks of culture plates and lab supplies are visible in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "agar culture plates",
+    "petri dish rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 10.0,
-   "end": 13.92
+   "end": 13.92,
+   "description": "A lab scientist in a white lab coat, glasses and blue gloves examines red agar plates at a bench in a microbiology lab, with stacks of culture plates and a wall clock behind her.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "agar plates / petri dishes",
+    "lab coat",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 13.92,
-   "end": 17.76
+   "end": 17.76,
+   "description": "A lab worker in a white coat and blue gloves places a blood agar plate onto a stack in a wire rack on a lab bench, with shelves of culture plates behind.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "agar plates / petri dishes",
+    "wire plate rack",
+    "specimen trays"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 17.76,
-   "end": 22.24
+   "end": 22.24,
+   "description": "A laboratory scientist in a white lab coat, glasses and blue gloves streaks a sample onto a red agar plate using an inoculation loop, filmed from a low angle. Microbiology culture work in a pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "agar plate / petri dish",
+    "inoculation loop",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 22.24,
-   "end": 25.0
+   "end": 25.0,
+   "description": "Low-angle view of a laboratory scientist in a white lab coat, glasses and blue gloves streaking a sample onto an agar plate with an inoculating loop, then looking up and turning away.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "petri dish / agar plate",
+    "inoculating loop",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 25.0,
-   "end": 27.52
+   "end": 27.52,
+   "description": "A staff member in glasses and a light pink shirt looks at a large wall-mounted screen showing a stained tissue slide in a pathology lab. The camera moves past him to finish on the digital slide image.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "large display screen showing digital pathology slide"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 27.52,
-   "end": 28.88
+   "end": 28.88,
+   "description": "Side-profile close-up of a grey-haired man in glasses and a white lab coat looking up and ahead, with an out-of-focus laboratory behind him.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 28.88,
-   "end": 31.48
+   "end": 31.48,
+   "description": "Close-up of a staff member in a white lab coat resting their hand on a computer mouse on a dark work surface, with a blurred laboratory behind them.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer mouse",
+    "laptop"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 31.48,
-   "end": 36.08
+   "end": 36.08,
+   "description": "A lab staff member in a white coat and glasses talks while looking at a large wall-mounted screen that appears to show a digital pathology slide of pink-stained tissue. A colleague is seen from behind, out of focus in the foreground.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "large display screen",
+    "computer keyboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 36.08,
-   "end": 39.8
+   "end": 39.8,
+   "description": "A lab scientist in a white coat and glasses studies a stained tissue sample displayed on a digital pathology screen in a laboratory. A colleague in the foreground looks on as he reviews the slide.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "digital pathology monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 39.8,
-   "end": 43.36
+   "end": 43.36,
+   "description": "A grey-haired man in a lab coat and glasses stands beside a large monitor showing a digitally scanned stained tissue slide, talking with a colleague seen from behind in the foreground. The on-screen slide image changes and zooms during the shot, in a digital pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "digital pathology display monitor",
+    "monitor arm"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 43.36,
-   "end": 46.2
+   "end": 46.2,
+   "description": "A staff member in a white lab coat and glasses talks with a colleague while looking at a large screen showing a digital pathology image of a stained tissue slide in a hospital laboratory.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "digital pathology display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 46.2,
-   "end": 52.44
+   "end": 52.44,
+   "description": "A grey-haired man in a white lab coat and a female colleague in the foreground discuss a purple-stained tissue sample shown on a computer monitor in a pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor showing digital pathology slide"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 52.44,
-   "end": 56.6
+   "end": 56.6,
+   "description": "A pathologist in a white lab coat and glasses talks while reviewing a digital pathology slide of stained tissue on a large screen in a laboratory.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "digital pathology display"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 56.6,
-   "end": 61.68
+   "end": 61.68,
+   "description": "A pathologist in a white lab coat reviews a digitised stained tissue slide on a monitor, using a mouse and keyboard, while discussing it with a colleague. The camera moves up from his hand on the mouse to his face as he talks.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor showing digital pathology slide",
+    "keyboard",
+    "mouse"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 61.68,
-   "end": 65.12
+   "end": 65.12,
+   "description": "Two lab staff in glasses, a woman and a grey-haired man in a white lab coat, look intently at something off camera in a laboratory, with focus pulling from her to him.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 65.12,
-   "end": 69.52
+   "end": 69.52,
+   "description": "Two lab staff in white coats, a woman and a man, both wearing glasses, talk while looking at a computer monitor at a workstation, with the man using the keyboard. Lab equipment is out of focus in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor",
+    "keyboard and mouse",
+    "lab analyser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Fire exit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 69.52,
-   "end": 80.52
+   "end": 80.52,
+   "description": "A grey-haired staff member in glasses and a white lab coat studies a purple-stained tissue slide on a large monitor in a pathology lab and talks about it with a colleague at the edge of frame.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "digital pathology monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 80.52,
-   "end": 90.6
+   "end": 90.6,
+   "description": "Close-up through a glass panel of an automated lab analyser, showing motors, pneumatic fittings and cabling as the camera tracks across the machinery. Overhead lights and a blurred figure are reflected in the glass.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 90.6,
-   "end": 101.04
+   "end": 101.04,
+   "description": "Automated laboratory analyser equipment seen through a glass panel, showing a robotic gripper with pneumatic tubing above racks of sample tubes as the camera moves across the machine.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "automated sample handling robot",
+    "sample tube racks"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 101.04,
-   "end": 102.92
+   "end": 102.92,
+   "description": "Close-up of a lab worker in a white coat using forceps to lift thin tissue sections from the blade of a microtome during histology slide preparation in a pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 102.92,
-   "end": 105.32
+   "end": 105.32,
+   "description": "A lab worker in a white coat uses fine forceps to handle a tissue section on a rotary microtome blade in a histology lab, preparing samples for pathology.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "rotary microtome",
+    "forceps"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 105.32,
-   "end": 110.4
+   "end": 110.4,
+   "description": "A lab scientist in a white coat leans over a microtome and uses a brush to handle a tissue block during histology sectioning, with the camera moving from her face down to her hands.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "centrifuge",
+    "sharps bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 110.4,
-   "end": 115.16
+   "end": 115.16,
+   "description": "A lab scientist in a white coat works at a microtome, using a fine tool to handle tissue sections. The camera moves from her face down to her hands at the machine in a histology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "centrifuge",
+    "clinical waste bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 115.16,
-   "end": 119.44
+   "end": 119.44,
+   "description": "A laboratory scientist in a white coat uses forceps to handle a thin tissue section on a microtome in a histology lab. The camera moves from her face down to her hands at the machine.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "forceps",
+    "sharps bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 119.44,
-   "end": 123.6
+   "end": 123.6,
+   "description": "A lab worker in a white coat places a labelled glass slide into a slot on a slide processing unit in a pathology lab, with a second slide resting on the machine top. A yellow biohazard waste bin sits in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "slide centrifuge",
+    "glass microscope slides",
+    "biohazard waste bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "DO NOT FILL ABOVE THE LINE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 123.6,
-   "end": 128.44
+   "end": 128.44,
+   "description": "Close-up of glass microscope slides with pink barcoded labels standing in a rack in a pathology lab. A gloveless hand reaches in, adjusts one slide and withdraws.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope slides",
+    "slide rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 128.44,
-   "end": 137.36
+   "end": 137.36,
+   "description": "A lab scientist in a white lab coat and headscarf looks across the laboratory, then the camera tilts down to her blue-gloved hands typing on a keyboard. Other lab staff work in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "keyboard",
+    "glass-fronted lab cabinet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 137.36,
-   "end": 140.76
+   "end": 140.76,
+   "description": "A laboratory staff member in a hijab, white lab coat and blue gloves handles a sample rack next to lab analysers, with colleagues working in the background. The camera tilts down from her face to her gloved hands on the rack.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample tube rack",
+    "lab coat",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 140.76,
-   "end": 144.12
+   "end": 144.12,
+   "description": "An automated lab system uses a robotic gripper arm to pick up and move blood sample tubes along a track in a pathology laboratory. Racks of purple-capped sample tubes sit in the foreground beside a laser warning sign.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "robotic sample handling arm",
+    "blood sample tubes",
+    "sample tube racks"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "LASER warning sign",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 144.12,
-   "end": 147.08
+   "end": 147.08,
+   "description": "Inside an automated lab analyser, a robotic gripper arm lowers towards a rack while blood sample tubes with purple caps sit in the foreground.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "robotic sample handler",
+    "blood sample tubes"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "LASER",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 147.08,
-   "end": 150.52
+   "end": 150.52,
+   "description": "Inside an automated pathology lab analyser, a robotic gripper lowers to pick up blood sample tubes from a rack and lifts away, with purple-capped tubes waiting in a rack nearby.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "robotic sample gripper",
+    "blood sample tubes",
+    "sample tube racks"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 150.52,
-   "end": 163.04
+   "end": 163.04,
+   "description": "An automated lab system's robotic gripper picks up and moves blood sample tubes with gold and red caps between racks inside a glass enclosure. This is close-up footage of automated sample handling in a pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "sample racks",
+    "robotic gripper arm"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 163.04,
-   "end": 170.2
+   "end": 170.2,
+   "description": "Low-angle view along an automated pathology lab track as blood sample tubes move on the conveyor, while a lab staff member in a headscarf and white coat works in the background behind a glass partition.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "automated sample conveyor track",
+    "sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 170.2,
-   "end": 172.84
+   "end": 172.84,
+   "description": "Low-angle view inside an automated lab analyser, with racks of sample tubes in the foreground and a robotic arm moving along a track behind them. A lab staff member in a blue glove is blurred in the background behind the glass.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample tubes",
+    "sample tube racks",
+    "robotic sample handler"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 172.84,
-   "end": 177.4
+   "end": 177.4,
+   "description": "An automated pathology lab line where a robotic gripper arm moves sample tubes between racks, while a lab staff member in blue gloves holds a tablet in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "robotic sample handler",
+    "sample tubes and racks",
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 177.4,
-   "end": 182.08
+   "end": 182.08,
+   "description": "A lab staff member in a white coat and purple gloves loads racks of blood sample tubes into an automated lab analyser, then the camera moves to show the loaded racks in the analyser.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample tube racks",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 182.08,
-   "end": 184.68
+   "end": 184.68,
+   "description": "A lab worker in a white coat and purple gloves lifts a rack of sample tubes out of an automated analyser drawer and checks the tubes in the rack.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample tube rack",
+    "sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 184.68,
-   "end": 192.72
+   "end": 192.72,
+   "description": "A lab scientist in a white coat and purple gloves holds up a rack of sample tubes and checks them in a pathology lab, with lab equipment out of focus behind her.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "sample tube rack",
+    "lab analyser",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 192.72,
-   "end": 198.44
+   "end": 198.44,
+   "description": "A lab scientist in a white lab coat and purple gloves holds up an electrophoresis gel to the light and examines the stained bands, with focus shifting from her face to the gel.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "electrophoresis gel",
+    "pipette"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 198.44,
-   "end": 200.2
+   "end": 200.2,
+   "description": "A lab scientist in a white coat and purple gloves loads a sample into a lab analyser in a hospital pathology lab, with centrifuges and other lab equipment on the bench behind her.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "centrifuge",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 200.2,
-   "end": 202.04
+   "end": 202.04,
+   "description": "A laboratory scientist in a white lab coat and purple gloves works beside a lab analyser, then turns and talks while gesturing. Centrifuges, benchtop equipment and computer monitors are in the background of the pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "centrifuge",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 202.04,
-   "end": 204.04
+   "end": 204.04,
+   "description": "A lab scientist in a white lab coat and glasses looks around the pathology lab as the camera moves right past her, revealing lab analysers, computer workstations and shelves in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 204.04,
-   "end": 208.92
+   "end": 208.92,
+   "description": "Close-up of a Tosoh HLC-723 G11 analyser in a hospital pathology lab, with racks of purple-top blood sample tubes loaded for testing.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "sample racks"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HLC-723 G11",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 208.92,
-   "end": 215.68
+   "end": 215.68,
+   "description": "A gloved lab worker in a white coat places blood sample tubes into the buckets of a centrifuge rotor, then withdraws their hand, leaving the loaded rotor in view.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "centrifuge",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 215.68,
-   "end": 217.96
+   "end": 217.96,
+   "description": "A lab staff member in a white coat and blue gloves closes the lid of a benchtop centrifuge with sample buckets loaded inside, ready to start a spin.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "centrifuge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 217.96,
-   "end": 224.68
+   "end": 224.68,
+   "description": "Close-up of a benchtop laboratory centrifuge with its digital display showing run settings, as a gloved hand closes the lid at the end of the shot.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "centrifuge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Centrifuge display readings (e.g. \"9 3655\", \"69 0.06\"); Thermo logo",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 224.68,
-   "end": 228.96
+   "end": 228.96,
+   "description": "Close-up of a lab worker's gloved hand on a benchtop centrifuge, pressing a button on the control panel as the display shows the run settings.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "benchtop centrifuge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "ST16, STOP, PAUSE, OPEN, 3655",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 228.96,
-   "end": 231.52
+   "end": 231.52,
+   "description": "Close-up profile of a lab staff member wearing glasses looking through a microscope in a pathology lab, with colleagues working out of focus in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 231.52,
-   "end": 234.32
+   "end": 234.32,
+   "description": "A laboratory scientist in a white lab coat, glasses and purple gloves places a slide on a microscope stage and then looks through the eyepieces to examine it, with colleagues working in the background of a pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 234.32,
-   "end": 242.36
+   "end": 242.36,
+   "description": "A lab scientist in a white coat and glasses looks down the eyepieces of a microscope in a pathology lab, shown in profile as the camera moves in closer. A colleague is out of focus in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 242.36,
-   "end": 248.4
+   "end": 248.4,
+   "description": "A laboratory scientist in a white lab coat, glasses and purple gloves looks down an Olympus microscope while a colleague works in the background of the lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 248.4,
-   "end": 258.56
+   "end": 258.56,
+   "description": "A lab staff member in a white coat and blue gloves loads a rack of blood sample tubes into a lab analyser.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "sample rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 258.56,
-   "end": 261.12
+   "end": 261.12,
+   "description": "Close-up profile of a lab staff member in glasses and a white lab coat looking down as he concentrates on work in a laboratory. Ceiling lights and lab benches are out of focus in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 261.12,
-   "end": 268.08
+   "end": 268.08,
+   "description": "A lab staff member in a white coat and blue gloves removes a rack of blood sample tubes from an automated lab analyser.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "sample rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 268.08,
-   "end": 274.16
+   "end": 274.16,
+   "description": "Close-up of a lab worker's gloved hands opening the door of an automated lab analyser and holding a sample rack of blood tubes ready to load.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample rack",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 274.16,
-   "end": 283.52
+   "end": 283.52,
+   "description": "A lab worker in a white coat and blue gloves loads a rack of blood sample tubes into an automated lab analyser.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample tube rack",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 283.52,
-   "end": 288.84
+   "end": 288.84,
+   "description": "A lab staff member in a white coat and purple gloves takes a bag of blood from a blood bank refrigerator and checks the label. Blood transfusion and blood bank work in a hospital pathology lab.",
+   "service_lines": [
+    "haematology",
+    "pathology"
+   ],
+   "kit": [
+    "blood bank refrigerator",
+    "blood bag"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 288.84,
-   "end": 296.2
+   "end": 296.2,
+   "description": "A lab staff member in a white lab coat takes a unit of red blood cells from a blood bank refrigerator and checks the bag. Blood bags sit on the fridge shelves.",
+   "service_lines": [
+    "haematology",
+    "pathology"
+   ],
+   "kit": [
+    "blood bank refrigerator",
+    "blood bags"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 296.2,
-   "end": 299.48
+   "end": 299.48,
+   "description": "A laboratory staff member in a white lab coat and glasses looks down at red blood samples, out of focus in the foreground, in a hospital pathology lab with a glass-door fridge behind him.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "blood samples",
+    "laboratory fridge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 299.48,
-   "end": 305.4
+   "end": 305.4,
+   "description": "Close-up of a gloved lab worker checking a bag of O RhD positive red blood cells and placing it into a blood bank storage fridge alongside other blood units.",
+   "service_lines": [
+    "haematology",
+    "pathology"
+   ],
+   "kit": [
+    "blood bags",
+    "blood bank fridge",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "O RhD POSITIVE; RED CELLS IN ADDITIVE SOLUTION LD; STORE AT 4\u00b0C \u00b1 2\u00b0C; CE 0473; Colindale",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 305.4,
-   "end": 313.72
+   "end": 313.72,
+   "description": "A lab worker in a white coat and purple gloves unpacks red specimen bags at the sample drop-off point of a pathology lab, with colleagues working at benches behind her. The camera moves from outside the glass courier entrance in to the bench.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "specimen bags",
+    "blue sample crates",
+    "drop off box",
+    "yellow-lidded clinical waste bins",
+    "handwash sink",
+    "hand sanitiser dispensers"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 6
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Attention all couriers; All Couriers ... Ring Bell A Member Of ... Will Be With You Shortly; Attention; DROP OFF BOX",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 313.72,
-   "end": 316.96
+   "end": 316.96,
+   "description": "A lab worker in a white coat and purple gloves sorts specimen bags into coloured trays in a pathology specimen reception area, with colleagues working at benches in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "specimen bags",
+    "sorting trays",
+    "lab workstations"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 316.96,
-   "end": 318.28
+   "end": 318.28,
+   "description": "A lab worker in a white lab coat and purple gloves unpacks and sorts specimen bags from blue crates at a sample reception bench, while colleagues in lab coats work and walk in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "specimen bags",
+    "sample transport crates",
+    "nitrile gloves",
+    "lab coats"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 318.28,
-   "end": 320.08
+   "end": 320.08,
+   "description": "Lab staff in white coats work in a pathology specimen reception area, with trays of bagged samples in the foreground as the camera tracks sideways past them.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "specimen trays",
+    "specimen bags",
+    "clinical waste bins",
+    "benchtop lab instrument",
+    "lab bench"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 320.08,
-   "end": 329.0
+   "end": 329.0,
+   "description": "A laboratory technician in a white lab coat and blue gloves opens red specimen transport bags at a sample reception bench in a pathology lab, with colleagues working at analysers in the background. The camera moves from outside the glass courier entrance into the lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "specimen bags",
+    "sample crates",
+    "sharps bins",
+    "hand wash sink"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Attention all couriers; All Couriers Please Ring Bell A Member Of Staff Will Be With You Shortly",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 329.0,
-   "end": 337.92
+   "end": 337.92,
+   "description": "A lab scientist in a white coat, safety glasses and blue gloves works at a bench in a large open-plan pathology lab while colleagues work at benches and computers behind her. The camera slowly defocuses, ending on a soft blurred view of the lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "computer monitors",
+    "clinical waste bins",
+    "specimen trays",
+    "lab bench"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 5
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 337.92,
-   "end": 350.32
+   "end": 350.32,
+   "description": "A lab staff member in a white coat and blue gloves unpacks specimen bags from blue courier crates at a pathology specimen reception bench, with colleagues working at lab benches in the background.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "specimen bags",
+    "blue transport crates",
+    "clinical waste bins"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Partial courier signage visible: '...n all couriers', '...l Couriers'",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 350.32,
-   "end": 355.43
+   "end": 355.43,
+   "description": "Camera pans across a wall sign reading 'Laboratories' to settle on the HCA Healthcare UK logo, with soft lighting and shallow focus.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "pan"
+   },
+   "text_on_screen": "Laborat[ories] (partial); HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

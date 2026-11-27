@@ -7,211 +7,1325 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 11.65
+   "end": 11.65,
+   "description": "Two theatre staff in scrubs prepare an operating theatre at The Harborne Hospital for spinal surgery, with one smoothing a pillow on the operating table beside an intraoperative C-arm imaging system.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "X-ray",
+    "C-arm imaging system",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "wall-mounted display screens"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 11.65,
-   "end": 23.3
+   "end": 23.3,
+   "description": "Over-the-shoulder view of a theatre staff member in a patterned scrub cap looking into an empty operating theatre at The Harborne Hospital, with an operating table and a robotic C-arm imaging system ready for spinal surgery.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "robotic C-arm imaging system",
+    "operating table",
+    "anaesthetic machine",
+    "patient monitor",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 23.3,
-   "end": 34.94
+   "end": 34.94,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 34.94,
-   "end": 46.59
+   "end": 46.59,
+   "description": "Low-angle view of an empty operating theatre at The Harborne Hospital, showing a mobile robotic intraoperative imaging system beside the operating table, with a patient monitor and anaesthetic equipment in the background. The camera moves slowly across the room.",
+   "service_lines": [
+    "spine",
+    "neurosurgery",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mobile intraoperative imaging robot",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating theatre lights"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 46.59,
-   "end": 58.24
+   "end": 58.24,
+   "description": "Low-angle moving shot of an empty hybrid operating theatre at The Harborne Hospital, showing a ceiling-mounted X-ray C-arm positioned over the operating table, with patient monitors and an anaesthetic machine in the background.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted display screen"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 58.24,
-   "end": 69.89
+   "end": 69.89,
+   "description": "Low, slow camera move past an empty operating table toward a robotic C-arm X-ray system in a hybrid theatre at The Harborne Hospital, with ceiling-mounted monitors and storage cabinets in the background.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "robotic C-arm imaging system",
+    "operating table",
+    "patient monitor",
+    "ceiling-mounted display screen"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 69.89,
-   "end": 81.54
+   "end": 81.54,
+   "description": "Slow camera move along an empty operating table under a C-arm X-ray unit in a theatre, with a patient monitor in the background. No people are in the shot.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "C-arm",
+    "patient monitor",
+    "operating table"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 81.54,
-   "end": 93.18
+   "end": 93.18,
+   "description": "An empty operating theatre at The Harborne Hospital with a C-arm X-ray imaging system arched over an operating table, ready for a spinal procedure. The camera moves slowly past the table, with monitors and theatre equipment in the background.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics",
+    "neurosurgery"
+   ],
+   "kit": [
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 93.18,
-   "end": 104.83
+   "end": 104.83,
+   "description": "Camera moves past an anaesthetic machine in an operating theatre at The Harborne Hospital to reveal three theatre staff in blue scrubs and caps standing around the operating table, with one smiling towards the camera.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "anaesthetic machine",
+    "operating theatre lights",
+    "operating table",
+    "wall-mounted screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Standby",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 104.83,
-   "end": 116.48
+   "end": 116.48,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 116.48,
-   "end": 128.13
+   "end": 128.13,
+   "description": "A theatre team member in blue scrubs and a head covering sits at the head of an empty operating table in an operating theatre, looking ahead as she prepares. The camera moves past a blurred foreground object, briefly obscuring the view in the middle of the shot.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "operating table",
+    "patient monitor",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 128.13,
-   "end": 139.78
+   "end": 139.78,
+   "description": "A theatre staff member in blue scrubs and a patterned scrub cap sits behind an operating table in an empty operating theatre at The Harborne Hospital, with equipment trolleys and theatre lights around her. The camera tracks sideways behind blurred foreground objects that wipe in and out of frame.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "operating table",
+    "operating theatre lights",
+    "anaesthetic trolley",
+    "equipment trolley",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 139.78,
-   "end": 151.42
+   "end": 151.42,
+   "description": "A theatre team member in blue scrubs and a patterned scrub cap sits at the back of an empty operating theatre at The Harborne Hospital, seen past the operating table as the camera tracks sideways under the theatre light arm.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "operating table",
+    "instrument trolley",
+    "computer monitor",
+    "storage shelving"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 151.42,
-   "end": 163.07
+   "end": 163.07,
+   "description": "A theatre staff member in navy scrubs and a lead thyroid shield adjusts the illuminated dials on an equipment control panel in a clinical area at The Harborne Hospital. The camera moves from her face down to close on her hands turning the knobs.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "control panel with illuminated dials",
+    "lead thyroid shield",
+    "clinical waste bins",
+    "wall phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 163.07,
-   "end": 174.72
+   "end": 174.72,
+   "description": "A staff member in navy scrubs, a patterned scrub cap and a lead thyroid collar adjusts the dials on an X-ray (C-arm) control panel in an operating theatre. The camera moves up from her hands to her face as she looks across the room.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "C-arm control panel",
+    "thyroid shield"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 174.72,
-   "end": 186.37
+   "end": 186.37,
+   "description": "Close-up of a theatre team member in blue scrubs adjusting dials and the touchscreen on a control panel in an operating theatre. The camera then moves to show the staff member wearing a lead thyroid collar.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "theatre equipment control panel",
+    "lead thyroid collar"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 186.37,
-   "end": 198.02
+   "end": 198.02,
+   "description": "An empty hybrid operating theatre with a robotic C-arm X-ray system, operating table and patient monitors at The Harborne Hospital. A staff member in navy scrubs and a surgical cap walks through the room at the start of the shot.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "robotic C-arm",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 198.02,
-   "end": 209.66
+   "end": 209.66,
+   "description": "An empty operating theatre at The Harborne Hospital with a robotic C-arm imaging system beside the operating table, used for intraoperative imaging during spinal surgery. The camera moves low around the C-arm, with patient monitors and an anaesthetic machine in the background.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "robotic C-arm imaging system",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 209.66,
-   "end": 221.31
+   "end": 221.31,
+   "description": "Empty hybrid operating theatre at The Harborne Hospital with a robotic C-arm X-ray system positioned over the operating table, with an anaesthetic machine and monitors in the background. The camera moves slowly across the room past the foot of the table.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "robotic C-arm",
+    "operating table",
+    "anaesthetic machine",
+    "patient monitor",
+    "ceiling-mounted monitor"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 221.31,
-   "end": 232.96
+   "end": 232.96,
+   "description": "Low-angle view of an empty hybrid operating theatre at The Harborne Hospital, with a robotic C-arm X-ray system positioned over the operating table as the camera moves slowly past. A patient monitor and anaesthetic equipment are in the background.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "robotic C-arm",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted monitor"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 232.96,
-   "end": 244.61
+   "end": 244.61,
+   "description": "Low-angle view of an empty hybrid operating theatre at The Harborne Hospital, with a robotic C-arm imaging system positioned over the operating table and an anaesthetic machine and monitors in the background. The camera moves slowly across the room.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "robotic C-arm (intraoperative X-ray)",
+    "X-ray",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display monitors"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 244.61,
-   "end": 256.26
+   "end": 256.26,
+   "description": "Empty operating theatre at The Harborne Hospital with an operating table, a robotic C-arm X-ray system and ceiling-mounted patient monitors, filmed from a low angle as the camera glides slowly past the table.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted equipment pendant"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 256.26,
-   "end": 267.9
+   "end": 267.9,
+   "description": "A robotic C-arm X-ray imaging system moves into position beside an empty operating table in a hybrid operating theatre, with ceiling-mounted monitors and anaesthetic equipment in the background. Intraoperative imaging setup for spinal surgery at The Harborne Hospital.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics",
+    "neurosurgery"
+   ],
+   "kit": [
+    "robotic C-arm X-ray system",
+    "X-ray",
+    "operating table",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted surgical display"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 267.9,
-   "end": 279.55
+   "end": 279.55,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 279.55,
-   "end": 291.2
+   "end": 291.2,
+   "description": "A staff member in navy scrubs walks along a hospital corridor and through doors marked CT, following a colleague in a maroon uniform carrying a clipboard into the CT scanner room at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "hand sanitiser dispenser",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "CT",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 291.2,
-   "end": 302.85
+   "end": 302.85,
+   "description": "Two staff members, one in blue scrubs and one in a maroon tunic, talk beside a Siemens CT scanner, then the camera moves through the scanner bore towards the imaging room doors at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "SIEMENS Healthineers; SOMATOM",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 302.85,
-   "end": 314.5
+   "end": 314.5,
+   "description": "Shot framed from inside a scanner bore as two staff members, a man in navy scrubs and a woman in a maroon tunic holding a clipboard, come through the doors into the imaging room. She gestures him toward the scanner.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine"
+   ],
+   "kit": [
+    "MRI scanner",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 314.5,
-   "end": 326.14
+   "end": 326.14,
+   "description": "Shot through the bore of a CT scanner as a patient sits on the scanner table and lies back, guided by a staff member holding a clipboard, ahead of a spinal scan at The Harborne Hospital.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 326.14,
-   "end": 337.79
+   "end": 337.79,
+   "description": "A staff member in a maroon uniform prepares a patient lying on a Siemens CT scanner table. The patient raises his arms above his head and she uses the gantry touchscreen to set up the scan, with a contrast injector beside them.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine"
+   ],
+   "kit": [
+    "CT scanner",
+    "contrast injector"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Siemens Healthineers",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 337.79,
-   "end": 349.44
+   "end": 349.44,
+   "description": "A staff member uses the controls on a Siemens CT scanner while a patient lies on the scanner table with their arms raised above their head, ready for a scan at The Harborne Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine"
+   ],
+   "kit": [
+    "CT scanner",
+    "IV pole",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SIEMENS Healthineers; SOMATOM Force",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 349.44,
-   "end": 361.38
+   "end": 361.38,
+   "description": "Two radiographers in an MRI control room review scan images on the console while a colleague in navy scrubs looks on. One taps the scanner touchscreen, and a monitor in the background shows the camera feed of the patient in the MRI scanner.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI control console",
+    "scanner touchscreen panel",
+    "patient camera monitor",
+    "telephone"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 361.38,
-   "end": 373.32
+   "end": 373.32,
+   "description": "A nurse in a maroon uniform and a colleague in navy scrubs sit together at a nurses' station at The Harborne Hospital, looking at a computer screen and discussing what they see.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "desk touchscreen panel",
+    "conference speakerphone"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 373.32,
-   "end": 385.26
+   "end": 385.26,
+   "description": "A nurse in a burgundy uniform works at a computer at a nurses' station while a colleague in navy scrubs sits beside her and watches the screen, at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "desk display unit"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 385.26,
-   "end": 397.2
+   "end": 397.2,
+   "description": "A nurse in a burgundy uniform and a colleague in blue scrubs work together at a computer at a nurses' station at The Harborne Hospital. He points to the screen, and they talk and smile as they go through information.",
+   "service_lines": [],
+   "kit": [
+    "computer workstation",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 397.2,
-   "end": 409.14
+   "end": 409.14,
+   "description": "Two radiographers in scrubs talk and work at the CT control room console, reviewing axial scan images on monitors while a patient lies on the CT scanner table seen through the control room window.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine"
+   ],
+   "kit": [
+    "CT scanner",
+    "scanner control console",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 409.14,
-   "end": 421.08
+   "end": 421.08,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 421.08,
-   "end": 433.02
+   "end": 433.02,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 433.02,
-   "end": 444.96
+   "end": 444.96,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 444.96,
-   "end": 451.68
+   "end": 451.68,
+   "description": "Camera moves past a doorway to reveal a consultant in a white shirt standing at the bedside talking with a patient lying in a hospital bed in a patient room with ceiling-mounted monitors and infusion equipment at The Harborne Hospital.",
+   "service_lines": [
+    "spine",
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "infusion pumps",
+    "ceiling-mounted equipment pendant",
+    "IV stand",
+    "storage trolley"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS; Hill-Rom",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 451.68,
-   "end": 458.4
+   "end": 458.4,
+   "description": "A consultant in a white shirt stands at the bedside talking with a male patient lying in bed in a critical care room at The Harborne Hospital. The camera tracks sideways past a foreground wall that briefly wipes across the frame.",
+   "service_lines": [
+    "spine",
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "ceiling-mounted equipment pendant",
+    "infusion pumps",
+    "IV pole",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS; Hill-Rom",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 458.4,
-   "end": 470.45
+   "end": 470.45,
+   "description": "A consultant in a white shirt examines a male patient's arm in a hospital bed, moving and holding the arm to assess strength and movement as part of a spinal care assessment in a room with patient monitoring and infusion equipment.",
+   "service_lines": [
+    "spine",
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "infusion pumps",
+    "IV stand",
+    "ceiling-mounted medical pendant"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 470.45,
-   "end": 482.5
+   "end": 482.5,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 482.5,
-   "end": 494.54
+   "end": 494.54,
+   "description": "A consultant in a white shirt and safety glasses looks down at a patient lying in a hospital bed, then reaches over and holds the patient's hand. The patient's face is not shown, and an IV drip stand and monitoring equipment are in the background.",
+   "service_lines": [
+    "spine"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "IV drip stand"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 494.54,
-   "end": 506.59
+   "end": 506.59,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 506.59,
-   "end": 518.64
+   "end": 518.64,
+   "description": "A clinician in a white coat reviews lumbar spine MRI images, sagittal and axial views, on a computer monitor, with the camera moving past him towards the screen. Spinal imaging review at The Harborne Hospital.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing spine MRI images"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 518.64,
-   "end": 530.69
+   "end": 530.69,
+   "description": "A consultant in a white coat reviews lumbar spine MRI images, sagittal and axial views, on a desktop monitor in a consulting room as the camera moves past him towards the screen.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing spine MRI images",
+    "desk clock display"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 530.69,
-   "end": 542.74
+   "end": 542.74,
+   "description": "A man with grey hair, a beard and clear-framed glasses, wearing a white open-collar shirt, stands in a hospital corridor looking off to the left, possibly at a screen out of frame. The background is soft-focus with doors and wall signage.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 542.74,
-   "end": 554.78
+   "end": 554.78,
+   "description": "A man with grey hair, a beard and clear-framed glasses, wearing a white shirt, stands in a hospital corridor looking off to the left. The camera tracks sideways past a dark foreground column.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 554.78,
-   "end": 566.83
+   "end": 566.83,
+   "description": "A wall-mounted monitor displaying a sagittal MRI scan of the spine, revealed as the camera moves around from the edge of the screen. Suitable for spinal imaging and diagnosis.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "monitor displaying spinal MRI scan"
+   ],
+   "people": [],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 566.83,
-   "end": 578.88
+   "end": 578.88,
+   "description": "Close-up of a clinician in a white coat pointing at a sagittal MRI scan of the lumbar spine on a wall-mounted monitor at The Harborne Hospital, discussing spinal imaging.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "monitor displaying MRI spine images"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 578.88,
-   "end": 590.66
+   "end": 590.66,
+   "description": "A computer monitor displays MRI scans of a lumbar spine in sagittal and axial views, while a blurred figure in the foreground passes across the frame.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing MRI spine scans"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": true,
+   "social_ready": false
   },
   {
    "t": 590.66,
-   "end": 602.43
+   "end": 602.43,
+   "description": "A computer monitor displays lumbar spine MRI scans, a sagittal view of the spine beside an axial cross-section, as someone briefly walks past in the foreground and blocks the screen. Spinal imaging review at The Harborne Hospital.",
+   "service_lines": [
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing MRI images"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Lumbar Spine; Siemens Healthineers (MRI viewer interface text; patient details shown on screen)",
+   "patient_visible": false,
+   "screen_data_visible": true,
+   "social_ready": false
   }
  ]
 }

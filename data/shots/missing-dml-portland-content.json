@@ -7,127 +7,817 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 7.8
+   "end": 7.8,
+   "description": "A staff member sits at a desk taking a call on a corded phone while typing on a keyboard, with paper trays and printers in the hospital admin office behind her. Shot through a soft-focus foreground.",
+   "service_lines": [],
+   "kit": [
+    "desk phone",
+    "computer keyboard",
+    "computer mouse",
+    "paper filing trays",
+    "printer"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 7.8,
-   "end": 15.6
+   "end": 15.6,
+   "description": "A private maternity patient room at The Portland Hospital with a made bed, folded towel and a bedside baby cot by the window, then a close view of a wall-mounted oxygen flowmeter with humidifier bottle and gas outlets labelled B and C beside floral bedding.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "baby cot",
+    "oxygen flowmeter with humidifier bottle",
+    "medical gas wall outlets"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "B C",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 15.6,
-   "end": 25.71
+   "end": 25.71,
+   "description": "An open grey hospital bag sits on a surface in a patient room, packed with a bottle of champagne, a toy panda holding a ribbon-tied scroll, and panda-print baby clothes. A hospital bed is reflected in a round mirror on the wall.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "hospital bag",
+    "champagne bottle",
+    "toy panda",
+    "baby clothes"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 25.71,
-   "end": 35.81
+   "end": 35.81,
+   "description": "A nurse in a blue uniform, plastic apron and purple gloves unwraps a newborn baby in a clear hospital bassinet and lifts the baby out.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "newborn bassinet",
+    "disposable gloves",
+    "plastic apron"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 35.81,
-   "end": 45.92
+   "end": 45.92,
+   "description": "A gloved nurse tends to a newborn baby lying in a clear hospital cot. The clip then cuts to a close-up of a hand typing on a computer keyboard.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital cot (bassinet)",
+    "computer keyboard",
+    "medical gloves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 45.92,
-   "end": 58.02
+   "end": 58.02,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 58.02,
-   "end": 70.12
+   "end": 70.12,
+   "description": "A porter in a waistcoat and tie pushes a brass luggage trolley along a hospital corridor, shot through the trolley's frame as he walks.",
+   "service_lines": [],
+   "kit": [
+    "brass luggage trolley"
+   ],
+   "people": [
+    {
+     "role": "porter",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 70.12,
-   "end": 82.22
+   "end": 82.22,
+   "description": "Camera pushes in across an empty private patient room at The Portland Hospital with a hospital bed, bedside cot, sofa, over-bed table and a vanity desk with a toy panda in a case. The shot ends on a close-up of vapour rising, likely from a humidifier or steamer.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "baby cot",
+    "over-bed table",
+    "sofa",
+    "coffee machine",
+    "humidifier"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 82.22,
-   "end": 94.32
+   "end": 94.32,
+   "description": "The camera moves from the street through the automatic glass entrance doors of The Portland Hospital into the reception area, past a suited concierge standing by the door. A receptionist sits at the curved front desk with the HCA Healthcare UK logo, next to the lifts.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "automatic sliding doors",
+    "reception desk",
+    "lifts"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 94.32,
-   "end": 106.42
+   "end": 106.42,
+   "description": "Two receptionists work at the front desk beneath an HCA Healthcare UK logo, then the clip changes to an empty operating theatre with an operating table, anaesthetic machine, patient monitors and ceiling theatre lights.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "anaesthetic machine",
+    "patient monitor",
+    "operating theatre lights",
+    "operating table",
+    "surgical stool",
+    "storage shelving with supplies"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 106.42,
-   "end": 118.52
+   "end": 118.52,
+   "description": "Camera moves from an en-suite bathroom with a walk-in shower, wall-hung toilet and grab rail, past a frosted glass door, into a patient room with two made-up hospital beds beside a curtained window at The Portland Hospital.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "walk-in shower",
+    "grab rail",
+    "toilet",
+    "towel",
+    "window curtains"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 118.52,
-   "end": 122.4
+   "end": 122.4,
+   "description": "Low-angle exterior shot of The Portland Hospital entrance sign with HCA Healthcare UK branding, with the camera moving slowly to reveal the street and a bus stop behind.",
+   "service_lines": [],
+   "kit": [
+    "exterior signage"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Portland Hospital; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 122.4,
-   "end": 134.5
+   "end": 134.5,
+   "description": "The clip moves from a low-angle exterior of The Portland Hospital entrance and its signage to blue and green star lights projected on a ceiling, then to a room with a hospital bed, infusion pumps on a stand and an Entonox gas outlet. The three frames look like separate shots joined together, so the clip may need trimming before use.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "hospital bed",
+    "infusion pumps",
+    "IV pole",
+    "Entonox gas outlet",
+    "star light projector"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "THE PORTLAND HOSPITAL; ENTONOX",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 134.5,
-   "end": 146.61
+   "end": 146.61,
+   "description": "An empty private patient room with a made bed, bedside patient monitors, infusion pumps and a wall-mounted computer screen, before the camera moves across to a counter with a coffee machine, cups, glass water bottles and a radio beside a wardrobe.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "infusion pumps",
+    "ceiling-mounted equipment pendant",
+    "wall-mounted computer",
+    "coffee machine",
+    "radio"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 146.61,
-   "end": 158.71
+   "end": 158.71,
+   "description": "Gimbal move through an empty neonatal intensive care bay at The Portland Hospital. The shot starts on a wall of monitors and infusion pumps and ends close on the portholes of a neonatal incubator.",
+   "service_lines": [
+    "paediatrics",
+    "critical care",
+    "maternity"
+   ],
+   "kit": [
+    "neonatal incubator",
+    "patient monitor",
+    "infusion pumps",
+    "medical gas outlets",
+    "wipes dispenser"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Clinell; WARNING",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 158.71,
-   "end": 170.82
+   "end": 170.82,
+   "description": "The camera pulls back from a close view through the side of an empty neonatal incubator to show the incubator in a neonatal unit, with patient monitors and infusion pumps mounted beside it.",
+   "service_lines": [
+    "paediatrics",
+    "critical care",
+    "maternity"
+   ],
+   "kit": [
+    "neonatal incubator",
+    "patient monitor",
+    "infusion pump"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Giraffe",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 170.82,
-   "end": 182.92
+   "end": 182.92,
+   "description": "An empty delivery room at The Portland Hospital with a made-up birthing bed, a newborn resuscitation unit, a baby cot and monitors beside a curtained window. The camera moves slowly through the room toward the bed and cot.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "newborn resuscitation unit",
+    "baby cot",
+    "fetal monitor",
+    "wall-mounted suction unit",
+    "bedside cabinet",
+    "armchair",
+    "stool"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 182.92,
-   "end": 186.4
+   "end": 186.4,
+   "description": "An empty patient room at night with a made hospital bed, bedside cabinet and infusion pump on a drip stand, while a light projector on the bedside table casts blue and green stars across the ceiling. The room is dimly lit and calm, ready for a patient.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "infusion pump on drip stand",
+    "star light projector",
+    "wall-mounted monitor",
+    "bedside cabinet",
+    "wardrobe",
+    "sink"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 186.4,
-   "end": 195.88
+   "end": 195.88,
+   "description": "Clip opens on an empty private patient room with a freestanding bath, hospital bed and monitors, then cuts to a low-angle exterior of The Portland Hospital, moving along the stone facade and its carved name sign above reflective windows.",
+   "service_lines": [
+    "maternity",
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "freestanding bath",
+    "overbed table"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE PORTLAND HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 195.88,
-   "end": 205.21
+   "end": 205.21,
+   "description": "Camera moves from a cupboard stocked with Libero nappies and cotton wool, past a bedside wall of medical gas outlets, suction equipment and a monitor decorated with butterfly decals, to an empty neonatal room with incubators and baby cots at The Portland Hospital.",
+   "service_lines": [
+    "maternity",
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "patient monitor",
+    "suction regulator",
+    "medical gas outlets",
+    "incubator",
+    "baby cot",
+    "nappies",
+    "cotton wool"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Libero; S1",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 205.21,
-   "end": 214.55
+   "end": 214.55,
+   "description": "Wall sign at the entrance to the Neonatal Unit at The Portland Hospital, reading 'Welcome to the Neonatal Unit' with butterfly and heart decorations, as the camera moves back to reveal the 'nurse in charge today' name plate below.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "wall signage"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Welcome to the Neonatal Unit. The Nurse in charge today is: Claudia Silvera-Thompson (partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 214.55,
-   "end": 223.88
+   "end": 223.88,
+   "description": "Gimbal move from a close-up of a hot air balloon mural with a lion and an elephant to a wide view of an empty nursery room with baby cots, a baby changing and bathing station, armchairs and a coffee table.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "baby cots",
+    "baby changing and bathing station",
+    "armchairs",
+    "coffee table"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 223.88,
-   "end": 234.14
+   "end": 234.14,
+   "description": "The shot opens on a clinical bay with patient monitors, an anaesthetic machine and infusion pumps beside shelves of supplies. It then moves through a doorway into a suite lounge with a sofa, armchairs, a coffee table with flowers and a drinks station.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "patient monitor",
+    "anaesthetic machine",
+    "infusion pumps",
+    "medical supply shelving",
+    "sofa",
+    "coffee machine"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 234.14,
-   "end": 244.4
+   "end": 244.4,
+   "description": "The camera moves through an open doorway into an empty private patient room with a made hospital bed, an overbed table holding a folder, two armchairs and a desk by curtained windows.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "armchairs",
+    "desk",
+    "bedside lamp",
+    "wall sink"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 244.4,
-   "end": 254.66
+   "end": 254.66,
+   "description": "A nurse in a blue uniform, plastic apron and gloves tends to a newborn baby in an open cot in a neonatal nursery at The Portland Hospital, with incubators and hot air balloon wall murals behind her.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "baby cot",
+    "neonatal incubator",
+    "armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 254.66,
-   "end": 264.92
+   "end": 264.92,
+   "description": "A receptionist in a dark blazer and lanyard types at a computer on the front desk while a colleague works at another screen behind her, with large windows and a wooden slatted wall in the background.",
+   "service_lines": [],
+   "kit": [
+    "computer monitors",
+    "keyboard and mouse",
+    "desk phones"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 264.92,
-   "end": 274.63
+   "end": 274.63,
+   "description": "Close-up of a newborn baby's feet and legs on a white sheet, with a Hugs infant security tag strapped around one ankle as the baby kicks.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "infant security tag (Hugs)"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Hugs 664689",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 274.63,
-   "end": 284.33
+   "end": 284.33,
+   "description": "Close-up of a newborn baby's feet with a Hugs infant security tag and a soft band on the ankles. The shot then softens and dissolves into a wide view of an empty private patient room with a hospital bed, overbed table, window and bedside cabinet.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "Hugs infant security tag",
+    "hospital bed",
+    "overbed table",
+    "bedside cabinet",
+    "wall-mounted TV"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "Hugs; 4689",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 284.33,
-   "end": 294.04
+   "end": 294.04,
+   "description": "An empty private patient room at The Portland Hospital with a made hospital bed, folded towels, an overbed table and a clear newborn cot by the window. The camera moves forward from the doorway towards the bed.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "newborn cot",
+    "overbed table",
+    "bedside cabinet",
+    "coffee machine",
+    "wall clock"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 294.04,
-   "end": 296.84
+   "end": 296.84,
+   "description": "A birthing pool lit with purple mood lighting in a delivery room at The Portland Hospital, with wall-mounted taps behind it and birthing balls in the background. The room is empty and dimly lit.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "birthing pool",
+    "birthing ball",
+    "wall-mounted taps"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 296.84,
-   "end": 301.03
+   "end": 301.03,
+   "description": "An empty private patient room at The Portland Hospital with a made hospital bed, an overbed table, a clear newborn cot, a desk with a wall-mounted TV, and a large curtained window. The camera moves slowly around the room from the desk side towards the bed and window.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "newborn cot",
+    "overbed table",
+    "wall-mounted TV",
+    "bedside lamp",
+    "desk and chair",
+    "wall clock"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

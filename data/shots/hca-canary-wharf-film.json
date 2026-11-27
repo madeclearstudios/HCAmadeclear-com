@@ -1,0 +1,3742 @@
+{
+ "id": "hca-canary-wharf-film",
+ "title": "HCA - Canary Wharf Film",
+ "file": "HCA - Canary Wharf Film.mp4",
+ "facility": "HCA UK Canary Wharf",
+ "duration": 1854.32,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 11.86,
+   "description": "A laboratory scientist in a white lab coat works at a Leica RM2235 microtome in a histopathology lab. She writes notes, then reaches across the bench to handle tissue cassettes and slides.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome (Leica RM2235)",
+    "tissue cassettes",
+    "slide rack",
+    "lab bench equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "RM2235",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 11.86,
+   "end": 23.72,
+   "description": "A laboratory scientist in a white lab coat cuts tissue sections on a Leica RM2235 microtome and handles the sections in a pathology lab at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "slide racks"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "RM2235",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 23.72,
+   "end": 35.58,
+   "description": "A lab scientist in a white coat cuts tissue sections on a Leica RM2235 rotary microtome in the histopathology lab, then labels a glass slide with a pencil.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "glass slides",
+    "slide rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "ICA RM2235",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 35.58,
+   "end": 47.44,
+   "description": "A lab worker in a white coat sits at a Leica rotary microtome cutting tissue sections in a histopathology lab, with a rack of slides on top of the machine.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "slide rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "LEICA RM2235",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 47.44,
+   "end": 59.3,
+   "description": "A lab staff member in a white coat cuts tissue sections on a microtome in the pathology lab at HCA UK Canary Wharf, then the camera moves to a water bath where the thin wax sections float before being mounted onto slides.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath",
+    "slide rack",
+    "lab analyser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "LEICA RM2235",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 59.3,
+   "end": 71.16,
+   "description": "A lab worker in a white coat uses fine tools to float thin tissue sections on a water bath and pick them up onto a glass slide in the histopathology lab. Hands and the water bath only, no faces shown.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "tissue flotation water bath",
+    "glass microscope slide",
+    "forceps"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 71.16,
+   "end": 83.02,
+   "description": "A laboratory scientist in a white coat labels microscope slides with a pencil at a Leica rotary microtome in the histopathology lab at HCA UK Canary Wharf. A rack of slides sits on the bench behind her.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "microscope slides",
+    "slide rack"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "LEICA RM2235",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 83.02,
+   "end": 94.88,
+   "description": "A laboratory staff member cuts tissue samples on a microtome in the histopathology lab at HCA UK Canary Wharf, with a rack of pink specimen cassettes and a tissue water bath alongside. The camera moves past her shoulder to show her hands working the microtome.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath",
+    "specimen cassettes",
+    "magnifier lamp"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Thermo",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 94.88,
+   "end": 106.74,
+   "description": "A laboratory scientist in a white coat floats tissue sections on a heated water bath and picks them up on a glass slide, then turns to a Thermo microtome to cut more sections in the histology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath",
+    "glass slides",
+    "tissue cassettes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Thermo",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 106.74,
+   "end": 118.6,
+   "description": "Over-the-shoulder view of a lab scientist in a white coat cutting tissue sections on a microtome, then picking up a glass slide to collect a sample. A tissue flotation water bath sits beside the microtome in the histology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath",
+    "glass slide"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 118.6,
+   "end": 130.46,
+   "description": "A laboratory worker in a white coat, seen from behind, uses a rotary microtome to cut thin sections from a tissue block in a histology lab, with a tissue flotation water bath beside them.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 130.46,
+   "end": 142.32,
+   "description": "Over-the-shoulder view of a lab worker in a white coat using a microtome to cut tissue sections, with a tissue flotation water bath beside it, in a histopathology lab at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 142.32,
+   "end": 154.18,
+   "description": "A lab worker in a white coat sections tissue on a microtome and uses a brush to transfer the sections to a Thermo tissue flotation water bath in the histopathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microtome",
+    "tissue flotation water bath"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "Thermo; 50.9",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 154.18,
+   "end": 166.04,
+   "description": "A lab technician in a white coat lifts thin tissue sections from a heated flotation water bath onto a glass slide, then turns to a microtome beside it to cut the next section. This is histology slide preparation in a pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "tissue flotation water bath",
+    "microtome",
+    "glass slide"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "Thermo; water bath display reads 50.9",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 166.04,
+   "end": 177.85,
+   "description": "An Olympus microscope stands on a laboratory bench, with the pathology lab, a computer monitor and benches out of focus behind it. No people are in the shot.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 177.85,
+   "end": 189.65,
+   "description": "Close-up of an Olympus microscope in a lab at HCA UK Canary Wharf. A staff member in a white lab coat reaches in and places or adjusts a slide on the stage.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 189.65,
+   "end": 201.46,
+   "description": "Close-up of an Olympus microscope in a lab as a gloved staff member in a white coat places a glass slide on the stage and moves out of frame.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 201.46,
+   "end": 213.27,
+   "description": "A lab scientist in a white coat and face mask sits down at a microscope and adjusts the eyepieces in a hospital laboratory.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 213.27,
+   "end": 225.07,
+   "description": "A lab worker in a face mask and white coat looks into a microscope and adjusts the focus by hand, then continues viewing a sample in a pathology lab at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 225.07,
+   "end": 236.88,
+   "description": "A lab staff member in a white coat and face mask looks into a microscope, adjusting the eyepiece by hand before continuing to examine a sample, shown in side profile in a laboratory at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 236.88,
+   "end": 248.68,
+   "description": "A lab scientist in a white coat and face mask works at a microscope in a pathology laboratory at HCA UK Canary Wharf. The shot starts out of focus and pulls focus to show the scientist and the lab benches clearly.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor",
+    "lab benches"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 248.68,
+   "end": 260.49,
+   "description": "A lab scientist in a white coat and face mask looks through a microscope, then sits back to check a computer screen in a pathology lab at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor",
+    "lab bench"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 260.49,
+   "end": 272.3,
+   "description": "A lab scientist in a white coat and face mask works at a microscope in the pathology lab at HCA UK Canary Wharf, as the camera moves from a wide view of the lab to a close over-the-shoulder view of the microscope.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 272.3,
+   "end": 284.1,
+   "description": "A lab staff member in a white coat and face mask looks into an Olympus microscope, then a close-up shows their hand adjusting the stage focus knobs in the pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 284.1,
+   "end": 295.91,
+   "description": "A lab worker in a white coat uses an Olympus microscope, then the clip cuts to blood sample tubes in racks inside an automated lab analyser behind glass at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "lab analyser",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "OLYMPUS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 295.91,
+   "end": 307.72,
+   "description": "A robotic gripper inside an automated laboratory analyser picks up a rack of yellow-capped blood sample tubes, lifts it and sets it back down on the deck, filmed through the machine's glass cover.",
+   "service_lines": [
+    "pathology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "lab analyser",
+    "robotic sample handling arm",
+    "blood sample tubes",
+    "sample tube racks"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 307.72,
+   "end": 319.52,
+   "description": "View through the glass of an automated lab analyser as a robotic gripper arm moves over racks of blood sample tubes with yellow and purple caps. A staff member is faintly visible behind the machine.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "sample tube racks"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 319.52,
+   "end": 331.33,
+   "description": "Blood sample tubes sit in racks inside an automated laboratory analyser while a robotic gripper arm waits above. The shot is behind glass and focuses on the sample-handling deck.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "robotic sample gripper"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 331.33,
+   "end": 343.13,
+   "description": "Blood sample tubes in racks inside an automated laboratory analyser, filmed through the machine's glass panel as a robotic gripper arm moves across to pick up tubes.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "robotic sample handler"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 343.13,
+   "end": 354.94,
+   "description": "An automated laboratory sample handler at HCA UK Canary Wharf, filmed through the glass housing, with a robotic gripper moving across the deck to pick up racks of blood sample tubes with yellow and purple caps. A staff member is blurred in the background.",
+   "service_lines": [
+    "pathology",
+    "haematology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 354.94,
+   "end": 366.75,
+   "description": "An automated laboratory analyser seen through its glass cover, with a rack of capped sample tubes and a robotic pipetting arm over the deck. The camera moves across the machine to show the arm and cabling inside the pathology lab.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "sample tubes",
+    "robotic pipetting arm"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 366.75,
+   "end": 378.55,
+   "description": "A lab scientist in a white coat, face mask, glasses and purple gloves uses a touchscreen mounted on an automated analyser in the pathology lab. More analysers line the room behind her.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "touchscreen monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 378.55,
+   "end": 390.36,
+   "description": "A lab scientist in a mask, face shield and gloves operates the touchscreen of an automated lab analyser. The camera then moves to show blood sample tubes in a rack being handled by the analyser's robotic arm behind a glass panel.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "lab analyser",
+    "blood sample tubes",
+    "touchscreen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 390.36,
+   "end": 401.8,
+   "description": "Over-the-shoulder shot of a staff member, seen from behind, reviewing digital pathology slides of stained tissue on a computer monitor in a lab at HCA UK Canary Wharf. The image on screen changes as he moves through different areas of the tissue sample.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor showing digital pathology slide"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 401.8,
+   "end": 413.23,
+   "description": "A clinician in a white coat, seen from behind, reviews a digital pathology tissue slide image on a computer monitor in a lab at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor",
+    "desktop computer"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 413.23,
+   "end": 424.67,
+   "description": "A grey-haired staff member in a white shirt, seen from behind, works at a desktop computer, moving from a spreadsheet-style list to a web page and then to a greyscale image that may be a digital pathology slide or scan. Office-based clinical or diagnostic review work at HCA UK Canary Wharf.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "desktop computer",
+    "computer monitor",
+    "keyboard",
+    "mouse"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 424.67,
+   "end": 436.1,
+   "description": "A clinician viewed from behind sits at a desk reviewing a digital pathology slide of tissue on a computer monitor, using the mouse to navigate the image.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor",
+    "keyboard",
+    "computer tower"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 436.1,
+   "end": 447.53,
+   "description": "A lab workstation with a microscope connected to a computer monitor. The camera moves past a member of staff in the foreground to the screen, which shows a magnified tissue sample.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "microscope camera",
+    "computer monitor",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 447.53,
+   "end": 458.97,
+   "description": "A Dell computer monitor in a lab displays a digital pathology slide of stained tissue, with the view moving across the glandular structures on screen. A slide overview thumbnail sits in the bottom corner.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "computer monitor",
+    "digital pathology viewer"
+   ],
+   "people": [],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 458.97,
+   "end": 470.4,
+   "description": "Close-up profile of a grey-haired man in glasses and a white shirt in a laboratory, with a microscope and computer monitor out of focus behind him. The shot brightens from dark to normal exposure, like a fade-in.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 470.4,
+   "end": 481.84,
+   "description": "Close-up profile of a grey-haired man in glasses and a white shirt talking in a laboratory, with a microscope and computer monitor out of focus behind him.",
+   "service_lines": [
+    "pathology"
+   ],
+   "kit": [
+    "microscope",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 481.84,
+   "end": 493.49,
+   "description": "Low-angle exterior of The Harborne Hospital with the hospital name on a sign along the curved glass-and-panel frontage, a young tree and railings in the foreground, under a clear sky. Note: the signage reads The Harborne Hospital, not HCA UK Canary Wharf, so check the facility tag.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 493.49,
+   "end": 505.14,
+   "description": "Exterior of The Harborne Hospital, a white multi-storey building with a glass tower, filmed from behind a foreground bush as a red car drives past the entrance. The signage shows The Harborne Hospital, not HCA UK Canary Wharf, so check this shot before using it in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 505.14,
+   "end": 516.78,
+   "description": "Low-angle exterior of The Harborne Hospital building, with the name on the signage at the entrance. The camera moves past roadside foliage in the foreground, and a dark car drives up to the entrance at the end. Note: the signage shows The Harborne Hospital, not HCA UK Canary Wharf, so check that this shot belongs in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "car"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 516.78,
+   "end": 528.43,
+   "description": "Low-angle exterior of The Harborne Hospital, a multi-storey building with a white and glass facade, with trees in the foreground as the camera moves past. Note: the signage reads The Harborne Hospital, not HCA UK Canary Wharf, so this shot may be misfiled in the Canary Wharf film and should be checked.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 528.43,
+   "end": 540.08,
+   "description": "A clinician in blue scrubs and a surgical cap adjusts settings on a Philips ultrasound touchscreen in an operating theatre at HCA UK Canary Wharf, with an ultrasound probe in hand and theatre lights overhead.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "operating theatre lights",
+    "theatre camera"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 540.08,
+   "end": 551.73,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 551.73,
+   "end": 563.38,
+   "description": "A clinician in blue scrubs and a theatre cap looks towards a screen, then the shot moves in on his hand using the trackball and knobs of an ultrasound console in a clinical area at HCA UK Canary Wharf.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 563.38,
+   "end": 575.02,
+   "description": "A clinician in blue scrubs and a surgical cap picks up an ultrasound probe and leans over to perform an ultrasound-guided procedure in a theatre at HCA UK Canary Wharf.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "patient monitor",
+    "ceiling equipment pendant"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 575.02,
+   "end": 586.67,
+   "description": "A surgeon in blue scrubs and a surgical cap talks while holding a white handheld device in an operating theatre at HCA UK Canary Wharf. The camera moves around him as he leans forward and looks down at something out of frame.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "ceiling-mounted monitors",
+    "equipment pendant",
+    "handheld device (white)"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 586.67,
+   "end": 598.32,
+   "description": "A clinician in scrubs and a theatre cap picks up a probe from a Philips ultrasound machine and begins scanning, with the ultrasound image appearing on screen. An X-ray C-arm is visible in the background of the procedure room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "cardiology"
+   ],
+   "kit": [
+    "ultrasound",
+    "cath lab"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 598.32,
+   "end": 609.97,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 609.97,
+   "end": 621.62,
+   "description": "Over-the-shoulder shot of a clinician in a scrub cap watching a Philips ultrasound screen showing a live echocardiogram image of the heart in an operating theatre at HCA UK Canary Wharf.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "operating theatre lights",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 621.62,
+   "end": 633.26,
+   "description": "Clinicians in scrub caps watch a Philips ultrasound monitor showing a live heart scan (echocardiogram) in an operating theatre, with theatre lights overhead and a colleague in scrubs in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "operating theatre lights",
+    "theatre monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 633.26,
+   "end": 644.91,
+   "description": "A smiling surgeon in blue scrubs and a surgical cap is revealed as the camera moves past ceiling-mounted theatre equipment in an operating theatre at HCA UK Canary Wharf. He chats with a colleague just out of frame.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "ceiling-mounted monitor",
+    "ceiling equipment pendant"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 644.91,
+   "end": 656.56,
+   "description": "A clinician in blue scrubs and a surgical cap holds an ultrasound probe in an operating theatre, looking across the room, filmed from a low angle with a monitor and theatre equipment behind him.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "general surgery"
+   ],
+   "kit": [
+    "ultrasound",
+    "patient monitor",
+    "operating theatre lights",
+    "ceiling-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 656.56,
+   "end": 668.21,
+   "description": "A clinician points at an echocardiogram (heart ultrasound) image on a Philips ultrasound monitor in a theatre or procedure room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "operating theatre lights",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 668.21,
+   "end": 679.86,
+   "description": "A clinician in a surgical cap watches a heart ultrasound (echocardiogram) on a Philips ultrasound monitor in an operating theatre, then adjusts the controls on the machine's console.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "operating theatre lights"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 679.86,
+   "end": 691.5,
+   "description": "Close-up of a Philips ultrasound machine running an adult cardiac echo. The camera moves from the touchscreen control panel to the monitor showing a moving image of the heart, and a clinician points to the image on the screen.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "PHILIPS; Adult Card",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 691.5,
+   "end": 703.15,
+   "description": "A Philips ultrasound screen shows a live echocardiogram image of the heart, then the camera moves past two clinicians in scrubs and surgical caps standing beside a large wall-mounted monitor with the same scan in a procedure room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "ceiling-mounted display monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 703.15,
+   "end": 714.8,
+   "description": "A man in navy scrubs and a surgical cap stands in an operating theatre holding a white handheld item, turning to look towards a female colleague in scrubs who speaks while holding a phone. Ceiling-mounted equipment pendants and stacked theatre equipment are visible behind them.",
+   "service_lines": [],
+   "kit": [
+    "ceiling equipment pendant",
+    "theatre equipment stack",
+    "wall-mounted monitor",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 714.8,
+   "end": 726.45,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 726.45,
+   "end": 738.1,
+   "description": "A surgeon in blue scrubs and a surgical cap talks to camera in an operating theatre at HCA UK Canary Wharf, gesturing with a small white object in his hand, with ceiling-mounted monitors and theatre equipment behind him.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "ceiling-mounted monitors",
+    "equipment boom"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 738.1,
+   "end": 749.74,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 749.74,
+   "end": 761.39,
+   "description": "Empty MRI scanning room with the patient table extended in front of the scanner and a head coil resting on it. The camera moves back through the doorway to reveal the room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil",
+    "MRI coil storage trolley",
+    "ceiling-mounted rail"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 761.39,
+   "end": 773.04,
+   "description": "An empty MRI scanning room at HCA UK Canary Wharf, with the MRI scanner and patient table ready, a head coil resting on the table, and a storage trolley to one side. The camera moves slowly across the room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil",
+    "storage trolley",
+    "contrast injector",
+    "sharps bin"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 773.04,
+   "end": 784.69,
+   "description": "An empty MRI scanning room at HCA UK Canary Wharf, with the MRI scanner and patient table prepared with a headrest and paper roll. A trolley of supplies stands against the wall as the camera moves slowly across the room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI patient table",
+    "supply trolley",
+    "linen trolley"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 784.69,
+   "end": 796.34,
+   "description": "Empty MRI scanning room at HCA UK Canary Wharf with the scanner and patient table, followed by a move to the wooden slatted wall with the 'Canary Wharf Outpatients' sign and HCA Healthcare UK logo.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI patient table",
+    "storage trolley",
+    "clinical supply trolley"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Canary Wharf Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 796.34,
+   "end": 807.98,
+   "description": "Gimbal move across a wooden slatted wall with 'Canary Wharf Outpatients' lettering, with a reception desk and computer monitor softly visible in the background.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "reception desk"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Canary Wharf Outpatients",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 807.98,
+   "end": 819.63,
+   "description": "A camera moves past a slatted wood feature wall with 'Canary Wharf Outpatients' lettering at HCA UK Canary Wharf, revealing the reception desk and an HCA Healthcare UK wall sign. No people are in shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Canary Wharf Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 819.63,
+   "end": 831.28,
+   "description": "Camera moves past a wooden slatted wall with 'Canary Wharf Outpatients' signage and an HCA Healthcare UK logo at the reception area of HCA UK Canary Wharf. A receptionist works at the desk behind it.",
+   "service_lines": [],
+   "kit": [
+    "reception desk",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Canary Wharf Outpatients; HCA Healthcare UK; Dell",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 831.28,
+   "end": 843.17,
+   "description": "A radiographer in navy scrubs walks a patient in a hospital gown across a breast imaging room at HCA UK Canary Wharf to a Hologic Dimensions mammography machine, then positions her beside it for her scan.",
+   "service_lines": [
+    "breast care",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mammography"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Dimensions, HOLOGIC",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 843.17,
+   "end": 855.07,
+   "description": "A woman in a hospital gown stands beside a mammography machine and smiles while a radiographer in blue scrubs prepares the equipment behind her in a breast imaging room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "breast care",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mammography"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 855.07,
+   "end": 866.96,
+   "description": "A radiographer in navy scrubs and gloves guides a woman in a hospital gown into position at a mammography machine in an imaging room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "breast care",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mammography"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "3Dimensions",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 866.96,
+   "end": 878.85,
+   "description": "A woman in a patient gown stands beside a 3Dimensions mammography machine in a breast imaging room. A nurse then walks with a male patient in a gown past a waiting area and down a hospital corridor at HCA UK Canary Wharf.",
+   "service_lines": [
+    "breast care",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mammography",
+    "waiting area chairs",
+    "corridor handrail"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "3Dimensions",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 878.85,
+   "end": 890.75,
+   "description": "A nurse in red scrubs walks a male patient in a hospital gown down a corridor towards the MRI area, explaining what will happen as they go. The shot ends on the patient as another member of staff points towards the scanner room door.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "hand sanitiser dispenser",
+    "MR safety signage"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "MR Co... (partial MR safety sign with no-phone symbol)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 890.75,
+   "end": 902.64,
+   "description": "A staff member in a maroon tunic walks a patient in a hospital gown along a corridor, past a door with MRI safety warning signs, into an MRI scanner room. Filmed from behind as they walk.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "storage trolley",
+    "medical chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 902.64,
+   "end": 914.53,
+   "description": "A radiographer in a maroon tunic talks with a male patient in a hospital gown who is sitting on the MRI scanner table, seen through the doorway of the scanner room. She walks over to the supply cabinets and then returns to speak with him before his scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "medical supply trolley",
+    "storage cabinets"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 914.53,
+   "end": 926.43,
+   "description": "A radiographer in maroon scrubs talks with a male patient in a gown sitting on the MRI scanner table, reaching out to reassure him before his scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI coil",
+    "contrast injector",
+    "equipment trolley"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 926.43,
+   "end": 938.32,
+   "description": "A radiographer talks with a male patient in a hospital gown and shoe covers as he sits on the MRI scanner table before his scan in the MRI suite at HCA UK Canary Wharf.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI contrast injector",
+    "MRI coils",
+    "equipment trolley",
+    "storage cabinet"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 938.32,
+   "end": 950.21,
+   "description": "A radiographer in a maroon tunic talks with a male patient in a grey gown and blue shoe covers as he sits on the MRI scanner table before his scan at HCA UK Canary Wharf. Footage is ungraded (flat/log).",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "contrast injector",
+    "patient trolley",
+    "storage cabinets"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 950.21,
+   "end": 962.11,
+   "description": "A radiographer talks with a patient in a gown seated on the table of an MRI scanner. The camera then moves into the control room, where the scanner, staff and patient are seen through the observation window beyond the monitors and keyboard.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI control room monitors",
+    "keyboard",
+    "MRI coils",
+    "contrast injector"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "WRIST M (partial sign in control room)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 962.11,
+   "end": 974.0,
+   "description": "View from the MRI control room through the observation window, showing a staff member talking with a patient seated on the MRI scanner table, with control monitors in the foreground.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer monitors",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 974.0,
+   "end": 985.89,
+   "description": "View from the MRI control room at HCA UK Canary Wharf, looking through the observation window as a radiographer talks with a patient seated on the MRI scanner table. Control desk monitors and keyboards are in the foreground.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "computer workstation",
+    "control room monitors"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 985.89,
+   "end": 997.79,
+   "description": "View from the MRI control room at HCA UK Canary Wharf: a radiographer sits at the scanner console while, through the observation window, a staff member talks with a man standing beside the MRI scanner. The camera tracks right from the console towards the operator.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI control console",
+    "computer monitors",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "WRIST",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 997.79,
+   "end": 1009.68,
+   "description": "A radiographer in blue scrubs works at the MRI control console, with scan images on the monitors, while through the observation window a staff member talks with a patient beside the MRI scanner.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI control console",
+    "computer monitors",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1009.68,
+   "end": 1021.57,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1021.57,
+   "end": 1033.47,
+   "description": "A doctor wearing blue gloves listens to a seated male patient's chest with a stethoscope during an examination in a consulting room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "stethoscope",
+    "wall-mounted diagnostic set",
+    "sharps bin",
+    "medical trolley"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1033.47,
+   "end": 1045.36,
+   "description": "A doctor in blue gloves listens to a seated male patient's chest with a stethoscope during an examination in a consulting room at HCA UK Canary Wharf. A wall-mounted diagnostic set and glove dispenser are visible behind them.",
+   "service_lines": [],
+   "kit": [
+    "stethoscope",
+    "wall-mounted diagnostic set (otoscope/ophthalmoscope)",
+    "examination couch",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1045.36,
+   "end": 1057.25,
+   "description": "A clinician in a shirt and tie, wearing blue gloves, listens to a seated male patient's chest with a stethoscope placed under his shirt in a consulting room. The camera moves in from the patient's face to a close view of the stethoscope on his chest.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "stethoscope",
+    "wall-mounted diagnostic set (otoscope / ophthalmoscope)",
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1057.25,
+   "end": 1069.15,
+   "description": "A doctor in blue gloves listens to a male patient's chest with a stethoscope, then examines the glands in his neck before turning to the worktop while the patient smiles in a consulting room at HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "stethoscope",
+    "wall-mounted diagnostic set",
+    "examination couch",
+    "sharps bin",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "105",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1069.15,
+   "end": 1081.04,
+   "description": "A consultant wearing blue gloves examines the neck of a seated male patient, feeling the glands under his jaw, in a consulting room at HCA UK Canary Wharf. The patient smiles and chats during the examination.",
+   "service_lines": [
+    "ENT"
+   ],
+   "kit": [
+    "wall-mounted diagnostic set (otoscope / ophthalmoscope)",
+    "examination gloves",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1081.04,
+   "end": 1092.93,
+   "description": "A consultant in a white shirt, tie and blue gloves talks with a male patient seated on an examination couch in a consulting room at HCA UK Canary Wharf. The patient points to his ear while describing his symptoms, and the consultant smiles as they talk.",
+   "service_lines": [
+    "ENT"
+   ],
+   "kit": [
+    "wall-mounted diagnostic set (otoscope/ophthalmoscope)",
+    "examination couch",
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1092.93,
+   "end": 1104.83,
+   "description": "A doctor in a shirt, tie and blue gloves chats with a smiling male patient seated on an examination couch in a consulting room at HCA UK Canary Wharf. Both are relaxed and laughing during the consultation.",
+   "service_lines": [],
+   "kit": [
+    "wall-mounted diagnostic set (otoscope / ophthalmoscope)",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1104.83,
+   "end": 1116.72,
+   "description": "A consultant wearing blue gloves examines a seated male patient's jaw and neck with both hands in a consulting room, with a wall-mounted diagnostic set behind them. The consultant smiles and talks with the patient during the examination.",
+   "service_lines": [
+    "ENT"
+   ],
+   "kit": [
+    "wall-mounted diagnostic set (otoscope / ophthalmoscope)",
+    "examination gloves",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1116.72,
+   "end": 1128.61,
+   "description": "A consultant wearing blue gloves examines the neck of a seated male patient in a consulting room, palpating under the jaw and along the throat while the patient smiles. A wall-mounted diagnostic set is visible behind them.",
+   "service_lines": [
+    "ENT"
+   ],
+   "kit": [
+    "wall-mounted diagnostic set (otoscope / ophthalmoscope)",
+    "wall-mounted screen",
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1128.61,
+   "end": 1140.51,
+   "description": "A doctor in a white shirt and tie, wearing blue gloves, talks with a smiling male patient seated on an examination couch in a consulting room at HCA UK Canary Wharf. The camera moves around behind the doctor's shoulder towards the patient.",
+   "service_lines": [],
+   "kit": [
+    "examination couch",
+    "wall-mounted diagnostic set",
+    "medical supply trolley",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1140.51,
+   "end": 1152.4,
+   "description": "A doctor in a shirt and tie, wearing blue gloves, stands and chats with a smiling seated male patient in a consulting room at HCA UK Canary Wharf. An examination couch, a wall-mounted diagnostic set and a trolley with a yellow sharps bin are behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "examination couch",
+    "wall-mounted diagnostic set",
+    "sharps bin trolley",
+    "medical supplies tray"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1152.4,
+   "end": 1164.31,
+   "description": "Drone shot that starts low on a granite ledge of a Thames riverside walkway beside a glass-roofed gazebo, with pedestrians passing, then rises to reveal the River Thames, its bridges and the City of London skyline under a blue sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 4
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1164.31,
+   "end": 1176.21,
+   "description": "Aerial drone shot that starts over the River Thames by London Bridge and moves towards The Shard, ending on the rooftop signage of London Bridge Hospital on a clear day. The signage shows London Bridge Hospital, not the Canary Wharf facility.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "London Bridge Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1176.21,
+   "end": 1188.12,
+   "description": "Drone shot that starts on The Shard and the London skyline, then moves down to the riverside front of London Bridge Hospital on the Thames, with its name visible on the building. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1188.12,
+   "end": 1200.03,
+   "description": "Aerial drone shot of the London Bridge Hospital riverside building, with its name on the facade, above the Thames at low tide and the riverside walkway. Signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check the facility tag for the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1200.03,
+   "end": 1211.93,
+   "description": "Drone shot over the brown water of the River Thames, moving across the river towards a riverside embankment with a stony foreshore and office buildings above it.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1211.93,
+   "end": 1223.84,
+   "description": "Exterior of London Bridge Hospital on the south bank of the Thames, seen from across the river, with The Shard rising behind it under a blue sky. Note: signage shows London Bridge Hospital, not HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1223.84,
+   "end": 1235.75,
+   "description": "Exterior of London Bridge Hospital on the Thames riverside, with the Shard and surrounding office buildings behind under a blue sky. The camera tilts up from the hospital frontage toward the Shard. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check before using this in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1235.75,
+   "end": 1247.66,
+   "description": "Drone shot moving past The Shard and neighbouring glass office towers above the London Bridge station roof on a clear day with scattered clouds, with the wider London skyline and a red construction crane behind. The location is London Bridge, not Canary Wharf, and no HCA building or signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1247.66,
+   "end": 1259.56,
+   "description": "Aerial drone shot of The Shard and surrounding towers at London Bridge against a blue sky with scattered clouds, with the wider London skyline stretching to the horizon. The camera drifts slowly past the building.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1259.56,
+   "end": 1271.47,
+   "description": "Aerial drone shot of The Shard against a blue sky with scattered clouds, with the London skyline stretching to the horizon. A general London establishing shot; no HCA building or signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1271.47,
+   "end": 1283.38,
+   "description": "Aerial drone shot of The Shard against a blue sky with scattered clouds, rising up the glass tower towards its spire as the London skyline drops out of frame. This is a general London establishing shot, not the HCA UK Canary Wharf facility.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1283.38,
+   "end": 1295.28,
+   "description": "Aerial drone shot of The Shard in London against a blue sky with scattered white clouds, the camera drifting slowly past the top of the tower with the city skyline low on the horizon.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1295.28,
+   "end": 1307.19,
+   "description": "Aerial drone shot of The Shard in London against a blue sky with scattered clouds, moving slowly past the tower with the city skyline low on the horizon. The shot shows the London Bridge area, not Canary Wharf, and no HCA building or signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1307.19,
+   "end": 1319.1,
+   "description": "Drone shot of The Shard against a blue sky with scattered clouds and a red crane, over the London skyline. The camera descends slowly as nearby office rooftops come into frame.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1319.1,
+   "end": 1331.0,
+   "description": "Exterior of London Bridge Hospital on the Thames riverside with the Shard rising behind it under a blue sky, filmed from the river as the camera moves slowly across the building frontage. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check this clip's placement in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1331.0,
+   "end": 1342.91,
+   "description": "Exterior of London Bridge Hospital on the riverside with its name across the top of the building and the Shard rising behind it against a blue sky. The camera moves slowly sideways along the frontage; note that the signage shows London Bridge Hospital, not HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1342.91,
+   "end": 1354.82,
+   "description": "Aerial exterior of The Shard against a blue sky, with the London Bridge Hospital rooftop sign at the bottom of the frame as the camera rises and the sign drops out of view. The signage shows London Bridge Hospital rather than HCA UK Canary Wharf, so this shot may be filed under the wrong facility.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "construction crane"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1354.82,
+   "end": 1366.72,
+   "description": "Drone shot rising alongside The Shard skyscraper against a blue sky with scattered clouds, with the London skyline and a red construction crane below. No HCA building or signage is in shot, and the location is London Bridge rather than Canary Wharf.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1366.72,
+   "end": 1378.63,
+   "description": "Aerial drone shot of The Shard skyscraper against a blue sky with scattered clouds, with the London skyline along the horizon as the camera moves slowly past the tower.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1378.63,
+   "end": 1390.54,
+   "description": "Aerial drone shot of the upper section of The Shard skyscraper in London against a blue sky with scattered clouds, with the city skyline along the horizon. The camera drifts slightly past the tower.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1390.54,
+   "end": 1402.45,
+   "description": "Aerial drone shot beside the Shard skyscraper in London, with blue sky, scattered clouds and the city skyline stretching to the horizon. The camera drifts slowly past the glass facade of the tower.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1402.45,
+   "end": 1414.35,
+   "description": "Drone shot of The Shard skyscraper against a blue sky with scattered clouds, with the wider London skyline and a red crane on the horizon. The camera drifts sideways past the tower, and nearby rooftops come into view.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1414.35,
+   "end": 1426.26,
+   "description": "Exterior of London Bridge Hospital, with its signage along the roofline and the Shard rising behind it against a blue sky with light clouds. Signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check before using in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1426.26,
+   "end": 1438.17,
+   "description": "Exterior of London Bridge Hospital with its rooftop signage, the Shard and surrounding office buildings behind it under a blue sky with scattered clouds. Signage shows London Bridge Hospital, not the HCA UK Canary Wharf facility this film is tagged to.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1438.17,
+   "end": 1450.07,
+   "description": "Exterior of London Bridge Hospital seen from the River Thames, with The Shard rising behind it and the river foreshore in the foreground as the camera moves along the riverfront. Signage shows London Bridge Hospital rather than HCA UK Canary Wharf, the facility listed for this film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1450.07,
+   "end": 1461.98,
+   "description": "Exterior of London Bridge Hospital seen from across the River Thames on a sunny day, with The Shard rising behind it and the riverbank in the foreground. Note: signage shows London Bridge Hospital, not HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1461.98,
+   "end": 1473.89,
+   "description": "Exterior of London Bridge Hospital on the south bank of the River Thames, filmed from across the water, with The Shard and neighbouring office buildings behind under a blue sky. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check that this shot belongs in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1473.89,
+   "end": 1485.79,
+   "description": "Static view across the River Thames of the London Bridge Hospital riverside building, with The Shard and office blocks behind it on a sunny day. Signage shows London Bridge Hospital rather than HCA UK Canary Wharf, so check the facility tag before use.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1485.79,
+   "end": 1497.7,
+   "description": "Exterior of London Bridge Hospital on the Thames riverside, with The Shard behind it, as the camera moves in from across the river on a sunny day. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf, so the facility tag for this film needs checking.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1497.7,
+   "end": 1509.61,
+   "description": "Exterior of London Bridge Hospital seen from across the River Thames, with the hospital name on the fa\u00e7ade and The Shard rising behind. Note: signage shows London Bridge Hospital, not HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1509.61,
+   "end": 1521.51,
+   "description": "Exterior of London Bridge Hospital seen from across the River Thames, with The Shard rising behind and a few pedestrians on the riverside walkway. Signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check before using in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1521.51,
+   "end": 1533.42,
+   "description": "Drone shot from the River Thames moving along the riverside front of London Bridge Hospital, with The Shard and office buildings behind it on a clear day. Signage shows this is London Bridge Hospital, not HCA UK Canary Wharf, so check before using it in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1533.42,
+   "end": 1545.33,
+   "description": "Exterior of London Bridge Hospital seen from across the River Thames, with the Shard and neighbouring office buildings behind, on a sunny day. Signage shows London Bridge Hospital rather than HCA UK Canary Wharf, so check the facility tag for this shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1545.33,
+   "end": 1557.23,
+   "description": "Wide view from the River Thames of the London Bridge Hospital riverside building, with The Shard and neighbouring office blocks behind it on a sunny day. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check the facility tag for this clip.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1557.23,
+   "end": 1569.14,
+   "description": "Riverside view across the Thames of the London Bridge Hospital building, with its name on the facade and The Shard and nearby office blocks behind, on a sunny day with the river and foreshore in the foreground. Note: signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check the facility tag for this film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1569.14,
+   "end": 1581.05,
+   "description": "Riverside exterior of London Bridge Hospital seen from the River Thames, with The Shard and surrounding office buildings behind on a sunny day. The camera drifts slowly along the river frontage. Signage shows London Bridge Hospital, not HCA UK Canary Wharf, so this shot may be misfiled in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1581.05,
+   "end": 1592.96,
+   "description": "Drone shot moving across the River Thames towards the riverside front of London Bridge Hospital, with The Shard and office buildings behind and people walking along the embankment. Note: the signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check the facility tag for this clip.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 10
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1592.96,
+   "end": 1604.86,
+   "description": "Aerial drone shot of The Shard and neighbouring glass office towers above the London Bridge station roof and rail tracks, with trains passing on a sunny day. This appears to be London Bridge rather than Canary Wharf; no HCA building or signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1604.86,
+   "end": 1616.77,
+   "description": "Drone shot over London Bridge Hospital, with its rooftop signage coming into view and The Shard and the glass towers of London Bridge station behind on a sunny day. The signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check the facility tag for this clip.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1616.77,
+   "end": 1628.68,
+   "description": "Drone shot tracking along the River Thames past the riverside front of London Bridge Hospital, with the Shard and glass office towers behind under a blue sky. Signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check before using in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1628.68,
+   "end": 1640.58,
+   "description": "Drone shot rising toward the riverside facade of London Bridge Hospital on the Thames, with The Shard and glass office towers behind under a blue sky. The signage identifies London Bridge Hospital, not HCA UK Canary Wharf, so check that this is the intended clip for the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1640.58,
+   "end": 1652.49,
+   "description": "Aerial drone shot of The Shard and neighbouring glass office towers beside London Bridge station on a sunny day, with trains moving along the tracks below. This shows the London Bridge area, not Canary Wharf, and no HCA building or signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1652.49,
+   "end": 1664.4,
+   "description": "Aerial drone shot of the Shard and neighbouring glass office towers above London Bridge station, with trains moving on the tracks below on a sunny day. The location is London Bridge rather than Canary Wharf, and no hospital signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1664.4,
+   "end": 1676.3,
+   "description": "Aerial drone shot of the London Bridge Hospital building, with The Shard, London Bridge station and the London skyline behind on a sunny day. The signage shows London Bridge Hospital, not HCA UK Canary Wharf, so check this is the right facility before using it in the Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1676.3,
+   "end": 1688.21,
+   "description": "Aerial view over the London Bridge Hospital building, with its rooftop signage in the foreground and The Shard, neighbouring glass office towers and London Bridge station behind under a blue sky. The signage shows London Bridge Hospital rather than HCA UK Canary Wharf, so check the facility tag for this Canary Wharf film.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1688.21,
+   "end": 1700.12,
+   "description": "Drone shot over the River Thames looking east past HMS Belfast and Tower Bridge towards the Canary Wharf skyline, then turning right to show The Shard and the London Bridge Hospital building on the south bank.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1700.12,
+   "end": 1712.02,
+   "description": "Drone shot moving over the Thames riverside towards the London Bridge Hospital building, with The Shard, glass office towers and London Bridge station behind on a clear day. Signage shows London Bridge Hospital, not HCA UK Canary Wharf, so this clip may be misfiled in the Canary Wharf film.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1712.02,
+   "end": 1723.93,
+   "description": "Aerial drone view across the River Thames of the London Bridge Hospital riverside building, with The Shard, London Bridge station and the City skyline behind on a sunny day. Note: signage shows London Bridge Hospital, not HCA UK Canary Wharf.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "LONDON BRIDGE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1723.93,
+   "end": 1735.84,
+   "description": "Drone shot moving along the River Thames past a row of riverside buildings, with glass office towers and the wider London skyline behind under a blue sky. A red bus crosses a bridge in the background.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1735.84,
+   "end": 1747.75,
+   "description": "Aerial drone view over the River Thames in central London, looking along the river to London Bridge with red buses crossing and further bridges, the dome of St Paul's Cathedral and the City skyline behind. A general London establishing shot; no hospital building or signage is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1747.75,
+   "end": 1759.65,
+   "description": "Aerial drone shot over the River Thames looking west towards London Bridge, with red double-decker buses crossing and the railway bridge, St Paul's Cathedral dome and the City skyline behind. A general London establishing shot; no HCA building is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1759.65,
+   "end": 1771.56,
+   "description": "Drone shot over the River Thames in central London looking upriver, with red buses crossing a bridge in the foreground, further bridges behind, and St Paul's Cathedral on the skyline under a blue sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1771.56,
+   "end": 1783.47,
+   "description": "Aerial drone view looking along the River Thames in central London, with red buses crossing London Bridge in the foreground and further bridges, St Paul's Cathedral and the City skyline in the distance. A London establishing shot on a clear day; no HCA facility is visible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1783.47,
+   "end": 1795.37,
+   "description": "Aerial drone shot over the River Thames in central London, looking upstream towards London Bridge with red buses crossing, and further bridges and the dome of St Paul's Cathedral on the skyline. The camera moves slowly forward over the water on a clear, sunny day.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1795.37,
+   "end": 1807.28,
+   "description": "Drone shot over the River Thames in central London, looking upriver toward London Bridge with red buses crossing, further bridges behind and St Paul's Cathedral on the skyline. A small boat speeds along the river past a pier in the foreground.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1807.28,
+   "end": 1819.04,
+   "description": "Low-angle exterior of the entrance to The Harley Street Clinic, with wooden double doors beneath a stone portico, as the camera moves sideways past a black iron railing in the foreground. Signage shows The Harley Street Clinic, not HCA UK Canary Wharf, so check before using in the Canary Wharf film.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARLEY STREET CLINIC; no smoking sign",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1819.04,
+   "end": 1830.8,
+   "description": "Exterior of a stone-fronted clinic building with wooden double doors, stone steps, brass handrails and potted topiary at the entrance. No people are present; the camera drifts gently across the front.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1830.8,
+   "end": 1842.56,
+   "description": "Exterior of the stone entrance to The Harley Street Clinic, with wooden double doors, potted topiary, brass handrails and steps up from the pavement, as the camera moves back to the street. Signage shows The Harley Street Clinic, not HCA UK Canary Wharf, so check the facility tag for this shot.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARLEY STREET CLINIC",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1842.56,
+   "end": 1854.32,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  }
+ ]
+}

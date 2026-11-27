@@ -7,83 +7,603 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 4.52
+   "end": 4.52,
+   "description": "A man in a navy blazer and a woman with long dark hair walk along the street and up to the entrance of The Portland Hospital for Women and Children. The camera follows them from a low angle until they reach the hospital's name sign on the granite wall.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "THE PORTLAND HOSPITAL for Women and Children; 205 Great Portland Street (partial); road sign: Ring road, Euston, Kilburn, Marylebone",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 4.52,
-   "end": 7.68
+   "end": 7.68,
+   "description": "A masked consultant in a pink shirt opens the consulting room door and welcomes a masked pregnant woman carrying a handbag into the room for her appointment.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "examination couch",
+    "desk chair",
+    "coat stand"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 7.68,
-   "end": 16.28
+   "end": 16.28,
+   "description": "A pregnant woman lies on an examination couch during an ultrasound scan while a clinician in a face mask and blue gloves moves the probe over her bump. Her partner rests a hand on her shoulder as they watch the screen.",
+   "service_lines": [
+    "maternity",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 16.28,
-   "end": 19.76
+   "end": 19.76,
+   "description": "A midwife in a white uniform, face mask and glasses attends to a woman lying in bed with her knees raised in a private maternity patient room at The Portland Hospital. The patient is in the soft-focus foreground, with curtained windows and a blue armchair behind.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "face mask"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 19.76,
-   "end": 21.6
+   "end": 21.6,
+   "description": "An empty private patient room on the maternity ward at The Portland Hospital, with a made hospital bed, an overbed table holding a gift bag, and a panda soft toy and champagne bottle on the bedside table. A blue armchair and a bedside lamp sit beside the bed, with medical gas outlets on the wall behind.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "armchair",
+    "bedside lamp",
+    "medical gas outlets",
+    "gift bag",
+    "panda soft toy",
+    "champagne bottle"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 21.6,
-   "end": 22.92
+   "end": 22.92,
+   "description": "Frosted 'Neonatal Unit' lettering on a glass door or screen at the entrance to the neonatal unit at The Portland Hospital, with notices and a yellow door frame behind, shot in soft focus.",
+   "service_lines": [
+    "maternity",
+    "paediatrics"
+   ],
+   "kit": [
+    "door entry buttons"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "Neonatal Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 22.92,
-   "end": 26.48
+   "end": 26.48,
+   "description": "A nurse in blue scrubs, mask, glasses and gloves prepares ventilator tubing beside an incubator on the neonatal unit at The Portland Hospital, with patient monitors and a ventilator screen in the background.",
+   "service_lines": [
+    "maternity",
+    "paediatrics",
+    "critical care"
+   ],
+   "kit": [
+    "patient monitor",
+    "ventilator",
+    "incubator",
+    "ventilator tubing"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 26.48,
-   "end": 31.36
+   "end": 31.36,
+   "description": "A nurse in a navy uniform and face mask sits talking with a couple, a woman in a white top and a man in a dark suit, both masked, in a waiting lounge with leaflet shelves, artwork and plants. The shot is filmed through blurred foreground foliage.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "leaflet display shelves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 31.36,
-   "end": 34.4
+   "end": 34.4,
+   "description": "A midwife in a navy uniform carries out an abdominal palpation on a pregnant woman wearing a face mask, who is lying on an examination couch in a maternity consulting room. The shot is framed through a doorway, with a soft-focus wall in the foreground.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "examination couch",
+    "storage trolley",
+    "emergency pull cord"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 34.4,
-   "end": 37.72
+   "end": 37.72,
+   "description": "A pregnant woman wearing a face mask lies on an examination couch with her bump exposed, talking and gesturing to a staff member seen out of focus in the foreground during an antenatal appointment.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 37.72,
-   "end": 39.84
+   "end": 39.84,
+   "description": "Two staff in navy uniforms work at a bedside on a training manikin in a clinical simulation room, seen through a partly open doorway with a curtain. An anatomical pregnancy model sits on a trolley to the left.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "training manikin",
+    "anatomical pregnancy model",
+    "storage trolley",
+    "privacy curtain"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 39.84,
-   "end": 42.12
+   "end": 42.12,
+   "description": "A pregnant woman and her partner walk side by side toward the camera along a city pavement, chatting and laughing, while a passer-by walks past in the background.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 42.12,
-   "end": 45.12
+   "end": 45.12,
+   "description": "Low-angle tracking shot following a man in a navy blazer and a woman in a white top as they walk along a central London pavement past a building colonnade, with a red double-decker bus in the background. A staff member in blue scrubs and a face mask walks past toward the camera.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 4
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 45.12,
-   "end": 48.64
+   "end": 48.64,
+   "description": "A masked nurse in blue scrubs and gloves talks with a new mother sitting up in bed in a private maternity room at The Portland Hospital, while a newborn sleeps in a hospital cot in the out-of-focus foreground.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "patient monitor",
+    "hospital bed",
+    "newborn cot / bassinet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 48.64,
-   "end": 52.52
+   "end": 52.52,
+   "description": "A nurse in blue scrubs, a face mask and gloves fits a blood pressure cuff to the arm of a patient in dark pyjamas, who is sitting up in a private patient room at The Portland Hospital.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "blood pressure cuff",
+    "patient monitor",
+    "hospital bed",
+    "wall medical gas panel"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 52.52,
-   "end": 56.64
+   "end": 56.64,
+   "description": "A new mother sits up in a hospital bed holding her newborn baby wrapped in a white blanket while the father sits beside her in a blue armchair in a private maternity patient room at The Portland Hospital. The parents talk quietly as the mother looks down at the baby.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted medical gas outlets",
+    "bedside lamp"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 56.64,
-   "end": 59.24
+   "end": 59.24,
+   "description": "Close-up of a sleeping newborn baby swaddled in a white blanket, held by a parent whose dark hair is partly visible at the edge of the frame, with white pillows behind. The baby's face shifts slightly as the camera drifts.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "swaddling blanket",
+    "pillows"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 59.24,
-   "end": 62.32
+   "end": 62.32,
+   "description": "A newborn baby sleeps swaddled in a white blanket while the mother's hand rests on the baby, with a hospital cot visible in the background of a maternity room at The Portland Hospital.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "hospital cot"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 62.32,
-   "end": 65.96
+   "end": 65.96,
+   "description": "A mother sits in a hospital bed holding her newborn baby while her partner sits beside her in a blue armchair, both smiling and talking in a maternity patient room at The Portland Hospital.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital bed",
+    "bedside armchair",
+    "wall-mounted medical outlet panel",
+    "wall lamp"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 65.96,
-   "end": 68.76
+   "end": 68.76,
+   "description": "A newborn baby lies swaddled in a white cellular blanket in a hospital cot at The Portland Hospital, eyes partly open and looking around.",
+   "service_lines": [
+    "maternity"
+   ],
+   "kit": [
+    "hospital cot",
+    "cellular blanket"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

@@ -7,255 +7,1721 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 11.94
+   "end": 11.94,
+   "description": "Low-angle moving shot through an empty hybrid theatre at The Harborne Hospital, showing a C-arm imaging system beside the operating table, overhead surgical lights, a ceiling-mounted display and monitoring equipment. The room is set up ready for cardiac procedures with no people present.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted display"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 11.94,
-   "end": 23.88
+   "end": 23.88,
+   "description": "Empty hybrid theatre / cath lab at The Harborne Hospital, with a C-arm imaging system, procedure table, ceiling-mounted operating lights and a large overhead display. The camera glides forward and drifts right, revealing anaesthetic and patient monitoring equipment beside the table.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "anaesthetic machine",
+    "patient monitor",
+    "ceiling-mounted display screen",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 23.88,
-   "end": 35.82
+   "end": 35.82,
+   "description": "Empty hybrid operating theatre at The Harborne Hospital with a C-arm imaging system, operating table, ceiling-mounted theatre lights and monitors, and anaesthetic and perfusion equipment. A low-angle camera moves slowly across the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics",
+    "general surgery"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "anaesthetic machine",
+    "patient monitor",
+    "operating table",
+    "heart-lung bypass machine",
+    "ceiling-mounted equipment pendants"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 35.82,
-   "end": 47.76
+   "end": 47.76,
+   "description": "Low-angle moving shot through an empty cardiac catheter lab at The Harborne Hospital, showing the patient table, C-arm imaging system, ceiling-mounted monitors and operating lights.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted monitor boom",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 47.76,
-   "end": 59.7
+   "end": 59.7,
+   "description": "Empty hybrid operating theatre at The Harborne Hospital with ceiling-mounted theatre lights, monitors, a C-arm and an operating table. The camera moves through the room and ends on a close-up of an oxygen (O2) flowmeter.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted monitors",
+    "oxygen flowmeter"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "O2",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 59.7,
-   "end": 71.64
+   "end": 71.64,
+   "description": "Close-up of wall-mounted oxygen flowmeters with O2 control knobs and green tubing beside a bed space, as the camera moves sideways past a blurred foreground to reveal a second oxygen outlet.",
+   "service_lines": [],
+   "kit": [
+    "oxygen flowmeter",
+    "wall-mounted medical gas outlet",
+    "oxygen tubing"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "O2",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 71.64,
-   "end": 83.58
+   "end": 83.58,
+   "description": "Detail shot of a wall-mounted oxygen flowmeter labelled O2, with green oxygen tubing hanging beside it, as the camera moves slowly across.",
+   "service_lines": [],
+   "kit": [
+    "oxygen flowmeter",
+    "oxygen tubing"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "pan"
+   },
+   "text_on_screen": "O2",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 83.58,
-   "end": 95.52
+   "end": 95.52,
+   "description": "A clinician in navy scrubs and blue gloves prepares equipment beside a ceiling-mounted pendant with infusion pumps and a Dr\u00e4ger ventilator in a critical care room at The Harborne Hospital.",
+   "service_lines": [
+    "critical care",
+    "cardiology"
+   ],
+   "kit": [
+    "ventilator",
+    "infusion pumps",
+    "ceiling pendant",
+    "IV pole",
+    "recliner chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Dr\u00e4ger",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 95.52,
-   "end": 107.46
+   "end": 107.46,
+   "description": "A clinician in navy scrubs and blue gloves prepares tubing and equipment beside a ceiling-mounted pendant with infusion pumps in a critical care patient room at The Harborne Hospital. A patient monitor on an articulated arm and a recliner chair are visible by the window.",
+   "service_lines": [
+    "critical care",
+    "cardiology"
+   ],
+   "kit": [
+    "patient monitor",
+    "infusion pumps",
+    "ceiling-mounted medical pendant",
+    "recliner chair",
+    "suction unit",
+    "medical trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 107.46,
-   "end": 119.4
+   "end": 119.4,
+   "description": "A nurse in navy scrubs and blue gloves sets up a ventilator and IV lines beside a hospital bed in a critical care patient room, then unpacks sterile supplies.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "ventilator",
+    "infusion pumps",
+    "IV stand",
+    "hospital bed",
+    "sterile supplies"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 119.4,
-   "end": 131.34
+   "end": 131.34,
+   "description": "A clinician in navy scrubs and blue gloves prepares equipment at an empty intensive care bedside, then connects tubing to a ventilator beside a stack of infusion pumps.",
+   "service_lines": [
+    "critical care",
+    "cardiology"
+   ],
+   "kit": [
+    "ventilator",
+    "infusion pumps",
+    "medical supply pendant",
+    "hospital bed",
+    "IV pole"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 131.34,
-   "end": 143.27
+   "end": 143.27,
+   "description": "A nurse in navy scrubs and blue gloves adjusts a Dr\u00e4ger ventilator beside a bank of infusion pumps in a critical care bay. The camera tracks across from his hands on the machine to his face as he checks the equipment.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "ventilator",
+    "infusion pumps",
+    "patient monitor",
+    "ceiling pendant",
+    "IV drip stand"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "NURSE IN CHARGE (name badge); Dr\u00e4ger (equipment logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 143.27,
-   "end": 155.21
+   "end": 155.21,
+   "description": "A clinician in navy scrubs and blue gloves adjusts settings on a ventilator touchscreen beside a stack of infusion pumps in a critical care bay at The Harborne Hospital.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "ventilator",
+    "infusion pumps",
+    "IV pole"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 155.21,
-   "end": 167.15
+   "end": 167.15,
+   "description": "Camera moves from a stack of infusion pumps and a computer screen to a staff member in navy scrubs and blue gloves unwrapping sterile plastic-packed equipment on a trolley, preparing kit for a cardiac procedure.",
+   "service_lines": [
+    "cardiology",
+    "critical care"
+   ],
+   "kit": [
+    "infusion pumps",
+    "medical gas wall outlets",
+    "computer monitor",
+    "trolley",
+    "sterile packaged tubing"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 167.15,
-   "end": 179.09
+   "end": 179.09,
+   "description": "A staff member in navy scrubs pulls on blue gloves beside a trolley holding sterile packs in plastic wrapping, preparing for a procedure. The face is not shown.",
+   "service_lines": [],
+   "kit": [
+    "instrument trolley",
+    "sterile procedure packs",
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 179.09,
-   "end": 191.03
+   "end": 191.03,
+   "description": "A staff member in blue scrubs and blue nitrile gloves adjusts their gloves beside a white trolley holding sealed sterile packs and tubing, preparing for a procedure. Their face is out of frame.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "sterile procedure packs",
+    "instrument trolley",
+    "nitrile gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 191.03,
-   "end": 202.97
+   "end": 202.97,
+   "description": "A staff member in blue scrubs and gloves unwraps sterile packs on a white bedside table next to a hospital bed in a patient room. The camera moves past the out-of-focus bed in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "bedside table",
+    "sterile packs",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 202.97,
-   "end": 214.91
+   "end": 214.91,
+   "description": "Two staff in navy scrubs and scrub caps prepare a cardiac catheterisation lab at The Harborne Hospital, with one arranging pillows on the patient table beneath the C-arm imaging system.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "wall-mounted display screen",
+    "instrument trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 214.91,
-   "end": 226.85
+   "end": 226.85,
+   "description": "Empty cardiac cath lab / hybrid theatre at The Harborne Hospital with a C-arm imaging system, procedure table, overhead theatre lights and wall monitors, as a staff member in scrubs and a patterned scrub cap moves through the foreground with their back to camera.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "anaesthetic machine",
+    "procedure table",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 226.85,
-   "end": 238.79
+   "end": 238.79,
+   "description": "Empty cath lab (hybrid theatre) at The Harborne Hospital with a robotic C-arm X-ray system beside the patient table, as the camera moves across the room past a staff member in scrubs. Patient monitors, a ceiling-mounted screen and theatre lights are visible.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "operating theatre lights",
+    "operating table",
+    "ceiling-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 238.79,
-   "end": 250.73
+   "end": 250.73,
+   "description": "Low-angle view of an empty cardiac catheter lab at The Harborne Hospital, showing a robotic C-arm X-ray system beside the procedure table with ceiling-mounted monitors and storage cabinets. The camera moves slowly across the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "procedure table",
+    "storage cabinets"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 250.73,
-   "end": 262.67
+   "end": 262.67,
+   "description": "Low-angle moving shot through an empty cardiac catheterisation lab at The Harborne Hospital, showing the C-arm X-ray system, the procedure table and ceiling-mounted monitors. Anaesthetic equipment is visible in the foreground.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "anaesthetic machine",
+    "procedure table",
+    "ceiling-mounted display screen"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 262.67,
-   "end": 274.61
+   "end": 274.61,
+   "description": "Empty cardiac catheter lab at The Harborne Hospital, with a C-arm angiography system beside the patient table, a ceiling-mounted screen and monitors in the background. The camera moves low and slowly around the table toward the C-arm.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "C-arm angiography system",
+    "ceiling-mounted display screen",
+    "patient table",
+    "wall storage cabinets"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 274.61,
-   "end": 286.55
+   "end": 286.55,
+   "description": "Low-angle shot moving slowly past the empty patient table and C-arm X-ray system in the cardiac catheterisation lab at The Harborne Hospital, with a patient monitor on a ceiling boom in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 286.55,
-   "end": 298.49
+   "end": 298.49,
+   "description": "An empty cath lab at The Harborne Hospital, with the C-arm imaging system arched over a patient table made up with a pillow. Monitors and ceiling-mounted equipment sit in the background as the camera moves slowly past the C-arm.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "C-arm imaging system",
+    "patient table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 298.49,
-   "end": 310.43
+   "end": 310.43,
+   "description": "The camera moves out from behind theatre equipment to reveal an operating theatre at The Harborne Hospital, where staff in navy scrubs and caps stand around a prepared operating table under the theatre lights. A nurse in the foreground smiles towards the camera.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "operating table",
+    "wall-mounted screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 310.43,
-   "end": 322.37
+   "end": 322.37,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 322.37,
-   "end": 334.31
+   "end": 334.31,
+   "description": "A staff member in blue scrubs, a scrub cap and glasses sits at a workstation behind an empty table made up with white sheets in a theatre or procedure room at The Harborne Hospital. The camera moves past a blurred piece of equipment in the foreground.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "operating table"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 334.31,
-   "end": 346.25
+   "end": 346.25,
+   "description": "A theatre staff member in blue scrubs and a patterned scrub cap sits beside an empty operating table in an operating theatre at The Harborne Hospital. The camera slides out from behind a foreground obstruction to reveal the scene.",
+   "service_lines": [],
+   "kit": [
+    "operating table",
+    "operating theatre lights",
+    "anaesthetic trolley",
+    "breathing circuit tubing",
+    "ceiling-mounted monitor",
+    "equipment trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 346.25,
-   "end": 358.19
+   "end": 358.19,
+   "description": "A staff member in blue scrubs, a surgical cap and glasses stands behind a procedure table in a cardiac cath lab at The Harborne Hospital, framed past an out-of-focus X-ray C-arm in the foreground as the camera tracks sideways.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "procedure table",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 358.19,
-   "end": 370.13
+   "end": 370.13,
+   "description": "Close-up of a staff member in navy scrubs and a lead thyroid collar adjusting control knobs on a table-side panel in a cardiac catheterisation lab. Yellow clinical waste bins and storage shelves are visible in the background.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "cath lab",
+    "table-side control panel",
+    "lead thyroid collar",
+    "clinical waste bins"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 370.13,
-   "end": 382.07
+   "end": 382.07,
+   "description": "A clinician in navy scrubs, a patterned scrub cap and a lead thyroid collar adjusts the controls on an anaesthetic machine, and the camera moves up to her face as she looks across the room. Filmed in a theatre or procedure area at The Harborne Hospital for the cardiac care film.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "anaesthetic machine",
+    "thyroid shield",
+    "sharps bin",
+    "wall telephone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 382.07,
-   "end": 394.01
+   "end": 394.01,
+   "description": "A staff member in blue scrubs adjusts the control knobs on a table-side panel in a cardiac catheterisation lab at The Harborne Hospital. The camera then moves across to the C-arm X-ray system and the patient table.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "table-side control panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 394.01,
-   "end": 405.94
+   "end": 405.94,
+   "description": "A staff member in navy scrubs and a surgical cap walks through an empty cardiac catheter lab at The Harborne Hospital, carrying a tablet past the C-arm imaging system and patient table. A dark backpack sits in the foreground as the camera moves through the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "procedure table",
+    "ceiling-mounted display screen",
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 405.94,
-   "end": 417.88
+   "end": 417.88,
+   "description": "Low-angle view of an empty cardiac catheterisation lab at The Harborne Hospital, moving around the C-arm X-ray system beside the patient table with monitors in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "patient table",
+    "ceiling-mounted display monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 417.88,
-   "end": 429.82
+   "end": 429.82,
+   "description": "Empty cardiac catheterisation lab at The Harborne Hospital, with a C-arm imaging system positioned over the procedure table and patient monitors and anaesthetic equipment in the background. The camera moves slowly sideways across the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "anaesthetic machine",
+    "procedure table",
+    "ceiling-mounted display",
+    "storage cabinets"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 429.82,
-   "end": 441.76
+   "end": 441.76,
+   "description": "Low-angle view of an empty cardiac catheterisation lab at The Harborne Hospital, with the C-arm X-ray system arched over the procedure table and patient monitors in the background. The camera moves slowly across the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display screen",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 441.76,
-   "end": 453.7
+   "end": 453.7,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, seen from a low angle beside the patient table, as the robotic C-arm X-ray system rotates into position around the table. Ceiling-mounted monitors and anaesthetic equipment are visible in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "patient table",
+    "ceiling-mounted monitor boom"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 453.7,
-   "end": 465.64
+   "end": 465.64,
+   "description": "Low-angle view of an empty cardiac catheterisation lab at The Harborne Hospital, showing the C-arm imaging system beside the patient table, with ceiling-mounted monitors and equipment in the background. The camera glides slowly forward through the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted monitor boom",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 465.64,
-   "end": 477.58
+   "end": 477.58,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the robotic C-arm rotating around the patient table as the camera moves past it. Ceiling-mounted monitors and an anaesthetic machine are visible in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating theatre lights",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 477.58,
-   "end": 489.52
+   "end": 489.52,
+   "description": "Over-the-shoulder view of a staff member in navy scrubs and a patterned scrub cap looking across an empty cardiac catheter lab at The Harborne Hospital. The C-arm imaging system moves into position over the patient table as the camera tracks around.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "C-arm angiography system",
+    "procedure table",
+    "overhead display screens"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 489.52,
-   "end": 501.46
+   "end": 501.46,
+   "description": "An empty hybrid theatre / cath lab at The Harborne Hospital with a C-arm imaging system, operating table and theatre lights. A staff member in blue scrubs and a patterned scrub cap walks across the foreground and partly blocks the view by the end of the shot.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "operating table",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 501.46,
-   "end": 513.4
+   "end": 513.4,
+   "description": "Gimbal move through an empty hybrid cath lab at The Harborne Hospital, showing a robotic C-arm imaging system beside the patient table, with monitors and anaesthetic equipment in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "robotic C-arm",
+    "patient table",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display screen",
+    "operating theatre lights"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 513.4,
-   "end": 525.34
+   "end": 525.34,
+   "description": "Low-angle view of an empty hybrid theatre / cath lab at The Harborne Hospital, showing a robotic C-arm angiography system beside the patient table, with ceiling-mounted monitors and equipment pendants.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "robotic C-arm angiography system",
+    "patient monitor",
+    "operating table",
+    "ceiling-mounted equipment pendant",
+    "anaesthetic machine"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 525.34,
-   "end": 537.28
+   "end": 537.28,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the camera moving low around the C-arm X-ray system and patient table. Patient monitors and a ceiling-mounted screen are visible in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "ceiling-mounted display",
+    "patient table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 537.28,
-   "end": 549.22
+   "end": 549.22,
+   "description": "Empty cardiac catheterisation lab at The Harborne Hospital. The camera moves low along the patient table towards the C-arm X-ray system, with ceiling-mounted monitors and storage cabinets in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "ceiling-mounted display monitor",
+    "patient table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 549.22,
-   "end": 561.16
+   "end": 561.16,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the C-arm X-ray detector positioned over the procedure table and a patient monitor in the background. The camera moves slowly across the C-arm and table.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 561.16,
-   "end": 573.1
+   "end": 573.1,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the C-arm X-ray system arching over a made-up patient table and monitors in the background. The camera moves slowly along the table and C-arm.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 573.1,
-   "end": 585.04
+   "end": 585.04,
+   "description": "A camera moves past the end of an operating table to reveal theatre staff in navy scrubs and caps standing in an operating theatre, with one smiling woman in a patterned head covering in the foreground. Shot in the cardiac care film at The Harborne Hospital.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "operating table",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 585.04,
-   "end": 596.98
+   "end": 596.98,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 596.98,
-   "end": 608.92
+   "end": 608.92,
+   "description": "A theatre staff member in blue scrubs, a patterned scrub cap and glasses sits behind an operating table and prepares equipment in an operating theatre at The Harborne Hospital. The camera moves slowly past the table, with an out-of-focus element in the foreground.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "operating table",
+    "patient monitor",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 608.92,
-   "end": 620.86
+   "end": 620.86,
+   "description": "A theatre staff member in blue scrubs, a headscarf and glasses sits at the head of an empty operating table in an operating theatre at The Harborne Hospital, with an anaesthetic trolley, a monitor and theatre lights around her.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "operating table",
+    "operating theatre lights",
+    "anaesthetic machine",
+    "patient monitor",
+    "anaesthetic trolley",
+    "wall-mounted screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 620.86,
-   "end": 632.8
+   "end": 632.8,
+   "description": "A staff member in blue scrubs and a surgical cap waits behind the procedure table in a cardiac cath lab at The Harborne Hospital, as the camera rises past the C-arm to reveal the overhead theatre lights.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "C-arm",
+    "procedure table",
+    "operating theatre lights",
+    "monitor",
+    "theatre trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 632.8,
-   "end": 644.74
+   "end": 644.74,
+   "description": "Close-up of a staff member in navy scrubs and a thyroid shield adjusting the blue-lit control dials on the table-side control panel in a cardiac catheter lab at The Harborne Hospital.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "table-side control panel",
+    "clinical waste bins"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 644.74,
-   "end": 656.68
+   "end": 656.68,
+   "description": "A cardiac cath lab team member in navy scrubs, a patterned scrub cap and a lead thyroid collar operates the table-side control panel during a procedure at The Harborne Hospital, glancing up toward the monitors.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "table-side control panel",
+    "lead thyroid collar",
+    "clinical waste bin",
+    "wall phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 656.68,
-   "end": 668.62
+   "end": 668.62,
+   "description": "A member of staff in blue scrubs adjusts the controls on a table-side control panel and puts on a lead thyroid collar, then the shot reveals the cath lab with its C-arm, patient table and monitors, with a photographer holding a camera in frame.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "table-side control panel",
+    "lead thyroid collar",
+    "camera"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 668.62,
-   "end": 680.55
+   "end": 680.55,
+   "description": "Empty cardiac catheterisation lab at The Harborne Hospital with a robotic C-arm X-ray system beside the patient table, ceiling-mounted display screen and patient monitors and equipment in the background. The camera moves slowly across the room, revealing the imaging system.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "procedure table",
+    "ceiling-mounted display screen",
+    "storage cabinets"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 680.55,
-   "end": 692.49
+   "end": 692.49,
+   "description": "Low-angle moving shot around the C-arm and empty patient table in a cardiac catheterisation lab at The Harborne Hospital, with patient monitors and medical equipment in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "C-arm angiography system",
+    "procedure table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 692.49,
-   "end": 704.43
+   "end": 704.43,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the camera moving low past the patient table towards the C-arm imaging system, monitors and equipment in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display",
+    "storage cabinets"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 704.43,
-   "end": 716.37
+   "end": 716.37,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the C-arm X-ray system positioned over the procedure table and patient monitors in the background. The camera moves slowly across the room at table height.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "ceiling-mounted display",
+    "anaesthetic machine"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 716.37,
-   "end": 728.31
+   "end": 728.31,
+   "description": "Low-angle moving shot of an empty cardiac catheterisation lab at The Harborne Hospital, passing the patient table and the C-arm X-ray system, with ceiling-mounted monitors and an anaesthetic machine in the background.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "ceiling-mounted display screens"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 728.31,
-   "end": 740.25
+   "end": 740.25,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with the C-arm X-ray system positioned over the patient table and monitors and equipment in the background. The camera moves slowly across the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "ceiling-mounted monitor",
+    "procedure table",
+    "anaesthetic machine"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 740.25,
-   "end": 752.19
+   "end": 752.19,
+   "description": "An empty cardiac catheterisation lab at The Harborne Hospital, with a robotic C-arm X-ray system beside the patient table. The camera moves around the table, showing the C-arm, ceiling-mounted monitors and the anaesthetic station.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "patient monitor",
+    "anaesthetic machine",
+    "robotic C-arm",
+    "ceiling-mounted display monitors",
+    "patient table"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

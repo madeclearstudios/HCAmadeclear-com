@@ -7,79 +7,495 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 11.23
+   "end": 11.23,
+   "description": "Exterior of The Harborne Hospital, with the camera moving past foreground foliage to reveal the main building and its name signage while a white car drives past the entrance.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 11.23,
-   "end": 22.46
+   "end": 22.46,
+   "description": "Low-angle exterior establishing shot of The Harborne Hospital, with the camera moving past foreground foliage to show the building facade and the entrance signage. A car drives past the entrance and a few pedestrians walk near the front of the building.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 22.46,
-   "end": 33.7
+   "end": 33.7,
+   "description": "Low-angle exterior of The Harborne Hospital with the building name sign above the glazed ground-floor entrance, framed by a tree in the foreground as the camera moves past.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE HARBORNE HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 33.7,
-   "end": 44.93
+   "end": 44.93,
+   "description": "Gimbal push into an empty operating theatre at The Harborne Hospital, moving towards the operating table, with theatre lights, ceiling-mounted monitors, an anaesthetic machine and a surgical robot in the background.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "operating table",
+    "operating theatre lights",
+    "anaesthetic machine",
+    "da Vinci surgical robot",
+    "ceiling-mounted monitors",
+    "equipment towers",
+    "wall-mounted display",
+    "surgical stool"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 44.93,
-   "end": 56.16
+   "end": 56.16,
+   "description": "An empty operating theatre at The Harborne Hospital, with the camera moving past an anaesthetic machine towards the operating table under ceiling-mounted theatre lights and monitors.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "anaesthetic machine",
+    "patient monitor",
+    "operating table",
+    "ceiling-mounted equipment pendants",
+    "wall-mounted display screens",
+    "medical equipment towers"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 56.16,
-   "end": 67.39
+   "end": 67.39,
+   "description": "An empty operating theatre at The Harborne Hospital, with the operating table in the centre under ceiling-mounted theatre lights and monitors, and an anaesthetic machine and equipment towers around the room. The camera glides forward and across the room.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted monitors",
+    "surgical equipment tower",
+    "patient monitor"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 67.39,
-   "end": 78.62
+   "end": 78.62,
+   "description": "Gimbal move through an empty operating theatre at The Harborne Hospital, showing the operating table under the theatre lights, ceiling-mounted monitors, an anaesthetic machine, a surgical equipment tower and what appears to be a robotic surgical system by the back wall.",
+   "service_lines": [
+    "general surgery",
+    "liver",
+    "robotic surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "anaesthetic machine",
+    "da Vinci surgical robot",
+    "operating table",
+    "ceiling-mounted monitors",
+    "surgical equipment tower",
+    "wall-mounted display screens",
+    "ceiling pendants"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 78.62,
-   "end": 89.86
+   "end": 89.86,
+   "description": "Empty operating theatre at The Harborne Hospital with an operating table under ceiling-mounted surgical lights, an anaesthetic machine in the foreground and an equipment tower and wall screens behind. The camera moves slowly sideways across the room.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "anaesthetic machine",
+    "operating table",
+    "surgical equipment tower",
+    "ceiling-mounted monitors",
+    "wall-mounted display screens",
+    "anaesthetic breathing circuit tubing"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 89.86,
-   "end": 101.09
+   "end": 101.09,
+   "description": "An empty operating theatre at The Harborne Hospital, with the camera moving forward past the operating table towards the theatre lights, wall screens and a robotic surgical system parked at the side.",
+   "service_lines": [
+    "general surgery",
+    "robotic surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "da Vinci surgical robot",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted monitors",
+    "equipment stack"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 101.09,
-   "end": 112.32
+   "end": 112.32,
+   "description": "Gimbal move through an empty operating theatre at The Harborne Hospital, passing an anaesthetic machine and its breathing tubes to show the operating table under two theatre lights, with wall-mounted screens and equipment around the room.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "operating theatre lights",
+    "anaesthetic machine",
+    "operating table",
+    "wall-mounted monitors",
+    "ceiling-mounted monitor arm",
+    "theatre equipment cart"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 112.32,
-   "end": 123.74
+   "end": 123.74,
+   "description": "Two surgeons in blue scrubs and theatre caps stand talking at the theatre department's staff desk while a colleague works at a computer behind the counter, with wall-mounted screens above.",
+   "service_lines": [
+    "general surgery",
+    "liver"
+   ],
+   "kit": [
+    "computer monitors",
+    "wall-mounted display screens",
+    "fire extinguisher"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 123.74,
-   "end": 135.15
+   "end": 135.15,
+   "description": "Two clinicians in navy scrubs and theatre caps talk at a staff desk in the theatre department while a colleague works at a computer behind them. Wall-mounted screens and desk monitors are visible.",
+   "service_lines": [
+    "liver",
+    "general surgery"
+   ],
+   "kit": [
+    "desk computer monitors",
+    "wall-mounted display screens"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 135.15,
-   "end": 146.57
+   "end": 146.57,
+   "description": "Two clinicians in blue scrubs and theatre caps talk at a theatre department desk while a seated colleague in scrubs listens and joins the conversation from behind a computer.",
+   "service_lines": [],
+   "kit": [
+    "computer monitors",
+    "wall-mounted display screens",
+    "desk phone",
+    "fire extinguisher"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 146.57,
-   "end": 157.98
+   "end": 157.98,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 157.98,
-   "end": 169.4
+   "end": 169.4,
+   "description": "A nurse in navy scrubs and glasses sits at a nurses' station behind computer monitors and talks with a colleague, who is out of focus in the foreground with their back to camera. The colleague moves across the frame and partly blocks the view by the end of the shot.",
+   "service_lines": [],
+   "kit": [
+    "computer monitors",
+    "printer"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 169.4,
-   "end": 180.81
+   "end": 180.81,
+   "description": "Looking through a doorway gap into an empty critical care room with a made bed, ventilator, infusion pumps and monitors on a ceiling pendant. Near the end of the shot, a hand enters the frame and pushes the door.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "ventilator",
+    "infusion pumps",
+    "ceiling pendant",
+    "bed control panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 180.81,
-   "end": 192.23
+   "end": 192.23,
+   "description": "A staff member's hand opens a door to reveal an empty critical care room at The Harborne Hospital, and the camera moves in towards a made-up bed surrounded by patient monitors, infusion pumps and a ventilator.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "infusion pumps",
+    "ventilator",
+    "IV pole",
+    "ceiling-mounted equipment pendant",
+    "overbed table"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 192.23,
-   "end": 203.65
+   "end": 203.65,
+   "description": "An empty critical care room at The Harborne Hospital, with a made hospital bed, overbed table, ceiling pendant, Philips patient monitor, ventilator and stacked infusion pumps beside a window. The camera moves sideways past a door frame to reveal the room.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "ventilator",
+    "infusion pumps",
+    "IV pole",
+    "ceiling-mounted equipment pendant",
+    "overbed table"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 203.65,
-   "end": 215.06
+   "end": 215.06,
+   "description": "The camera moves past a door frame to reveal an empty critical care bed space with a made hospital bed, a Philips patient monitor, infusion pumps on a drip stand and a ventilator. No people are present.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "infusion pumps",
+    "IV drip stand",
+    "ventilator",
+    "bedside table",
+    "overbed table"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PHILIPS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

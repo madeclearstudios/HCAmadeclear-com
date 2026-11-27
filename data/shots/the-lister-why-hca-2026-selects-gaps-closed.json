@@ -1,0 +1,3311 @@
+{
+ "id": "the-lister-why-hca-2026-selects-gaps-closed",
+ "title": "The Lister, Why HCA 2026 - Selects (Gaps Closed)",
+ "file": "The Lister, Why HCA 2026 - Selects (Gaps Closed).mp4",
+ "facility": "The Lister Hospital",
+ "duration": 1469.56,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 11.3,
+   "description": "Aerial drone shot over the River Thames that moves across Chelsea Bridge with traffic crossing, Grosvenor railway bridge and the Battersea and Nine Elms skyline behind, then turns toward the Chelsea north bank with Ranelagh Gardens and Chelsea Bridge Road, the area where The Lister Hospital is located. The hospital building is not identifiable by signage.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 11.3,
+   "end": 22.6,
+   "description": "Drone aerial of The Lister Hospital's red-brick building and neighbouring blocks on a road beside a park in Chelsea, London. The camera moves out to show traffic, the bridge over the River Thames and the city skyline on an overcast day.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 22.6,
+   "end": 33.89,
+   "description": "Aerial drone shot over The Lister Hospital's red-brick building on Chelsea Bridge Road, with traffic and red buses passing beside the trees of Ranelagh Gardens. The camera moves across the London rooftops and ends on Chelsea Bridge and the Thames.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 33.89,
+   "end": 45.19,
+   "description": "Drone footage over the junction by The Lister Hospital's red brick building on Chelsea Bridge Road, with traffic and red buses passing beside a park. The camera moves away to show the bridge and the London skyline under a grey sky.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 45.19,
+   "end": 56.49,
+   "description": "Aerial drone shot of The Lister Hospital's red-brick building on Chelsea Bridge Road, with modern apartment blocks behind and trees in the foreground. A red double-decker bus and other traffic move along the road and cycle lanes past the hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 56.49,
+   "end": 67.79,
+   "description": "Aerial drone shot of The Lister Hospital's red-brick building on Chelsea Bridge Road, London, with traffic and a red double-decker bus passing on the road in front and the modern apartment blocks behind. Bare trees line the left of frame.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 67.79,
+   "end": 79.08,
+   "description": "Aerial drone shot tracking along Chelsea Bridge Road past the red-brick Lister Hospital building, with traffic and red double-decker buses on the road below, trees in the foreground and the River Thames and Chelsea Bridge coming into view at the end.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 79.08,
+   "end": 90.38,
+   "description": "Aerial drone shot moving over a London residential area beside the River Thames, with red buses and traffic on a main road between apartment blocks and a tree-lined park, and a bridge over the river in the background. The area is consistent with the Chelsea Bridge Road setting of The Lister Hospital, but no hospital signage is legible.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 90.38,
+   "end": 101.68,
+   "description": "Aerial drone shot moving along a busy road with red buses, cycle lanes and traffic, past a row of red-brick and modern buildings, for The Lister Hospital in Chelsea. Trees and green space fill the foreground beside the road.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 101.68,
+   "end": 112.69,
+   "description": "Elevated view over Chelsea Bridge near The Lister Hospital, panning right across the River Thames to Battersea Power Station and the Grosvenor railway bridge on an overcast day. Traffic crosses Chelsea Bridge in the opening frames.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 112.69,
+   "end": 123.7,
+   "description": "Drone shot moving forward over the River Thames towards Battersea Power Station on an overcast day, with a green and white commuter train crossing the Grosvenor railway bridge in the foreground. A London location establishing shot of the area around Chelsea and Battersea.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 123.7,
+   "end": 134.7,
+   "description": "Drone shot flying north over traffic on Chelsea Bridge and the River Thames towards Chelsea, with the tree-lined riverside on the left and the neighbourhood around The Lister Hospital beyond the bridge under an overcast sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 134.7,
+   "end": 145.71,
+   "description": "Aerial drone shot moving toward a busy road junction beside a tree-lined park, with red-brick and modern apartment buildings and the London skyline behind, in the area around The Lister Hospital. Traffic, including a red double-decker bus, moves through the junction.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 145.71,
+   "end": 156.72,
+   "description": "Aerial drone shot moving over Chelsea Bridge Road towards The Lister Hospital's red-brick building, with traffic crossing the bridge approach, bare winter trees in the gardens alongside, and the London skyline under an overcast sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 156.72,
+   "end": 167.73,
+   "description": "Camera moves forward through a doorway toward the curved reception desk of the HCA Healthcare UK Women's Health Centre, ending on a receptionist seated behind computer monitors, who looks up and smiles at camera.",
+   "service_lines": [
+    "gynaecology"
+   ],
+   "kit": [
+    "computer monitors",
+    "printer",
+    "card payment terminal",
+    "document tray"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK; Women's Health Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 167.73,
+   "end": 178.74,
+   "description": "A receptionist sits at the front desk of the HCA Healthcare UK Women's Health Centre at The Lister Hospital, smiling towards someone off camera and then typing at her computer. The camera moves from a wide view of the reception desk and signage to a closer view of her at work.",
+   "service_lines": [
+    "gynaecology"
+   ],
+   "kit": [
+    "computer monitors",
+    "keyboard",
+    "printer",
+    "card payment terminal"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Women's Health Centre; Dell",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 178.74,
+   "end": 189.74,
+   "description": "Camera pulls back from a form on the reception desk to a wide view of the Women's Health Centre reception at The Lister Hospital, with a receptionist working behind the desk under the HCA Healthcare UK sign.",
+   "service_lines": [
+    "gynaecology"
+   ],
+   "kit": [
+    "computer monitors",
+    "reception desk",
+    "paper form"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Women's Health Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 189.74,
+   "end": 200.75,
+   "description": "A receptionist at the Women's Health Centre reception desk at The Lister Hospital slides a sheet of paperwork across the counter. The camera then pulls back to frame the reception through a doorway, showing the HCA Healthcare UK logo on the wall.",
+   "service_lines": [
+    "gynaecology"
+   ],
+   "kit": [
+    "computer monitors",
+    "reception desk",
+    "document trays"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Women's Health Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 200.75,
+   "end": 211.76,
+   "description": "A receptionist sits at the front desk of The Lister Hospital's reception area, smiling and then pointing to give directions to someone off camera across the counter.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "printer",
+    "card payment terminal"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 211.76,
+   "end": 223.29,
+   "description": "The camera moves past pink orchids and green plants toward a wall-mounted HCA Healthcare UK logo sign in a reception area with wooden slatted panelling, ending on a close view of the sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted logo sign",
+    "orchid plant"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 223.29,
+   "end": 234.81,
+   "description": "A receptionist works at the front desk of the Women's Centre at The Lister Hospital. The camera moves across the reception area past the backlit HCA Healthcare UK sign and an orchid display.",
+   "service_lines": [
+    "gynaecology"
+   ],
+   "kit": [
+    "computer monitors",
+    "printer",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Women's Centre (partially visible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 234.81,
+   "end": 246.34,
+   "description": "A woman in a beige trench coat sits on a sofa in a hospital waiting area reading a magazine, then the camera moves through to a corridor where a nurse in a burgundy uniform stands and smiles towards the camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "waiting room sofas and armchairs",
+    "side table"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 246.34,
+   "end": 257.87,
+   "description": "Camera moves through an open door into a mammography room at The Lister Hospital as a staff member in maroon scrubs walks in, ending on the mammography machine beside a backlit tree panel.",
+   "service_lines": [
+    "breast care",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mammography",
+    "computer monitor",
+    "medical supply trolley",
+    "sharps bin",
+    "stool",
+    "backlit tree wall panel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 257.87,
+   "end": 269.39,
+   "description": "A Hologic 3Dimensions mammography machine in an imaging room, followed by the exterior of HCA Healthcare UK's Chelsea Outpatients at number 280, with signage at the gated entrance and a walkway leading to the front door. The clip appears to cut from an interior to an exterior scene, so it may contain more than one shot.",
+   "service_lines": [
+    "breast care",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "mammography"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "3Dimensions; HOLOGIC; 280; Chelsea Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 269.39,
+   "end": 280.92,
+   "description": "Exterior entrance to HCA Healthcare UK Chelsea Outpatients at The Lister Hospital, showing the signed canopy over the gate and a path between a hedge and a wall leading to glass entrance doors. Bicycles are parked near the doors.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK Chelsea Outpatients",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 280.92,
+   "end": 291.13,
+   "description": "Low-angle moving shot of the HCA Healthcare UK Chelsea Outpatients entrance canopy and gate, passing through into the building. It ends on a high-angle view of a waiting area where a person sits on a green chair reading paperwork.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "waiting room chairs",
+    "hand sanitiser station"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK Chelsea Outpatients",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 291.13,
+   "end": 301.33,
+   "description": "A woman sits in a hospital waiting area with green and cream armchairs and sofas, reading a magazine while she waits. The camera moves through the lounge and ends behind a chair in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "magazine rack",
+    "armchairs",
+    "sofa",
+    "side tables",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 301.33,
+   "end": 311.54,
+   "description": "A woman sits alone in a hospital waiting area at The Lister Hospital, reading a magazine in a green armchair surrounded by empty chairs and sofas. The camera moves in slowly from a wide view of the room to a closer shot of her reading.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "sofa",
+    "side tables",
+    "magazine rack"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 311.54,
+   "end": 321.75,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 321.75,
+   "end": 331.95,
+   "description": "A nurse in a burgundy tunic walks down a hospital corridor, looks back over her shoulder and smiles at the camera, then turns and gestures towards a door as if inviting the viewer to follow.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "trolley",
+    "waiting chairs"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 331.95,
+   "end": 342.16,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 342.16,
+   "end": 344.48,
+   "description": "A radiographer in a maroon tunic sits at an imaging workstation reviewing scan images on a monitor in a diagnostic control room, with a colleague working at a second desk in the background.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "imaging workstation",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 344.48,
+   "end": 353.43,
+   "description": "A radiographer in a maroon tunic reviews a sagittal MRI scan of a foot and ankle in the MRI control room, with the scanner visible through the observation window and a colleague working at a desk behind him.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI console workstation",
+    "scanner bore camera monitor"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 353.43,
+   "end": 362.37,
+   "description": "A radiographer in maroon scrubs works at an MRI control room workstation reviewing foot scan images, with the MRI scanner visible through the control room window. The camera moves past the screens to a second staff member studying MRI images of a foot on two monitors.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI control workstation",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 362.37,
+   "end": 371.32,
+   "description": "A staff member in a maroon tunic points at MRI images of a foot and ankle on a computer monitor while explaining the scan to a seated male patient. The camera moves around the patient to show him looking at the scans on a second screen.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "imaging review workstation",
+    "computer monitors showing MRI scans",
+    "laptop"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 371.32,
+   "end": 382.95,
+   "description": "Two staff members review foot and ankle scan images on monitors at an imaging workstation. The camera moves from a woman leaning in to look at an axial slice, across to multiple scan views, and ends on a man at the keyboard smiling as they discuss the images.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "imaging review workstation",
+    "computer monitors",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 382.95,
+   "end": 394.57,
+   "description": "A staff member in a maroon tunic, likely a radiographer, leans in beside a seated colleague as they review cross-sectional scan images of a foot and ankle on two workstation monitors.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "imaging review workstation",
+    "computer monitors",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 394.57,
+   "end": 406.2,
+   "description": "A seated staff member works at a computer at a ward nurses' station while a nurse in a blue uniform stands behind her. The camera moves in from a wide view of the station to a medium shot of the two women.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "printer",
+    "nurses' station desk",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Lenovo, DELL (monitor logos)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 406.2,
+   "end": 417.83,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 417.83,
+   "end": 429.45,
+   "description": "Camera moves right from a waiting area with a teal chair, flowers and a framed London skyline print to a desk area where two female staff members talk, one seated at a computer. The shot ends on a printer, paper trays and a Lenovo monitor at the workstation.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "printer",
+    "computer monitor",
+    "desk phone",
+    "paper trays"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Lenovo",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 429.45,
+   "end": 441.08,
+   "description": "Camera moves past clinical area wall signage, including a 'Bare Below the Elbows' notice and a hand sanitising station, then reveals a woman sitting on a teal sofa in a waiting area reading a magazine at The Lister Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand sanitiser dispenser",
+    "waiting area seating"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "You are entering a Clinical area You must be Bare Below the Elbows; Dirty Utility; Hand Sanitising; HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 441.08,
+   "end": 447.84,
+   "description": "A woman sits on a teal sofa in a hospital waiting area at The Lister Hospital, reading a magazine beside a coffee table and potted orchids, with a framed city skyline print on the wall behind her. The camera slowly pushes in from a wide view to a medium shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "sofa",
+    "armchairs",
+    "coffee table",
+    "framed artwork",
+    "potted orchids",
+    "magazine"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 447.84,
+   "end": 456.12,
+   "description": "The camera moves up the entrance steps and through the glass automatic doors of The Lister Hospital. Inside, a staff member in a dark suit holding a tablet stands waiting on the entrance mat, with the reception desk behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "automatic doors",
+    "reception desk",
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Automatic door",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 456.12,
+   "end": 464.4,
+   "description": "A suited staff member holding a tablet stands in the reception area of The Lister Hospital and gestures with his arm to welcome and direct someone. The camera then pans to follow his gesture down a corridor.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tablet",
+    "reception desk",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 464.4,
+   "end": 473.48,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 473.48,
+   "end": 482.56,
+   "description": "Exterior of The Lister Hospital's red brick Victorian building with a Union Jack flag over the arched entrance, as the camera moves past a street pole and cars and vans drive by on the road in front.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "THE LISTER HOSPITAL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 482.56,
+   "end": 491.64,
+   "description": "Exterior of The Lister Hospital's red-brick building beside a modern grey and white block, as the camera pans right and a white van, a grey car and a towed trailer drive past on the road in front.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 491.64,
+   "end": 500.72,
+   "description": "Exterior of The Lister Hospital main entrance, with the camera tilting up from the front steps and signage past the entrance canopy to the building facade.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "The Lister Hospital; HCA Healthcare",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 500.72,
+   "end": 510.1,
+   "description": "Moving shot from the inside of The Lister Hospital's entrance lobby, through the automatic glass doors and out onto the street, where a red London double-decker bus and a moped rider pass by.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "automatic sliding doors"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SHELTER",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 510.1,
+   "end": 519.48,
+   "description": "Exterior of The Lister Hospital in London, where the camera moves past the building's white window frame toward the hanging Urgent Care Centre sign, with traffic on the tree-lined road behind.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Welcome to The Lister Hospital. Urgent Care Centre. Walk in service 8 am to 7 pm Monday to Sunday. HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 519.48,
+   "end": 528.86,
+   "description": "Exterior of The Lister Hospital with a hanging sign for the Urgent Care Centre's walk-in service, beside a tree-lined road with passing traffic. The camera moves slowly along the building facade past the sign and the HCA logo on the window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Welcome to The Lister Hospital; Urgent Care Centre; Walk-in service 8am to 7pm Monday to Sunday; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 528.86,
+   "end": 538.24,
+   "description": "Close view of HCA Healthcare UK logo and The Lister Hospital name on the building's exterior glass, with bare trees in fog reflected in the window as the camera drifts across the sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Lister Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 538.24,
+   "end": 548.24,
+   "description": "A staff member in navy scrubs walks along a corridor and the camera follows into an empty patient room with large windows, a wall-mounted TV, a sink, a desk and a chair.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand sanitiser dispenser",
+    "wall-mounted TV",
+    "clinical sink",
+    "desk and chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 548.24,
+   "end": 558.24,
+   "description": "A nurse in a navy uniform stands in an empty private patient room at The Lister Hospital as the camera pans right past the bed and door to a window with an orchid on the sill and a view of the street and traffic below.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "tablet",
+    "patient recliner chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 558.24,
+   "end": 569.88,
+   "description": "A nurse in a navy uniform opens a door and gestures into a private patient room at The Lister Hospital. The camera follows her in to show the empty room with sink, IV stand, wall-mounted TV, over-bed table, chair and large windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "IV stand",
+    "over-bed table",
+    "laptop",
+    "hand sanitiser dispenser",
+    "sink",
+    "wall-mounted TV",
+    "chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 569.88,
+   "end": 581.52,
+   "description": "A nurse in a navy uniform stands in a private patient room at The Lister Hospital as the camera moves past her across an empty, made-up hospital bed and recliner chair to a window with an orchid on the sill.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "tablet",
+    "recliner chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 581.52,
+   "end": 592.5,
+   "description": "A nurse in navy scrubs opens the door to an empty private patient room at The Lister Hospital, and the camera moves in past the handwash sink to show the bed, overbed table, wall-mounted TV and windows looking out onto trees.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "wall-mounted TV",
+    "handwash sink",
+    "paper towel dispenser",
+    "hand sanitiser dispenser",
+    "desk and chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 592.5,
+   "end": 603.48,
+   "description": "An empty private patient room at The Lister Hospital with a made hospital bed, an overbed table with a tablet, a recliner chair and a desk with an orchid. The camera moves across the room from the bed to the window, which looks out over the city.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "tablet",
+    "recliner chair"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 603.48,
+   "end": 615.56,
+   "description": "A nurse in a navy uniform opens a door and walks into an empty private patient room at The Lister Hospital, revealing a hospital bed, overbed table, desk and chair beneath large windows looking out onto trees.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "wall-mounted TV",
+    "hand sanitiser dispenser",
+    "sink",
+    "desk and chair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 615.56,
+   "end": 627.64,
+   "description": "Empty private patient room at The Lister Hospital with a made hospital bed, an overbed table holding a folder and information card, and a visitor armchair. The camera moves past the bed towards the window, ending on a view of the street outside.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "armchair"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 627.64,
+   "end": 637.66,
+   "description": "A nurse in a navy uniform walks into a private patient room at The Lister Hospital and goes over to a woman seated in a bedside recliner chair. She shows her a folder and they look through it together, with a made hospital bed in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "recliner chair",
+    "folder / clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 637.66,
+   "end": 647.68,
+   "description": "A nurse in navy HCA scrubs stands talking with a seated woman in a high-backed armchair, who looks through a dark folder or tablet case and hands it back to the nurse. The two smile and chat in a room with framed artwork at The Lister Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tablet in folio case",
+    "high-back armchair"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 647.68,
+   "end": 658.74,
+   "description": "A nurse in navy scrubs walks into a patient room and hands a folder to a woman sitting in an armchair beside the hospital bed. They talk and smile as she opens it.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "patient armchair",
+    "folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 658.74,
+   "end": 669.8,
+   "description": "A nurse holding a tablet talks with a seated woman in a patient room, then the camera pans right past the door to the window looking out over a road with traffic.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 669.8,
+   "end": 680.32,
+   "description": "A nurse in a navy uniform walks into a private patient room and shows a folder to a smiling woman seated in an armchair beside the hospital bed. The two chat as the camera moves closer.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "patient armchair",
+    "folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 680.32,
+   "end": 690.84,
+   "description": "A nurse in navy uniform shows a tablet to a seated woman in a patient room at The Lister Hospital, then gestures across the room. The camera pans right to a window with a view over the city.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 690.84,
+   "end": 700.92,
+   "description": "An empty hospital ward corridor at The Lister Hospital, with the camera moving forward through a doorway and down the corridor past patient room doors, a wall clock, notice boards and a nurses' station.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall clock",
+    "nurses' station",
+    "notice boards",
+    "fire extinguisher"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 700.92,
+   "end": 711.0,
+   "description": "A staff member in dark scrubs sits at a nurses' station and smiles at the camera, then the camera moves through a doorway into an empty critical care room where a staff member in blue scrubs adjusts a monitor on a ceiling pendant beside the bed.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "hospital bed",
+    "patient monitor",
+    "infusion pumps",
+    "ceiling-mounted equipment pendant",
+    "computer workstation",
+    "wall clock",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 711.0,
+   "end": 719.94,
+   "description": "A camera move through an empty critical care bed space, passing stacked infusion pumps and a stethoscope hanging beside a hospital bed and ending on a bedside monitor screen mounted on an equipment pendant.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "infusion pump",
+    "stethoscope",
+    "hospital bed",
+    "patient monitor",
+    "ceiling equipment pendant"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Stop",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 719.94,
+   "end": 728.88,
+   "description": "A Capsule medical device integration screen mounted on an IV pole shows the prompt to associate a patient. The camera moves along the pole past infusion pumps next to an empty hospital bed in a critical care bay.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "Capsule medical device integration screen",
+    "infusion pump",
+    "IV pole",
+    "hospital bed"
+   ],
+   "people": [],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Tap here or scan to associate a patient; capsule",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 728.88,
+   "end": 740.38,
+   "description": "Camera moves from the 'Welcome to the Critical Care Unit' sign at The Lister Hospital to the nurses' station, where a team of nurses in scrubs stand at the desk reviewing paperwork and notes together.",
+   "service_lines": [
+    "critical care"
+   ],
+   "kit": [
+    "nurses' station desk",
+    "computer monitor",
+    "clipboards / paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 5
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Lister Hospital; Welcome to the Critical Care Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 740.38,
+   "end": 751.87,
+   "description": "Three nurses in HCA uniforms stand at a nurses' station, reviewing paperwork and a binder together during a handover or discussion.",
+   "service_lines": [],
+   "kit": [
+    "reclining patient chair",
+    "binder",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniforms",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 751.87,
+   "end": 763.37,
+   "description": "Nurses gather at a ward nurses' station, with three staff standing and reviewing notes on clipboards and folders while two nurses work at the desk. The camera moves around behind the desk as they talk through patient notes.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "clipboards / folders",
+    "office chairs",
+    "nurses' station desk"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 5
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 763.37,
+   "end": 774.86,
+   "description": "Nursing staff in navy and light blue HCA uniforms gather at a ward nurses' station, reviewing paperwork and clipboards and writing notes together during a handover-style discussion at The Lister Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clipboards",
+    "paperwork",
+    "nurses' station desk",
+    "office chair",
+    "pigeonhole shelving"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 5
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 774.86,
+   "end": 786.36,
+   "description": "Two nurses in navy HCA Healthcare UK scrubs stand in a hospital corridor reviewing paperwork and a folder together, with one nurse writing notes. The shot then moves in on the female nurse as she talks, and ends on a nurse with glasses and a ponytail walking through the corridor.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clipboard folder",
+    "paperwork",
+    "pen"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK (scrubs logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 786.36,
+   "end": 797.86,
+   "description": "A nurse in navy HCA Healthcare UK scrubs reads through paperwork while a colleague holds a pen and notes, then the camera moves to a smiling nurse in light blue scrubs in a ward corridor at The Lister Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "paperwork",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 797.86,
+   "end": 809.35,
+   "description": "Nursing staff in navy and light blue scrubs stand at a nurses' station reviewing paperwork and folders together, possibly during a shift handover, with a colleague out of focus in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "clipboard folders",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniforms",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 809.35,
+   "end": 820.85,
+   "description": "Nurses gather at a ward nurses' station for a shift handover, reading from paperwork and folders while a colleague in the foreground watches. Camera tracks past the group as they review notes together.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "clipboard / folder",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 4
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 820.85,
+   "end": 832.34,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 832.34,
+   "end": 843.84,
+   "description": "A hand writes with an orange pen on a green form at a nurses' station counter while another person's hands rest on the desk. Focus pulls to two staff in navy scrubs in the corridor behind, one holding a folder and smiling.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "pen and paper form",
+    "clipboard folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 843.84,
+   "end": 855.56,
+   "description": "A theatre team in blue scrubs and scrub caps gathers for a pre-list briefing in an operating theatre at The Lister Hospital, with one team member speaking while colleagues listen, some holding paperwork.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "patient monitor",
+    "theatre stool"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 7
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 855.56,
+   "end": 867.29,
+   "description": "A theatre team in scrubs gathers in an operating theatre at The Lister Hospital to review a sheet of paperwork together before a procedure, with a robotic surgical system and monitors in the background.",
+   "service_lines": [
+    "robotic surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "patient monitor",
+    "ceiling-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 6
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Rosie (printed on theatre caps)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 867.29,
+   "end": 879.01,
+   "description": "A surgical team in scrubs and caps holds a briefing in an operating theatre, with one staff member reading from paperwork and another taking notes on a clipboard. Robotic surgical system arms and a ceiling-mounted monitor are visible in the background.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "ceiling-mounted monitor",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 5
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 879.01,
+   "end": 890.73,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 890.73,
+   "end": 902.46,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 902.46,
+   "end": 914.18,
+   "description": "A bearded staff member in navy scrubs walks into an office, sits briefly at a desk with a keyboard and phone while laughing, then gets up and walks out through the door, gesturing as he leaves. The moment looks candid, possibly an outtake.",
+   "service_lines": [],
+   "kit": [
+    "desk",
+    "computer keyboard",
+    "computer mouse",
+    "desk phone",
+    "laser printer",
+    "office chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 914.18,
+   "end": 925.9,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 925.9,
+   "end": 937.63,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 937.63,
+   "end": 949.35,
+   "description": "A man and a woman sit down across a desk from a clinician, seen from behind, in a consulting room at The Lister Hospital, and begin a consultation. The room has a computer monitor, a desk phone and an examination couch.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "desk phone",
+    "keyboard",
+    "examination couch"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 949.35,
+   "end": 961.07,
+   "description": "A man and a woman sit side by side at a table in a consulting room, listening to someone off camera during what appears to be a consultation. The camera drifts to the right and the focus shifts between the two of them.",
+   "service_lines": [],
+   "kit": [
+    "meeting table",
+    "office chairs",
+    "framed artwork"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 961.07,
+   "end": 972.8,
+   "description": "A couple sits side by side at a desk in a consulting room, listening to a consultant in blue scrubs who talks with them from across the desk. The camera moves around from in front of the couple to behind them to reveal the consultant.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "keyboard and mouse",
+    "printer",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    },
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 972.8,
+   "end": 984.52,
+   "description": "A consultant in navy scrubs sits at a desk in a consulting room at The Lister Hospital, talking with a couple seated across from him. The camera moves from a view of the consultant gesturing as he explains to an over-the-shoulder view of the couple listening.",
+   "service_lines": [],
+   "kit": [
+    "desk computer keyboard and mouse",
+    "printer",
+    "clinic sink"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 984.52,
+   "end": 994.1,
+   "description": "A staff member in navy scrubs handles and positions the instrument arms of a da Vinci surgical robot patient cart, with the cart's touchscreen visible below.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 994.1,
+   "end": 1003.68,
+   "description": "Over-the-shoulder view of a staff member in navy scrubs holding and adjusting the instrument arms of a da Vinci surgical robot in an operating theatre.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1003.68,
+   "end": 1015.96,
+   "description": "In an operating theatre at The Lister Hospital, a gowned surgeon stands beside the draped arms of a da Vinci surgical robot, then the camera moves to a team member in scrubs pointing at the live endoscopic view on the robot's touchscreen monitor during a procedure.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "endoscope",
+    "touchscreen vision monitor",
+    "surgical drapes",
+    "IV stand"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1015.96,
+   "end": 1026.48,
+   "description": "Over-the-shoulder view of a surgeon seated at a da Vinci robotic surgery console, gripping and moving the hand controllers that operate the robot's instruments.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1026.48,
+   "end": 1036.76,
+   "description": "A surgeon sits at a da Vinci robotic surgery console in an operating theatre. The camera then moves to a member of the theatre team pointing at a large touchscreen monitor that shows the live internal view of the robotic instruments during the procedure.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "surgeon console",
+    "touchscreen vision monitor",
+    "operating theatre lights"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1036.76,
+   "end": 1047.04,
+   "description": "A staff member in navy scrubs and an HCA Healthcare UK scrub cap sorts through paperwork and packaging at a desk workstation, then writes notes on a form. A computer, keyboard and boxed clinical supplies sit on the desk around her.",
+   "service_lines": [],
+   "kit": [
+    "computer workstation",
+    "keyboard",
+    "clinical supplies",
+    "paper forms"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1047.04,
+   "end": 1055.76,
+   "description": "A surgeon in dark scrubs sits at a da Vinci robotic surgery console with fingers in the hand controllers, moving them as he operates. Filmed from the side with part of the console blurred in the foreground.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1055.76,
+   "end": 1066.6,
+   "description": "Close-up of the da Vinci surgical robot arm with the 'DAVINCI' logo in focus, while a staff member in navy scrubs and a theatre cap stands out of focus in the background of an operating theatre and folds his arms.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "DAVINCI",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1066.6,
+   "end": 1077.44,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1077.44,
+   "end": 1088.28,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1088.28,
+   "end": 1099.12,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1099.12,
+   "end": 1109.96,
+   "description": "Draped robotic surgical arms with instruments inserted through ports into a patient's draped abdomen during a robotic procedure in an operating theatre, as a masked theatre team member in scrubs stands beside the robot.",
+   "service_lines": [
+    "robotic surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "surgical drapes",
+    "laparoscopic ports and instruments"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1109.96,
+   "end": 1120.8,
+   "description": "Camera moves along a da Vinci surgical robot docked to a draped patient in an operating theatre at The Lister Hospital, then reveals the masked theatre team in scrubs watching the robotic procedure.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "surgical drapes",
+    "laparoscopic ports"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 5
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1120.8,
+   "end": 1131.64,
+   "description": "Draped arms of a da Vinci surgical robot in an operating theatre at The Lister Hospital, with a masked theatre team member standing beside the robot. The shot moves to the robot's touchscreen panel reading 'Surgery in Progress'.",
+   "service_lines": [
+    "robotic surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "robot control touchscreen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SURGERY IN PROGRESS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1131.64,
+   "end": 1142.48,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1142.48,
+   "end": 1151.76,
+   "description": "A pharmacy staff member in a green tunic hands a boxed Menopur fertility medication across a counter, through a gap in a protective screen, to a patient's outstretched hand. A 'Your safety comes first' sign is on the wall behind the counter.",
+   "service_lines": [
+    "pharmacy",
+    "fertility"
+   ],
+   "kit": [
+    "pharmacy counter",
+    "protective counter screen",
+    "medication box"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "YOUR SAFETY COMES FIRST; MENOPUR 1200 IU",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1151.76,
+   "end": 1155.4,
+   "description": "Wall-mounted directional sign reading 'Lister Fertility Clinic' with a left-pointing arrow, on a plain corridor wall at The Lister Hospital. The camera arcs slowly past the sign, changing the viewing angle from one side to the other.",
+   "service_lines": [
+    "fertility"
+   ],
+   "kit": [
+    "wayfinding sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Lister Fertility Clinic",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1155.4,
+   "end": 1159.28,
+   "description": "A camera moves toward the 'Lister Fertility Clinic' sign above an open double-door entrance at the end of a corridor, with pink and purple artwork visible on the wall inside the clinic.",
+   "service_lines": [
+    "fertility"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Lister Fertility Clinic",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1159.28,
+   "end": 1170.45,
+   "description": "Camera pans along a corridor wall lined with printed fertility information panels covering egg freezing, genetic testing and egg donation, each illustrated with lab photography.",
+   "service_lines": [
+    "fertility"
+   ],
+   "kit": [
+    "wall information panels"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "Egg freezing; Genetic testing; Egg donation",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1170.45,
+   "end": 1181.63,
+   "description": "A wall plaque at The Lister Hospital reading that Lister Fertility Clinic was opened in 1988 by Mr Hossam 'Sam' Abdalla, Clinical Director 1988 to 2018. The camera moves in on the plaque, then up to a 'Lister Fertility Clinic' sign above a doorway.",
+   "service_lines": [
+    "fertility"
+   ],
+   "kit": [
+    "commemorative wall plaque",
+    "door signage"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Lister Fertility Clinic was opened in 1988 by Mr Hossam 'Sam' Abdalla, Clinical Director (1988 - 2018); Lister Fertility Clinic; partial wall text: 'of the leading private... care you receive is not... but this care is deliv... warmth.'",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1181.63,
+   "end": 1192.8,
+   "description": "A 'Theatre 2' sign on a white wall above the entrance to an operating theatre in a hospital corridor, with a staff member in navy scrubs walking in the background. The camera moves in close on the sign and then eases back out.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "hand sanitiser dispenser",
+    "trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Theatre 2",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1192.8,
+   "end": 1203.97,
+   "description": "Hospital clinical area with a wheeled equipment stack, a covered monitor and wall-mounted green and yellow emergency bags, followed by a directional 'Paediatrics' sign above a wooden doorway in a corridor at The Lister Hospital.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "equipment stack with monitor",
+    "medical gas outlets",
+    "emergency grab bags"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Paediatrics",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1203.97,
+   "end": 1215.15,
+   "description": "Camera starts on a wall sign reading 'Paediatrics' with an arrow above a wooden door, then tilts down and moves through the doorway into an empty hospital corridor lined with consulting room doors.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Paediatrics",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1215.15,
+   "end": 1226.32,
+   "description": "Pan across an empty outpatient waiting area at The Lister Hospital, moving from a corridor with wooden doors to grey armchairs and a children's play corner with a small table, colourful chairs and toys.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "waiting room chairs",
+    "children's play table and chairs"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1226.32,
+   "end": 1237.79,
+   "description": "Corridor with framed underwater-themed artwork of fish, coral and an octopus on the walls, with a view through a doorway to a room with small colourful children's tables and chairs. No people are in shot.",
+   "service_lines": [
+    "paediatrics"
+   ],
+   "kit": [
+    "framed artwork",
+    "children's table and chairs"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1237.79,
+   "end": 1249.25,
+   "description": "A framed artwork of a forest scene with oversized mushrooms, deer, a fox and monkeys hangs on a white wall inside The Lister Hospital. The camera moves slowly back and to the side across the picture.",
+   "service_lines": [],
+   "kit": [
+    "framed artwork"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1249.25,
+   "end": 1260.72,
+   "description": "A LEGO model of an MRI suite in a clear display case, with a minifigure patient lying on the scanner table and staff minifigures in the adjoining control room. The camera moves closer to the model as the shot progresses.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner (LEGO model)",
+    "display case"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1260.72,
+   "end": 1268.6,
+   "description": "A LEGO model of a white-tiled room with a minifigure in a pink top standing in the centre and other minifigures on the side wall. The camera moves upward to reveal an upper level where two more minifigures stand.",
+   "service_lines": [],
+   "kit": [
+    "LEGO model",
+    "LEGO minifigures"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1268.6,
+   "end": 1280.16,
+   "description": "A staff member in maroon scrubs works at a computer workstation, using the mouse and keyboard while reviewing what appear to be scan images on a twin-monitor setup in a reporting room with a service updates whiteboard behind him.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer workstation",
+    "dual monitors",
+    "keyboard and mouse",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SERVICE UPDATES",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1280.16,
+   "end": 1288.44,
+   "description": "A staff member at a dual-monitor workstation reviews CT scans of a patient's head and sinuses, shown in multiple views, while using a keyboard and control panel in a radiology reporting room.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "ENT"
+   ],
+   "kit": [
+    "radiology reporting workstation",
+    "dual monitors",
+    "keyboard",
+    "desk telephone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1288.44,
+   "end": 1296.72,
+   "description": "A radiographer in maroon scrubs sits at a CT control room workstation reviewing axial CT head scan images on dual monitors, with the CT scanner visible in the background. The camera moves from his profile to an over-the-shoulder view as he works the mouse.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "dual computer monitors",
+    "keyboard and mouse",
+    "CT control console"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1296.72,
+   "end": 1308.17,
+   "description": "The camera pulls back from inside the bore of a CT scanner to show the whole scanner, its paper-covered patient table and the empty scan room around it. A ceiling-mounted contrast injector and wall monitor are visible beside the gantry.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "contrast injector",
+    "wall-mounted monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1308.17,
+   "end": 1319.62,
+   "description": "Camera pulls back from inside the bore of a GE CT scanner to reveal the full gantry and patient table in an empty imaging room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "GE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1319.62,
+   "end": 1331.07,
+   "description": "A GE CT scanner in an empty imaging room, with the camera moving in from the scanner bore to a close view of the gantry control panel buttons.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "scanner gantry control panel"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "GE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1331.07,
+   "end": 1342.52,
+   "description": "Close-up of the control buttons on a scanner gantry, then the camera moves to a 'CT Scanner/MRI' sign above a doorway in the imaging department at The Lister Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "scanner gantry control panel"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "CT Scanner/MRI",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1342.52,
+   "end": 1354.64,
+   "description": "An empty ultrasound room with the scanner and its control panel beside a made-up examination couch. The camera moves slowly in from a wide view of the room to a close view of the ultrasound keyboard, touchscreen and probes.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "examination couch"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1354.64,
+   "end": 1366.76,
+   "description": "Camera moves from a close-up of an ultrasound probe resting on its console, out across an ultrasound machine beside an examination couch, and through a doorway to an MRI scanner in the next room. No people are in the imaging department.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound",
+    "MRI scanner",
+    "examination couch",
+    "computer monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "GE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1366.76,
+   "end": 1379.05,
+   "description": "An empty X-ray room at The Lister Hospital, with a ceiling-mounted GE X-ray tube and control display above a digital detector plate resting on a blue-topped table beside a chair. The camera moves from the X-ray tube down to the detector and back up to the tube.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "digital X-ray detector plate"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "GE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1379.05,
+   "end": 1391.34,
+   "description": "Camera moves from a ceiling-mounted X-ray tube in an X-ray room to two staff members at the control console. A radiographer in maroon scrubs works at the keyboard while a colleague in a green HCA tunic stands beside him.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray",
+    "computer workstation"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA (logo on uniform, partially visible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1391.34,
+   "end": 1403.63,
+   "description": "Two staff members in HCA uniforms, one in a mint green tunic and one in a maroon tunic, stand at a computer workstation using the keyboard and mouse. The camera moves from their hands at the desk up to their faces as they look at the screen.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer workstation"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1403.63,
+   "end": 1415.92,
+   "description": "Two clinical staff, a woman in light green HCA scrubs and a man in maroon scrubs, look at a computer monitor together at a workstation. She points at the screen and talks him through what it shows.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (logo on scrubs)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1415.92,
+   "end": 1424.82,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1424.82,
+   "end": 1433.72,
+   "description": "Night-time move from inside the hospital entrance, through the glass doors with frosted dot markings and a blue mandatory-instruction sign, out to the exterior steps and planters, with lit buildings across the street.",
+   "service_lines": [],
+   "kit": [
+    "glass entrance doors",
+    "door access keypad"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1433.72,
+   "end": 1445.08,
+   "description": "A receptionist in a suit smiles while working at the front desk of HCA Healthcare UK's Chiswick Outpatients. The camera then moves out through the glass entrance doors to the building's exterior at night, showing steps and a planted area.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk",
+    "glass entrance doors"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Chiswick Outpatients",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1445.08,
+   "end": 1457.32,
+   "description": "Camera moves sideways along a wood-slatted wall with illuminated 'Chiswick Outpatients' lettering and an HCA Healthcare UK logo panel in the entrance area. No people are in shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Chiswick Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1457.32,
+   "end": 1469.56,
+   "description": "Camera pans right across metal 'Chiswick Outpatient' lettering mounted on a wooden slatted wall, ending on a curved navy HCA Healthcare UK logo panel and a backlit round feature. Signage shot at the Chiswick Outpatient Centre, linked to The Lister Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "Chiswick Outpatient; HCA Healthcare UK (partially visible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  }
+ ]
+}

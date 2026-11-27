@@ -7,123 +7,803 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 9.68
+   "end": 9.68,
+   "description": "Animated title card on a blue background with the HCA Healthcare UK logo and the text \"Leaders in Oncology Care, 95 Harley Street\" fading in, then a curved wipe reveals aerial footage of central London rooftops and terraced streets around Harley Street.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "HCA Healthcare UK; Leaders in Oncology Care; 95 Harley Street",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 9.68,
-   "end": 12.96
+   "end": 12.96,
+   "description": "High-angle view of a row of brick and stone townhouses on a London street, with cars parked along the kerb and rooftop chimney pots in the foreground. The camera holds on the terrace with a slight drift.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "drone"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 12.96,
-   "end": 16.32
+   "end": 16.32,
+   "description": "Exterior of a white stucco townhouse at number 97, the Leaders in Oncology Care building. The camera tilts down from a first-floor balcony past an arched fanlight to the dark green front door with ornate ironwork panels and a lion-head knocker, with the lit interior visible through the glass.",
+   "service_lines": [],
+   "kit": [
+    "front door with lion-head knocker",
+    "wrought-iron balcony",
+    "arched fanlight window",
+    "security camera"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "97",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 16.32,
-   "end": 19.44
+   "end": 19.44,
+   "description": "A front-of-house staff member in a dark suit and name badge stands beside a wooden reception podium in the entrance hall of Leaders in Oncology Care, speaking to camera. The hall has a curved staircase, an arched doorway and a black-and-white tiled floor.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "reception podium",
+    "rope barrier stanchion"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Leaders in Oncology Care",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 19.44,
-   "end": 21.72
+   "end": 21.72,
+   "description": "Detail shot of a wooden wall panel with a metal HCA Healthcare UK plaque reading 'Leaders in Oncology Care', with the same words printed beneath it. A dark out-of-focus object sits in the foreground as the camera moves slowly across the sign.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Leaders in Oncology Care",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 21.72,
-   "end": 23.84
+   "end": 23.84,
+   "description": "Looking straight up a white spiral stairwell with black iron railings towards an oval leaded skylight and a hanging chandelier. The camera drifts slowly as it looks up the stairwell.",
+   "service_lines": [],
+   "kit": [
+    "chandelier",
+    "skylight",
+    "staircase with iron balustrade"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 23.84,
-   "end": 25.64
+   "end": 25.64,
+   "description": "Two clinicians in suits stand at a large wall screen in a meeting room, reviewing pelvic MRI scans with a colour radiotherapy dose overlay. One points to the images as they discuss the plan.",
+   "service_lines": [
+    "oncology",
+    "radiotherapy",
+    "imaging and diagnostics",
+    "urology"
+   ],
+   "kit": [
+    "large wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 25.64,
-   "end": 28.04
+   "end": 28.04,
+   "description": "Two men in suits stand at a large wall-mounted screen showing pelvic MRI scans with a colour heatmap overlay, likely of the prostate. One gestures as he explains the images to the other, who is seen from behind.",
+   "service_lines": [
+    "oncology",
+    "urology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "wall-mounted display screen showing MRI images"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 28.04,
-   "end": 30.52
+   "end": 30.52,
+   "description": "A consultant in a grey jacket and glasses stands beside a large screen showing MRI scans with a coloured heat-map overlay and uses his hands to explain the images to an audience.",
+   "service_lines": [
+    "oncology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "display screen showing MRI images"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 30.52,
-   "end": 32.16
+   "end": 32.16,
+   "description": "A bearded man in a dark blazer, dark jumper and white collared shirt speaks and gestures with his hands against a plain grey background, appearing to address an audience or give an interview.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 32.16,
-   "end": 35.4
+   "end": 35.4,
+   "description": "A nurse in a navy uniform, white apron and blue gloves sets up an infusion pump on an IV pole beside an empty infusion chair in an oncology day unit bay. The camera moves sideways past a privacy curtain to reveal her at work.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "infusion pump",
+    "IV pole with fluid bag",
+    "supply trolley",
+    "wall-mounted TV screen",
+    "hand sanitiser dispenser",
+    "privacy curtain"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 35.4,
-   "end": 36.84
+   "end": 36.84,
+   "description": "A nurse in a navy uniform and disposable plastic apron looks down and smiles slightly as she works on something just out of frame, filmed from a low angle in a room at Leaders in Oncology Care.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "disposable apron"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 36.84,
-   "end": 38.6
+   "end": 38.6,
+   "description": "Close-up of a staff member's gloved hands holding and untangling a coiled IV infusion line with a blue cap and roller clamp, preparing it for use.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "IV infusion line"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 38.6,
-   "end": 40.48
+   "end": 40.48,
+   "description": "Close-up profile of a woman wearing glasses, a teal patterned headband and a grey jumper, seated against white pillows and looking to her right, while a staff member in teal scrubs moves behind her.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "pillow"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 40.48,
-   "end": 42.88
+   "end": 42.88,
+   "description": "Close-up of a staff member's hands tucking a white cellular blanket over a patient lying on a bed or couch. The patient's ringed hand rests on top of the blanket as it settles.",
+   "service_lines": [],
+   "kit": [
+    "cellular blanket",
+    "patient couch"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 42.88,
-   "end": 46.96
+   "end": 46.96,
+   "description": "A patient in glasses and a patterned headband holds a white handset to her face while a nurse in blue scrubs stands beside her. A nurse in purple gloves then adjusts the IV line from a yellow-covered infusion bag on a drip stand next to an infusion pump.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "IV drip stand",
+    "infusion bag with yellow cover",
+    "infusion pump",
+    "hand sanitiser dispenser",
+    "handset"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 46.96,
-   "end": 49.4
+   "end": 49.4,
+   "description": "A nurse in a light blue uniform, apron and blue gloves talks with and attends to a patient seated in an infusion chair in an oncology treatment bay. A second nurse in a navy HCA uniform sits out of focus in the foreground.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "IV drip stand",
+    "infusion pump",
+    "patient monitor",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (logo on uniform)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 49.4,
-   "end": 51.24
+   "end": 51.24,
+   "description": "A patient with a cannula in her hand sits in an infusion chair, smiling and talking with a nurse in a navy uniform, shown over the nurse's shoulder in a chemotherapy day unit.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "IV cannula and line",
+    "hand sanitiser dispenser",
+    "storage drawers"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 51.24,
-   "end": 54.24
+   "end": 54.24,
+   "description": "Close-up of a staff member in teal scrubs handing a patient a clipboard holding a day case breakfast menu and a pen. The patient's hands reach in to take it.",
+   "service_lines": [],
+   "kit": [
+    "clipboard",
+    "pen",
+    "menu"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Day case breakfast menu",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 54.24,
-   "end": 59.72
+   "end": 59.72,
+   "description": "A hospitality staff member in a black waistcoat and white shirt carries a tray of sandwiches, crisps and a water carafe through a chemotherapy day unit, places it on a table in front of the camera and walks away. Curtained treatment bays with infusion chairs are visible in the background.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "food tray",
+    "water carafe",
+    "over-bed table",
+    "privacy curtains"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 59.72,
-   "end": 65.36
+   "end": 65.36,
+   "description": "A nurse fits a scalp cooling cap onto a seated female patient in a chemotherapy treatment chair, then connects the cap's tubing to the scalp cooling machine and sets it using its touchscreen. Shows scalp cooling to reduce hair loss during chemotherapy.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "scalp cooling cap",
+    "scalp cooling machine"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 65.36,
-   "end": 67.04
+   "end": 67.04,
+   "description": "Close-up of a smiling female patient wearing a scalp cooling cap while seated in a treatment chair, used to help reduce hair loss during chemotherapy. She looks off camera and turns her head slightly.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "scalp cooling cap",
+    "infusion chair"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 67.04,
-   "end": 69.16
+   "end": 69.16,
+   "description": "Close-up of a staff member's lilac uniform tunic with the embroidered HCA Healthcare UK logo, with a softly lit window and radiator out of focus behind. The camera drifts slowly across the chest and shoulder, framing the logo.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 69.16,
-   "end": 71.52
+   "end": 71.52,
+   "description": "A therapist in a lilac tunic gives a foot massage or reflexology treatment to a patient lying on a towel-covered treatment couch, as part of complementary therapy in cancer care. Only the patient's bare feet and lower legs in black leggings are shown.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "treatment couch",
+    "towel"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 71.52,
-   "end": 73.72
+   "end": 73.72,
+   "description": "Close-up of an older person's hands gently holding a younger person's hand and forearm in a comforting gesture. The older person wears a purple top. Faces are not shown.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 73.72,
-   "end": 75.44
+   "end": 75.44,
+   "description": "Close-up of a hand wearing a ring and a grey jumper placing a paper cup under a coffee machine in a hospital lounge or waiting area.",
+   "service_lines": [],
+   "kit": [
+    "coffee machine",
+    "paper cup"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 75.44,
-   "end": 77.28
+   "end": 77.28,
+   "description": "Close-up of a seated patient's hand resting on the armrest of a treatment chair while a staff member in teal scrubs adjusts a corded hand control. A second person places a reassuring hand over the patient's hand.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "infusion chair",
+    "chair hand control"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "detail",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 77.28,
-   "end": 79.44
+   "end": 79.44,
+   "description": "A patient sits in an infusion chair reading a Country Living magazine, with an infusion pump on a drip stand and an examination light behind her. This suits chemotherapy day unit or treatment room scenes.",
+   "service_lines": [
+    "oncology",
+    "haematology"
+   ],
+   "kit": [
+    "infusion chair",
+    "infusion pump",
+    "drip stand",
+    "examination light"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "COUNTRY LIV (magazine cover)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 79.44,
-   "end": 88.3
+   "end": 88.3,
+   "description": "A young man in a dark coat opens the glazed, wrought-iron front door of a Georgian townhouse clinic, revealing a London street with white stucco terraces and parked cars. The shot ends on the HCA logo end card on a navy background.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 88.3,
-   "end": 97.15
+   "end": 97.15,
+   "description": "HCA Healthcare UK logo in white on a dark navy background, static throughout the shot. Brand end card or title card from the Leaders in Oncology Care film.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

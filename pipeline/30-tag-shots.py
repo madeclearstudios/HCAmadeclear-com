@@ -57,6 +57,7 @@ FACILITIES = [
     ("lister", "The Lister Hospital"),
     ("london bridge", "London Bridge Hospital"),
     ("harley street clinic", "The Harley Street Clinic"),
+    ("harley street", "The Harley Street Clinic"),
     ("harborne", "The Harborne Hospital"),
     ("wilmslow", "The Wilmslow Hospital"),
     ("christie", "The Christie Private Care"),

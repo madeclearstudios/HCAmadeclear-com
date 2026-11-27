@@ -7,63 +7,444 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 11.39
+   "end": 11.39,
+   "description": "An empty hybrid theatre / cath lab at The Harborne Hospital with a C-arm X-ray system, procedure table, ceiling-mounted operating lights and a large overhead display. The camera moves slowly forward and upward through the room.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "patient monitor",
+    "procedure table",
+    "ceiling-mounted display screen",
+    "anaesthetic machine"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 11.39,
-   "end": 22.79
+   "end": 22.79,
+   "description": "An empty hybrid operating theatre / cath lab at The Harborne Hospital, with a C-arm imaging system, operating table, overhead theatre lights and a large ceiling-mounted display. The camera moves slowly forward through the room toward the table.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted display screen",
+    "C-arm X-ray system"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 22.79,
-   "end": 34.18
+   "end": 34.18,
+   "description": "Low-angle moving shot through an empty hybrid operating theatre with a C-arm imaging system, operating table, ceiling-mounted surgical lights and monitor booms, used for cardiac procedures at The Harborne Hospital.",
+   "service_lines": [
+    "cardiology",
+    "general surgery",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "operating theatre lights",
+    "patient monitor",
+    "anaesthetic machine",
+    "operating table",
+    "ceiling-mounted monitor booms",
+    "equipment trolley"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 34.18,
-   "end": 45.57
+   "end": 45.57,
+   "description": "Camera moves from an empty cardiac catheterisation lab, with its C-arm, theatre lights and monitors, to the adjoining control room. There, two clinicians in scrubs talk while an angiogram image shows on the screen behind them.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "operating theatre lights",
+    "patient monitor",
+    "angiogram display monitor",
+    "computer workstation"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 45.57,
-   "end": 56.97
+   "end": 56.97,
+   "description": "Two clinicians in scrubs sit in a cath lab control room at The Harborne Hospital, discussing a coronary angiogram image shown on a monitor. The cath lab equipment is visible through the control room window behind them.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "computer monitor",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 56.97,
-   "end": 68.36
+   "end": 68.36,
+   "description": "Two clinicians in scrubs sit and talk in a cath lab control room at The Harborne Hospital, with an angiogram image displayed on the monitor between them. One wears navy scrubs, a surgical cap and a lanyard; the other wears light blue scrubs.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "angiography monitor",
+    "computer workstation",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 68.36,
-   "end": 79.75
+   "end": 79.75,
+   "description": "Two cardiologists in scrubs talk in a cath lab control room. One in a surgical cap points to a coronary angiogram on a monitor, then the pair continue their conversation seated at the workstation.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "angiogram monitor",
+    "computer workstation"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 79.75,
-   "end": 91.15
+   "end": 91.15,
+   "description": "Over-the-shoulder shot of a consultant cardiologist in navy scrubs and a surgical cap talking with a colleague in blue scrubs, reaching out and pointing as he explains something during cardiac care at The Harborne Hospital.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Prof Sagar D... Cardiologist (embroidered on scrubs, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 91.15,
-   "end": 102.54
+   "end": 102.54,
+   "description": "A cardiologist in navy scrubs and a surgical cap talks with a colleague in light blue scrubs, who is seen from behind in the foreground. The camera drifts right and ends out of focus on the consultant's shoulder.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Prof Sagar Do... Cardiologist (embroidered on scrubs, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 102.54,
-   "end": 113.93
+   "end": 113.93,
+   "description": "A clinician in blue scrubs talks to someone off camera in a room with desks and computer monitors, glancing aside and down as he speaks. A colleague in a surgical cap passes out of focus in the foreground at the end of the shot.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 113.93,
-   "end": 125.33
+   "end": 125.33,
+   "description": "A clinician in blue scrubs talks with a colleague in a surgical cap, seen out of focus from behind, in what appears to be a cath lab control room with computer monitors and a glass partition behind them.",
+   "service_lines": [
+    "cardiology"
+   ],
+   "kit": [
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 125.33,
-   "end": 136.72
+   "end": 136.72,
+   "description": "Two clinicians in scrubs at The Harborne Hospital review a fluoroscopy image of a transcatheter heart valve on a monitor, with one pointing at the valve on screen. The shot is in the cath lab control area.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "computer monitor showing fluoroscopy image"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 136.72,
-   "end": 148.11
+   "end": 148.11,
+   "description": "In a cath lab control room at The Harborne Hospital, a clinician points at a monitor showing an X-ray image of an implanted cardiac stent or valve frame. The camera then moves to a man in blue scrubs seated at the control desk.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "computer monitors",
+    "control room workstation"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 148.11,
-   "end": 159.51
+   "end": 159.51,
+   "description": "Two clinicians in scrubs sit in a cath lab control room, discussing an angiogram image on a monitor, with the catheter lab visible through the window behind them. The clinician in navy scrubs and a surgical cap gestures as he explains to his colleague in light blue scrubs.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "computer monitors",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 159.51,
-   "end": 170.9
+   "end": 170.9,
+   "description": "Two clinicians in scrubs sit and talk in the cath lab control room at The Harborne Hospital, with angiography images on the monitors behind them and the cath lab visible through the window.",
+   "service_lines": [
+    "cardiology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cath lab",
+    "X-ray",
+    "angiography monitors",
+    "computer workstations"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "12:47",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

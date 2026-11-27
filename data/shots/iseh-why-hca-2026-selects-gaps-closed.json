@@ -7,391 +7,2989 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 5.76
+   "end": 5.76,
+   "description": "Low-angle view of a dark wall sign at the Institute of Sport, Exercise and Health with a quote in white and red lettering describing the ISEH as an international centre of excellence for sport and exercise medicine. Ceiling lights reflect on the sign's glossy surface as the camera drifts slightly.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "wall sign"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "\"THE ISEH IS AN INTERNATIONAL CENTRE OF EXCELLENCE FOR THE PROVISION OF WORLD-CLASS SPORT AND EXERCISE MEDICINE\"",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 5.76,
-   "end": 10.8
+   "end": 10.8,
+   "description": "A staff member in an ISEH polo shirt stands and talks with a seated man next to a flexible breathing hose, likely before an exercise or breathing test. The man looks up and responds while the staff member listens.",
+   "service_lines": [
+    "sports medicine",
+    "respiratory"
+   ],
+   "kit": [
+    "breathing test hose"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 10.8,
-   "end": 14.6
+   "end": 14.6,
+   "description": "A staff member in an ISEH polo shirt stands beside a seated young man, explaining something to him with hand gestures during an appointment at the Institute of Sport, Exercise and Health. The shot is filmed from a low angle.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 14.6,
-   "end": 17.2
+   "end": 17.2,
+   "description": "Low-angle shot of an ISEH staff member in a black branded polo explaining and gesturing to a young male patient in a testing room, with a flexible white hose in the foreground. The staff member appears to be talking him through a sports or exercise assessment.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "flexible hose / ducting"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 17.2,
-   "end": 22.36
+   "end": 22.36,
+   "description": "A staff member in a black ISEH polo shirt explains something with hand gestures to a seated man, who looks up and listens. A large flexible white hose, likely part of exercise or breathing test equipment, runs through the foreground.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "flexible breathing hose (exercise testing equipment)"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 22.36,
-   "end": 32.56
+   "end": 32.56,
+   "description": "A staff member in an ISEH polo shirt stands and explains a test to a seated man beside a white testing unit with a flexible breathing hose at the Institute of Sport, Exercise and Health. The two talk face to face in a bright clinical testing room.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "testing unit with breathing hose"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 32.56,
-   "end": 35.84
+   "end": 35.84,
+   "description": "A male staff member in a black ISEH polo shirt with a name badge looks down and talks while working, likely explaining something to a person out of frame, in a bright room with a window blind behind him.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH (logo on polo shirt)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 35.84,
-   "end": 39.04
+   "end": 39.04,
+   "description": "A clinician in a black ISEH polo shirt with a name badge works with a young male patient in a treatment room, handling a roll of white tape or bandage. The camera moves up from his hands to his face as he talks to the patient.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "strapping tape / bandage roll",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "ISEH Institute of Sport, Exercise & Health",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 39.04,
-   "end": 44.24
+   "end": 44.24,
+   "description": "A young man in a black t-shirt holds a blue nasal probe to one nostril while closing the other with his finger, carrying out a nasal breathing test. A staff member in a black polo stands behind him.",
+   "service_lines": [
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "nasal breathing test probe"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 44.24,
-   "end": 56.64
+   "end": 56.64,
+   "description": "A man wearing a nose clip breathes through a mouthpiece connected to breathing tubing during a lung function or exercise breathing test at ISEH, while a staff member in an ISEH polo shirt stands beside him and explains the test.",
+   "service_lines": [
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "nose clip",
+    "mouthpiece with breathing tube",
+    "spirometry / respiratory gas analysis equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH (logo on staff polo shirt)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 56.64,
-   "end": 60.48
+   "end": 60.48,
+   "description": "A staff member in an ISEH polo shirt explains a breathing test to a seated man, who holds a hose connected to a respiratory testing machine in an exercise testing room with an exercise bike behind them.",
+   "service_lines": [
+    "sports medicine",
+    "respiratory"
+   ],
+   "kit": [
+    "respiratory testing machine with breathing hose",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 60.48,
-   "end": 67.28
+   "end": 67.28,
+   "description": "A man seated in a testing room breathes through a mouthpiece connected by a hose to a lung function testing machine while a staff member in an ISEH polo shirt stands beside him, watching and coaching him through the test. An exercise bike is visible in the background.",
+   "service_lines": [
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "lung function testing machine",
+    "breathing hose and mouthpiece",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 67.28,
-   "end": 74.08
+   "end": 74.08,
+   "description": "A clinician in an ISEH-branded polo shirt looks down and speaks while working with a patient, seen only as the top of a head at the bottom of the frame, in a clinic room at HCA UK at the Institute of Sport, Exercise and Health. A window and a wall-mounted noticeboard are behind him.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "wall noticeboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH Institute of Sport Exercise & Health",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 74.08,
-   "end": 76.4
+   "end": 76.4,
+   "description": "A man wearing a nose clip breathes through a mouthpiece connected to a breathing tube during a lung function or exercise breath test, while a staff member stands behind him. An exercise bike is visible in the background.",
+   "service_lines": [
+    "sports medicine",
+    "respiratory"
+   ],
+   "kit": [
+    "spirometry mouthpiece and breathing tube",
+    "nose clip",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 76.4,
-   "end": 85.96
+   "end": 85.96,
+   "description": "A young man wearing a nose clip breathes into a mouthpiece and tube during a lung function (spirometry) test while a staff member in an ISEH polo shirt stands beside him in a clinic room.",
+   "service_lines": [
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "spirometer",
+    "nose clip",
+    "breathing tube and mouthpiece",
+    "equipment trolley"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 85.96,
-   "end": 89.28
+   "end": 89.28,
+   "description": "A clinician taps the touchscreen on a lung function testing machine while a patient, seen from behind, breathes through a mouthpiece attached to a white corrugated tube. A respiratory or cardiopulmonary assessment at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "lung function testing machine",
+    "breathing tube with mouthpiece"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "capSys",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 89.28,
-   "end": 93.12
+   "end": 93.12,
+   "description": "Close-up of a person's hands gripping the handlebars of an exercise bike during a session at the Institute of Sport, Exercise and Health, with a staff member in a dark t-shirt moving in the soft-focus background.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 93.12,
-   "end": 97.16
+   "end": 97.16,
+   "description": "Close-up of a man with short locs in a dark t-shirt listening as someone off-frame gestures with their hand, glancing to the side and then looking down thoughtfully in a bright room at the Institute of Sport, Exercise and Health.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 97.16,
-   "end": 101.84
+   "end": 101.84,
+   "description": "A clinician in an ISEH-branded polo shirt and blue gloves turns towards a patient in a black sports top, who lifts his shirt to expose his abdomen for an examination in a consulting room.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 101.84,
-   "end": 105.16
+   "end": 105.16,
+   "description": "A shirtless male patient has his shoulder examined by a clinician in purple gloves, who places a small round pad or sensor on the back of his shoulder. The clinician steps into view behind him at the end of the shot in a clinic room with a monitor in the background.",
+   "service_lines": [
+    "sports medicine",
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "examination gloves",
+    "skin sensor / electrode pad",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 105.16,
-   "end": 109.56
+   "end": 109.56,
+   "description": "A clinician in an ISEH t-shirt and purple gloves examines the collarbone and upper chest area of a shirtless male patient in a clinic room. The patient looks to the side while the clinician presses along his collarbone.",
+   "service_lines": [
+    "sports medicine",
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "examination gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 109.56,
-   "end": 113.16
+   "end": 113.16,
+   "description": "A staff member in purple gloves attaches ECG electrodes to a shirtless male patient's chest at the Institute of Sport, Exercise and Health. The patient stands and looks to the side while the electrodes are placed, likely ahead of a heart check or exercise test.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes",
+    "disposable gloves",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 113.16,
-   "end": 115.0
+   "end": 115.0,
+   "description": "Close-up of a shirtless male patient with two ECG electrodes on his chest, looking down and smiling slightly while being prepared for a heart test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 115.0,
-   "end": 121.4
+   "end": 121.4,
+   "description": "A clinician wearing purple gloves attaches ECG electrodes to the bare chest of a male patient, likely in preparation for a heart or exercise test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 121.4,
-   "end": 127.6
+   "end": 127.6,
+   "description": "A staff member in purple gloves attaches ECG electrodes to the bare chest of a male patient, likely in preparation for a heart test or exercise ECG.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH (partial, on staff polo shirt)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 127.6,
-   "end": 130.2
+   "end": 130.2,
+   "description": "A staff member in an ISEH polo shirt and blue gloves untangles ECG leads while a shirtless man with electrodes on his chest stands in the foreground, preparing for a heart test, likely an exercise ECG.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes",
+    "ECG leads"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 130.2,
-   "end": 135.08
+   "end": 135.08,
+   "description": "A clinician in an ISEH polo and gloves prepares ECG leads to connect to electrodes on a shirtless patient's chest, ahead of a cardiac screening or exercise ECG test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes",
+    "ECG lead cable",
+    "blood pressure cuff"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 135.08,
-   "end": 137.36
+   "end": 137.36,
+   "description": "A clinician in an ISEH polo shirt and blue gloves untangles ECG lead wires and a strap as he prepares equipment, likely for a test with a person standing partly out of frame at the right.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology"
+   ],
+   "kit": [
+    "ECG leads",
+    "strap"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 137.36,
-   "end": 141.08
+   "end": 141.08,
+   "description": "A clinician in purple gloves attaches ECG electrodes to the chest and shoulder of a shirtless male athlete, preparing him for a heart test at the Institute of Sport, Exercise and Health. The camera moves from the clinician's face to the athlete as the leads are positioned.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 141.08,
-   "end": 143.08
+   "end": 143.08,
+   "description": "A staff member in an ISEH polo and purple gloves attaches ECG leads to electrodes on a shirtless man's chest, preparing him for a heart test.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 143.08,
-   "end": 145.76
+   "end": 145.76,
+   "description": "A clinician in an ISEH polo and purple gloves prepares ECG leads to attach to electrodes on the chest of a shirtless male patient, likely before a cardiac or exercise test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes",
+    "ECG leads"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH (logo on staff polo shirt)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 145.76,
-   "end": 148.28
+   "end": 148.28,
+   "description": "A clinician in purple gloves attaches ECG electrodes and leads to the bare chest of a young male patient, preparing him for a heart test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 148.28,
-   "end": 158.56
+   "end": 158.56,
+   "description": "A staff member in an ISEH polo shirt and purple gloves attaches ECG leads to electrodes on a shirtless male patient's chest, preparing him for a heart test such as an exercise ECG at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "ECG recorder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 158.56,
-   "end": 160.56
+   "end": 160.56,
+   "description": "A young man sits shirtless with ECG electrodes on his chest while a clinician attaches the leads, ahead of a heart test or exercise ECG at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 160.56,
-   "end": 170.6
+   "end": 170.6,
+   "description": "A staff member in an ISEH polo and gloves attaches ECG electrode leads to the chest of a shirtless young man seated on an exercise bike, preparing him for a cardiopulmonary exercise test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "exercise bike (cycle ergometer)",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 170.6,
-   "end": 172.64
+   "end": 172.64,
+   "description": "A shirtless young man with ECG electrodes and leads on his chest lifts his arm while a staff member in a black polo prepares him for a cardiac or exercise test at HCA UK at the Institute of Sport, Exercise and Health. An ECG monitor screen is visible in the background.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "patient monitor",
+    "ceiling-mounted examination light"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 172.64,
-   "end": 174.84
+   "end": 174.84,
+   "description": "A staff member in a black polo shirt and purple gloves attaches ECG electrodes and leads to the chest of a shirtless young man. This appears to be preparation for a heart or exercise test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 174.84,
-   "end": 182.76
+   "end": 182.76,
+   "description": "A young man sits on an exercise bike with ECG electrodes attached to his chest while a staff member in gloves prepares him for an exercise stress test at the Institute of Sport, Exercise and Health. The camera moves in from a medium view to a closer framing of the patient as he looks down at the leads.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "exercise bike (cycle ergometer)",
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 182.76,
-   "end": 195.0
+   "end": 195.0,
+   "description": "A staff member in purple gloves prepares a face mask for a cardiopulmonary exercise test while a shirtless male patient with ECG electrodes on his chest stands and watches.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "respiratory"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "CPET face mask",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 195.0,
-   "end": 199.96
+   "end": 199.96,
+   "description": "A staff member in blue gloves holds a face mask for a cardiopulmonary exercise test and talks to a shirtless patient with ECG electrodes attached to his chest. A screen behind them shows the CardioSoft cardiac testing system.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "CPET face mask",
+    "cardiac testing system monitor (CardioSoft)",
+    "examination lamp"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "CardioSoft Cardiac Testing System",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 199.96,
-   "end": 203.12
+   "end": 203.12,
+   "description": "A clinician in an ISEH polo and purple gloves holds a blue breathing mask and talks a shirtless man with ECG electrodes on his chest through the test. The scene appears to be the setup for a cardiopulmonary exercise test.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "respiratory",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "CPET breathing mask",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 203.12,
-   "end": 212.38
+   "end": 212.38,
+   "description": "A shirtless young man with ECG electrodes on his chest holds a blue gas analysis face mask in place while a staff member in purple gloves fits the head straps, preparing him for a cardiopulmonary exercise test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG electrodes and leads",
+    "metabolic gas analysis face mask",
+    "patient monitor",
+    "ceiling-mounted examination lamp"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 212.38,
-   "end": 221.64
+   "end": 221.64,
+   "description": "A shirtless man with ECG electrodes on his chest is fitted with a blue face mask for cardiopulmonary exercise testing (CPET) by a clinician in purple gloves, who adjusts the head straps.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "CPET metabolic gas analysis mask",
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 221.64,
-   "end": 230.68
+   "end": 230.68,
+   "description": "A shirtless man wearing a blue face mask for a cardiopulmonary exercise test (CPET) is prepared by a clinician in an ISEH polo and purple gloves, who adjusts the mask and attaches ECG electrodes to his chest.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CPET gas analysis face mask",
+    "ECG electrodes",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 230.68,
-   "end": 236.28
+   "end": 236.28,
+   "description": "A shirtless young man fitted with ECG electrodes and a blue breathing mask stands ready for a cardiopulmonary exercise test while a clinician in purple gloves moves through the foreground. The clinician then turns toward him in a clinical room with window blinds.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CPET breathing mask",
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 236.28,
-   "end": 245.96
+   "end": 245.96,
+   "description": "A staff member fits a blue breathing mask to a young man sitting on an exercise bike with ECG electrodes on his chest, preparing him for a cardiopulmonary exercise test in a sports medicine lab.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "cycle ergometer",
+    "ECG electrodes",
+    "metabolic gas analysis mask",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 245.96,
-   "end": 247.68
+   "end": 247.68,
+   "description": "A man wearing a breathing mask and ECG electrodes on his chest undergoes a cardiopulmonary exercise test while a staff member in purple gloves watches the live results on a monitor. The test is taking place at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine"
+   ],
+   "kit": [
+    "metabolic cart / gas analyser",
+    "ECG electrodes and leads",
+    "CPET face mask with headgear",
+    "computer monitor with test graphs"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 247.68,
-   "end": 250.76
+   "end": 250.76,
+   "description": "A man wearing a gas analysis mask and ECG electrodes on his bare chest does a cardiopulmonary exercise test while a staff member in a black polo shirt watches live graphs on a monitor. The camera moves past the patient to show the screen and the staff member.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "CPET gas analysis mask",
+    "ECG electrodes and leads",
+    "patient monitor",
+    "computer monitor with test graphs"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 250.76,
-   "end": 258.94
+   "end": 258.94,
+   "description": "A staff member in gloves adjusts ECG leads on a shirtless man wearing a gas analysis face mask while he pedals an exercise bike during a cardiopulmonary exercise test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "cycle ergometer",
+    "metabolic gas analysis mask",
+    "ECG electrodes and leads",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 258.94,
-   "end": 267.12
+   "end": 267.12,
+   "description": "Close-up of a man wearing a blue face mask with a breathing sensor and ECG electrodes on his chest during a cardiopulmonary exercise (VO2 max) test, likely on an exercise bike. Another person is blurred in the background.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "metabolic gas analysis mask",
+    "ECG electrodes"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 267.12,
-   "end": 273.96
+   "end": 273.96,
+   "description": "A shirtless patient wearing a face mask connected to a gas analyser and ECG electrodes on his chest grips the handlebars during a cardiopulmonary exercise test (CPET). The camera moves from the mask and chest down the arm to his hands.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine"
+   ],
+   "kit": [
+    "CPET face mask / metabolic gas analyser",
+    "ECG electrodes and leads",
+    "exercise bike handlebars"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 273.96,
-   "end": 281.6
+   "end": 281.6,
+   "description": "An ISEH staff member in a black polo and blue gloves fits a breathing mask with a gas analysis sensor to a person's face, likely set up for a cardiopulmonary exercise test, while talking to them.",
+   "service_lines": [
+    "sports medicine",
+    "respiratory",
+    "cardiology"
+   ],
+   "kit": [
+    "metabolic gas analysis mask",
+    "medical gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 281.6,
-   "end": 287.28
+   "end": 287.28,
+   "description": "A shirtless man wearing a breathing mask and ECG electrodes pedals an exercise bike during a cardiopulmonary exercise test while a staff member in a black polo and gloves talks him through it. The camera moves past a door frame to reveal the testing room.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "exercise bike (cycle ergometer)",
+    "metabolic gas analysis mask",
+    "ECG electrodes",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 287.28,
-   "end": 293.8
+   "end": 293.8,
+   "description": "A shirtless athlete wearing a face mask and ECG electrodes pedals an exercise bike during a cardiopulmonary exercise test while a gloved staff member adjusts the bike's control panel and gives him a thumbs up. The test takes place in a clinical exercise testing room.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "exercise bike (cycle ergometer)",
+    "ECG electrodes",
+    "metabolic gas analysis face mask",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 293.8,
-   "end": 295.76
+   "end": 295.76,
+   "description": "A man wearing a gas analysis face mask and chest ECG electrodes exercises on a bike during a cardiopulmonary exercise test while a staff member in the foreground watches. Computer monitors are visible in the background of the testing room.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CPET gas analysis mask",
+    "ECG electrodes and leads",
+    "exercise bike",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 295.76,
-   "end": 297.52
+   "end": 297.52,
+   "description": "A patient wearing ECG electrodes on the chest grips the handlebars of an exercise bike while a clinician in purple gloves adjusts the setup during an exercise test. The face is not shown and the clinician is seen only by their hands.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "exercise bike (cycle ergometer)",
+    "ECG electrodes and leads"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 297.52,
-   "end": 300.36
+   "end": 300.36,
+   "description": "A man on an exercise bike wears a gas analysis mask and ECG electrodes during a cardiopulmonary exercise test while a staff member stands beside him, talking and checking the setup. The test takes place in an exercise testing room at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "exercise bike",
+    "metabolic gas analysis mask",
+    "ECG electrodes",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 300.36,
-   "end": 304.72
+   "end": 304.72,
+   "description": "A patient wearing a breathing mask and ECG electrodes cycles on an exercise bike during a cardiopulmonary exercise test while a gloved staff member adjusts the bike's control panel. The test takes place in a clinical testing room at HCA UK at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine"
+   ],
+   "kit": [
+    "exercise bike (cycle ergometer)",
+    "metabolic gas analysis mask",
+    "ECG electrodes"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 304.72,
-   "end": 312.52
+   "end": 312.52,
+   "description": "Low-angle close-up of a person's legs in red trainers pedalling an upright exercise bike in a clinical exercise testing room, with medical equipment carts in the background.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "exercise bike ergometer",
+    "medical equipment carts"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "VIA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 312.52,
-   "end": 318.04
+   "end": 318.04,
+   "description": "A shirtless man wearing a gas analysis face mask and ECG electrodes cycles on an exercise bike during a cardiopulmonary exercise test, while a staff member in an ISEH polo shirt monitors and speaks to him.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CPET face mask and gas analyser",
+    "ECG electrodes and leads",
+    "exercise bike"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 318.04,
-   "end": 327.44
+   "end": 327.44,
+   "description": "A man wearing a face mask and ECG electrodes pedals an exercise bike during a cardiopulmonary exercise test (CPET) while a gloved staff member in an ISEH polo shirt talks him through it.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "exercise bike",
+    "metabolic gas analysis mask",
+    "ECG electrodes",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 327.44,
-   "end": 332.8
+   "end": 332.8,
+   "description": "A staff member in an ISEH polo and purple gloves supports a shirtless man wearing a face mask and ECG electrodes as he pedals an exercise bike during a cardiopulmonary exercise test.",
+   "service_lines": [
+    "cardiology",
+    "respiratory",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "metabolic gas analysis mask",
+    "ECG electrodes",
+    "exercise bike",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 332.8,
-   "end": 335.56
+   "end": 335.56,
+   "description": "A man pedals an exercise bike during a cardiopulmonary exercise test, wearing a breathing mask and ECG electrodes on his chest. A staff member in gloves stands beside him, talking and encouraging him through the test.",
+   "service_lines": [
+    "sports medicine",
+    "cardiology",
+    "respiratory"
+   ],
+   "kit": [
+    "cycle ergometer",
+    "metabolic gas analysis mask",
+    "ECG electrodes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 335.56,
-   "end": 341.44
+   "end": 341.44,
+   "description": "A staff member with curly hair and a moustache, in a dark polo shirt, studies graphs and readings on a computer monitor as the camera arcs from behind him to his profile. The screen appears to show exercise or cardiopulmonary test data.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "computer monitor showing test data graphs"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 341.44,
-   "end": 348.16
+   "end": 348.16,
+   "description": "A clinician with a moustache studies ECG-style traces on a curved computer monitor in a room with a window behind. The focus shifts from his face to the screen and back as he reviews the data.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine"
+   ],
+   "kit": [
+    "curved computer monitor showing ECG traces"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 348.16,
-   "end": 350.96
+   "end": 350.96,
+   "description": "A staff member with a moustache and slicked-back hair studies data and graphs on a large curved monitor by a window. The camera moves in slowly on his profile as he concentrates on the screen.",
+   "service_lines": [],
+   "kit": [
+    "curved computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 350.96,
-   "end": 353.0
+   "end": 353.0,
+   "description": "A staff member watches a curved monitor showing ECG-style waveform traces, likely reviewing cardiac data during a test at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "curved computer monitor",
+    "ECG monitoring software"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 353.0,
-   "end": 355.32
+   "end": 355.32,
+   "description": "Close-up profile of a man with curly dark hair and a moustache, looking off to the right as he listens, with a bright window softly out of focus behind him.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 355.32,
-   "end": 357.0
+   "end": 357.0,
+   "description": "Close-up portrait of a man with curly dark hair and a moustache, wearing a black and white top. He starts in profile with his eyes closed, then turns his head towards camera and looks thoughtfully off to the side in front of a bright, softly blurred window; his role is not evident.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 357.0,
-   "end": 358.84
+   "end": 358.84,
+   "description": "Close-up of a staff member's purple-gloved hand using a computer mouse on a tray attached to a workstation, with an out-of-focus monitor showing a coloured image in the background.",
+   "service_lines": [],
+   "kit": [
+    "computer mouse",
+    "computer monitor",
+    "workstation"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "detail",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 358.84,
-   "end": 360.72
+   "end": 360.72,
+   "description": "A man stands in profile looking at a curved monitor that shows ECG-style traces and graphs, likely from exercise or cardiac testing software, in a bright room at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "cardiology",
+    "sports medicine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ECG / exercise testing workstation",
+    "curved computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 360.72,
-   "end": 364.16
+   "end": 364.16,
+   "description": "A staff member with dark curly hair, seen in side profile, studies graphs and data on a large curved computer monitor in a bright room at the Institute of Sport, Exercise and Health.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "curved computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 364.16,
-   "end": 371.74
+   "end": 371.74,
+   "description": "A clinician holding a tablet runs a performance assessment on a man in black training kit, who stands on force plates in the ISEH gym. The shot ends low on the man's feet on the plates while the clinician records data.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "force plates",
+    "tablet",
+    "tripod-mounted device",
+    "medicine balls"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH INSTITUTE OF SPORT EXERCISE & HEALTH; OUR POTENT...; OUR DEDICAT... (partial wall graphic)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 371.74,
-   "end": 379.32
+   "end": 379.32,
+   "description": "A clinician in a black polo shirt holding a tablet talks with a patient in black sportswear in the gym at the Institute of Sport, Exercise and Health, explaining an assessment or exercise plan.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "sports medicine"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "tablet",
+    "suspension trainer",
+    "medicine balls",
+    "treatment couch",
+    "camera tripod"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH INSTITUTE OF SPORT EXERCISE & HEALTH; YOUR POTENT... MEDICAT... (partial)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 379.32,
-   "end": 384.32
+   "end": 384.32,
+   "description": "A staff member in a black polo holds a tablet while a man in black training kit stands on a force plate in the ISEH gym, with a camera on a tripod recording the assessment. The camera moves past gym equipment in the foreground, revealing the two of them talking and smiling.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "force plate",
+    "tablet",
+    "camera on tripod",
+    "exercise ball",
+    "weight bench"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "INSTITUTE OF SPORT EXERCISE & HEALTH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 384.32,
-   "end": 386.36
+   "end": 386.36,
+   "description": "A staff member holding a tablet records data while a person in red trainers stands on force plates in the ISEH gym, with a Wattbike in the foreground as the camera tracks past.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "force plates",
+    "Wattbike",
+    "tablet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Wattbike",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 386.36,
-   "end": 395.12
+   "end": 395.12,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 395.12,
-   "end": 403.88
+   "end": 403.88,
+   "description": "A clinician in an HCA polo shirt holds a tablet and talks to an athlete in a compression top and shorts in the ISEH gym. The athlete then steps forward as if starting a movement assessment.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "tablet",
+    "plyometric boxes",
+    "medicine balls",
+    "stability balls",
+    "dumbbells"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH INSTITUTE OF SPORT EXERCISE & HEALTH; partial wall text 'POTENT... MEDICA...'; '30' and '20' on plyo boxes",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 403.88,
-   "end": 412.64
+   "end": 412.64,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 412.64,
-   "end": 417.64
+   "end": 417.64,
+   "description": "A clinician in a black polo holding a tablet watches a man in sports kit perform single-leg hops on force plates in the ISEH gym. The two then talk face to face.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "force plates",
+    "plyometric box",
+    "tablet",
+    "treatment bench",
+    "weight rack",
+    "medicine balls"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH Institute of Sport Exercise & Health; ...your potential; ...dedication; 30 (plyo box)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 417.64,
-   "end": 421.16
+   "end": 421.16,
+   "description": "A young man in black training kit performs a single-leg balance and movement assessment on a platform in the ISEH gym, while a clinician in a black polo watches and records results on a tablet.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "tablet",
+    "force plate / testing platform",
+    "plyometric boxes",
+    "medicine balls",
+    "dumbbells",
+    "camera tripod"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "YOUR POTENT... OUR DEDICAT... (partially obscured wall graphic); 20",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 421.16,
-   "end": 422.4
+   "end": 422.4,
+   "description": "A young man in a black compression top looks down as he gets ready for an assessment in the ISEH gym, while a staff member in a black polo shirt checks a tablet behind him. Plyo boxes, a squat rack and a tripod are set up in the room.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "plyo box",
+    "tablet",
+    "tripod"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "BLK BOX, 30",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 422.4,
-   "end": 431.52
+   "end": 431.52,
+   "description": "An athlete in red trainers stands on force plates in a performance gym, jumps, and walks out of frame. Feet-level view of a jump test, with plyometric boxes and weight racks in the background.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "force plates",
+    "plyometric boxes",
+    "dumbbell rack",
+    "medicine balls"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "Plyometric boxes marked \"20\" and \"30\"; partial wall graphic \"...R POT... DEDICAT...\"",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 431.52,
-   "end": 440.56
+   "end": 440.56,
+   "description": "A young man in a black long-sleeve compression top and shorts stands and moves around a gym at the Institute of Sport, Exercise and Health, glancing down between exercises, with plyometric boxes, exercise balls and weights behind him.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "plyometric boxes",
+    "exercise balls",
+    "medicine balls",
+    "weight bench",
+    "barbell rack"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "YOUR POTENTIAL, OUR DEDICATION (partial wall graphic); 20 and 30 on plyometric boxes",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 440.56,
-   "end": 449.6
+   "end": 449.6,
+   "description": "Low-angle close-up of a person's feet in pink trainers stepping onto force plates on a gym floor during movement testing, with gym equipment and plyometric boxes out of focus behind.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "force plates",
+    "gym / rehab equipment",
+    "plyometric boxes",
+    "kettlebells"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 449.6,
-   "end": 452.64
+   "end": 452.64,
+   "description": "Low-angle close-up of a person's feet in pink trainers stepping on and off a VALD force plate during a movement or jump assessment in a gym.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "force plate",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "VALD",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 452.64,
-   "end": 461.04
+   "end": 461.04,
+   "description": "At the Institute of Sport, Exercise and Health, a staff member in an ISEH polo shirt shows a tablet to a man in a black training top in the gym, talking him through information on the screen. Suspension training straps hang from the ceiling grid above them.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "gym / rehab equipment",
+    "tablet",
+    "suspension training straps"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 461.04,
-   "end": 463.88
+   "end": 463.88,
+   "description": "Over-the-shoulder shot in the ISEH rehab gym of a clinician talking with a man in a black compression top, who looks down at something they are discussing. Exercise balls, a gym rack and windows are out of focus in the background.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "sports medicine"
+   ],
+   "kit": [
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 463.88,
-   "end": 472.04
+   "end": 472.04,
+   "description": "A staff member in an ISEH polo shirt goes through information on a tablet with a client in a gym, and the camera moves up from the tablet to their faces as they both look down at the screen.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "tablet",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "ISEH (logo on polo shirt); partial wall lettering 'YOUR PO... / ...R DED...'",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 472.04,
-   "end": 480.2
+   "end": 480.2,
+   "description": "An ISEH staff member in a branded polo shirt shows a tablet to a client in a black training top in the gym, with the camera tilting up from the tablet to their faces as they review it together.",
+   "service_lines": [
+    "sports medicine",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "tablet",
+    "gym / rehab equipment"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "gym / rehab",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "ISEH",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 480.2,
-   "end": 487.08
+   "end": 487.08,
+   "description": "Low-angle view of a frosted glass wall with ISEH Institute of Sport, Exercise & Health branding and a red stripe, next to an open glass door with a steel handle.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "ISEH INSTITUTE OF SPORT EXERCISE & HEALTH",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 487.08,
-   "end": 492.92
+   "end": 492.92,
+   "description": "Low-angle view of the ISEH entrance, where an open door reveals a glass wall with the Institute of Sport, Exercise and Health logo over a black-and-white photo graphic. The camera moves slowly to the right across the branding.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "wall-mounted panel"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "ISEH INSTITUTE OF SPORT EXERCISE & HEALTH",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 492.92,
-   "end": 496.64
+   "end": 496.64,
+   "description": "Camera tracks along a large wall graphic reading \"Your Success, Our Knowledge\" in cream lettering on a dark background at HCA UK at the Institute of Sport, Exercise and Health.",
+   "service_lines": [],
+   "kit": [
+    "wall graphic"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "YOUR SUCCESS OUR KNOWLEDGE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 496.64,
-   "end": 504.62
+   "end": 504.62,
+   "description": "Camera moves along a dark wall graphic reading \"Your success, our knowledge\" and \"Your wellbeing, our specialists\" in a corridor at HCA UK at the Institute of Sport, Exercise and Health. The move ends near a handrail and a white chair in an adjoining area.",
+   "service_lines": [],
+   "kit": [
+    "wall graphic signage",
+    "handrail",
+    "chair"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "YOUR SUCCESS OUR KNOWLEDGE; YOUR WELLBEING OUR SPECIALISTS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 504.62,
-   "end": 512.6
+   "end": 512.6,
+   "description": "Wall graphic reading \"Your Wellbeing, Our Specialists\" in a corridor at HCA UK at the Institute of Sport, Exercise and Health, with a glass partition, handrail and white chair alongside. The camera moves past the lettering, revealing the full phrase midway through the shot.",
+   "service_lines": [],
+   "kit": [
+    "wall graphic",
+    "handrail",
+    "chair"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "YOUR WELLBEING OUR SPECIALISTS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 512.6,
-   "end": 520.72
+   "end": 520.72,
+   "description": "Camera tracks along glass walls at the ISEH reception, passing the ISEH Institute of Sport, Exercise & Health logo and wall graphics, with a red-chaired waiting area visible behind the glass.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "reception seating",
+    "glass wall graphics"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "RECOVERY / FOCUS (partial); ISEH Institute of Sport Exercise & Health; RESULTS / PASSION (partial); PROVID... ELITE S... SPORTS... (partial)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 520.72,
-   "end": 528.83
+   "end": 528.83,
+   "description": "Camera tracks along a red wall in the ISEH reception area bearing the message 'Providing excellence in elite sport performance, sports injury prevention and management' and the ISEH logo. A man sits in the red-chaired waiting area in the background.",
+   "service_lines": [
+    "sports medicine"
+   ],
+   "kit": [
+    "waiting area seating"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PROVIDING EXCELLENCE IN ELITE SPORT PERFORMANCE, SPORTS INJURY PREVENTION AND MANAGEMENT; ISEH INSTITUTE OF SPORT EXERCISE & HEALTH",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }
