@@ -1,0 +1,2830 @@
+{
+ "id": "university-college-hospital-why-hca-2026-selects-gaps-closed",
+ "title": "University College Hospital, Why HCA 2026 - Selects (Gaps Closed)",
+ "file": "University College Hospital, Why HCA 2026 - Selects (Gaps Closed).mp4",
+ "facility": "University College Hospital",
+ "duration": 833.4,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 5.6,
+   "description": "A loquat tree on a rooftop terrace with a white building with dark angled windows and a tower block behind, under a clear blue sky. The camera moves down past the leaves to show the terrace with planters and a glass balustrade.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 5.6,
+   "end": 12.52,
+   "description": "Rooftop terrace garden at University College Hospital with small trees and shrubs in white planters, a glass balustrade and the building's angled roof panels behind, with a tower block in the distance on a clear day. The camera tracks sideways past a foreground tree branch to reveal the terrace.",
+   "service_lines": [],
+   "kit": [
+    "glass balustrade",
+    "planters"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 12.52,
+   "end": 19.44,
+   "description": "Exterior of a white hospital building with green-tinted windows and sloped rooftop glazing, seen from a terrace garden with leafy trees and planting. The camera moves slowly forward towards the trees and facade under a clear blue sky.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 19.44,
+   "end": 29.76,
+   "description": "Camera moves past a glass door frame onto a rooftop terrace with flowering rosemary in planters along a metal railing, with brick buildings and a tall chimney behind.",
+   "service_lines": [],
+   "kit": [
+    "planters",
+    "metal railing",
+    "glass door"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 29.76,
+   "end": 31.68,
+   "description": "A flowering rosemary bush in a planter on a rooftop terrace behind a glass balustrade with metal rails, with brick buildings and a chimney in the background on a sunny day. A faint reflection of a person is visible in the glass on the right side of the frame.",
+   "service_lines": [],
+   "kit": [
+    "planter",
+    "glass balustrade"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 31.68,
+   "end": 36.36,
+   "description": "Close-up of yellow daffodils growing in a flower bed outdoors, with green leaves in the foreground and a blurred street and greenery behind. The camera moves slowly along the flowers in spring sunshine.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 36.36,
+   "end": 44.0,
+   "description": "Yellow daffodils and green leaves in the foreground, backlit by sunlight, with a blurred pale building and trees behind. A seasonal exterior cutaway with no people.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 44.0,
+   "end": 46.92,
+   "description": "Close-up of purple grape hyacinths and ornamental grass in a stone planter outside the hospital, with a building and glass railings out of focus behind. The camera drifts slowly sideways past the flowers.",
+   "service_lines": [],
+   "kit": [
+    "stone planter"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 46.92,
+   "end": 50.8,
+   "description": "Low-angle close-up of purple grape hyacinths and dry ornamental grass in a planter outside University College Hospital, with the building and paving blurred in the background. The camera slides slowly sideways past the flowers.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 50.8,
+   "end": 55.44,
+   "description": "Exterior courtyard garden outside a modern white building with angled glass windows, showing a curved stone bench with a wooden seat, shrubs and grasses, framed by overhanging leaves in the foreground. Sunny day with no people in shot.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 55.44,
+   "end": 66.04,
+   "description": "Gimbal move across an empty rooftop terrace garden at University College Hospital, with small trees and plants in stone planters, curved bench seating and a glass balustrade, set against the building's windows and roofline solar panels in sunshine.",
+   "service_lines": [],
+   "kit": [
+    "solar panels"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 66.04,
+   "end": 71.96,
+   "description": "Low-angle view looking up at the roofline of the University College Hospital building, showing a rooftop railing and angled glazed panels against a clear blue sky as the camera pans across.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 71.96,
+   "end": 83.38,
+   "description": "A staff member in a grey blazer with a name badge sits in an armchair by a skylight window, taking notes during a conversation with a woman seen from behind with long blonde hair. Appears to be a one-to-one consultation.",
+   "service_lines": [],
+   "kit": [
+    "armchairs",
+    "notepad and pen",
+    "wall power sockets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 83.38,
+   "end": 94.8,
+   "description": "A consultant in a suit and name badge sits in an armchair taking notes on a pad while talking with a woman seen from behind, in a consulting room with a skylight window at University College Hospital.",
+   "service_lines": [],
+   "kit": [
+    "notepad",
+    "armchairs"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 94.8,
+   "end": 100.08,
+   "description": "A man in a grey blazer and name badge sits at a desk under a skylight, talking to a woman seen from behind in the foreground while holding a pen over paperwork on a clipboard. The camera slowly moves in during the conversation, which could be a meeting, interview or consultation.",
+   "service_lines": [],
+   "kit": [
+    "clipboard and paperwork",
+    "desk with power sockets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 100.08,
+   "end": 105.08,
+   "description": "A staff member in a grey blazer and name badge sits at a desk going through paperwork with pen in hand and talks with a colleague, who is seen out of focus over the shoulder in a room with a skylight. The shot suits one-to-one meeting, onboarding or careers content.",
+   "service_lines": [],
+   "kit": [
+    "paperwork folder",
+    "pen",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 105.08,
+   "end": 109.4,
+   "description": "A consultant in a grey blazer and name badge sits at a desk under a skylight window, talking with a woman with long fair hair who faces away from camera. He holds a pen over paperwork, as if explaining next steps in a consultation.",
+   "service_lines": [],
+   "kit": [
+    "desk",
+    "paperwork",
+    "pen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 109.4,
+   "end": 118.28,
+   "description": "A consultant in a grey blazer talks with a patient, seen from behind over her shoulder, then writes notes at a desk during a consultation in a room with a skylight window.",
+   "service_lines": [],
+   "kit": [
+    "desk",
+    "notepad and pen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 118.28,
+   "end": 129.51,
+   "description": "A man in a grey suit writes notes in an HCA ring binder open to an 'Allergen information' document at a wall-mounted desk, and the shot ends on his face in profile as he reads.",
+   "service_lines": [],
+   "kit": [
+    "ring binder",
+    "pen",
+    "paperwork"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA, Allergen information",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 129.51,
+   "end": 140.73,
+   "description": "A man with a grey beard, wearing a grey blazer and open-collared shirt, sits beside a skylight window looking down, talking and smiling as if working at a desk or in conversation.",
+   "service_lines": [],
+   "kit": [
+    "desk power sockets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 140.73,
+   "end": 151.96,
+   "description": "Close-up of a grey-bearded man in a grey blazer and open-collared shirt, looking down thoughtfully in a room lit by a skylight window, then turning away from camera.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 151.96,
+   "end": 159.36,
+   "description": "A woman with long blonde hair in a white blouse sits by a skylight window and looks away from camera, then glances down in a quiet, reflective moment, as if during or between interview answers.",
+   "service_lines": [],
+   "kit": [
+    "wall power sockets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 159.36,
+   "end": 166.34,
+   "description": "A woman in a white blouse speaks during a seated interview in a room with a skylight, then turns and looks thoughtfully towards the window.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 166.34,
+   "end": 173.32,
+   "description": "A woman with blonde hair sits at a desk under skylight windows, talking and gesturing during an interview, then turns pages in a folder of documents.",
+   "service_lines": [],
+   "kit": [
+    "desk",
+    "document folder"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 173.32,
+   "end": 181.32,
+   "description": "A woman with blonde hair sits at a wooden desk under a skylight, reading from an open document folder and speaking. The camera moves around her from the desk to a profile view of her face.",
+   "service_lines": [],
+   "kit": [
+    "document folder",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "office",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 181.32,
+   "end": 184.0,
+   "description": "Close-up of a staff member in a dark suit and tie wearing a name badge that reads Richard, Head of Catering and Nutritional Services, at University College Hospital. The camera holds on the badge as he stands with his arm resting on a surface.",
+   "service_lines": [],
+   "kit": [
+    "staff name badge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Richard, Head of Catering and Nutritional Services",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 184.0,
+   "end": 190.0,
+   "description": "Detail shot of a staff name badge reading 'Richard, Head of Catering and Nutritional Services' pinned to the lapel of a dark suit jacket worn over a light blue shirt and tie at University College Hospital.",
+   "service_lines": [],
+   "kit": [
+    "name badge"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Richard, Head of Catering and Nutritional Services",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 190.0,
+   "end": 198.48,
+   "description": "Slow push-in on a made hospital bed in a patient room with skylight windows, with folded white towels, a rolled towel, a row of toiletry bottles and an HCA welcome card placed at the head of the bed.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "towels",
+    "toiletries",
+    "welcome card"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA logo on welcome card (remaining text not legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 198.48,
+   "end": 201.84,
+   "description": "Folded white towels topped with a set of toiletry tubes, a wooden box and an HCA welcome card, laid out on a hospital bed in a patient room by the window at University College Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "towels",
+    "toiletries"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 201.84,
+   "end": 212.64,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 212.64,
+   "end": 224.8,
+   "description": "A staff member in blue scrubs walks into a private patient room at University College Hospital, gestures towards the wall-mounted TV and wooden storage units, then turns and talks while showing the room's features.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted TV",
+    "built-in wardrobe"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 224.8,
+   "end": 236.96,
+   "description": "A staff member in a light blue uniform with a name badge stands in a private patient room at University College Hospital, gesturing around the room as he explains it. Folded towels and toiletries are laid out on the made-up bed, with a skylight window, wardrobe and wall-mounted TV visible.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "wall-mounted TV",
+    "towels and toiletries",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 236.96,
+   "end": 249.12,
+   "description": "A staff member in a blue tunic uses a handset remote to adjust a made-up hospital bed in a patient room with skylight windows, then the camera moves up to show his face as he looks down at the controls.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "bed handset remote"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 249.12,
+   "end": 252.72,
+   "description": "A female patient in a hospital gown sits propped up on pillows in bed in a patient room, smiling as she looks to the side, then turns her head and closes her eyes, appearing relaxed. A window and bedside cabinet are visible in the background.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 252.72,
+   "end": 256.52,
+   "description": "A female patient in a hospital gown sits up in bed in a patient room, looking out towards the window. The camera rises from her hands resting on the sheet to her face in profile.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 256.52,
+   "end": 257.96,
+   "description": "A woman in a hospital gown sits up in bed in a patient room, talking to someone off camera in an interview-style shot, with a window and bedside cabinet behind her.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "bedside cabinet",
+    "wall service panel"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 257.96,
+   "end": 261.0,
+   "description": "A nurse in a blue tunic attends to a smiling female patient in a hospital gown, who sits up and chats in a patient room. The nurse is out of focus in the foreground and blocks the frame at the start of the shot.",
+   "service_lines": [],
+   "kit": [
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 261.0,
+   "end": 266.0,
+   "description": "A staff member's hand passes a nurse call handset to a female patient sitting up in a hospital bed in a patient room. She looks at it, smiles and raises her hand as she responds.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "nurse call handset"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 266.0,
+   "end": 272.08,
+   "description": "A nurse in a blue tunic shows a female patient in a hospital gown how to use the TV remote in her private patient room, then points across the room as she watches from the bed.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "TV remote control",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 272.08,
+   "end": 276.32,
+   "description": "A male nurse in a blue tunic stands beside a female patient in a hospital gown in a private room and shows her how to use a handheld bed control. The patient sits up by the window, smiling and talking with him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "bed control handset"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 276.32,
+   "end": 288.64,
+   "description": "A staff member in a blue tunic stands beside a patient in a hospital gown sitting up in bed and shows her how to use a handheld remote. She then takes the remote and points it across the room, smiling.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "handheld remote control"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 288.64,
+   "end": 297.08,
+   "description": "A nurse in a blue tunic adjusts the pillows behind a woman in a hospital gown sitting up in bed in a private patient room, then leans in to talk with her. A TV remote rests on the overbed table beside her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "bedside cabinet",
+    "TV remote",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 297.08,
+   "end": 305.52,
+   "description": "A staff member in blue uniform hands a bed control handset to a female patient in a hospital gown sitting up in bed in a private patient room. The patient takes it and talks to the staff member.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "bed control handset",
+    "bedside cabinet"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 305.52,
+   "end": 309.36,
+   "description": "Close-up of a person's hands pressing the pump on a red hand sanitiser bottle mounted on a hospital bed rail, then rubbing their hands together. The background is an out-of-focus room with a sofa and window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 309.36,
+   "end": 313.12,
+   "description": "Close-up of a hand-sanitiser pump bottle clipped to a white bed rail as a person dispenses gel and rubs their hands together, with a sofa and window out of focus behind.",
+   "service_lines": [],
+   "kit": [
+    "hand sanitiser dispenser",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "detail",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 313.12,
+   "end": 317.48,
+   "description": "Close-up of a staff member in a blue top rubbing their hands together after using a red hand sanitiser dispenser mounted on a rail. Armchairs and windows are out of focus in the background.",
+   "service_lines": [],
+   "kit": [
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 317.48,
+   "end": 322.6,
+   "description": "A hospitality staff member in a white shirt and dark waistcoat walks through a doorway carrying a tray with a bottle of water and a glass, then passes close to the camera on her way to a patient room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "serving tray",
+    "water bottle",
+    "drinking glass"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 322.6,
+   "end": 331.12,
+   "description": "A patient in a hospital gown sits in her room smiling as a member of hospitality staff brings over a tray with a bottle of water and a glass and sets it on the over-bed table. The two share a friendly exchange.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "over-bed table",
+    "serving tray",
+    "water bottle and glass"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 331.12,
+   "end": 341.56,
+   "description": "A smiling patient in a hospital gown sits up in bed in a private room while a staff member in a waistcoat uniform brings in a tray with a bottle of water and sets it down for her. The two chat and laugh during the visit.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "serving tray",
+    "bottled water"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 341.56,
+   "end": 352.0,
+   "description": "A hospitality staff member in a waistcoat uniform opens a bottle of water and pours a glass for a female patient in a hospital gown, and the two chat and laugh in a patient room at University College Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "water bottle",
+    "drinking glass",
+    "over-bed table with tray"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 352.0,
+   "end": 361.72,
+   "description": "A patient in a hospital gown sits up in bed in a private room while a male nurse in a blue tunic hands her a small medicine cup from a blue tray during a medication round. She takes the cup and holds it, with a water bottle and glass on the overbed table.",
+   "service_lines": [
+    "general hospital",
+    "pharmacy"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "medicine cup",
+    "medication tray",
+    "bedside cabinet",
+    "water bottle and glass"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 361.72,
+   "end": 371.44,
+   "description": "A nurse holding a blue tray hands medication to a patient sitting up in a hospital bed, who takes it with a glass of water in a private patient room. They talk, and the patient smiles as he turns to leave.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "medication tray",
+    "water glass",
+    "water bottle"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 371.44,
+   "end": 376.56,
+   "description": "A patient in a hospital gown sits up in bed in a private patient room, smiling and talking with a staff member who appears in the foreground holding a blue folder. An overbed table with a water bottle and glass is in front of her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "water bottle and glass"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 376.56,
+   "end": 388.32,
+   "description": "A female patient in a hospital gown sits up in bed in a private patient room, drinks a glass of water and places it back on a tray on the overbed table, next to a bottle of water and a small cup. A blue tray is out of focus in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "serving tray",
+    "water bottle",
+    "drinking glass",
+    "small medicine cup"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 388.32,
+   "end": 399.83,
+   "description": "A nurse in blue HCA scrubs holding a blue tray talks to a patient and hands her a small medicine cup in a patient room at University College Hospital. The patient is seen from behind.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "medicine tray",
+    "medicine cup",
+    "hand wash sink",
+    "soap and paper towel dispensers"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 399.83,
+   "end": 411.33,
+   "description": "A nurse in a blue HCA tunic hands a small medicine cup from a blue tray to a patient sitting in a hospital patient room, then smiles and talks with them. This is a bedside medication round at University College Hospital.",
+   "service_lines": [
+    "general hospital",
+    "pharmacy"
+   ],
+   "kit": [
+    "hospital bed",
+    "medicine tray",
+    "medicine cup",
+    "hand sanitiser dispenser",
+    "sink"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 411.33,
+   "end": 422.84,
+   "description": "A male staff member in a light blue HCA tunic with a name badge talks while working in a patient room at University College Hospital, then picks up a blue tray. Wooden wardrobe units, a sink and wall-mounted hand sanitiser dispensers are visible behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand sanitiser dispenser",
+    "blue tray",
+    "sink",
+    "paper towel dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA logo on tunic",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 422.84,
+   "end": 427.96,
+   "description": "A staff member in a dark uniform places a tray holding a white teapot and milk jug on an over-bed table in a patient room, then steps away. Low-angle shot of tea service in front of a bright window.",
+   "service_lines": [],
+   "kit": [
+    "over-bed table",
+    "teapot and milk jug on tray"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 427.96,
+   "end": 440.92,
+   "description": "A female patient in a hospital gown sits in her patient room at University College Hospital. She looks down, then turns towards the camera and smiles while talking.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 440.92,
+   "end": 452.21,
+   "description": "Two staff in scrubs, aprons and blue cryogenic gloves open a liquid nitrogen dry shipper and lift out a frozen container as vapour rises, likely to thaw stored cells such as stem cells, beside a computer trolley in a hospital room.",
+   "service_lines": [
+    "haematology"
+   ],
+   "kit": [
+    "liquid nitrogen dry shipper",
+    "cryogenic gloves",
+    "computer on wheels",
+    "drip stand",
+    "trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "SHIPPER",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 452.21,
+   "end": 463.51,
+   "description": "A staff member wearing blue cryogenic gloves lifts the lid of a liquid nitrogen dewar strapped to a stand, then the shot moves to a grey-haired clinician in blue scrubs and an apron leaning over to work, with a colleague in the background. This appears to be the handling of cryopreserved cells, such as for a stem cell infusion.",
+   "service_lines": [
+    "haematology",
+    "oncology"
+   ],
+   "kit": [
+    "liquid nitrogen dewar",
+    "cryogenic gloves",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 463.51,
+   "end": 474.8,
+   "description": "A staff member wearing blue cryogenic gloves and a plastic apron removes the lid from a liquid nitrogen storage dewar, and cold vapour rises from the opening. Cryogenic sample storage in a hospital lab.",
+   "service_lines": [],
+   "kit": [
+    "liquid nitrogen dewar",
+    "cryogenic gloves",
+    "trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "lab",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "S PER 7 (partial label on dewar)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 474.8,
+   "end": 486.22,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 486.22,
+   "end": 497.65,
+   "description": "In a patient room at University College Hospital, a staff member in an apron and gloves brings a blue tray and folder to a woman in a hospital bed. A nurse in a navy uniform joins him, holding a blue folder.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "blue instrument tray",
+    "blue folder",
+    "wall-mounted glove and apron dispensers",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 497.65,
+   "end": 509.07,
+   "description": "A patient in a hospital gown sits up in bed in a private patient room as a staff member in a plastic apron and blue gloves brings in a blue tray. A nurse joins him and checks a blue folder while the patient looks on.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "wall-mounted medical gas panel",
+    "blue tray",
+    "clinical folder"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 509.07,
+   "end": 520.5,
+   "description": "Two nurses in blue uniforms, disposable aprons and gloves stand together in a patient room, one holding a blue tray while the other looks at a blue clipboard. They appear to be checking items or notes together before giving care.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "blue equipment tray",
+    "clipboard",
+    "disposable aprons",
+    "gloves",
+    "wall-mounted medical gas and suction"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 520.5,
+   "end": 531.92,
+   "description": "Two nurses in gloves and aprons hold blue medication trays and check details on a computer screen showing an electronic patient record, likely in a patient room. The camera moves in from a wide view to a closer shot of them talking through the check.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer workstation",
+    "medication trays"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 531.92,
+   "end": 543.28,
+   "description": "Two staff in disposable aprons and blue gloves stand at a stainless steel sink in a clinical utility area, where one hands the other paperwork and a small item. The man is in the foreground with his back partly to camera, and the woman faces the lens.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel sink",
+    "disposable aprons",
+    "nitrile gloves",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 543.28,
+   "end": 554.64,
+   "description": "A staff member in blue nitrile gloves places a sealed plastic-wrapped item into a stainless steel sink while a colleague in a navy uniform and disposable apron stands in the background. The scene appears to show cleaning or decontamination work in a clinical utility area.",
+   "service_lines": [],
+   "kit": [
+    "stainless steel sink",
+    "nitrile gloves",
+    "disposable apron",
+    "plastic-wrapped item"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 554.64,
+   "end": 566.0,
+   "description": "Close-up of an older male patient with short grey hair, wearing a blue hospital gown with a disposable plastic apron over his shoulders, sitting quietly and looking down in a patient room at University College Hospital. A wooden door and a wall-mounted sink and dispensers are out of focus behind him.",
+   "service_lines": [],
+   "kit": [
+    "disposable plastic apron",
+    "hand wash sink",
+    "wall-mounted dispensers"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 566.0,
+   "end": 578.0,
+   "description": "Nurses in HCA uniforms hold a handover or team huddle at a nurses' station, two listening with folders and notes while a colleague in the foreground speaks and holds papers.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer workstations",
+    "folders and paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 578.0,
+   "end": 590.0,
+   "description": "Nurses in HCA uniforms hold a handover at a ward nurses' station, reviewing printed handover sheets and talking together. Computer workstations are visible behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer workstations",
+    "paper handover sheets",
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 590.0,
+   "end": 602.0,
+   "description": "Nurses in HCA uniforms hold a shift handover or team huddle at a ward nurses' station, with two nurses speaking while holding paperwork as colleagues in the foreground listen with their backs to camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "paperwork / handover sheets",
+    "nurses' station desk"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 602.0,
+   "end": 614.0,
+   "description": "Two nurses in HCA uniforms stand at a ward nurses' station holding notebooks and talk with colleagues who hold paperwork, in what looks like a shift handover or team briefing.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "nurses' station",
+    "printer",
+    "computer monitor",
+    "clinical paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare logo on uniforms",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 614.0,
+   "end": 620.88,
+   "description": "Two nurses at a nurses' station hold paperwork and smile as they talk with two colleagues in the foreground, who are seen from behind, during what looks like a shift handover. One nurse writes notes on a form at the counter.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "nurses' station",
+    "computer workstation",
+    "printer",
+    "paper forms / clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniforms",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 620.88,
+   "end": 627.88,
+   "description": "Two nurses in HCA Healthcare uniforms hold a handover or briefing at a nurses' station. One writes on paperwork while she talks to colleagues, who stand out of focus in the foreground holding papers.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "printer",
+    "clipboards / paperwork"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare (uniform logos)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 627.88,
+   "end": 635.08,
+   "description": "Close-up of a wall-mounted world map with coloured pins marking locations across the Americas, Europe, Africa and the Middle East, as the camera moves across from the Americas towards Europe and Africa.",
+   "service_lines": [
+    "international patients"
+   ],
+   "kit": [
+    "world map with pins"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 635.08,
+   "end": 642.28,
+   "description": "Close-up of a wall graphic at University College Hospital showing the HCA Healthcare UK logo and a world map. The camera moves across to a banner reading 'One team, many cultures', highlighting the diversity of the staff.",
+   "service_lines": [],
+   "kit": [
+    "wall graphic / world map display"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "detail",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK; One team, many cultures",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 642.28,
+   "end": 649.72,
+   "description": "A receptionist with grey hair smiles at the camera from behind the front desk at University College Hospital, then the camera moves right to show a woman reading a magazine in an armchair in the waiting area beside a sofa and a leaflet stand.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "reception desk",
+    "leaflet stand",
+    "waiting area sofa and armchair"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Lenovo",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 649.72,
+   "end": 656.24,
+   "description": "An outdoor roof terrace with a glass-panel floor, wooden tables and chairs, closed green parasols and planters, where a few people sit and talk. The camera tilts up from the floor past the seating to the rooftop railings and blue sky.",
+   "service_lines": [],
+   "kit": [
+    "wooden outdoor tables and chairs",
+    "parasols",
+    "planters"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 656.24,
+   "end": 664.0,
+   "description": "An empty outdoor roof terrace at University College Hospital with wooden tables and chairs, closed green parasols and a glass-panel floor, with planters along the balcony above. The camera moves slowly to the right across the seating area in sunlight.",
+   "service_lines": [],
+   "kit": [
+    "outdoor tables and chairs",
+    "parasols",
+    "planters"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 664.0,
+   "end": 672.32,
+   "description": "An empty outdoor courtyard terrace at University College Hospital with wooden tables and chairs, closed green parasols and a glass-panel floor, overlooked by a balcony lined with planters. The camera moves back and across to reveal the full seating area and glass doors.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "outdoor wooden tables and chairs",
+    "parasols",
+    "planters"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 672.32,
+   "end": 682.92,
+   "description": "Empty outdoor courtyard terrace at University College Hospital with wooden tables and chairs, closed green parasols and a glass-panelled floor, overlooked by planted balconies. The camera moves slowly across the seating area in daylight.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "outdoor wooden tables and chairs",
+    "parasols",
+    "planters"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 682.92,
+   "end": 686.52,
+   "description": "An empty, lit hospital corridor with doors along one wall and a potted plant beside a glass window looking out onto an outdoor courtyard. The camera drifts slowly along the corridor.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "potted plant"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 686.52,
+   "end": 695.92,
+   "description": "An empty hospital corridor at University College Hospital, with doors and framed pictures along one wall and windows with blinds along the other, as the camera moves slowly down the corridor.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 695.92,
+   "end": 701.0,
+   "description": "Low-angle moving shot along an empty hospital corridor at University College Hospital, with wall lights, framed artwork, concrete pillars and windows with blinds, travelling toward doors at the far end.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 701.0,
+   "end": 703.8,
+   "description": "A tracking shot along a wooden leaflet rack holding Macmillan Cancer Support information booklets, including titles on work and cancer, eating problems and cancer, and the emotional effects of cancer.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "leaflet display rack"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Macmillan Cancer Support; Work and cancer; Eating problems and cancer; How are you feeling? The emotional effects of cancer; Talking...",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 703.8,
+   "end": 710.64,
+   "description": "A slow tracking move along a wooden wall rack of Macmillan Cancer Support information leaflets, with titles on the emotional effects of cancer, eating problems, staying active, talking to children, and cancer and fertility, next to a door.",
+   "service_lines": [
+    "oncology"
+   ],
+   "kit": [
+    "leaflet rack"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Macmillan Cancer Support; How are you feeling? The emotional effects of cancer; Eating problems and cancer; Living an Active Life; Talking to children and teenagers when an adult has cancer; Cancer and fertility",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 710.64,
+   "end": 723.68,
+   "description": "Camera moves along a sunlit hospital corridor at University College Hospital, with floor-to-ceiling windows and blinds on one side and treatment rooms behind glass on the other. A staff member in blue is briefly seen near a treatment area, and trolleys with yellow sharps bins line the walls.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clinical trolley",
+    "sharps bin",
+    "glass partition"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Treatment Area; 5",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 723.68,
+   "end": 727.88,
+   "description": "A nurse in a blue uniform with red braided hair and glasses puts on blue gloves in a clinical supply room, with storage baskets and packaged supplies on shelves behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "disposable gloves",
+    "supply storage shelving and baskets"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 727.88,
+   "end": 735.64,
+   "description": "A nurse in a blue uniform and purple gloves sorts packaged medical supplies in a hospital stock room lined with wire storage baskets at University College Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wire storage baskets",
+    "packaged medical supplies",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 735.64,
+   "end": 744.48,
+   "description": "A nurse in a blue uniform and purple gloves unpacks IV tubing into a tray in a clinical supply room lined with stocked shelves. The camera moves from her hands up to her face as she prepares the equipment.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "IV giving set / tubing",
+    "procedure tray",
+    "medical supply shelving",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 744.48,
+   "end": 746.32,
+   "description": "A nurse in a blue tunic and purple gloves holds up an IV giving set and checks the line in a clinical supply room with stocked shelving and window blinds behind her.",
+   "service_lines": [],
+   "kit": [
+    "IV giving set",
+    "supply shelving"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 746.32,
+   "end": 749.68,
+   "description": "A nurse in a blue tunic and purple gloves holds up an IV giving set and checks the tubing and drip chamber in a clinical room with window blinds and stacked supplies. The camera moves up from her gloved hands to her face as she inspects the line.",
+   "service_lines": [],
+   "kit": [
+    "IV giving set",
+    "IV fluid bag",
+    "medical supplies"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 749.68,
+   "end": 752.16,
+   "description": "A nurse in a blue uniform and blue gloves primes an IV giving set, holding up the drip chamber and tubing in a clinical preparation room with supply trays and window blinds behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "IV giving set",
+    "IV fluid bag",
+    "supply storage trays"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 752.16,
+   "end": 758.72,
+   "description": "A nurse in a blue uniform and gloves selects medical supplies from wire storage baskets in a hospital clinical store room. She picks up a small item from the shelves.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wire storage baskets",
+    "medical supplies",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 758.72,
+   "end": 763.44,
+   "description": "A nurse in a blue uniform, glasses and gloves sorts packaged medical supplies, including what looks like IV tubing, in a hospital stock room with wire storage shelving and window blinds.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "packaged IV tubing",
+    "sterile supplies",
+    "wire storage shelving",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 763.44,
+   "end": 765.8,
+   "description": "A clinical staff member in a blue uniform and purple gloves sorts packaged medical supplies at a counter in a hospital store room, with wire basket shelving behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wire basket storage shelving",
+    "packaged medical supplies",
+    "disposable gloves",
+    "blue storage tray"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 765.8,
+   "end": 770.12,
+   "description": "A staff member in a light blue HCA Healthcare uniform with glasses and a name badge walks towards the camera down a bright hospital corridor at University College Hospital, smiling.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare logo on uniform; wall sign showing '5'",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 770.12,
+   "end": 779.16,
+   "description": "A staff member in a light blue HCA Healthcare uniform and gloves carries a purple tray of packaged supplies along a sunlit corridor with window blinds, smiling at the camera and then looking to the side as she walks.",
+   "service_lines": [],
+   "kit": [
+    "supply tray",
+    "disposable gloves",
+    "packaged medical supplies"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 779.16,
+   "end": 783.0,
+   "description": "A smiling staff member in a light blue HCA uniform, glasses and blue gloves walks along a sunlit hospital corridor carrying a purple tray of wrapped supplies. Window blinds cast striped light across her as she walks towards the camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "supply tray",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 783.0,
+   "end": 784.88,
+   "description": "A smiling staff member in a light blue uniform and purple gloves walks along a sunlit corridor carrying a purple tray of sealed sterile supplies, with blind shadows falling across her.",
+   "service_lines": [],
+   "kit": [
+    "tray of sterile packaged supplies",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 784.88,
+   "end": 790.72,
+   "description": "A staff member in a light blue HCA Healthcare tunic and blue gloves carries a lilac tray of packaged medical supplies, including IV tubing, along a sunlit hospital corridor at University College Hospital. The camera moves up from the tray to her face as she stops and smiles at the camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tray of packaged IV supplies",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "HCA Healthcare (logo on uniform)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 790.72,
+   "end": 797.34,
+   "description": "A clinical staff member in a light blue uniform and blue gloves, with long pink braids, walks away from camera down a sunlit hospital corridor with window blinds. The camera follows behind her as she heads towards the end of the corridor.",
+   "service_lines": [],
+   "kit": [
+    "supply trolley"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "6",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 797.34,
+   "end": 803.96,
+   "description": "A staff member in a light blue tunic with red braided hair walks away from camera down a sunlit hospital corridor with window blinds, passing a colleague at a desk near the treatment area. The camera follows her, then continues down the empty corridor.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "stainless steel trolley",
+    "clinical waste bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Treatment Area",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 803.96,
+   "end": 812.64,
+   "description": "A nurse in a light blue uniform and blue gloves carries a purple tray of medical supplies along a sunlit hospital corridor and walks into a patient room with a sink and hand hygiene dispensers.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "medical supplies tray",
+    "disposable gloves",
+    "hand sanitiser dispenser",
+    "paper towel dispenser",
+    "clinical hand wash sink",
+    "clinical waste bin"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 812.64,
+   "end": 822.76,
+   "description": "Wall-mounted acrylic sign reading 'HCA Healthcare UK' and 'University College Hospital'. The camera moves across the sign with shallow focus, starting and ending on the HCA logo.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall signage"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK, University College Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 822.76,
+   "end": 833.4,
+   "description": "Close-up of a lift floor directory at University College Hospital, with braille, showing floors 4 and 5 as HCA Healthcare UK at UCH, Private Care, alongside Haematology Wards and a Staff Access Only floor. The camera moves sideways across the sign as the focus shifts from the braille to the printed floor listings and back.",
+   "service_lines": [
+    "haematology",
+    "general hospital"
+   ],
+   "kit": [
+    "lift floor directory sign with braille"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "6 Staff Access Only; 5 HCA Healthcare UK at UCH, Private Care; 4 HCA Healthcare UK at UCH, Private Care; Haematology Wards",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  }
+ ]
+}

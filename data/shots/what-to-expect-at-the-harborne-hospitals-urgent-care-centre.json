@@ -7,59 +7,348 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 9.98
+   "end": 9.98,
+   "description": "Close-up of a staff member's hand picking a boxed medicine from a pharmacy shelf stocked with medication packs and lifting it towards camera.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "medicine boxes",
+    "pharmacy shelving"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 9.98,
-   "end": 19.97
+   "end": 19.97,
+   "description": "Close-up of white medicine bottles in an open drawer or cabinet as a staff member's hand reaches in and picks one out, with a boxed medication pack beside them.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "medicine bottles",
+    "medication storage drawer"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 19.97,
-   "end": 29.95
+   "end": 29.95,
+   "description": "Close-up of a gloved pharmacy staff member picking a boxed medicine from a stocked shelf and turning it to check the label, then moving out of frame past shelves of medicine boxes.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "medicine boxes",
+    "pharmacy shelving",
+    "disposable gloves"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 29.95,
-   "end": 39.94
+   "end": 39.94,
+   "description": "A staff member's hand reaches along pharmacy shelves stocked with boxed medicines and selects a pack, with orange and white tablet boxes in the foreground.",
+   "service_lines": [
+    "pharmacy"
+   ],
+   "kit": [
+    "medication boxes",
+    "pharmacy shelving"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 39.94,
-   "end": 49.92
+   "end": 49.92,
+   "description": "Low-angle shot of a suspended ceiling sign reading \"Urgent Care Centre\" as the camera moves along it, at The Harborne Hospital's Urgent Care Centre.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hanging ceiling sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 49.92,
-   "end": 61.51
+   "end": 61.51,
+   "description": "A woman in a green top sits in a grey armchair looking at her phone in the waiting area of The Harborne Hospital's Urgent Care Centre, while another person sits in the foreground with their back to camera. The lounge has armchairs, low coffee tables, a tissue box, large plants and framed artwork by a tall window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "coffee tables",
+    "tissue box",
+    "potted plants"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 61.51,
-   "end": 73.1
+   "end": 73.1,
+   "description": "A woman in a green top sits on a sofa in the Urgent Care Centre waiting area at The Harborne Hospital, looking at her phone while she waits. Grey armchairs, a coffee table, plants and a large window fill the room.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "waiting room sofas and armchairs",
+    "coffee table",
+    "mobile phone"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 73.1,
-   "end": 84.69
+   "end": 84.69,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 84.69,
-   "end": 96.27
+   "end": 96.27,
+   "description": "Close-up of a ceiling-mounted Siemens Healthineers X-ray tube and its control touchscreen as a radiographer takes hold of the handles to position it in the X-ray room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "SIEMENS Healthineers; Manual",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 96.27,
-   "end": 107.86
+   "end": 107.86,
+   "description": "Close-up of a patient's elbow, bent and resting on an X-ray detector plate, with the crosshair positioning light from the X-ray unit lined up on the joint before an image is taken in the urgent care imaging room.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "X-ray"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 107.86,
-   "end": 119.45
+   "end": 119.45,
+   "description": "Detail of a patient's bent knee resting on an X-ray table while the X-ray positioning light projects a crosshair onto the joint before switching off.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "X-ray"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "detail",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 119.45,
-   "end": 131.04
+   "end": 131.04,
+   "description": "Close-up of a person's bare elbow and forearm, in a green patterned sleeve, resting on a pale tiled surface while a curved shadow falls across the arm.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 131.04,
-   "end": 138.74
+   "end": 138.74,
+   "description": "A wrist and forearm X-ray is displayed on a computer monitor, with the camera moving slowly down from the hand and wrist bones to the forearm. Shows how injuries are checked with X-ray imaging at the urgent care centre.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "X-ray",
+    "computer monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "R",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 138.74,
-   "end": 146.43
+   "end": 146.43,
+   "description": "An X-ray of a right hand and wrist displayed on a computer monitor, with the camera moving from the fingers and knuckles down to the wrist bones. Suitable for showing X-ray results being reviewed during an urgent care visit.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "orthopaedics"
+   ],
+   "kit": [
+    "X-ray",
+    "computer monitor"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "pan"
+   },
+   "text_on_screen": "R; partial ID numbers including '...4-0002', '...822086', '...00000523COCBH'",
+   "patient_visible": false,
+   "screen_data_visible": true,
+   "social_ready": false
   }
  ]
 }

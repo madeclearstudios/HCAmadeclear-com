@@ -7,167 +7,1123 @@
  "shots": [
   {
    "t": 0.0,
-   "end": 7.8
+   "end": 7.8,
+   "description": "A man with a backpack, seen from behind, walks out of a glass-fronted hospital building and down an outdoor ramp with a handrail towards a busy tree-lined street. The camera follows him as he leaves.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 7.8,
-   "end": 20.88
+   "end": 20.88,
+   "description": "A receptionist in a headscarf and dark blazer greets a man at the reception desk of an HCA Healthcare UK hospital, smiling and talking as he checks in. The camera moves around behind the man toward the receptionist, with the HCA Healthcare UK logo on the wall behind her.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 20.88,
-   "end": 23.2
+   "end": 23.2,
+   "description": "A man in a light blue shirt with a jacket over his shoulder walks right to left past wall signage for The Princess Grace Hospital, leaving the frame on the sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "The Princess Grace Hospital",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 23.2,
-   "end": 33.92
+   "end": 33.92,
+   "description": "A man with a shoulder bag walks through a hospital reception lounge with seating, a wall TV and potted plants, pauses and looks around, then walks out of frame, leaving the empty lobby.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "shoulder bag",
+    "lounge seating",
+    "wall-mounted TV",
+    "potted plants"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 33.92,
-   "end": 44.64
+   "end": 44.64,
+   "description": "A man waits in a hospital waiting area, sitting in an armchair with a backpack at his feet, then reads a newspaper as the camera moves in closer.",
+   "service_lines": [],
+   "kit": [
+    "armchairs",
+    "table lamp",
+    "coffee table",
+    "backpack",
+    "newspaper"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 44.64,
-   "end": 55.36
+   "end": 55.36,
+   "description": "A man sits in an armchair in a hospital waiting lounge reading a copy of The Telegraph newspaper while other people sit in the background. The camera arcs slowly around him from a front-on to a side view.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 3
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Telegraph",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 55.36,
-   "end": 66.08
+   "end": 66.08,
+   "description": "A man sits in an armchair in a hospital waiting lounge reading a copy of The Telegraph newspaper, while other people wait in the background, one using a laptop. The camera moves back from a medium shot to show more of the lounge.",
+   "service_lines": [],
+   "kit": [
+    "newspaper",
+    "armchairs",
+    "table lamp",
+    "laptop"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Telegraph",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 66.08,
-   "end": 76.8
+   "end": 76.8,
+   "description": "A nurse in a blue-grey tunic talks with a seated man in a lounge waiting area, then gestures for him to stand and follow her. Over-the-shoulder view from behind the man as he gets up from his armchair.",
+   "service_lines": [],
+   "kit": [
+    "armchair",
+    "table lamp"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 76.8,
-   "end": 84.28
+   "end": 84.28,
+   "description": "A nurse in a uniform tunic stands and talks with a male patient who is seated in a patient room holding a newspaper. The shot is framed over the patient's shoulder as she gestures while explaining.",
+   "service_lines": [],
+   "kit": [
+    "newspaper",
+    "table lamp"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "The Da... (partial newspaper masthead)",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 84.28,
-   "end": 91.76
+   "end": 91.76,
+   "description": "A staff member in a light blue short-sleeved uniform puts on a black backpack and follows a nurse in a blue-grey tunic through a hospital reception area, filmed from behind as they walk away from camera.",
+   "service_lines": [],
+   "kit": [
+    "backpack",
+    "coffee machine",
+    "reception seating"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 91.76,
-   "end": 95.56
+   "end": 95.56,
+   "description": "A male patient sits up in a hospital bed in a private patient room with his hands clasped, smiling and talking to someone off camera. A staff member in dark scrubs walks into the foreground at the end of the shot.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "drip stand",
+    "water jug",
+    "over-bed light"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 95.56,
-   "end": 105.48
+   "end": 105.48,
+   "description": "A patient in a hospital gown sits up in bed in a private patient room, smiling and talking with a staff member in navy scrubs who stands at the bedside with her back to camera.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "IV drip stand",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 105.48,
-   "end": 113.08
+   "end": 113.08,
+   "description": "Over-the-shoulder shot of a staff member in a navy uniform talking with a male patient who is lying in a hospital bed in a private patient room, hands clasped on the covers.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "drip stand",
+    "overbed table",
+    "laptop",
+    "wall-mounted medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 113.08,
-   "end": 121.68
+   "end": 121.68,
+   "description": "A nurse in a navy uniform stands at the bedside, seen over her shoulder, talking with a male patient. He is resting in a hospital bed in a private patient room, wearing a nasal oxygen cannula, and she then moves across the frame.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "nasal oxygen cannula",
+    "IV drip stand",
+    "overbed table",
+    "laptop"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 121.68,
-   "end": 125.44
+   "end": 125.44,
+   "description": "A nurse in a dark uniform, seen from behind and out of focus in the foreground, stands at the bedside while a patient wearing a nasal oxygen cannula sits up in a hospital bed and talks with her in a private patient room.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "IV drip stand",
+    "nasal oxygen cannula",
+    "bedside lamp"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 125.44,
-   "end": 135.44
+   "end": 135.44,
+   "description": "A male patient wearing a hospital gown and a nasal oxygen cannula sits propped up in a hospital bed by a window, smiling and then speaking. A drip stand is visible behind him in the final frame.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "nasal oxygen cannula",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 135.44,
-   "end": 137.2
+   "end": 137.2,
+   "description": "Close-up of a patient's clasped hands resting on white bedding in a hospital bed, with a pink hospital wristband on the wrist and a window softly out of focus behind.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "patient wristband"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 137.2,
-   "end": 146.83
+   "end": 146.83,
+   "description": "A nurse in a navy uniform with a name badge smiles and talks with someone off camera beside a sliding door marked 'Slide to Open' in a hospital corridor. The camera moves in from a medium shot to a close-up as she speaks.",
+   "service_lines": [],
+   "kit": [
+    "sliding door"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "SLIDE TO OPEN",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 146.83,
-   "end": 156.46
+   "end": 156.46,
+   "description": "A nurse in navy scrubs with a name badge talks to someone off camera and smiles in a hospital room with a 'Slide to open' door sign behind her. The camera then moves to a wider view of her standing in the room, framed past a blurred object in the foreground.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "SLIDE TO OPEN",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 156.46,
-   "end": 166.09
+   "end": 166.09,
+   "description": "Close-up of a nurse in navy scrubs with purple trim speaking to someone off camera and smiling, in an interview-style shot inside a hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 166.09,
-   "end": 175.72
+   "end": 175.72,
+   "description": "Close-up of a patient's clasped hands resting on white bedding in a hospital bed, as another person's hand reaches in to touch them reassuringly and then withdraws.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 175.72,
-   "end": 186.72
+   "end": 186.72,
+   "description": "A surgeon in a gown, cap and mask adjusts the draped arms of a da Vinci surgical robot in an operating theatre, filmed from a low angle beside the draped operating table. A monitor and equipment tower are visible behind.",
+   "service_lines": [
+    "urology",
+    "robotic surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "operating theatre lights",
+    "surgical display monitor",
+    "equipment tower",
+    "surgical drapes"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 186.72,
-   "end": 197.72
+   "end": 197.72,
+   "description": "Low-angle shot of a surgeon in a gown, cap, mask and glasses reaching up to adjust a draped robotic surgical arm in an operating theatre, with theatre lights overhead.",
+   "service_lines": [
+    "urology",
+    "robotic surgery"
+   ],
+   "kit": [
+    "surgical robot arm (draped)",
+    "operating theatre lights",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 197.72,
-   "end": 208.72
+   "end": 208.72,
+   "description": "Low-angle view from the operating table of a surgeon in gown, mask and glasses adjusting a plastic-draped robotic surgical arm, with theatre lights overhead. Surgical drapes over the table fill the foreground.",
+   "service_lines": [
+    "urology",
+    "robotic surgery"
+   ],
+   "kit": [
+    "surgical robot arms (draped)",
+    "operating theatre lights",
+    "surgical drapes"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 208.72,
-   "end": 219.72
+   "end": 219.72,
+   "description": "Low-angle shot in an operating theatre of a surgeon in scrubs, cap, mask and glasses standing beside a plastic-draped robotic surgical arm over a draped patient. The surgeon reaches up to adjust the robotic arm.",
+   "service_lines": [
+    "urology",
+    "robotic surgery"
+   ],
+   "kit": [
+    "robotic surgical arm (draped)",
+    "operating theatre lights",
+    "ceiling-mounted monitor",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 219.72,
-   "end": 230.72
+   "end": 230.72,
+   "description": "Low-angle shot from the operating table of a theatre team member in gown, cap, mask and glasses fitting a clear sterile drape over a robotic surgical arm, with theatre lights overhead.",
+   "service_lines": [
+    "urology",
+    "robotic surgery"
+   ],
+   "kit": [
+    "surgical robot arm (draped)",
+    "operating theatre lights",
+    "patient monitor",
+    "sterile drape",
+    "surgical drapes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 230.72,
-   "end": 241.72
+   "end": 241.72,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 241.72,
-   "end": 252.72
+   "end": 252.72,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 252.72,
-   "end": 263.72
+   "end": 263.72,
+   "description": "A man in a light blue shirt, appearing to be a patient, sits in a consulting room and listens thoughtfully as the camera moves around him from profile to face-on.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "wall-mounted diagnostic set",
+    "wall-mounted screen",
+    "hand sanitiser dispenser"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 263.72,
-   "end": 274.68
+   "end": 274.68,
+   "description": "A consultant in a dark suit sits at a desk with a patient in a light blue shirt and talks him through something, holding a small red object that may be an anatomical model. The room has a hospital bed, a wall-mounted screen and a computer on the desk.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "hospital bed",
+    "computer monitor",
+    "keyboard and mouse",
+    "conference phone",
+    "wall-mounted TV screen",
+    "anatomical model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 274.68,
-   "end": 285.64
+   "end": 285.64,
+   "description": "A consultant in a dark suit uses an anatomical model of the bladder and prostate to explain a condition to a male patient seated across the desk in a consulting room. The shot starts on the patient listening and moves in to a close-up of the consultant's hands on the model.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical bladder and prostate model",
+    "examination couch",
+    "wall-mounted diagnostic set",
+    "computer monitor",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 285.64,
-   "end": 291.52
+   "end": 291.52,
+   "description": "A consultant in a suit and glasses sits at a desk in a consulting room, explaining something with hand gestures to a male patient seen from behind. A nameplate and an anatomical model sit on the desk.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical model",
+    "desk nameplate",
+    "office chair"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Mr Chris Ogden (desk nameplate, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 291.52,
-   "end": 303.48
+   "end": 303.48,
+   "description": "A grey-haired urology consultant in glasses and a navy suit sits at his consulting room desk and talks to someone off camera. A name plate and an anatomical model are on the desk, with a sink and hand sanitiser dispensers behind him.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical model",
+    "desk name plate",
+    "desk phone",
+    "keyboard",
+    "hand sanitiser dispenser",
+    "clinical sink"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Mr Chris Ogden (desk name plate, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 303.48,
-   "end": 313.28
+   "end": 313.28,
+   "description": "Over-the-shoulder shot of a grey-haired consultant in a suit and glasses sitting at a desk and talking with a patient, seen from behind, in a consulting room. An anatomical urology model sits on the desk as the camera moves in on the consultant.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical model (urinary tract)",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 313.28,
-   "end": 323.08
+   "end": 323.08,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 323.08,
-   "end": 332.88
+   "end": 332.88,
+   "description": "A urology consultant at his desk points to a computer monitor while explaining results to a male patient seated with his back to camera. The camera moves round to end on the screen showing prostate MRI scan images.",
+   "service_lines": [
+    "urology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing MRI scans",
+    "webcam",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 332.88,
-   "end": 342.68
+   "end": 342.68,
+   "description": "A consultant's hand points at a desktop monitor showing prostate scan images with outlined contours and biopsy planning lines, as if explaining results during a urology consultation.",
+   "service_lines": [
+    "urology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing prostate imaging (MRI / ultrasound fusion software)",
+    "webcam"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 342.68,
-   "end": 351.31
+   "end": 351.31,
+   "description": "Close-up of a consultant's hands at a desk as he takes apart and points to sections of an anatomical model, likely of the bladder wall, while explaining it. His face is not shown.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 351.31,
-   "end": 359.93
+   "end": 359.93,
+   "description": "A consultant in a suit and glasses handles a urology anatomical model at a wooden desk, separating its pieces, before the camera moves up to a close-up of his face as he looks down at the model.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 359.93,
-   "end": 368.56
+   "end": 368.56,
+   "description": "A consultant urologist in glasses looks down, and the shot then moves to his clasped hands resting on a consulting room desk beside an anatomical model and a nameplate reading 'Mr Chris Ogden'.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "anatomical model",
+    "desk nameplate",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "Mr Chris Ogden",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 368.56,
-   "end": 373.82
+   "end": 373.82,
+   "description": "A consultant in a suit and glasses sits at his desk talking with a male patient in a consulting room, with a small anatomical model and a nameplate on the desk.",
+   "service_lines": [
+    "urology"
+   ],
+   "kit": [
+    "desk",
+    "anatomical model",
+    "desk nameplate"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

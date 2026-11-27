@@ -7083,59 +7083,373 @@
   },
   {
    "t": 1862.14,
-   "end": 1871.28
+   "end": 1871.28,
+   "description": "A theatre team member in blue scrubs and a surgical cap positions the arms of a surgical robot in an operating theatre while talking. The camera then moves in close past the robot arm.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "surgical robot",
+    "operating theatre lights",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Medtronic",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
   },
   {
    "t": 1871.28,
-   "end": 1876.68
+   "end": 1876.68,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 1876.68,
-   "end": 1883.0
+   "end": 1883.0,
+   "description": "Two theatre staff in scrubs and caps in an operating theatre, one positioning a robotic surgical arm beside a patient's draped, bent knee while a colleague watches from the back. Robotic-assisted orthopaedic surgery set-up, likely knee replacement, at The Princess Grace Hospital.",
+   "service_lines": [
+    "orthopaedics",
+    "robotic surgery"
+   ],
+   "kit": [
+    "Mako robot",
+    "operating theatre lights",
+    "wall-mounted monitors",
+    "surgical drapes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1883.0,
-   "end": 1889.16
+   "end": 1889.16,
+   "description": "Theatre staff in blue scrubs and caps position a Medtronic O-arm imaging system around a draped operating table in an operating theatre.",
+   "service_lines": [
+    "spine",
+    "neurosurgery",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "Medtronic O-arm intraoperative imaging system",
+    "operating theatre lights",
+    "wall-mounted display screen",
+    "surgical drapes"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 5
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "O-arm, Medtronic",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1889.16,
-   "end": 1898.16
+   "end": 1898.16,
+   "description": "A Medtronic O-arm intraoperative imaging scanner in an operating theatre at The Princess Grace Hospital, with a staff member in blue scrubs using its workstation screen. The gantry section of the scanner ring then lifts open.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine",
+    "neurosurgery",
+    "orthopaedics"
+   ],
+   "kit": [
+    "O-arm intraoperative imaging system",
+    "imaging workstation"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Medtronic",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1898.16,
-   "end": 1906.36
+   "end": 1906.36,
+   "description": "A staff member in navy scrubs and a surgical cap peeks out from behind an O-arm intraoperative imaging system in an operating theatre as the camera moves slowly past the gantry.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "spine",
+    "neurosurgery"
+   ],
+   "kit": [
+    "O-arm intraoperative imaging system",
+    "wall-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "O-arm",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1906.36,
-   "end": 1914.56
+   "end": 1914.56,
+   "description": "",
+   "error": "describe failed after 5 tries"
   },
   {
    "t": 1914.56,
-   "end": 1925.16
+   "end": 1925.16,
+   "description": "A large white intraoperative imaging gantry is positioned over a draped patient in an operating theatre while theatre staff in blue scrubs and caps stand by in the background.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "intraoperative imaging gantry",
+    "operating theatre lights",
+    "surgical drapes",
+    "theatre equipment trolleys"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1925.16,
-   "end": 1927.96
+   "end": 1927.96,
+   "description": "View through an open doorway into an operating theatre with a large C-arm imaging system positioned over a draped operating table. Theatre staff in scrubs and caps walk around the table and prepare the room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "C-arm imaging system",
+    "operating theatre lights",
+    "operating table",
+    "surgical drapes",
+    "wall-mounted monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1927.96,
-   "end": 1937.4
+   "end": 1937.4,
+   "description": "An empty operating theatre with a draped operating table passing through a mobile intraoperative CT scanner gantry, with theatre lights and wall monitors behind. The camera moves forward and low toward the base of the scanner.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner",
+    "operating theatre lights",
+    "operating table",
+    "wall-mounted monitors",
+    "surgical drapes",
+    "instrument trolley"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1937.4,
-   "end": 1946.84
+   "end": 1946.84,
+   "description": "A slow move around the gantry of a wide-bore scanner, likely an MRI, with a patient table covered in green sterile drapes positioned at the illuminated bore. A wall-mounted monitor is visible in the background of the scanner room.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "sterile surgical drapes",
+    "wall-mounted monitor"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1946.84,
-   "end": 1953.54
+   "end": 1953.54,
+   "description": "An intraoperative imaging gantry moves over a draped patient on the operating table in a theatre lit by overhead surgical lights, with wall monitors and a theatre staff member in the background.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "general surgery"
+   ],
+   "kit": [
+    "intraoperative imaging gantry",
+    "operating theatre lights",
+    "wall-mounted display monitors",
+    "equipment control cart",
+    "draped operating table"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1953.54,
-   "end": 1960.24
+   "end": 1960.24,
+   "description": "Gimbal shot in an operating theatre at The Princess Grace Hospital, moving past a ceiling-mounted piece of equipment positioned over a draped patient, with theatre lights and wall monitors in the background under green ambient lighting.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "ceiling-mounted theatre equipment",
+    "wall-mounted monitors",
+    "equipment boom / pendant"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   },
   {
    "t": 1960.24,
-   "end": 1968.92
+   "end": 1968.92,
+   "description": "A staff member in blue scrubs and a surgical cap works at the control station of a Medtronic O-arm imaging system in an operating theatre, with the gantry ring in the foreground and monitors overhead.",
+   "service_lines": [
+    "spine",
+    "neurosurgery",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "Medtronic O-arm intraoperative imaging system",
+    "O-arm workstation",
+    "ceiling-mounted monitors",
+    "navigation / equipment tower"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Medtronic; O-arm",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
   }
  ]
 }

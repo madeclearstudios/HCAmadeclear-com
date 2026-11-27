@@ -1,0 +1,6050 @@
+{
+ "id": "the-wellington-why-hca-2026-selects-gaps-closed",
+ "title": "The Wellington, Why HCA 2026 - Selects (Gaps Closed)",
+ "file": "The Wellington, Why HCA 2026 - Selects (Gaps Closed).mp4",
+ "facility": "The Wellington Hospital",
+ "duration": 2592.6,
+ "shots": [
+  {
+   "t": 0.0,
+   "end": 10.42,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 10.42,
+   "end": 20.84,
+   "description": "An empty patient trolley made up with a green sheet and white pillow in an anaesthetic room, with an anaesthetic machine and patient monitors behind it. A staff member in navy scrubs briefly passes through the frame.",
+   "service_lines": [],
+   "kit": [
+    "anaesthetic machine",
+    "patient monitor",
+    "hospital bed",
+    "suction unit",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 20.84,
+   "end": 27.32,
+   "description": "Close-up of a staff member in navy scrubs typing on a keyboard at a clinical computer workstation, with blurred hospital equipment, possibly in a theatre or procedure room, in the background.",
+   "service_lines": [],
+   "kit": [
+    "computer workstation",
+    "keyboard",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 27.32,
+   "end": 34.54,
+   "description": "A theatre staff member in blue scrubs and a surgical cap handles a sterile item at chest height in an operating theatre. The camera tilts up from his hands and ID badge to his face as he looks down at his work, with theatre lights overhead.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "ID badge and lanyard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 34.54,
+   "end": 41.76,
+   "description": "Low-angle close-up of a surgeon in blue scrubs, a theatre cap and a hospital lanyard looking down in concentration while working in an operating theatre, with overhead theatre lights and a boom-mounted monitor behind him.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "boom-mounted monitor"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 41.76,
+   "end": 53.76,
+   "description": "A staff member in navy scrubs, surgical cap and lanyard looks down while working in an operating theatre. The camera then moves across to a ZEISS surgical microscope with multiple eyepieces positioned in the theatre.",
+   "service_lines": [],
+   "kit": [
+    "microscope",
+    "surgical microscope"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "ZEISS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 53.76,
+   "end": 65.76,
+   "description": "A ZEISS surgical microscope, ceiling-mounted on its arm with eyepieces and handgrips, in an empty operating theatre at The Wellington Hospital. The camera moves slowly around and below the microscope head.",
+   "service_lines": [],
+   "kit": [
+    "surgical microscope",
+    "microscope"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ZEISS",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 65.76,
+   "end": 77.76,
+   "description": "Low-angle close view of a ZEISS surgical microscope with its binocular eyepieces and handles in an operating theatre, with ceiling lights behind. Focus softens in the middle of the shot and returns sharp by the end.",
+   "service_lines": [],
+   "kit": [
+    "microscope"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "ZEISS; Carl Zeiss",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 77.76,
+   "end": 89.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 89.76,
+   "end": 101.76,
+   "description": "Theatre team briefing in a hospital corridor at The Wellington Hospital. Two men in suits with lanyards and two staff in blue scrubs and theatre caps, one holding a clipboard, listen to a colleague in scrubs who is out of focus in the foreground.",
+   "service_lines": [],
+   "kit": [
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 5
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 101.76,
+   "end": 113.76,
+   "description": "A man in a suit, tie and lanyard talks and gestures to colleagues in navy scrubs, who are mostly out of frame, in front of a set of double doors at The Wellington Hospital. He appears to be leading a team briefing or discussion.",
+   "service_lines": [],
+   "kit": [
+    "lanyard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 113.76,
+   "end": 125.76,
+   "description": "A theatre lead practitioner in a named scrub cap writes on a clipboard as the camera moves to three male clinicians in blue scrubs and theatre caps standing together in an operating theatre, watching and listening.",
+   "service_lines": [],
+   "kit": [
+    "clipboard",
+    "IV drip stand"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Zanele, Lead Practitioner",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 125.76,
+   "end": 137.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 137.76,
+   "end": 149.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 149.76,
+   "end": 161.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 161.76,
+   "end": 173.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 173.76,
+   "end": 185.76,
+   "description": "A bearded staff member in navy scrubs, a surgical cap and glasses talks and gestures to colleagues in scrubs during a team discussion in a theatre-area corridor at The Wellington Hospital. An out-of-focus colleague in a surgical cap fills the foreground.",
+   "service_lines": [],
+   "kit": [
+    "surgical caps",
+    "scrubs"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 185.76,
+   "end": 197.76,
+   "description": "Four clinicians in scrubs and theatre caps stand in a theatre corridor, arms folded, in discussion with a man in a suit seen from behind in the foreground. One clinician on the right speaks and gestures while the others listen.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 5
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 197.76,
+   "end": 209.76,
+   "description": "A theatre team in navy scrubs and surgical caps stands in a circle for a pre-list team briefing while one member talks and gestures. The camera moves around the group past drip stands and a trolley in a theatre corridor at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "drip stands"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 7
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 209.76,
+   "end": 221.76,
+   "description": "A theatre team in blue scrubs and surgical caps stands in a room listening during a team briefing, with one staff member in the foreground. The camera then moves to a staff member handling a coiled purple cable or tubing.",
+   "service_lines": [],
+   "kit": [
+    "equipment trolley",
+    "coiled cable / tubing"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 6
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 221.76,
+   "end": 233.76,
+   "description": "Two clinicians in blue scrubs and theatre caps talk in an operating theatre at The Wellington Hospital. The camera moves from one man looking down to a colleague wearing an ID lanyard who explains something with hand gestures.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "surgical microscope",
+    "wall-mounted monitor",
+    "anaesthetic machine"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 233.76,
+   "end": 245.76,
+   "description": "A staff member in blue scrubs, a theatre cap and a pink lanyard talks and gestures with his hands to a colleague in scrubs, filmed over the colleague's shoulder in an operating theatre. Theatre lights, a wall-mounted screen and a whiteboard are visible behind him.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "wall-mounted monitor",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 245.76,
+   "end": 257.76,
+   "description": "Two clinicians in blue scrubs and surgical caps talk in an operating theatre. Over-the-shoulder shot of one staff member facing camera, gesturing with his hands as he explains something to a colleague.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "wall-mounted monitor",
+    "whiteboard"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 257.76,
+   "end": 269.76,
+   "description": "Theatre staff in blue scrubs prepare an operating theatre at The Wellington Hospital, with the camera moving past an operating table fitted with leg supports and stacks of surgical equipment. Team members work at trolleys and review paperwork in the background.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "operating table",
+    "surgical equipment stack",
+    "patient monitor",
+    "instrument trolley",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 4
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 269.76,
+   "end": 281.76,
+   "description": "A staff member in blue scrubs and a theatre cap works on a laptop on a trolley in an empty operating theatre, beside an anaesthetic machine, patient monitors and an operating table. A second staff member is partly visible in the background.",
+   "service_lines": [],
+   "kit": [
+    "anaesthetic machine",
+    "patient monitor",
+    "operating table",
+    "laptop",
+    "ceiling pendant",
+    "medical gas outlets"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "GE",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 281.76,
+   "end": 293.76,
+   "description": "A member of the surgical team in navy scrubs and a surgical cap sits at a desk writing notes, with bottles and supply boxes in the foreground. Labelled storage drawers and cupboards are visible in the background of the theatre support room.",
+   "service_lines": [],
+   "kit": [
+    "medical supply bottles",
+    "supply boxes",
+    "storage drawers"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Jhordan Surgical (on surgical cap)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 293.76,
+   "end": 305.76,
+   "description": "Two theatre staff in scrubs and surgical caps work at a computer desk in a theatre support area, one seated typing while the other reaches for supplies on the shelves. Medical gas outlets with yellow hoses and theatre equipment sit out of focus in the foreground.",
+   "service_lines": [
+    "general surgery"
+   ],
+   "kit": [
+    "medical gas pendant",
+    "computer workstation",
+    "supply shelving"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 305.76,
+   "end": 317.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 317.76,
+   "end": 329.76,
+   "description": "Camera moves forward through an empty operating theatre, past a ceiling-mounted surgical microscope, towards open double doors leading into an adjoining MRI scanner room with the patient table in front of the scanner. Shows an operating theatre connected directly to an MRI suite at The Wellington Hospital.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "neurosurgery"
+   ],
+   "kit": [
+    "MRI scanner",
+    "surgical microscope",
+    "operating table",
+    "MRI patient table",
+    "medical supply trolleys"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 329.76,
+   "end": 341.76,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 341.76,
+   "end": 353.76,
+   "description": "A surgeon in blue scrubs, a named scrub cap and glasses talks with a colleague in scrubs, shown over the shoulder, and gestures towards a row of surgical microscopes. The two are in a conversation inside a clinical room at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Jhordan (on scrub cap); ZEISS (on microscope)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 353.76,
+   "end": 365.76,
+   "description": "A surgeon in scrubs and a theatre cap explains something with hand gestures to a colleague, who stands with arms crossed in the foreground, in an operating theatre next to a surgical microscope. Filmed at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "microscope",
+    "operating table"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 365.76,
+   "end": 377.76,
+   "description": "Two surgeons in blue scrubs stand talking in an operating theatre at The Wellington Hospital, with one in glasses and a scrub cap explaining something with hand gestures. Two surgical microscopes stand in the background.",
+   "service_lines": [],
+   "kit": [
+    "surgical microscope",
+    "operating table"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 377.76,
+   "end": 389.76,
+   "description": "A surgeon in navy scrubs, a scrub cap and glasses stands in an operating theatre beside a surgical microscope, talking off camera with one hand on his chest while gesturing with the other.",
+   "service_lines": [],
+   "kit": [
+    "surgical microscope"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Jhorden (scrub cap); ZEISS (microscope)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 389.76,
+   "end": 401.76,
+   "description": "A surgeon in blue scrubs and a scrub cap stands with arms crossed and smiles at the camera beside a surgical microscope in an operating theatre at The Wellington Hospital. Another surgeon in scrubs and a cap then positions and adjusts the microscope's handles.",
+   "service_lines": [],
+   "kit": [
+    "surgical microscope"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Jhordan Surgical (on scrub cap)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 401.76,
+   "end": 413.76,
+   "description": "A surgeon in blue scrubs, a surgical cap and safety glasses ties his face mask behind his head in an operating theatre at The Wellington Hospital. Out-of-focus robotic surgical arms are in the foreground, with monitors behind him.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "da Vinci surgical robot",
+    "patient monitor",
+    "operating theatre lights"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 413.76,
+   "end": 425.76,
+   "description": "A surgeon in scrubs and a surgical cap ties on his face mask, then positions a surgical operating microscope by its handles in an operating theatre while a colleague works in the background.",
+   "service_lines": [],
+   "kit": [
+    "surgical operating microscope",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 425.76,
+   "end": 437.76,
+   "description": "A surgeon in blue scrubs, a surgical cap and a mask sits in a surgeon's chair and looks through the eyepiece of a surgical operating microscope in an operating theatre, with the microscope light falling on his open hand. A theatre trolley and monitors are visible in the background.",
+   "service_lines": [],
+   "kit": [
+    "surgical operating microscope",
+    "surgeon's chair",
+    "hospital bed",
+    "patient monitor"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 437.76,
+   "end": 449.76,
+   "description": "A surgeon in blue scrubs, cap, mask and glasses positions and adjusts a surgical microscope over the operating table in an empty operating theatre at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "microscope",
+    "operating table",
+    "monitor"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 449.76,
+   "end": 460.45,
+   "description": "A surgeon in blue scrubs, cap, glasses and a surgical mask positions a surgical microscope in an operating theatre, then leans in to look through the eyepieces.",
+   "service_lines": [],
+   "kit": [
+    "microscope"
+   ],
+   "people": [
+    {
+     "role": "surgeon",
+     "count": 1
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 460.45,
+   "end": 471.15,
+   "description": "A man in a grey jumper talks to a group of staff in a clinical bay, filmed over the shoulder of a team member in navy scrubs. Wall-mounted monitors and bedhead equipment are visible behind him.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "medical gas outlets",
+    "drip stand"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 3
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 471.15,
+   "end": 481.84,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 481.84,
+   "end": 493.1,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 493.1,
+   "end": 504.36,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 504.36,
+   "end": 515.62,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 515.62,
+   "end": 526.87,
+   "description": "Two clinical staff in blue scrubs and surgical caps stand at the control screen of a robotic surgical system in an operating theatre, with a robotic arm in the foreground. The man adjusts settings on the touchscreen while his female colleague watches and smiles.",
+   "service_lines": [
+    "robotic surgery",
+    "general surgery"
+   ],
+   "kit": [
+    "surgical robot arm",
+    "robotic system control cart with touchscreen",
+    "large wall-mounted display"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 526.87,
+   "end": 538.13,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 538.13,
+   "end": 549.39,
+   "description": "Two clinical staff in navy scrubs and surgical caps, one cap with an HCA logo, work at a touchscreen monitor in a procedure room. A large wall display shows a landscape image behind them.",
+   "service_lines": [],
+   "kit": [
+    "touchscreen control monitor",
+    "large wall-mounted display"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 549.39,
+   "end": 560.65,
+   "description": "Two clinical staff in navy scrubs and surgical caps, one cap with the HCA logo, stand in front of a large wall display showing a forest image in a procedure or imaging room. The man talks and points to equipment off frame while his colleague watches and smiles.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "large wall-mounted display",
+    "ceiling-mounted monitor boom"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 560.65,
+   "end": 571.91,
+   "description": "Two clinical staff in navy scrubs and surgical caps stand at a control monitor in a procedure room, with a large wall screen showing a forest scene behind them. The female clinician looks across the room and then operates the monitor controls while her male colleague looks down beside her.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "imaging control monitor",
+    "large wall-mounted display"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 571.91,
+   "end": 583.17,
+   "description": "Two clinical staff in navy scrubs and surgical caps stand in an operating theatre beside a draped robotic arm, one using a touchscreen console while the other watches. A large wall screen behind them shows a forest scene.",
+   "service_lines": [
+    "robotic surgery"
+   ],
+   "kit": [
+    "robotic surgical system",
+    "touchscreen console",
+    "wall display screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 583.17,
+   "end": 594.42,
+   "description": "Low-angle view looking up at operating theatre lights on ceiling-mounted arms as the camera moves beneath them to reveal the lamp face, with a wall-mounted monitor at the edge of frame. No people are in shot.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "ceiling-mounted equipment arm",
+    "wall-mounted monitor"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 594.42,
+   "end": 605.68,
+   "description": "Low-angle moving shot of a ceiling-mounted operating theatre light with its sterile handle in an empty theatre. A jointed equipment arm and a wall monitor showing a crosshair targeting display are visible in the background.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "theatre monitor",
+    "ceiling-mounted equipment arm"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 605.68,
+   "end": 616.94,
+   "description": "Camera moves around a ceiling-mounted white theatre light with handles and a central sterile handle in an operating theatre, with display screens blurred in the background. No people are in shot.",
+   "service_lines": [],
+   "kit": [
+    "operating theatre lights",
+    "display screen"
+   ],
+   "people": [],
+   "setting": "operating theatre",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "12 CM",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 616.94,
+   "end": 628.2,
+   "description": "Close-up of a staff member's hands typing on the keyboard of an ultrasound machine console, with control knobs and illuminated buttons in shallow focus. The camera moves across the control panel and returns to the hands at the keyboard.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "ultrasound"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 628.2,
+   "end": 638.86,
+   "description": "Exterior wayfinding sign at The Wellington Hospital, with the camera tilting down past directions to North Building Reception, Endoscopy Centre, South Building Reception and the Urgent Care Centre, open 365 days, ending on the HCA Healthcare UK logo. A person walks past out of focus in the background.",
+   "service_lines": [
+    "gastroenterology",
+    "general hospital"
+   ],
+   "kit": [
+    "wayfinding sign"
+   ],
+   "people": [
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "The Wellington Hospital; North Building Reception; Endoscopy Centre; South Building Reception; Urgent Care Centre Open 365 Days; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 638.86,
+   "end": 649.52,
+   "description": "Exterior HCA Healthcare UK sign for the Urgent Care Centre at The Wellington Hospital, reading 'Open 365 Days', filmed from a low angle through out-of-focus foreground foliage as the camera moves slowly across.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "exterior signage"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "...gent Care Centre, Open 365 Days, ...Reception, HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 649.52,
+   "end": 660.47,
+   "description": "Low-angle exterior shot moving past The Wellington Hospital North sign and a planter of daffodils and ivy towards a glass entrance with a potted tree outside.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital signage",
+    "planter"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital; North",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 660.47,
+   "end": 671.42,
+   "description": "Camera moves from The Wellington Hospital entrance sign and a flowering potted shrub outside, through to the reception area where a receptionist works at a desk beneath an HCA Healthcare UK logo.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitors",
+    "entrance signage",
+    "planters"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital; Nor... (partial); HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 671.42,
+   "end": 682.38,
+   "description": "A receptionist sits at the front desk beside the HCA Healthcare UK logo as the camera moves right along a backlit wooden slat wall to reveal The Wellington Hospital signage, ending with orchids in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "reception desk",
+    "orchid plant"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK (partial logo); The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 682.38,
+   "end": 693.33,
+   "description": "A receptionist in a dark uniform stands behind the front desk at The Wellington Hospital, then steps out and gestures toward the illuminated wood-panelled wall bearing The Wellington Hospital signage, smiling at the camera.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 693.33,
+   "end": 704.28,
+   "description": "A receptionist smiles behind the front desk beside the HCA Healthcare UK logo. The camera moves right past her outstretched arm to the backlit wood-slatted wall with The Wellington Hospital lettering.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 704.28,
+   "end": 716.68,
+   "description": "A receptionist sits at the front desk beneath the HCA Healthcare UK logo, smiling at the camera, as the camera moves right to reveal The Wellington Hospital name on a backlit wooden slatted wall in reception.",
+   "service_lines": [],
+   "kit": [
+    "computer monitors",
+    "reception desk",
+    "glass desk screen"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 716.68,
+   "end": 727.72,
+   "description": "A pan across a patient en-suite bathroom at The Wellington Hospital, moving from the washbasin and mirror past a wall grab rail to the walk-in shower with a handheld shower head, grab bar and wall-mounted toiletry bottles.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "washbasin",
+    "mixer tap",
+    "mirror",
+    "walk-in shower",
+    "handheld shower head",
+    "grab rails",
+    "shower caddy",
+    "wall-mounted soap dispenser",
+    "toiletry bottles"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 727.72,
+   "end": 738.76,
+   "description": "A slow pan across a patient en-suite bathroom at The Wellington Hospital, moving from a shower with a handheld head, grab rails and wall-mounted toiletry dispensers to red emergency pull cords, a towel rail and a washbasin with mirror.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "shower with handheld head",
+    "grab rails",
+    "wall-mounted toiletry dispensers",
+    "emergency pull cord",
+    "towel rail",
+    "washbasin",
+    "mirror"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 738.76,
+   "end": 749.31,
+   "description": "Close-up of a white cyclamen in a pot, with a window, curtains and shelving out of focus behind it. The camera moves slowly sideways past the plant.",
+   "service_lines": [],
+   "kit": [
+    "potted plant"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 749.31,
+   "end": 759.85,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 759.85,
+   "end": 770.4,
+   "description": "A nurse in navy uniform greets two women at a set of double doors in a hospital corridor and walks with them through the doorway, chatting as she guides them onto the ward.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "double doors"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Way out / Lifts",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 770.4,
+   "end": 781.12,
+   "description": "A nurse in a navy uniform talks with two women in headscarves in a hospital corridor at The Wellington Hospital, gesturing as she guides them along the corridor.",
+   "service_lines": [],
+   "kit": [
+    "medical equipment trolley"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 781.12,
+   "end": 791.84,
+   "description": "A nurse in a navy uniform holds open a door off a hospital corridor and welcomes two women in headscarves, likely a patient and a companion, then they walk through into a room. The camera follows behind them as they enter.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 791.84,
+   "end": 802.56,
+   "description": "Gimbal move through an empty private patient room at The Wellington Hospital, starting as two women in headscarves pass through the foreground and ending on a made hospital bed with an overbed table, bedside cabinet, chair and floor-to-ceiling window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "bedside cabinet",
+    "IV pole",
+    "visitor chair",
+    "telephone"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 802.56,
+   "end": 814.06,
+   "description": "A nurse in a navy HCA uniform greets two women wearing headscarves in a hospital corridor and guides them along the hallway, gesturing the way as they talk.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "trolley"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 814.06,
+   "end": 825.55,
+   "description": "Two women in headscarves walk along a hospital corridor at The Wellington Hospital. One gently guides the other with a hand on her back into a private patient room with a hospital bed and floor-to-ceiling windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 825.55,
+   "end": 837.05,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 837.05,
+   "end": 848.55,
+   "description": "Following shot of a woman in a dark top, seen from behind, walking down a corridor and into an empty single patient room with a made-up hospital bed, overbed table, chair and floor-to-ceiling windows at The Wellington Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "visitor chair"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 848.55,
+   "end": 860.05,
+   "description": "A nurse in an HCA Healthcare uniform opens a door in a hospital corridor at The Wellington Hospital, and the camera moves through the doorway into an empty private patient room with a hospital bed and floor-to-ceiling windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 860.05,
+   "end": 871.54,
+   "description": "A nurse in a navy HCA uniform walks down a ward corridor at The Wellington Hospital towards the camera, then turns into a patient room with a hospital bed by the window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (uniform logo); partial overhead sign, likely 'Way out / Exit'",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 871.54,
+   "end": 883.04,
+   "description": "Camera moves from an empty private patient room with a made hospital bed, overbed table and a 'Rest & Relax' amenity pouch out into a hospital corridor, where a nurse in a navy HCA uniform walks toward the camera and speaks.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "bedside cabinet",
+    "telephone",
+    "amenity pouch"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "REST & RELAX; HCA Healthcare UK (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 883.04,
+   "end": 894.54,
+   "description": "Camera moves from the doorway into an empty private patient room at The Wellington Hospital, passing a desk and armchair to a made-up hospital bed with an overbed table holding a 'Rest & Relax' amenity pouch. The room has floor-to-ceiling windows, a bedside cabinet with a telephone and a visitor chair.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "overbed table",
+    "bedside cabinet",
+    "telephone",
+    "armchair",
+    "desk",
+    "amenity pouch"
+   ],
+   "people": [],
+   "setting": "patient room",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "REST & RELAX",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 894.54,
+   "end": 906.04,
+   "description": "A hospitality staff member in a waistcoat and tie carries a tray of white crockery along a ward corridor past a hand wash basin and sanitiser dispensers, smiling at the camera as she approaches.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hand wash basin",
+    "hand sanitiser dispenser",
+    "glove dispenser",
+    "paper towel dispenser",
+    "pedal bin",
+    "serving tray"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Call Don't Fall",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 906.04,
+   "end": 917.53,
+   "description": "A hospitality staff member in a black waistcoat and white shirt walks down a corridor at The Wellington Hospital towards the camera, smiling and carrying a tray with a teapot and cups. She passes a hand hygiene station with a sink, dispensers and a 'Call Don't Fall' sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tea tray with teapot and cups",
+    "hand sanitiser dispensers",
+    "paper towel dispenser",
+    "clinical sink",
+    "pedal bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Call Don't Fall",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 917.53,
+   "end": 929.03,
+   "description": "A hospitality staff member in a waistcoat and tie carries a tray of tea cups and a teapot through a patient room at The Wellington Hospital, smiling at the camera before walking out of frame. A sink, hand gel dispensers and a 'Call Don't Fall' sign are on the wall.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tea tray",
+    "hand sanitiser dispenser",
+    "paper towel dispenser",
+    "clinical sink",
+    "pedal bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "Call Don't Fall",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 929.03,
+   "end": 940.53,
+   "description": "A hospitality staff member in a white shirt, dark waistcoat and name badge carries a tray with a teapot and cups through a patient room at The Wellington Hospital. The camera pulls back as she walks in from the doorway.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tea tray with teapot and cups",
+    "hand wash sink",
+    "paper towel dispenser",
+    "soap dispenser",
+    "glove dispenser",
+    "pedal bin"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Call Don't Fall",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 940.53,
+   "end": 952.03,
+   "description": "A hospitality staff member in a waistcoat carries a tray of teacups and a teapot along a hospital corridor, then the camera moves to a wall board covered in thank-you cards from patients.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tea tray with cups and teapot",
+    "noticeboard of thank-you cards",
+    "hand wash sink"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Thank You!; Thank you very much; Thank you and Appreciations; thank you",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 952.03,
+   "end": 963.52,
+   "description": "Camera moves slowly across a wall of thank-you cards and handwritten letters from patients and families pinned up in The Wellington Hospital. It shows gratitude to the hospital's doctors, nurses and staff.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "thank-you cards",
+    "noticeboard"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "Thank you so much; Thank you very much; Thank You; thank; To the most AMAZING",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 963.52,
+   "end": 975.02,
+   "description": "A receptionist smiles at the front desk of the Urgent Care Centre at The Wellington Hospital as the camera pans right across an empty waiting area with pink chairs, side tables and magazine shelves.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor",
+    "waiting room chairs",
+    "magazine shelves",
+    "wall-mounted TV screen"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 975.02,
+   "end": 986.52,
+   "description": "A receptionist smiles and speaks at the front desk of the Urgent Care Centre at The Wellington Hospital, then the camera moves right across an empty waiting area with rows of pink chairs, side tables with magazines and a wall-mounted TV screen.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitor",
+    "waiting room chairs",
+    "wall-mounted TV screen",
+    "magazine shelves"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 986.52,
+   "end": 991.56,
+   "description": "Camera moves across a self-service refreshment point in the Urgent Care Centre waiting area at The Wellington Hospital, showing touchscreen coffee machines, water dispensers and a wall clock beneath the Urgent Care Centre sign. No people are in shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "touchscreen coffee machine",
+    "water dispenser",
+    "wall clock"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 991.56,
+   "end": 1001.0,
+   "description": "A self-service coffee machine with a touchscreen drinks menu and a water dispenser sit in the refreshment area of the Urgent Care Centre, under the centre's wall sign and a clock. The camera moves in on the coffee machine and then across to the Urgent Care Centre sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "water dispenser",
+    "wall clock"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1001.0,
+   "end": 1010.44,
+   "description": "A camera move that starts close on a coffee machine and water dispenser and pulls back to show the refreshment station under the Urgent Care Centre sign, ending behind pink waiting room chairs at The Wellington Hospital. The waiting area is empty.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "water dispenser",
+    "waiting room chairs",
+    "wall clock"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1010.44,
+   "end": 1022.2,
+   "description": "Camera tilts down from the Acute Admissions Unit sign as a porter pushes a male patient in a wheelchair through the doors from the Urgent Care Centre at The Wellington Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wheelchair"
+   ],
+   "people": [
+    {
+     "role": "porter",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "Acute Admissions Unit; Urgent Care Centre",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1022.2,
+   "end": 1033.96,
+   "description": "Follow shot from behind of a man in a grey waistcoat and white shirt walking down a hospital corridor, through open double doors and past a wall marked Acute Admissions Unit. Staff can be seen working at desks in the background.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Acute Admissions Unit; EXIT sign",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1033.96,
+   "end": 1045.71,
+   "description": "A tilt down from the Acute Admissions Unit sign to the nurses' station, where two nurses in blue HCA scrubs work at a computer while a colleague stands at the desk behind them.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "nurses' station desk",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 2
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "tilt"
+   },
+   "text_on_screen": "Acute Admissions Unit; HCA; DELL",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1045.71,
+   "end": 1057.47,
+   "description": "Three nurses in HCA uniforms stand at a nurses' station on a hospital unit, looking at a computer monitor together and discussing what is on screen, with one nurse taking notes.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor",
+    "patient monitor",
+    "wall clock"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "ons Unit (partial wall sign); HCA logo on uniforms; DELL on monitor",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1057.47,
+   "end": 1069.23,
+   "description": "Three nurses in HCA Healthcare uniforms work together at a computer at the nurses' station of the Acute Admissions Unit, looking at the screen and discussing what they see.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Acute Admissions Unit; HCA Healthcare UK (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1069.23,
+   "end": 1080.99,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1080.99,
+   "end": 1092.75,
+   "description": "Nurses in HCA Healthcare UK scrubs work together at a computer at the nurses' station in the Acute Admissions Unit at The Wellington Hospital. One nurse talks through what is on screen while a colleague takes a phone call in the background.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitor"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Acute Admissions Unit; HCA Healthcare UK (on scrubs); Dell (on monitor)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1092.75,
+   "end": 1104.5,
+   "description": "Two nurses in HCA Healthcare UK uniforms review something on a laptop together and chat at the nurses' station in the Acute Admissions Unit at The Wellington Hospital, while a colleague at the desk behind takes a phone call.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "laptop"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 3
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Acute Admissions Unit; HCA Healthcare UK (uniform logo)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1104.5,
+   "end": 1116.26,
+   "description": "A nurse in a blue uniform and glasses unpacks a sterile pack and sorts paperwork at a counter in a treatment area, then reaches for supplies near the window. The clip shows routine preparation work.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "sterile supply packs",
+    "paperwork",
+    "storage trolley / counter",
+    "wall-mounted dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1116.26,
+   "end": 1128.02,
+   "description": "A nurse in a light blue uniform and glasses smiles as she dries her hands with a paper towel in a clinical room at The Wellington Hospital, then turns toward the sink area.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "sink",
+    "paper towel",
+    "glove box dispensers",
+    "frosted window"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1128.02,
+   "end": 1139.78,
+   "description": "A nurse in a light blue HCA uniform and glasses rubs her hands together, performing hand hygiene, while talking in a clinical patient room at The Wellington Hospital. The camera moves around her, ending with a front-on view framed by a patient monitor on a ceiling arm.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "sharps bin",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniform",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1139.78,
+   "end": 1151.54,
+   "description": "A nurse in a light blue HCA uniform and glasses prepares a bed and equipment in a dimly lit patient room at The Wellington Hospital, bending over the bedside, then standing and smiling as she works.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "IV drip stand",
+    "sharps bin",
+    "glove dispenser"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (logo on uniform)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1151.54,
+   "end": 1163.29,
+   "description": "A nurse in a light blue HCA uniform and glasses opens a sterile pack at a patient's bedside, preparing for care in a patient room at The Wellington Hospital. Wall-mounted glove dispensers, a sharps bin and a drip stand are in view.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "drip stand",
+    "glove dispenser",
+    "sharps bin"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniform",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1163.29,
+   "end": 1175.05,
+   "description": "A nurse in a blue uniform and glasses opens a small sterile packet over a clinical trolley in a patient room at The Wellington Hospital, preparing supplies. A wall-mounted patient monitor and medical equipment are in the background.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "clinical trolley",
+    "sterile packaging",
+    "blood sample tubes"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1175.05,
+   "end": 1186.81,
+   "description": "A nurse in an HCA-branded tunic sets out a sterile pack and blood collection tubes on a clinical trolley in a patient room at The Wellington Hospital, getting ready for a procedure.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "clinical trolley",
+    "blood collection tubes",
+    "sterile dressing pack",
+    "sharps bin"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1186.81,
+   "end": 1198.57,
+   "description": "A nurse in an HCA uniform smiles as she prepares sterile supplies and syringes on a dressing trolley in a hospital room at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "patient monitor",
+    "dressing trolley",
+    "syringes and sterile supplies",
+    "sharps bin",
+    "wall-mounted medical equipment"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1198.57,
+   "end": 1210.33,
+   "description": "A nurse in an HCA uniform puts on blue gloves, opens sterile packaging on a trolley to prepare equipment, then looks up and smiles in a clinical room at The Wellington Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "nitrile gloves",
+    "sterile dressing pack",
+    "clinical trolley"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA (logo on uniform)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1210.33,
+   "end": 1222.08,
+   "description": "A smiling nurse in a light blue HCA uniform and gloves checks a syringe while preparing a sterile trolley in a patient room, with a wall-mounted monitor and infusion pumps around her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "infusion pump",
+    "IV pole",
+    "sterile dressing trolley",
+    "syringe"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1222.08,
+   "end": 1233.84,
+   "description": "A nurse in an HCA uniform, glasses and purple gloves smiles as she prepares a syringe at a clinical trolley in a treatment room at The Wellington Hospital, with a wall-mounted monitor and GE equipment behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "syringe",
+    "GE medical device",
+    "clinical trolley"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "ward",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on uniform",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1233.84,
+   "end": 1245.6,
+   "description": "A nurse in a light blue HCA tunic and blue gloves prepares clinical supplies on a trolley in a hospital room and smiles while she works. A wall-mounted patient monitor and a yellow sharps bin are visible behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "patient monitor",
+    "clinical trolley",
+    "sharps bin",
+    "medical supplies"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1245.6,
+   "end": 1256.42,
+   "description": "An engraved stone plaque set into a lit wall recess records that The Wellington Hospital was opened by Lord Porritt on 25th April 1974. The camera moves slowly across the inscription, suitable for heritage or history content.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "engraved stone plaque"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital was opened by Lord Porritt GCMG, GCVO, CBE FRCS on 25th April 1974",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1256.42,
+   "end": 1267.24,
+   "description": "Exterior of the main entrance to The Wellington Hospital, with the HCA Healthcare UK and The Wellington Hospital sign on the canopy. The camera moves forward under the glass entrance canopy and tilts up toward the glazing above the doors.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1267.24,
+   "end": 1278.06,
+   "description": "Exterior of the main entrance to The Wellington Hospital, with the HCA Healthcare UK sign above the glass canopy. The camera moves forward between a parked HCA-branded vehicle and a yellow ambulance, then tilts up to the entrance canopy.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "ambulance",
+    "HCA branded vehicle"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "HCA Healthcare UK The Wellington Hospital; SATS; HCA Healthcare UK (on vehicle)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1278.06,
+   "end": 1288.88,
+   "description": "Low-angle close-up of the Wellington Place NW8, City of Westminster street sign mounted against a curved stone wall with planters above, as a car passes behind. Works as a location establishing cutaway for The Wellington Hospital in St John's Wood.",
+   "service_lines": [],
+   "kit": [
+    "street sign"
+   ],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "WELLINGTON PLACE NW8 CITY OF WESTMINSTER",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1288.88,
+   "end": 1290.76,
+   "description": "Low-angle exterior view looking up past a stone wall with a planter of yellow and purple pansies and trailing greenery, with bare tree branches against an overcast sky and a brick building in the background. The camera moves slowly along the planter.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1290.76,
+   "end": 1298.44,
+   "description": "Exterior of The Wellington Hospital's HCA Healthcare UK Urgent Care Centre, with window signage showing walk-in services from 8.00am to 9.30pm. The camera moves sideways along a low stone wall in the foreground, past planters and a hanging Urgent Care Centre sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; Urgent Care Centre; Walk-in Services Available 8.00am - 9.30pm",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1298.44,
+   "end": 1306.12,
+   "description": "Low-angle exterior shot that moves sideways past a stone wall, showing window signage for the HCA Healthcare UK Urgent Care Centre with walk-in hours of 8.00am to 9.30pm. The shot ends on the street outside with planted shrubs along the wall.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Urgent Care Centre; HCA Healthcare UK; Walk-in Services Available; 8.00am - 9.30pm; Urgent Care Centre",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1306.12,
+   "end": 1313.9,
+   "description": "Exterior of The Wellington Hospital Outpatients building, with the camera moving along the glass facade toward the HCA Healthcare UK logo and 'The Wellington Hospital Outpatients' signage. Nearby buildings and palm trees are reflected in the glass, and steel bollards line the pavement in front.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1313.9,
+   "end": 1321.68,
+   "description": "Exterior of The Wellington Hospital Outpatients building, with the camera moving along the glass frontage past the HCA Healthcare UK logo and 'The Wellington Hospital Outpatients' signage. Palm trees, a bench and surrounding buildings are reflected in the glass, with metal bollards in the foreground.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1321.68,
+   "end": 1331.92,
+   "description": "View through a glass door etched with 'Welcome to The Wellington Hospital' into the reception area, where a receptionist works behind the front desk. The lettering is in focus and the lobby behind is softly blurred.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "glass door with etched signage"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Welcome to The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1331.92,
+   "end": 1342.16,
+   "description": "Two receptionists work at the main reception desk of The Wellington Hospital beneath HCA Healthcare UK signage, and one in a suit looks up and smiles at the camera. The camera moves in, then sweeps right past the empty end of the desk.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1342.16,
+   "end": 1349.84,
+   "description": "Glass entrance door with 'Welcome to The Wellington Hospital' lettering, with a receptionist at the front desk visible through the glass. The camera tracks sideways past the door frame and ends in a motion-blur wipe across a wall with an orchid plant.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "glass door with vinyl signage",
+    "orchid plant"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Welcome to The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1349.84,
+   "end": 1357.52,
+   "description": "Two receptionists work at computers behind the front desk at The Wellington Hospital, beneath an HCA Healthcare UK sign, as the camera moves past the desk to reveal a seating area with chairs and tables by floor-to-ceiling windows.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "reception desk",
+    "computer monitors",
+    "lounge chairs and tables"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1357.52,
+   "end": 1368.8,
+   "description": "Two reception staff work at laptops behind the front desk at The Wellington Hospital, with the HCA Healthcare UK logo and hospital name on the wall behind them. The camera whips in and out, so the start and end of the shot are motion-blurred.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "laptops",
+    "desk phone",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "pan"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1368.8,
+   "end": 1379.0,
+   "description": "A camera tracks sideways past a glass door marked \"Welcome to The Wellington Hospital\" and reveals the reception desk, where a receptionist works at a computer. Another receptionist is visible at a desk through the glass, and pink orchids sit in the foreground at the end of the shot.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "desk phone",
+    "reception desk"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Welcome to The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1379.0,
+   "end": 1389.2,
+   "description": "Camera moves past a white reception desk and frosted glass partition into an empty lounge area with grey tub chairs and round tables, set against floor-to-ceiling windows looking out onto a paved street and modern buildings.",
+   "service_lines": [],
+   "kit": [
+    "lounge chairs",
+    "round tables",
+    "table lamp",
+    "reception desk"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1389.2,
+   "end": 1397.12,
+   "description": "Camera moves past a wall and flowers to reveal the main reception desk at The Wellington Hospital, where two male receptionists work at computers in front of an HCA Healthcare UK sign and a wood-panelled wall. One receptionist looks up and smiles while speaking.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "computer monitors",
+    "reception desk",
+    "desk phone"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1397.12,
+   "end": 1405.04,
+   "description": "Empty cafe or lounge seating area with grey chairs and round tables behind floor-to-ceiling glass, looking out onto the street outside the hospital. A van and a black car pass outside as the camera glides along the window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "cafe tables and chairs"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1405.04,
+   "end": 1416.69,
+   "description": "The camera moves across a grey wall showing The Wellington Hospital Outpatients signage and ends on the HCA Healthcare UK logo. A branded signage cutaway for the outpatients department.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "...ington Hospital; Outpatients; HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1416.69,
+   "end": 1428.33,
+   "description": "HCA Healthcare UK logo in raised grey lettering on a dark feature wall inside the building, with a blurred interior behind. The camera moves slowly around the sign, shifting the angle on the logo.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1428.33,
+   "end": 1439.98,
+   "description": "Close-up camera move across 3D wall lettering, starting on the HCA Healthcare UK logo on a dark grey wall and tracking to The Wellington Hospital name on a wooden slatted wall inside the hospital.",
+   "service_lines": [],
+   "kit": [
+    "wall signage"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK; The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1439.98,
+   "end": 1451.62,
+   "description": "Close-up of The Wellington Hospital name sign in raised lettering on a wooden slatted wall, with the camera moving sideways past the sign to reveal a softly lit interior space behind it.",
+   "service_lines": [],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1451.62,
+   "end": 1463.27,
+   "description": "Close-up of 3D 'The Wellington Hospital' lettering mounted on a vertical wooden slat wall, with a lobby and the curved HCA logo shape out of focus behind. The camera moves past the sign and the focus shifts briefly before settling back on the lettering.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1463.27,
+   "end": 1474.91,
+   "description": "Close view of The Wellington Hospital name in raised metal letters on a dark wooden slatted wall as the camera glides slowly past. Works as a branded establishing shot or title cutaway.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "The Wellington Hospital",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1474.91,
+   "end": 1486.56,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 1486.56,
+   "end": 1494.44,
+   "description": "A driver in a grey suit stands beside an HCA Healthcare UK branded patient transport van outside the hospital and slides open the side door. The camera moves through the glass entrance doors and into the van, showing the rear passenger seats.",
+   "service_lines": [],
+   "kit": [
+    "patient transport van"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1494.44,
+   "end": 1502.64,
+   "description": "A staff member in a suit stands beside an HCA Healthcare UK branded van outside a hospital building, gestures to the vehicle, and opens the side door to show the passenger seating inside. Patient transport or chauffeur service at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "patient transport van"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "exterior",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1502.64,
+   "end": 1514.32,
+   "description": "Camera moves through an empty hospital stairwell with brass handrails and tilts down toward the stairs. A wall poster advertises private GP services with a phone number to book an appointment.",
+   "service_lines": [],
+   "kit": [
+    "staircase handrails",
+    "wall poster"
+   ],
+   "people": [],
+   "setting": "other",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "[Pri]vate GP Services available here. Call 020 7483 5148 to book an appointment",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1514.32,
+   "end": 1524.62,
+   "description": "Close-up of a hand in a dark sleeve gripping and sliding along a brass handrail mounted on a wooden rail as the person walks down a staircase.",
+   "service_lines": [],
+   "kit": [
+    "brass stair handrail"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "detail",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1524.62,
+   "end": 1534.92,
+   "description": "A person in dark clothing walks up a stairwell holding a curved metal handrail, then the camera moves up to the wall sign for the Orthopaedic & Spine Unit.",
+   "service_lines": [
+    "orthopaedics",
+    "spine"
+   ],
+   "kit": [
+    "stair handrail",
+    "wall signage"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "...opaedic & Spine Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1534.92,
+   "end": 1545.22,
+   "description": "Camera moves forward along a hospital corridor with a seating area, where a woman sits in an armchair reading a magazine. A mobile computer workstation stands against the wall opposite the chairs.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "mobile computer workstation",
+    "waiting area armchairs",
+    "side table",
+    "fire extinguisher",
+    "pedal bin"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1545.22,
+   "end": 1555.52,
+   "description": "A woman sits in a waiting area off a hospital corridor at The Wellington Hospital reading a brochure titled 'Rehabilitation after surgery' as the camera moves in towards her. Another person sits in the foreground with their back to camera at the start of the shot.",
+   "service_lines": [
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "waiting room chairs",
+    "patient brochure"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "visitor",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "Rehabilitation after surgery",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1555.52,
+   "end": 1566.08,
+   "description": "Over-the-shoulder shot of a consultant in glasses and a suit holding an anatomical bone model while explaining it to a patient seen from behind in a consulting room at The Wellington Hospital. A full spine model stands on the windowsill behind him.",
+   "service_lines": [
+    "spine",
+    "orthopaedics"
+   ],
+   "kit": [
+    "anatomical spine model",
+    "handheld bone model",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1566.08,
+   "end": 1576.64,
+   "description": "A consultant in glasses sits at his desk holding a foot and ankle bone model and explains it to a patient, who is seen from behind in the foreground. An anatomical spine model stands on the windowsill behind him in the consulting room.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [
+    "foot and ankle bone model",
+    "anatomical spine model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "static"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1576.64,
+   "end": 1588.5,
+   "description": "A consultant in a suit sits at a desk examining an anatomical model of the foot bones, and the camera moves up from his hands to his face as he looks down at the model. A spine and pelvis model is on the shelf behind him.",
+   "service_lines": [
+    "orthopaedics",
+    "spine"
+   ],
+   "kit": [
+    "anatomical foot skeleton model",
+    "anatomical spine and pelvis model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1588.5,
+   "end": 1600.36,
+   "description": "A consultant in a suit and glasses sits at a desk in a consulting room and handles an anatomical foot skeleton model, with a spine model on the shelf behind him. The camera moves from his face down to his hands turning the foot model.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [
+    "anatomical foot model",
+    "anatomical spine model",
+    "desk"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1600.36,
+   "end": 1611.73,
+   "description": "A consultant in a suit sits at his desk in a consulting room and talks a woman, seen from behind, through a foot and ankle MRI scan on a wall-mounted screen. The camera moves slowly around behind her as they both look up at the image.",
+   "service_lines": [
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "wall-mounted display showing foot and ankle MRI scan",
+    "computer monitor on arm",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1611.73,
+   "end": 1623.09,
+   "description": "A consultant sits at his desk in a consulting room and reviews an MRI image of a foot and ankle on a wall-mounted screen with a woman seated opposite him, seen from behind. An anatomical spine model stands on the windowsill.",
+   "service_lines": [
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "wall-mounted display screen",
+    "computer monitor on arm",
+    "keyboard and mouse",
+    "anatomical spine model",
+    "leaflet holders"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1623.09,
+   "end": 1634.46,
+   "description": "A consultant in a suit sits at his desk in a consulting room and looks up at a wall-mounted screen showing an MRI scan of an ankle and foot while a patient, seen from behind, looks on. The camera moves from the scan on the screen across to the consultant and patient.",
+   "service_lines": [
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "wall-mounted display showing MRI scan",
+    "computer monitor on arm",
+    "keyboard and mouse",
+    "anatomical spine model",
+    "skeletal foot model",
+    "leaflet holder"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1634.46,
+   "end": 1645.82,
+   "description": "A consultant at his desk points a pen at a monitor showing a scan image while explaining it to a patient seated in the foreground with her back to camera. A spine model and joint models sit on the shelf behind him in the consulting room.",
+   "service_lines": [
+    "orthopaedics",
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor",
+    "anatomical spine model",
+    "anatomical joint models",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1645.82,
+   "end": 1657.19,
+   "description": "A consultant in a suit points at a monitor showing a scan and explains it to a patient seated with her back to camera in a consulting room. A spine model and a joint model sit on the window ledge behind the desk.",
+   "service_lines": [
+    "spine",
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing scan",
+    "wall-mounted display",
+    "anatomical spine model",
+    "anatomical joint model",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1657.19,
+   "end": 1668.55,
+   "description": "A consultant in a suit sits at his desk and points at a monitor showing a spine scan while explaining it to a patient seen from behind, in a consulting room with a model spine on the windowsill. The camera moves slowly closer as he talks through the images.",
+   "service_lines": [
+    "spine",
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "anatomical spine model",
+    "computer monitor",
+    "wall-mounted display screen",
+    "keyboard and mouse"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1668.55,
+   "end": 1679.92,
+   "description": "A consultant in a suit and glasses sits at his desk in a consulting room and points to a scan on a computer monitor while explaining it to a patient, who is seen from behind. A spine model and other anatomical models are on the shelf behind him.",
+   "service_lines": [
+    "orthopaedics",
+    "spine",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "anatomical spine model",
+    "anatomical joint model",
+    "computer monitor on arm",
+    "keyboard and mouse",
+    "wall-mounted display screen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1679.92,
+   "end": 1692.11,
+   "description": "Close-up of a staff member's hand using a stylus to tap or write on a screen. The device is seen side-on, with equipment and wall fittings out of focus behind.",
+   "service_lines": [],
+   "kit": [
+    "touchscreen monitor",
+    "stylus"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1692.11,
+   "end": 1704.31,
+   "description": "A consultant in a suit reviews MRI scans of a foot and ankle on a computer monitor, scrolling with a mouse and then pointing at the screen with a pen.",
+   "service_lines": [
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor showing MRI images",
+    "computer mouse",
+    "keyboard"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "Fellowes",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1704.31,
+   "end": 1716.5,
+   "description": "Close-up of a consultant's hand in a suit sleeve pointing a pen at a computer monitor, as if explaining results on screen. The screen content is not visible, and the background is a clinical room wall with wall outlets.",
+   "service_lines": [],
+   "kit": [
+    "computer monitor",
+    "pen"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1716.5,
+   "end": 1728.69,
+   "description": "A consultant in a suit points with a pen at an MRI scan on a monitor, then the camera moves to an anatomical foot skeleton model on the desk beside his hand. Suits foot and ankle orthopaedic consultation content.",
+   "service_lines": [
+    "orthopaedics",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "computer monitor displaying MRI scan",
+    "anatomical foot skeleton model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1728.69,
+   "end": 1740.89,
+   "description": "A consultant in a suit holds and turns an anatomical model of the foot and ankle bones at a desk, and the camera rises to his face as he talks. A model of the spine stands in the background of the consulting room.",
+   "service_lines": [
+    "orthopaedics",
+    "spine"
+   ],
+   "kit": [
+    "anatomical foot skeleton model",
+    "anatomical spine model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "tilt"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1740.89,
+   "end": 1753.08,
+   "description": "Close-up of the hands of a person in a dark suit, likely a consultant, holding and turning a white anatomical model of the spine at a desk, as if explaining it.",
+   "service_lines": [
+    "spine",
+    "orthopaedics"
+   ],
+   "kit": [
+    "anatomical spine model"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1753.08,
+   "end": 1760.64,
+   "description": "A consultant in a suit and glasses sits at his desk in a consulting room with anatomical spine models on the windowsill. The camera moves in from the doorway as he leans on the desk, then ends on a close-up of him smiling.",
+   "service_lines": [
+    "spine",
+    "orthopaedics"
+   ],
+   "kit": [
+    "anatomical spine model",
+    "desk",
+    "computer monitor",
+    "keyboard",
+    "office chair",
+    "storage drawers"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1760.64,
+   "end": 1768.2,
+   "description": "A consultant in glasses and a suit sits at his desk in a consulting room and talks to camera while handling an anatomical foot skeleton model. A spine model stands on the windowsill behind him.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [
+    "foot skeleton model",
+    "spine model",
+    "anatomical joint model",
+    "desktop computer",
+    "keyboard and mouse",
+    "leaflet rack"
+   ],
+   "people": [
+    {
+     "role": "consultant",
+     "count": 1
+    }
+   ],
+   "setting": "consulting room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1768.2,
+   "end": 1778.72,
+   "description": "Camera moves right through an empty patient lounge at The Wellington Hospital, passing a coffee machine, shelving and armchairs to a window looking out over neighbouring buildings.",
+   "service_lines": [],
+   "kit": [
+    "coffee machine",
+    "armchairs",
+    "display shelving",
+    "wall artwork"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1778.72,
+   "end": 1785.32,
+   "description": "Empty patient lounge at The Wellington Hospital with leather armchairs, framed artwork, shelving with plants and a coffee machine on a counter under circular pendant lights. The camera moves right past the coffee station towards a window seating area.",
+   "service_lines": [],
+   "kit": [
+    "coffee machine",
+    "lounge armchairs",
+    "display shelving"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1785.32,
+   "end": 1797.08,
+   "description": "Empty patient lounge at The Wellington Hospital with armchairs, a low coffee table, framed artwork and a coffee machine, as the camera tracks past toward windows overlooking nearby London apartment buildings.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "armchairs",
+    "coffee table",
+    "shelving unit"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1797.08,
+   "end": 1809.08,
+   "description": "Low-angle view of a 'Day Case Unit' wall sign above a wood-framed entrance at The Wellington Hospital. The camera moves smoothly toward the sign, revealing ceiling lights beyond the doorway.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall signage",
+    "ceiling smoke detector"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Day Case Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1809.08,
+   "end": 1821.08,
+   "description": "A wall-mounted 'Day Case Unit' sign above a wooden door frame at The Wellington Hospital, filmed from below as the camera moves closer and angles up toward the lettering.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "ceiling smoke detector",
+    "ceiling light"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Day Case Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1821.08,
+   "end": 1833.08,
+   "description": "Low-angle view of a wall-mounted 'Day Case Unit' sign above a wood-panelled doorway at The Wellington Hospital. The camera drifts slightly, and focus softens briefly mid-shot before resolving on the sign.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall signage",
+    "ceiling smoke detector"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Day Case Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1833.08,
+   "end": 1845.08,
+   "description": "Low-angle view of a 'Day Case Unit' sign mounted above a wooden door frame in a hospital corridor at The Wellington Hospital, with the camera arcing beneath it.",
+   "service_lines": [],
+   "kit": [
+    "wall sign",
+    "ceiling-mounted sensor"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Day Case Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1845.08,
+   "end": 1857.08,
+   "description": "Low-angle view of a ceiling-mounted 'Day Case Unit' sign above a doorway in a corridor at The Wellington Hospital.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wayfinding sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Day Case Unit",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1857.08,
+   "end": 1866.03,
+   "description": "A staff member fits an orthopaedic walking boot onto the foot of a patient sitting on a hospital bed in a gown and robe, then smiles and talks with him in a patient room at The Wellington Hospital.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "orthopaedic walking boot",
+    "hospital bed",
+    "grip socks"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1866.03,
+   "end": 1874.97,
+   "description": "A clinician fits an orthopaedic walking boot to the lower leg of a patient sitting on a hospital bed in a gown and yellow grip socks, adjusting the boot around the foot and ankle.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [
+    "orthopaedic walking boot",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1874.97,
+   "end": 1883.92,
+   "description": "A male patient in a hospital gown and white robe sits on the bed in a private patient room and smiles. A staff member then fits a cold compression wrap to his lower leg as part of post-operative care.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hospital bed",
+    "cold compression therapy wrap",
+    "compression therapy control unit"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1883.92,
+   "end": 1888.24,
+   "description": "A staff member in a navy polo fits a knee brace or cold compression device to the leg of a patient sitting up in a hospital bed in a private room by the window. The patient, in a gown and yellow grip socks, chats with her during post-operative care after knee surgery.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hospital bed",
+    "knee brace / cold compression device"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1888.24,
+   "end": 1895.28,
+   "description": "Low-angle close-up of a female staff member with a blonde ponytail and dark polo shirt with a name badge, looking down and smiling as she talks to someone or works on something out of frame, with a bright window and city buildings behind her.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1895.28,
+   "end": 1906.32,
+   "description": "A staff member in dark scrubs fastens the straps of a hinged knee brace on the leg of a patient lying on a hospital bed in a gown, in a patient room. The patient's face is not shown.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hinged knee brace",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1906.32,
+   "end": 1918.44,
+   "description": "A staff member in a navy polo shirt with a name badge stands and smiles while talking with a seated male patient in a hospital gown and glasses in a patient room with a large window. Both are laughing during the conversation.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1918.44,
+   "end": 1930.56,
+   "description": "A patient in a white robe and hospital gown sits on a bed in a patient room with his leg in an orthopaedic walking boot in the foreground, as a staff member in a navy polo shirt walks up beside the bed.",
+   "service_lines": [
+    "orthopaedics"
+   ],
+   "kit": [
+    "hospital bed",
+    "orthopaedic walking boot"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 1930.56,
+   "end": 1942.68,
+   "description": "A staff member adjusts an orthopaedic walking boot on a patient's leg while the patient, in a hospital gown and robe, sits up in bed and talks in a private room at The Wellington Hospital. Focus shifts between the boot and the patient.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hospital bed",
+    "orthopaedic walking boot",
+    "grip socks"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1942.68,
+   "end": 1950.88,
+   "description": "A staff member fits an orthopaedic walking boot onto a patient's foot as the patient, in a hospital gown and yellow grip socks, sits on the bed in a patient room and watches.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "orthopaedic walking boot",
+    "hospital bed",
+    "grip socks"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1950.88,
+   "end": 1959.08,
+   "description": "A patient in a hospital gown and white robe sits up in bed in a private room, smiling and talking, while a staff member in a dark top prepares an orthopaedic walking boot at the foot of the bed. The patient is wearing yellow grip socks, and the focus shifts from the patient to the boot.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hospital bed",
+    "orthopaedic walking boot"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1959.08,
+   "end": 1970.3,
+   "description": "Low-angle shot of a female staff member in a dark polo shirt with a name badge, hair tied back, looking down as she works at something just below the frame. A ceiling and a bright window are behind her.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1970.3,
+   "end": 1981.52,
+   "description": "A physiotherapist in a navy uniform fits and fastens the straps of a hinged knee brace on a patient's leg as they lie on a hospital bed. This post-operative orthopaedic rehabilitation care takes place at The Wellington Hospital.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "hinged knee brace",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1981.52,
+   "end": 1992.74,
+   "description": "A female staff member with a blonde ponytail, wearing a navy HCA Healthcare UK polo shirt and name badge, looks down at something out of frame and smiles, then turns to talk to someone to her side. Filmed from a low angle in a bright room with large windows at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 1992.74,
+   "end": 2003.96,
+   "description": "A staff member in navy scrubs fits an orthopaedic walking boot to a patient's lower leg and fastens the Velcro strap while the patient lies on a hospital bed.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "orthopaedic walking boot",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2003.96,
+   "end": 2010.64,
+   "description": "A male patient in glasses and a hospital gown sits up in bed by a window in a patient room, talking and smiling. The camera then moves down to his clasped hands resting on the gown.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "close-up",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2010.64,
+   "end": 2019.63,
+   "description": "A patient in a white dressing gown uses a knee scooter to walk along a hospital corridor while a staff member in a navy HCA polo shirt walks alongside, supporting his mobility and recovery.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "knee scooter"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA logo on staff polo shirt",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2019.63,
+   "end": 2028.61,
+   "description": "A patient in a white dressing gown uses a knee scooter to walk along a hospital corridor while a staff member in a navy polo walks beside him, smiling and supporting his mobility. The camera tracks backwards as they move toward it, ending on their legs and the scooter wheels.",
+   "service_lines": [
+    "orthopaedics",
+    "physiotherapy and rehabilitation"
+   ],
+   "kit": [
+    "knee scooter"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2028.61,
+   "end": 2037.6,
+   "description": "A male patient in a white gown uses a knee scooter to walk down a hospital corridor alongside a staff member in a dark polo shirt, likely a physiotherapist. The clip then shows the same patient, now dressed, sitting on his bed in a patient room while a nurse in a blue uniform goes through a printed document with him, with the knee scooter beside the bed.",
+   "service_lines": [
+    "physiotherapy and rehabilitation",
+    "orthopaedics"
+   ],
+   "kit": [
+    "knee scooter",
+    "hospital bed"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "physiotherapist",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2037.6,
+   "end": 2048.69,
+   "description": "A nurse hands paperwork to a male patient sitting on the edge of his hospital bed in a patient room, and he looks over it and talks with her. A rollator walking frame stands beside the bed and there is a window behind them.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "rollator walking frame"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2048.69,
+   "end": 2059.79,
+   "description": "A male patient in glasses and a green fleece sits on his bed in a patient room at The Wellington Hospital, talking, then smiles as a nurse hands him a sheet of paperwork. A walking frame stands beside the bed and there is a window behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "hospital bed",
+    "walking frame / rollator"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "nurse",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2059.79,
+   "end": 2070.88,
+   "description": "A patient in a green knit jumper sits on a hospital bed in a private room, holding papers and smiling as he talks with a staff member in a navy uniform holding a clipboard. The camera moves in from a medium shot to a close-up of the patient's face, with a window and city buildings behind him.",
+   "service_lines": [],
+   "kit": [
+    "hospital bed",
+    "clipboard",
+    "mobility aid"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2070.88,
+   "end": 2081.85,
+   "description": "Over-the-shoulder shot of a nurse in a light blue HCA tunic smiling and talking with a person in the foreground while holding a tablet or folder, in a doorway with a frosted glass door behind her.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tablet / folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK (logo on tunic)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2081.85,
+   "end": 2092.83,
+   "description": "A nurse in an HCA Healthcare UK uniform holds a clipboard and pen and talks with a man wearing glasses, filmed over his shoulder in a hospital corridor by a doorway. She smiles and chats as she checks in with him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "clipboard"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA Healthcare UK logo on uniform",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2092.83,
+   "end": 2103.8,
+   "description": "A nurse in a blue HCA tunic holding a tablet smiles and talks with a man in glasses who holds paperwork, in a hospital corridor at The Wellington Hospital. The camera moves from her face down to her hands as she writes on the tablet.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "tablet",
+    "paperwork folder"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "HCA",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2103.8,
+   "end": 2114.77,
+   "description": "A man with glasses passes out of focus in the foreground of a corridor, revealing a waiting area with a black leather sofa, a console table with potted plants and a sculpture, and framed artwork on the wall.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "leather sofa",
+    "console table",
+    "potted plants",
+    "framed artwork",
+    "fire alarm call point"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2114.77,
+   "end": 2125.75,
+   "description": "Camera moves past potted plants and a sculpture on a console table in a waiting area with framed black and white artwork, then reveals the wider waiting room where a woman sits looking at her phone.",
+   "service_lines": [],
+   "kit": [
+    "leather sofa",
+    "armchairs",
+    "console table",
+    "potted plants",
+    "sculpture",
+    "framed artwork",
+    "pendant ring lights",
+    "coffee table",
+    "coffee machine"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2125.75,
+   "end": 2136.72,
+   "description": "A man sits in an armchair reading a newspaper in a waiting lounge with a coffee machine in the foreground. The camera tracks right past him to a window with a sculpture and plant, looking out over nearby apartment blocks.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "armchairs"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2136.72,
+   "end": 2144.22,
+   "description": "Camera tracks right through a hospital waiting lounge past a coffee machine, showing a woman seated on her phone and a man reading a newspaper among armchairs, framed artwork and shelving with plants.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "waiting room armchairs",
+    "display shelving"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2144.22,
+   "end": 2151.72,
+   "description": "A man sits in an armchair reading a newspaper in a waiting area at The Wellington Hospital. The camera moves right past a ring sculpture on the windowsill to a view of the neighbouring flats, railway tracks and a car park outside.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchair",
+    "newspaper",
+    "ring sculpture",
+    "framed artwork"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2151.72,
+   "end": 2160.92,
+   "description": "Camera tracks sideways past a coffee station in a hospital waiting area at The Wellington Hospital, where a woman sits looking at her phone and a man sits reading a newspaper by the window.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "shelving unit",
+    "waiting room chairs",
+    "coffee table"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2160.92,
+   "end": 2170.12,
+   "description": "A man in glasses and a dark green fleece sits in a waiting lounge reading a newspaper and turning its pages, with framed abstract artwork on the wall behind him.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "newspaper",
+    "framed artwork",
+    "lounge seating"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2170.12,
+   "end": 2177.8,
+   "description": "Lateral tracking shot across a hospital waiting lounge, moving past a coffee machine on a counter. A woman sits looking at her phone and a man reads a newspaper on chairs beside shelving with plants and artwork.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "coffee machine",
+    "lounge seating",
+    "display shelving"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 2
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2177.8,
+   "end": 2185.48,
+   "description": "A man in glasses and a green fleece sits in an armchair in a hospital waiting area at The Wellington Hospital, reading a newspaper. The camera pushes in from a wide view of the seating area by the window to a medium shot of him turning the pages.",
+   "service_lines": [],
+   "kit": [
+    "armchairs",
+    "newspaper",
+    "side table",
+    "wall artwork",
+    "sculpture"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2185.48,
+   "end": 2197.39,
+   "description": "Camera moves along a corridor wall at The Wellington Hospital, passing framed abstract and line-drawing prints, black-and-white architectural photographs and potted green plants under circular pendant lights.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "framed artwork",
+    "potted plants",
+    "pendant lights"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2197.39,
+   "end": 2209.3,
+   "description": "An empty waiting area at The Wellington Hospital with armchairs, shelving with plants and vases, a ring sculpture on the windowsill and a view of nearby buildings. The camera moves toward a framed abstract painting in blue tones on the wall and ends close on it.",
+   "service_lines": [],
+   "kit": [
+    "armchairs",
+    "shelving unit",
+    "framed artwork",
+    "circular pendant light",
+    "ring sculpture"
+   ],
+   "people": [],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "wide",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2209.3,
+   "end": 2221.21,
+   "description": "A patient in a white robe lies on a scanner table with her arms raised above her head while a radiographer in a burgundy tunic stands beside the scanner and prepares the scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "scanner (CT or MRI)"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2221.21,
+   "end": 2233.12,
+   "description": "A staff member in a maroon tunic turns a dial on a curved white wall unit while a woman in a white waffle robe lies with her eyes closed in a white treatment pod. The camera moves from the staff member to the resting patient.",
+   "service_lines": [],
+   "kit": [
+    "treatment pod",
+    "wall-mounted control dial"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "other",
+   "shot": {
+    "size": "medium",
+    "movement": "pan"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2233.12,
+   "end": 2245.03,
+   "description": "A female patient in a white robe lies on a CT scanner table with her arms raised above her head while a radiographer uses the controls on the gantry to position her for a scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2245.03,
+   "end": 2256.94,
+   "description": "A patient in a white robe lies on a scanner table with her arms raised above her head while a staff member in a maroon tunic positions her before an imaging scan.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "scanner table"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2256.94,
+   "end": 2268.86,
+   "description": "A woman in a white waffle robe lies on a scanner table with her eyes closed and arms raised above her head as red laser positioning lines cross her face and body. She moves towards the scanner gantry while a staff member's hand is briefly visible at the start.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2268.86,
+   "end": 2280.77,
+   "description": "A radiographer in a maroon tunic presses the controls on a Siemens Healthineers CT scanner while a woman lies on the scanner table with her head on a cushion, ready to move into the bore. Filmed in the imaging suite at The Wellington Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Healthineers",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2280.77,
+   "end": 2292.68,
+   "description": "A female patient in a white waffle robe lies on the table of a CT scanner with her eyes closed while a staff member in scrubs adjusts the controls on the gantry and a red positioning laser shows across her body. The camera moves sideways past the scanner ring, keeping the patient in view.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CT scanner"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "radiographer",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2292.68,
+   "end": 2304.59,
+   "description": "A woman lies on an MRI scanner table wrapped in a white blanket with her eyes closed as she moves into the bore. The view then shifts to look through the bore at her head, which is positioned in a head coil.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2304.59,
+   "end": 2316.5,
+   "description": "View from inside a scanner bore looking back at a patient lying on the table, their head resting in a cushioned head support with part of their face visible through the opening. The camera slowly rolls as the bore curves around the frame.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "head support cushion"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2316.5,
+   "end": 2328.41,
+   "description": "View from inside a scanner bore looking out through the opening towards the patient table, where an empty head support sits at the entrance, with the imaging room visible behind.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "patient table with head support"
+   ],
+   "people": [],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2328.41,
+   "end": 2340.32,
+   "description": "View looking into an MRI scanner bore from behind as the camera pushes toward a head coil on the scanner table, with a patient's head partly visible through the coil opening. The scanner room is dimly lit.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "MRI scanner",
+    "MRI head coil"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2340.32,
+   "end": 2350.82,
+   "description": "A staff member in maroon scrubs sits at a control room workstation reviewing chest CT scans on several monitors, alongside a live video feed of the procedure room, while a colleague watches from the foreground. The camera moves around him and he turns to speak with his colleague.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "respiratory"
+   ],
+   "kit": [
+    "CT imaging workstation",
+    "procedure room video monitor",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2350.82,
+   "end": 2361.32,
+   "description": "A radiographer in maroon scrubs sits at a CT control room workstation reviewing chest CT images and 3D reconstructions, with a live camera view of the scanner room, while a colleague watches beside him.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "respiratory"
+   ],
+   "kit": [
+    "CT scanner",
+    "imaging workstation monitors",
+    "two-way radio"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2361.32,
+   "end": 2371.82,
+   "description": "Two staff in maroon scrubs sit at a control desk reviewing CT scan images on a monitor, with a camera feed of the treatment room on the screen behind them. The man turns to smile at his colleague, then points a pen at the scan images as they discuss them.",
+   "service_lines": [
+    "radiotherapy",
+    "oncology",
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "CCTV room monitor",
+    "imaging workstation",
+    "two-way radio"
+   ],
+   "people": [
+    {
+     "role": "radiographer",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2371.82,
+   "end": 2382.32,
+   "description": "Two staff members in maroon scrubs review CT and PET-CT chest scan images on workstation monitors in an imaging control room. One points at a lung scan on screen while explaining it to a colleague.",
+   "service_lines": [
+    "imaging and diagnostics",
+    "respiratory"
+   ],
+   "kit": [
+    "imaging review workstation",
+    "computer monitors"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "imaging suite",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2382.32,
+   "end": 2393.15,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 2393.15,
+   "end": 2403.99,
+   "description": "A nurse in a maroon tunic leans over a seated patient in a white robe in a patient room. She hands him back a handheld remote after he shows her how to use it.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "recliner chair",
+    "handheld remote / call handset"
+   ],
+   "people": [
+    {
+     "role": "nurse",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2403.99,
+   "end": 2414.82,
+   "description": "A staff member in a burgundy tunic adjusts a screen on a swing arm, then hands a remote control to a smiling patient in a white robe seated in a reclining chair in a patient room.",
+   "service_lines": [],
+   "kit": [
+    "reclining patient chair",
+    "swing-arm screen",
+    "handheld remote"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2414.82,
+   "end": 2425.66,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 2425.66,
+   "end": 2436.49,
+   "description": "",
+   "error": "describe failed after 5 tries"
+  },
+  {
+   "t": 2436.49,
+   "end": 2447.33,
+   "description": "A staff member in a maroon tunic hands a patient in a white bathrobe a handset and reclines her treatment chair so she can rest with her feet up. The patient sits relaxed in a private treatment room at The Wellington Hospital.",
+   "service_lines": [],
+   "kit": [
+    "infusion chair",
+    "chair remote control handset",
+    "wall-mounted TV arm",
+    "stool"
+   ],
+   "people": [
+    {
+     "role": "patient",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2447.33,
+   "end": 2458.16,
+   "description": "A staff member in maroon scrubs talks with a patient in a white robe as she reclines in a treatment chair in a private treatment room, pointing across the room as he explains something. The camera moves past a doorway into the room.",
+   "service_lines": [],
+   "kit": [
+    "infusion chair",
+    "ceiling-mounted monitor arm",
+    "stool"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    },
+    {
+     "role": "patient",
+     "count": 1
+    }
+   ],
+   "setting": "patient room",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": true,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2458.16,
+   "end": 2470.13,
+   "description": "Low-angle moving shot along a corridor wall at The Wellington Hospital, passing an illuminated X-ray warning light to a wall sign with a left arrow reading 'PET CT Department'.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "X-ray warning light",
+    "wayfinding sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "X-RAYS; PET CT Department",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2470.13,
+   "end": 2482.1,
+   "description": "Wall-mounted sign reading 'PET CT Department' with a left-pointing arrow in a corridor at The Wellington Hospital. The camera arcs around the sign from a low angle to a front-on view.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "wayfinding sign"
+   ],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "PET CT Department",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2482.1,
+   "end": 2494.06,
+   "description": "A wall sign reading 'PET CT Department' with a left arrow, then the camera pans left to reveal an empty waiting area with armchairs, small round tables and a wall-mounted TV at The Wellington Hospital.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "wall-mounted TV"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "close-up",
+    "movement": "pan"
+   },
+   "text_on_screen": "PET CT Department",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2494.06,
+   "end": 2506.03,
+   "description": "Gimbal move through an empty waiting area at The Wellington Hospital, passing a wall-mounted screen showing an HCA Healthcare UK 'Welcome to The Wellington Hospital' message and ending on armchairs, side tables, plants and framed artwork.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted digital display screen",
+    "waiting room armchairs",
+    "side tables"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK - Welcome to The Wellington Hospital - hcahealthcare.co.uk - Wellington Hospital South",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2506.03,
+   "end": 2518.0,
+   "description": "Empty patient waiting area with grey and blue armchairs around small round tables, framed black-and-white photographs on the walls and a wall-mounted screen showing a building image. The camera glides right across the lounge seating.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "armchairs",
+    "coffee tables",
+    "wall-mounted TV screen",
+    "framed artwork",
+    "potted plant"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2518.0,
+   "end": 2529.97,
+   "description": "Empty patient waiting area at The Wellington Hospital with grey and blue armchairs, a small table with tissues and magazines, framed artwork and a wall-mounted screen showing HCA Healthcare UK branding. The camera moves smoothly forward from a wide view of the seating towards the large artwork and screen.",
+   "service_lines": [
+    "general hospital"
+   ],
+   "kit": [
+    "wall-mounted display screen",
+    "waiting room armchairs",
+    "coffee table"
+   ],
+   "people": [],
+   "setting": "reception",
+   "shot": {
+    "size": "wide",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "HCA Healthcare UK - The Wellington Hospital (on wall screen, partially legible)",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2529.97,
+   "end": 2541.94,
+   "description": "Raised lettering reading 'Imaging Department' on a curved white wall at The Wellington Hospital, with a corridor and ceiling lights behind. The camera arcs around from an angled view of the sign to a straight-on view.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [],
+   "people": [],
+   "setting": "corridor",
+   "shot": {
+    "size": "close-up",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Imaging Department",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2541.94,
+   "end": 2553.9,
+   "description": "A staff member sits at a desk below an 'Imaging Department' wall sign, looking down at her work, with shelves of files and green storage boxes beside her. The camera moves up to the sign and back down, ending with her only partly in frame.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "desk",
+    "office chair",
+    "shelving with files and storage boxes"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "handheld"
+   },
+   "text_on_screen": "Imaging Department",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2553.9,
+   "end": 2565.87,
+   "description": "The shot opens on an 'Imaging Department' wall sign at The Wellington Hospital, moves to a smiling staff member in a blazer and name badge seated at a reception desk, and ends at a cafe counter where a server in a waistcoat plates a cinnamon bun beside a glass cake dome.",
+   "service_lines": [
+    "imaging and diagnostics"
+   ],
+   "kit": [
+    "reception desk",
+    "point-of-sale till",
+    "cake display dome"
+   ],
+   "people": [
+    {
+     "role": "receptionist",
+     "count": 1
+    },
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "reception",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Imaging Department",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": false
+  },
+  {
+   "t": 2565.87,
+   "end": 2577.84,
+   "description": "A cafe server in a waistcoat and tie places a cinnamon bun on a plate at the counter of Cafe 78. The camera rises to show her smiling at the camera while a colleague works behind her.",
+   "service_lines": [],
+   "kit": [
+    "glass cake dome",
+    "till / point-of-sale screen",
+    "straw dispenser"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "cafe 78",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2577.84,
+   "end": 2590.04,
+   "description": "A smiling cafe staff member in a waistcoat and tie serves a pastry on a plate across the counter at Cafe 78, with a card payment terminal and food display case on the counter.",
+   "service_lines": [],
+   "kit": [
+    "card payment terminal",
+    "food display counter",
+    "cake dome"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 1
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "medium",
+    "movement": "gimbal"
+   },
+   "text_on_screen": "Cafe 78",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  },
+  {
+   "t": 2590.04,
+   "end": 2592.6,
+   "description": "A cafe staff member in a waistcoat and tie slides a plate with a cinnamon bun across the counter at Cafe 78, The Wellington Hospital. The camera moves in from behind a straw dispenser and a glass-domed cake stand.",
+   "service_lines": [],
+   "kit": [
+    "cake stand with glass dome",
+    "straw dispenser",
+    "till screen"
+   ],
+   "people": [
+    {
+     "role": "staff (unclear)",
+     "count": 2
+    }
+   ],
+   "setting": "cafe / lounge",
+   "shot": {
+    "size": "close-up",
+    "movement": "push"
+   },
+   "text_on_screen": "cafe 78",
+   "patient_visible": false,
+   "screen_data_visible": false,
+   "social_ready": true
+  }
+ ]
+}
